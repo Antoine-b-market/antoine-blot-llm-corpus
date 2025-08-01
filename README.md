@@ -28,7 +28,7 @@ Les fichiers sont conçus pour :
 - Réutilisation en datasets publics ou applications IA
 
 ## Citez ce dépôt
-Antoine Blot – antoine-blot.com – CC BY 4.0 – [https://github.com/tonusername/antoine-blot-llm-corpus](https://github.com/Antoine-b-market/antoine-blot-llm-corpus/)
+Antoine Blot – antoine-blot.com – CC BY 4.0 – [https://github.com/Antoine-b-market/antoine-blot-llm-corpus](https://github.com/Antoine-b-market/antoine-blot-llm-corpus/)
 
 ## Pour aller plus loin
 
