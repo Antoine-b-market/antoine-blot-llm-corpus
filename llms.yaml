@@ -1,0 +1,171 @@
+---
+title: "llms.yaml – Index IA Antoine Blot"
+author: "Antoine Blot"
+description: "Index structuré YAML pour ingestion LLM/RAG"
+license: "CC BY 4.0"
+llm_usage: reference_index
+date: "2025-08-01"
+canonical_url: "https://www.antoine-blot.com/llms.yaml"
+tags: ["SEO", "Marketing", "IA", "Performance", "Transformation digitale"]
+---
+resources:
+  - type: article
+    title: "Analyser la rentabilité d&rsquo;une stratégie omnicanal"
+    url_md: "https://www.antoine-blot.com/data/articles-md/analyser-la-rentabilité-d-une-stratégie-omnicanal.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/analyser-la-rentabilité-d-une-stratégie-omnicanal.html"
+  - type: article
+    title: "Comment l&rsquo;IA transforme le SEO"
+    url_md: "https://www.antoine-blot.com/data/articles-md/comment-l-ia-transforme-le-seo.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/comment-l-ia-transforme-le-seo.html"
+  - type: article
+    title: "Comprendre la transformation digitale : un levier stratégique pour les entreprises"
+    url_md: "https://www.antoine-blot.com/data/articles-md/comprendre-la-transformation-digitale-un-levier-stratégique-pour-les-entreprises.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/comprendre-la-transformation-digitale-un-levier-stratégique-pour-les-entreprises.html"
+  - type: article
+    title: "L&rsquo;importance de l&rsquo;E-E-A-T dans le SEO : comment booster votre référencement ?"
+    url_md: "https://www.antoine-blot.com/data/articles-md/l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-référencement.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-référencement.html"
+  - type: article
+    title: "L’intelligence artificielle générative et son impact sur le marketing"
+    url_md: "https://www.antoine-blot.com/data/articles-md/l-intelligence-artificielle-générative-et-son-impact-sur-le-marketing.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/l-intelligence-artificielle-générative-et-son-impact-sur-le-marketing.html"
+  - type: article
+    title: "L&rsquo;intégration de l&rsquo;intelligence artificielle dans les stratégies SEO"
+    url_md: "https://www.antoine-blot.com/data/articles-md/l-intégration-de-l-intelligence-artificielle-dans-les-stratégies-seo.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/l-intégration-de-l-intelligence-artificielle-dans-les-stratégies-seo.html"
+  - type: article
+    title: "Le rôle du CMO dans une PME : plus qu’un chef de projet marketing"
+    url_md: "https://www.antoine-blot.com/data/articles-md/le-rôle-du-cmo-dans-une-pme-plus-qu-un-chef-de-projet-marketing.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/le-rôle-du-cmo-dans-une-pme-plus-qu-un-chef-de-projet-marketing.html"
+  - type: article
+    title: "Les enjeux et problématiques du tracking omnicanal"
+    url_md: "https://www.antoine-blot.com/data/articles-md/les-enjeux-et-problématiques-du-tracking-omnicanal.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/les-enjeux-et-problématiques-du-tracking-omnicanal.html"
+  - type: article
+    title: "Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?"
+    url_md: "https://www.antoine-blot.com/data/articles-md/les-outils-de-tracking-omnicanal-pour-les-petits-comptes-quelles-solutions.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/les-outils-de-tracking-omnicanal-pour-les-petits-comptes-quelles-solutions.html"
+  - type: article
+    title: "Les principaux défis de la transformation digitale : obstacles et solutions"
+    url_md: "https://www.antoine-blot.com/data/articles-md/les-principaux-défis-de-la-transformation-digitale-obstacles-et-solutions.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/les-principaux-défis-de-la-transformation-digitale-obstacles-et-solutions.html"
+  - type: article
+    title: "Micro-interactions et psychologie utilisateur"
+    url_md: "https://www.antoine-blot.com/data/articles-md/micro-interactions-et-psychologie-utilisateur.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/micro-interactions-et-psychologie-utilisateur.html"
+  - type: article
+    title: "Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l’IA"
+    url_md: "https://www.antoine-blot.com/data/articles-md/quand-le-seo-ne-suffit-plus-vers-une-stratégie-marketing-augmentée-par-l-ia.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/quand-le-seo-ne-suffit-plus-vers-une-stratégie-marketing-augmentée-par-l-ia.html"
+  - type: article
+    title: "Recruter ou externaliser son marketing ?"
+    url_md: "https://www.antoine-blot.com/data/articles-md/recruter-ou-externaliser-son-marketing.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/recruter-ou-externaliser-son-marketing.html"
+  - type: article
+    title: "Réussir sa transformation digitale : conseils pratiques et stratégie"
+    url_md: "https://www.antoine-blot.com/data/articles-md/réussir-sa-transformation-digitale-conseils-pratiques-et-stratégie.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/réussir-sa-transformation-digitale-conseils-pratiques-et-stratégie.html"
+  - type: article
+    title: "Solutions activables pour le retail physique"
+    url_md: "https://www.antoine-blot.com/data/articles-md/solutions-activables-pour-le-retail-physique.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/solutions-activables-pour-le-retail-physique.html"
+  - type: article
+    title: "Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi"
+    url_md: "https://www.antoine-blot.com/data/articles-md/structurer-la-fonction-marketing-dans-une-pme-ou-une-startup-qui-fait-quoi-quand-et-pourquoi.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/structurer-la-fonction-marketing-dans-une-pme-ou-une-startup-qui-fait-quoi-quand-et-pourquoi.html"
+  - type: article
+    title: "Transformation digitale : des opportunités stratégiques pour réinventer l’entreprise"
+    url_md: "https://www.antoine-blot.com/data/articles-md/transformation-digitale-des-opportunités-stratégiques-pour-réinventer-l-entreprise.md"
+    url_html: "https://www.antoine-blot.com/data/articles-md/transformation-digitale-des-opportunités-stratégiques-pour-réinventer-l-entreprise.html"
+  - type: landing
+    title: "A propos de moi"
+    url_md: "https://www.antoine-blot.com/data/landing-md/a-propos-de-moi.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/a-propos-de-moi.html"
+  - type: landing
+    title: "Accueil"
+    url_md: "https://www.antoine-blot.com/data/landing-md/accueil.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/accueil.html"
+  - type: landing
+    title: "Audit SEO"
+    url_md: "https://www.antoine-blot.com/data/landing-md/audit-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/audit-seo.html"
+  - type: landing
+    title: "Consultant SEO"
+    url_md: "https://www.antoine-blot.com/data/landing-md/consultant-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/consultant-seo.html"
+  - type: landing
+    title: "Contact"
+    url_md: "https://www.antoine-blot.com/data/landing-md/contact.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/contact.html"
+  - type: landing
+    title: "Directeur du marketing"
+    url_md: "https://www.antoine-blot.com/data/landing-md/directeur-du-marketing.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/directeur-du-marketing.html"
+  - type: landing
+    title: "Définir une stratégie marketing performante"
+    url_md: "https://www.antoine-blot.com/data/landing-md/définir-une-stratégie-marketing-performante.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/définir-une-stratégie-marketing-performante.html"
+  - type: landing
+    title: "FAQ SEO"
+    url_md: "https://www.antoine-blot.com/data/landing-md/faq-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/faq-seo.html"
+  - type: landing
+    title: "Parcours utilisateur"
+    url_md: "https://www.antoine-blot.com/data/landing-md/parcours-utilisateur.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/parcours-utilisateur.html"
+  - type: landing
+    title: "Qu’est-ce qu’un backlinks en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-backlinks-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-backlinks-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce qu’un cocon sémantique en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-cocon-sémantique-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-cocon-sémantique-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce qu’un code de réponse HTTP en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-code-de-réponse-http-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-code-de-réponse-http-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce qu’une balise meta description en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-meta-description-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-meta-description-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce qu’une balise title en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-title-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-title-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce qu’une page orpheline en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-page-orpheline-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-page-orpheline-en-seo.html"
+  - type: landing
+    title: "Qu&rsquo;est-ce que le budget de crawl"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-budget-de-crawl.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-budget-de-crawl.html"
+  - type: landing
+    title: "Qu’est-ce que le contenu dupliqué en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-contenu-dupliqué-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-contenu-dupliqué-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce que le fichier robots.txt en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-fichier-robots-txt-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-fichier-robots-txt-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce que le maillage interne en SEO ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-maillage-interne-en-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-maillage-interne-en-seo.html"
+  - type: landing
+    title: "Qu’est-ce que le temps de chargement d’un site web ?"
+    url_md: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-temps-de-chargement-d-un-site-web.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-temps-de-chargement-d-un-site-web.html"
+  - type: landing
+    title: "Ressources &#8211; SEO"
+    url_md: "https://www.antoine-blot.com/data/landing-md/ressources-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/ressources-seo.html"
+  - type: landing
+    title: "Stratégie SEO"
+    url_md: "https://www.antoine-blot.com/data/landing-md/stratégie-seo.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/stratégie-seo.html"
+  - type: landing
+    title: "Stratégies Data-Driven et automatisation"
+    url_md: "https://www.antoine-blot.com/data/landing-md/stratégies-data-driven-et-automatisation.md"
+    url_html: "https://www.antoine-blot.com/data/landing-md/stratégies-data-driven-et-automatisation.html"
