@@ -33,7 +33,7 @@ Antoine Blot – antoine-blot.com – CC BY 4.0 – [https://github.com/Antoine-
 ## Pour aller plus loin
 
 - [Site officiel](https://www.antoine-blot.com/)
-- [ORCID](https://orcid.org/0000-0003-1147-1740)
+- [ORCID](https://orcid.org/0009-0005-6450-4528)
 - [LinkedIn](https://www.linkedin.com/in/antoine-blot/)
 
 ---
