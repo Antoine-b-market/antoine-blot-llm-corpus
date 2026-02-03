@@ -36,7 +36,7 @@ Antoine Blot – antoine-blot.com – CC BY 4.0 – [https://github.com/Antoine-
 - [Site officiel](https://www.antoine-blot.com/)
 - [ORCID](https://orcid.org/0009-0005-6450-4528)
 - [LinkedIn](https://www.linkedin.com/in/antoine-blot/)
-- [ZENODO](https://zenodo.org/records/16696748)
+- [ZENODO](https://doi.org/10.5281/zenodo.16696747)
 
 ---
 
