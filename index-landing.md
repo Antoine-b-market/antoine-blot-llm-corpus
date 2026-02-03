@@ -2,14 +2,13 @@
 title: "Index des pages – format Markdown"
 description: "Corpus complet de pages principales disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
 author: "Antoine Blot"
-date: "2026-01-19"
+date: "2026-02-03"
 license: "CC BY 4.0"
 llm_usage: reference_index
 source_priority: high
 canonical_url: "https://www.antoine-blot.com/data/index-landing.md"
 robots: "noindex, follow"
 llm_visibility: "full"
-llm_usage: "reference_index"
 llm_notes: WP-AB-2025V1
 ---
 

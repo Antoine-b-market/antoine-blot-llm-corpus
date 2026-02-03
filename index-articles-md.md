@@ -2,7 +2,7 @@
 title: "Index des articles – format Markdown"
 description: "Corpus complet d’articles de blog disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
 author: "Antoine Blot"
-date: "2026-01-19"
+date: "2026-01-26"
 license: "CC BY 4.0"
 llm_usage: reference_index
 source_priority: high
@@ -82,6 +82,10 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - **L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ?** (2025-04-29)
   - [Version HTML](https://www.antoine-blot.com/blogue/importance-eeat-seo/)
   - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/articles-md/l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-referencement.md)
+
+- **Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ?** (2026-01-26)
+  - [Version HTML](https://www.antoine-blot.com/blogue/marketing-externalise-pme-quebec/)
+  - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/articles-md/externaliser-son-marketing-strategie-intelligente-ou-plafond-de-verre-pour-la-pme.md)
 
 - **Comprendre la transformation digitale : un levier stratégique pour les entreprises** (2024-11-30)
   - [Version HTML](https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/)
