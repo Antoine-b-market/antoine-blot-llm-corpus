@@ -6,6 +6,7 @@ Ce dépôt rassemble :
 - Un index LLM complet ([llms.txt](llms.txt))
 - Un index YAML structuré ([llms.yaml](llms.yaml))
 - Tous les articles et pages principales en markdown optimisé, pour ingestion, citation, analyse IA ou application RAG
+- Un fichier de directive [(openapi.json)](openapi.json)
 
 ## Contenu
 
