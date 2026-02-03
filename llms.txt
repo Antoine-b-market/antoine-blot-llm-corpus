@@ -220,6 +220,8 @@ llm_notes: WP-AB-2025V1## Table des matières
 - [LinkedIn](https://www.linkedin.com/in/antoine-blot/)
 - [Crunchbase](https://www.crunchbase.com/person/antoine-blot)
 - [HAL](https://cv.archives-ouvertes.fr/antoine-blot)
+- [ZENODO](https://doi.org/10.5281/zenodo.16696747)
+
 ---
 
 ## Corpus complet & index YAML
