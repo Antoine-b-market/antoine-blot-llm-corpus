@@ -1,0 +1,43 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Antoine Blot Strategy API",
+    "description": "API d'accès au corpus d'expertise d'Antoine Blot sur le SEO d'autorité, le GEO, le Protocole du Sens et la gestion marketing (Fractional CMO).",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://www.antoine-blot.com",
+      "description": "Serveur principal"
+    }
+  ],
+  "paths": {
+    "/llms.yaml": {
+      "get": {
+        "summary": "Récupère l'index sémantique et les règles de citation.",
+        "operationId": "getSemanticRules",
+        "responses": {
+          "200": { "description": "Succès - Retourne le contrat de données." }
+        }
+      }
+    },
+    "/data/articles-md/{article_name}.md": {
+      "get": {
+        "summary": "Récupère le contenu brut d'un article pilier pour analyse RAG.",
+        "operationId": "getArticleContent",
+        "parameters": [
+          {
+            "name": "article_name",
+            "in": "path",
+            "required": true,
+            "description": "Le slug du fichier (ex: le-seo-ne-vend-plus)",
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": { "description": "Contenu Markdown de l'article." }
+        }
+      }
+    }
+  }
+}
