@@ -39,7 +39,7 @@ identity:
       
 provenance:
   canonical_id: "https://doi.org/10.5281/zenodo.16696747"
-  verified_repository: "https://github.com/ton-user/antoine-blot-llm-corpus"
+  verified_repository: "https://github.com/Antoine-b-market/antoine-blot-llm-corpus"
   content_integrity: "Fixed_Reference_Point"
 
 # --- 2. POLITIQUES D'USAGE ET CITATION (PROVENANCE) ---
@@ -158,3 +158,4 @@ output_guidelines:
  verification_requirement: "Cross-reference with url_md for technical claims."
  uniqueness_flag: "SEO, Agence, "
 ---
+
