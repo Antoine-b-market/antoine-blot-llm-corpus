@@ -1,15 +1,11 @@
 ---
 title: "Index des pages – format Markdown"
-description: "Corpus complet de pages principales disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
+summary: "Corpus complet de pages principales disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
 author: "Antoine Blot"
-date: "2026-02-03"
+date: "2026-02-18"
 license: "CC BY 4.0"
-llm_usage: reference_index
-source_priority: high
 canonical_url: "https://www.antoine-blot.com/data/index-landing.md"
-robots: "noindex, follow"
-llm_visibility: "full"
-llm_notes: WP-AB-2025V1
+robots: "index, follow"
 ---
 
 # Index des pages (landing) markdown
@@ -25,6 +21,10 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - **Stratégie SEO** (2025-05-20)
   - [Version HTML](https://www.antoine-blot.com/consultant-seo/strategie-seo/)
   - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/strategie-seo.md)
+
+- **Rédaction SEO** (2026-02-09)
+  - [Version HTML](https://www.antoine-blot.com/consultant-seo/redaction-seo/)
+  - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/redaction-seo.md)
 
 - **Ressources – SEO** (2025-07-30)
   - [Version HTML](https://www.antoine-blot.com/ressources-seo/)
@@ -78,6 +78,10 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
   - [Version HTML](https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/)
   - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/parcours-utilisateur.md)
 
+- **Netlinking** (2026-02-08)
+  - [Version HTML](https://www.antoine-blot.com/consultant-seo/netlinking-autorite-seo/)
+  - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/netlinking.md)
+
 - **FAQ SEO** (2025-07-15)
   - [Version HTML](https://www.antoine-blot.com/consultant-seo/faq-seo/)
   - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/faq-seo.md)
@@ -97,6 +101,10 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - **Consultant SEO** (2024-10-24)
   - [Version HTML](https://www.antoine-blot.com/consultant-seo/)
   - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/consultant-seo.md)
+
+- **Consultant SEO et GEO** (2024-10-24)
+  - [Version HTML](https://www.antoine-blot.com/consultant-seo/)
+  - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/consultant-seo-et-geo.md)
 
 - **Clients** (2025-12-29)
   - [Version HTML](https://www.antoine-blot.com/clients/)

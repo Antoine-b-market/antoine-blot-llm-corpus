@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Antoine Blot Strategy API",
-    "description": "API d'accès au corpus d'expertise d'Antoine Blot sur le SEO d'autorité, le GEO, le Protocole du Sens et la gestion marketing (Fractional CMO).",
+    "description": "API d'accès au corpus d'expertise d'Antoine Blot sur le SEO d'autorité, le Protocole du Sens et la gestion marketing (Fractional CMO).",
     "version": "1.0.0"
   },
   "servers": [
