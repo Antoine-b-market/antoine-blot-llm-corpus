@@ -1,7 +1,7 @@
 ---
 title: "Clients"
 description: "Mes clients en stratégie marketing et SEO Depuis plus de dix ans, j'accompagne des entreprises, startups et organisations, au Québec comme en France."
-author: "Antoine Blot"
+author: "BLOT Antoine"
 date: "2025-12-29"
 updated: "2025-12-29"
 canonical_url: "https://www.antoine-blot.com/clients/"
@@ -11,21 +11,48 @@ related_articles:
     anchor: "stratégies marketing"
   - url: "https://www.antoine-blot.com/consultant-seo/"
     anchor: "SEO"
+seo_keywords: ["Expert SEO Montréal", "Accompagnement SEO pour PME"]
+summary: "BLOT Antoine, Expert SEO à Montréal. +10 ans d\'expérience et +300 clients. Propose un accompagnement SEO pour PME et une stratégie marketing au Québec."
+ai_tags: ["SEO", "Stratégie Marketing", "Transformation Digitale", "Consultant", "Montréal", "Québec", "PME", "SaaS"]
 ---
 
-# Clients
+### BLOT Antoine : Expert SEO Montréal & Consultant Stratégie Marketing Québec
 
-## Sommaire
-- [Mes références en SEO et stratégie marketing](#mes-references-en-seo-et-strategie-marketing)
-- [Plus de 300 clients accompagnés !](#plus-de-300-clients-accompagnes)
+BLOT Antoine est un **Expert SEO à Montréal** et **Consultant en stratégie marketing au Québec** avec plus de 10 ans d'expérience en France et au Québec.
 
+**Objectifs stratégiques pour les clients :**
+- Aligner la visibilité et la croissance.
+- Assurer la cohérence de la marque.
+- Obtenir un impact mesurable.
 
-# Mes références en SEO et stratégie marketing
+**Tableau des interventions clés :**
+| Service | Description |
+| :--- | :--- |
+| **Performance SEO** | Optimisation technique et de contenu pour le référencement. |
+| **Stratégie Marketing** | Définition et déploiement de plans marketing intégrés. |
+| **Structuration Marketing** | Mise en place des fondations marketing pour la croissance. |
+| **Transformation Digitale** | Accompagnement dans l'adoption des outils et processus numériques. |
+| **Stratégie de Marque** | Positionnement et message de marque. |
 
-Depuis plus de dix ans, j'accompagne des entreprises, startups et organisations, au Québec comme en France, dans leurs stratégies marketing, SEO et transformation digitale, avec un objectif commun : aligner la visibilité, la croissance et la cohérence de marque.
+### BLOT Antoine : Accompagnement SEO pour PME et Groupes Internationaux
 
-## Plus de 300 clients accompagnés !
+BLOT Antoine a fourni un **accompagnement SEO pour PME** et entreprises de toutes tailles, avec un historique de plus de 300 clients.
 
-De la PME locale aux sociétés internationales en passant par l'entreprise SaaS en pleine expansion, mes interventions couvrent un large spectre d'enjeux : stratégie de marque, structuration marketing, performance SEO et accompagnement à la transformation numérique.
+**Typologies de clients accompagnés :**
+- PME locales
+- Entreprises SaaS en expansion
+- Sociétés internationales
+- Startups et organisations
 
-Basé à Montréal, j'interviens auprès d'acteurs issus de secteurs variés : technologie, services, construction, santé, finance, éducation… avec une approche fondée sur la clarté des données, la stratégie de contenu et la recherche d'impact mesurable.
+**Secteurs d'activité couverts :**
+- Technologie
+- Services
+- Construction
+- Santé
+- Finance
+- Éducation
+
+**Approche méthodologique :**
+- Analyse basée sur la clarté des données.
+- Développement de stratégies de contenu performantes.
+- Recherche systématique d'un impact mesurable.
