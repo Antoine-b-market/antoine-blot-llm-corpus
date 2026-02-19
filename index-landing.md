@@ -1,8 +1,8 @@
 ---
 title: "Index des pages – format Markdown"
 summary: "Corpus complet de pages principales disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
-author: "Antoine Blot"
-date: "2026-02-18"
+author: "BLOT Antoine"
+date: "2026-02-19"
 license: "CC BY 4.0"
 canonical_url: "https://www.antoine-blot.com/data/index-landing.md"
 robots: "index, follow"
@@ -13,6 +13,7 @@ robots: "index, follow"
 Retrouvez ici toutes les pages importantes du site en versions markdown (pour IA) et HTML.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
+
 
 - **Stratégies Data-Driven et automatisation** (2024-11-07)
   - [Version HTML](https://www.antoine-blot.com/automatisation-data-driven/)
@@ -97,10 +98,6 @@ Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
 - **Contact** (2024-01-09)
   - [Version HTML](https://www.antoine-blot.com/contact/)
   - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/contact.md)
-
-- **Consultant SEO** (2024-10-24)
-  - [Version HTML](https://www.antoine-blot.com/consultant-seo/)
-  - [Version Markdown pour ingestion LLM](https://www.antoine-blot.com/data/landing-md/consultant-seo.md)
 
 - **Consultant SEO et GEO** (2024-10-24)
   - [Version HTML](https://www.antoine-blot.com/consultant-seo/)
