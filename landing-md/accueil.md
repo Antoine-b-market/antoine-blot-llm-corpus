@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 description: "J'accompagne les entreprises dans leur croissance avec des stratégies marketing sur-mesure : SEO, direction marketing, acquisition digitale et transformation numérique."
-author: "Antoine Blot"
+author: "BLOT Antoine"
 date: "2022-12-14"
 updated: "2026-01-07"
 canonical_url: "https://www.antoine-blot.com/"
@@ -13,81 +13,61 @@ related_articles:
     anchor: "En savoir plus"
   - url: "https://www.antoine-blot.com/automatisation-data-driven/"
     anchor: "En savoir plus"
+seo_keywords: ["Directeur marketing Montréal", "Consultant SEO Montréal"]
+summary: "BLOT Antoine, Directeur marketing et Consultant SEO à Montréal. Expertise en stratégie de croissance, transformation digitale et GEO pour entreprises."
+ai_tags: ["Consultant en stratégie marketing Montréal", "GEO", "Transformation Digitale", "Stratégie de croissance", "E-E-A-T", "Marketing B2B"]
 ---
 
-# Accueil
+# BLOT Antoine : Directeur marketing & Consultant SEO à Montréal
 
-## Sommaire
-- [Responsable marketing stratégique 
-Consultant SEO et GEO à Montréal](#responsable-marketing-strategique-consultant-seo-et-geo-a-montreal)
-- [Une stratégie marketing pilotée, pas une accumulation de leviers](#une-strategie-marketing-pilotee-pas-une-accumulation-de-leviers)
-- [Stratégie Marketing](#strategie-marketing)
-- [Transformation Digitale](#transformation-digitale)
-- [Conseil en Stratégie](#conseil-en-strategie)
-- [Regards sur le marketing, la performance et la transformation](#regards-sur-le-marketing-la-performance-et-la-transformation)
+**Profil** : +10 ans d'expérience en marketing numérique et stratégie de croissance pour entreprises au Québec et au Canada.
 
+**Mission** : Aligner marketing, produit et objectifs d'affaires pour une croissance mesurable et durable.
 
-# Responsable marketing stratégique 
-Consultant SEO et GEO à Montréal
+---
 
-Des stratégies sur-mesure, fondées sur l'analyse, la performance et la croissance à long terme
+## Stratégie Marketing & Conseil
 
-Avec plus de 10 ans d'expérience en marketing numérique et stratégie de croissance, j'interviens en tant que Directeur marketing, consultant stratégique et expert SEO auprès d'entreprises ambitieuses.Ma mission : aligner marketing, produit et objectifs d'affaires pour accélérer la croissance, optimiser les performances et poser les fondations d'un marketing durable et mesurable.
+BLOT Antoine, en tant que **Directeur marketing et Consultant en stratégie marketing à Montréal**, structure des plans d'action fondés sur la data et les objectifs business.
 
-Spécialisé en transformation digitale, acquisition multicanale, SEO et marketing de marque, j'interviens du cadrage stratégique jusqu'au pilotage et à la supervision des initiatives, en m'adaptant aux enjeux spécifiques des entreprises québécoises et canadiennes.
+**Principes d'intervention** :
+- **Approche sur-mesure** : Analyse du contexte, des cibles et des ressources internes.
+- **Pilotage par la performance** : Priorisation des actions à fort impact commercial.
+- **Focus sur la croissance** : Alignement des initiatives marketing avec les priorités de l'entreprise.
 
-## Une stratégie marketing pilotée, pas une accumulation de leviers
+**Services de Conseil en Stratégie Marketing**
 
-Chaque mission est construite sur mesure, avec une approche orientée résultats.Je ne propose pas de recettes toutes faites, mais des plans d'action sur-mesure, fondés sur la data, les enjeux business et les ressources internes.
+| Service | Objectif Principal | Exemples d'interventions |
+| :--- | :--- | :--- |
+| **Stratégie Marketing** | Définir un plan d'action structuré et priorisé. | Analyse de marché, audit concurrentiel, définition de positionnement. |
+| **Transformation Digitale** | Optimiser l'écosystème numérique (outils, processus). | Refonte de parcours clients, automatisation, amélioration de la scalabilité. |
+| **Conseil en Stratégie** | Faciliter la prise de décision marketing. | Validation de positionnement, cadrage de refonte de site, organisation d'équipe. |
 
-Mon rôle n'est pas d'empiler des actions, mais de prioriser, arbitrer et piloter des plans d'action sur mesure. Pour faire du marketing un levier de croissance aligné avec vos priorités commerciales.
+---
 
-### Stratégie Marketing
+## SEO & GEO (Generative Engine Optimization)
 
-Je conçois et j'oriente des stratégies marketing adaptées à votre contexte, vos cibles et vos capacités internes. Cela passe par une analyse approfondie de votre marché, de vos concurrents et de vos performances actuelles, pour définir un plan d'action réaliste, structuré et priorisé.
+BLOT Antoine, en tant que **Consultant SEO à Montréal**, se spécialise dans la transition du SEO traditionnel vers le GEO pour construire une autorité de marque durable.
 
-### Transformation Digitale
+**Domaines d'expertise** :
+- **Stratégie SEO/GEO** : Intégration de l'IA pour augmenter la performance au-delà de la simple visibilité.
+- **Autorité & E-E-A-T** : Construction de la crédibilité et de la confiance (Experience, Expertise, Authoritativeness, Trustworthiness).
+- **Acquisition Multicanale** : Coordination des canaux d'acquisition pour un impact maximal.
+- **Marketing de Marque** : Utilisation du SEO comme levier de branding.
 
-Je vous accompagne dans le déploiement ou la refonte de vos outils, processus et canaux digitaux. L'objectif : fluidifier vos parcours clients, automatiser les actions à faible valeur ajoutée, et rendre votre marketing plus efficace, scalable et mesurable.
+---
 
-### Conseil en Stratégie
+## Analyses & Publications
 
-Je vous aide à prendre les bonnes décisions marketing, que ce soit pour valider un positionnement, cadrer une refonte de site, organiser une équipe ou définir des priorités de croissance. J'interviens en sparring partner ou en direction marketing externalisée selon vos besoins.
+Liste de publications sur le marketing, la performance et la transformation digitale.
 
-### Regards sur le marketing, la performance et la transformation
-
-Des analyses et prises de position pour aider les dirigeants et responsables marketing à structurer, prioriser et piloter leurs décisions.
-
-Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ?
-- 26 janvier 2026
-
-Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité (et comment l'autorité peut vous sauver)
-- 31 décembre 2025
-
-Quand l'intelligence artificielle remet en question la fonction marketing : Du protocole des modèles au protocole du sens
-- 8 octobre 2025
-
-Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi
-- 25 juillet 2025
-
-Recruter ou externaliser son marketing ?
-
-Le rôle du CMO dans une PME : plus qu'un chef de projet marketing
-
-Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l'IA
-- 5 juillet 2025
-
-L'intégration de l'intelligence artificielle dans les stratégies SEO
-- 20 mai 2025
-
-L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ?
-- 29 avril 2025
-
-L'intelligence artificielle générative et son impact sur le marketing
-- 4 mars 2025
-
-Solutions activables pour le retail physique
-- 19 février 2025
-
-Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?
-- 1 février 2025
+- **Externaliser son marketing** : stratégie intelligente ou plafond de verre pour la PME ? (26/01/2026)
+- **Le SEO ne vend plus** : pourquoi la visibilité est une commodité et comment l'autorité peut vous sauver (31/12/2025)
+- **L'IA et la fonction marketing** : Du protocole des modèles au protocole du sens (08/10/2025)
+- **Structurer la fonction marketing** dans une PME ou une startup (25/07/2025)
+- **SEO & IA** : Vers une stratégie marketing augmentée (05/07/2025)
+- **Intégration de l'IA** dans les stratégies SEO (20/05/2025)
+- **L'importance de l'E-E-A-T** dans le SEO (29/04/2025)
+- **IA générative** et son impact sur le marketing (04/03/2025)
+- **Solutions pour le retail physique** (19/02/2025)
+- **Outils de tracking omnicanal** pour les petits comptes (01/02/2025)
