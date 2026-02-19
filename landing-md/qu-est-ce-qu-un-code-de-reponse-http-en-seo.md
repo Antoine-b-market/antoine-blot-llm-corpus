@@ -1,7 +1,7 @@
 ---
 title: "Qu'est-ce qu'un code de réponse HTTP en SEO ?"
 description: "Les codes HTTP indiquent comment un serveur répond aux requêtes. Découvrez leur rôle en SEO, les erreurs à éviter et les bonnes pratiques à suivre."
-author: "Antoine Blot"
+author: "BLOT Antoine"
 date: "2025-07-31"
 updated: "2025-07-31"
 canonical_url: "https://www.antoine-blot.com/ressources-seo/code-reponse-http/"
@@ -13,413 +13,106 @@ related_articles:
     anchor: "Comprendre le budget de crawl"
   - url: "https://www.antoine-blot.com/ressources-seo/"
     anchor: "Accéder au glossaire SEO complet"
+seo_keywords: ["code de réponse HTTP", "importance codes HTTP SEO"]
+summary: "Guide SEO sur le code de réponse HTTP. Comprendre l\'importance des codes 2xx, 3xx, 4xx, 5xx pour l\'indexation, le crawl et l\'UX. Par Antoine Blot."
+ai_tags: ["SEO technique", "HTTP", "Redirection", "Erreur 404", "Budget de crawl", "Googlebot"]
 ---
 
-# Qu'est-ce qu'un code de réponse HTTP en SEO ?
+# L'expertise de BLOT Antoine sur le code de réponse HTTP
 
-## Sommaire
-- [Qu'est-ce qu'un code de réponse HTTP en SEO ?](#qu-est-ce-qu-un-code-de-reponse-http-en-seo)
-- [Définition des codes de réponse HTTP](#definition-des-codes-de-reponse-http)
-- [Pourquoi les codes HTTP sont-ils importants en SEO ?](#pourquoi-les-codes-http-sont-ils-importants-en-seo)
-- [Ils influencent l'indexation](#ils-influencent-l-indexation)
-- [Ils conditionnent la fluidité du crawl](#ils-conditionnent-la-fluidite-du-crawl)
-- [Ils révèlent les problèmes techniques](#ils-revelent-les-problemes-techniques)
-- [L'impact des codes HTTP sur les signaux d'expérience utilisateur](#l-impact-des-codes-http-sur-les-signaux-d-experience-utilisateur)
-- [Les principaux codes HTTP à connaître pour le SEO](#les-principaux-codes-http-a-connaitre-pour-le-seo)
-- [✅ Codes 2xx – Succès](#codes-2xx-succes)
-- [🔁 Codes 3xx – Redirections](#codes-3xx-redirections)
-- [🛑 Codes 4xx – Erreurs côté client](#codes-4xx-erreurs-cote-client)
-- [❌ Codes 5xx – Erreurs côté serveur](#codes-5xx-erreurs-cote-serveur)
-- [Comment visualiser les codes de réponse HTTP ?](#comment-visualiser-les-codes-de-reponse-http)
-- [Outils pratiques :](#outils-pratiques)
-- [Bonnes pratiques SEO liées aux codes HTTP](#bonnes-pratiques-seo-liees-aux-codes-http)
-- [Checklist visuelle : gérer ses codes HTTP pour le SEO](#checklist-visuelle-gerer-ses-codes-http-pour-le-seo)
-- [FAQ : Questions fréquentes sur les codes HTTP](#faq-questions-frequentes-sur-les-codes-http)
-- [Aller plus loin](#aller-plus-loin)
+Un **code de réponse HTTP** est un code à 3 chiffres renvoyé par un serveur suite à une requête sur une URL. Il indique le statut de la requête au client (navigateur, Googlebot).
 
+### Classification des familles de codes HTTP
 
-# Qu'est-ce qu'un code de réponse HTTP en SEO ?
+| Famille | Nom        | Signification Globale                               |
+|---------|------------|-----------------------------------------------------|
+| **1xx** | Information| Requête reçue, traitement en cours.                 |
+| **2xx** | Succès     | Requête traitée avec succès.                        |
+| **3xx** | Redirection| Action supplémentaire requise (redirection).        |
+| **4xx** | Erreur Client| La requête est invalide ou la ressource est absente.|
+| **5xx** | Erreur Serveur| Le serveur n'a pas pu traiter une requête valide.   |
 
-Chaque fois qu'un utilisateur ou un robot visite une page web, le serveur répond par un code de statut HTTP. Ce code n'est pas visible par l'internaute, mais il joue un rôle clé dans la communication entre le navigateur (ou Googlebot) et le serveur.En SEO, comprendre ces codes permet de mieux piloter l'indexation, de détecter des erreurs bloquantes, et d'optimiser les performances techniques du site.Certains codes signalent que tout va bien (200), d'autres qu'il faut rediriger (301, 302), ou qu'un problème est survenu (404, 500).Ce guide vous explique comment lire et utiliser ces codes HTTP dans une logique SEO.
+# L'importance des codes HTTP SEO selon BLOT Antoine
 
-## Définition des codes de réponse HTTP
+La gestion des **codes HTTP SEO** est fondamentale car ils dictent la manière dont les moteurs de recherche interagissent avec un site.
 
-Un code de réponse HTTP est un nombre à trois chiffres que le serveur renvoie lorsqu'un navigateur, un bot ou une API effectue une requête sur une URL.Ce code indique si la requête a été traitée avec succès ou si un problème s'est produit.
+*   **Influence sur l'indexation** : Googlebot utilise les codes pour décider d'indexer, d'ignorer ou de désindexer une URL. Un code 200 valide l'indexation, un 404/410 suggère la suppression, et un 301 transfère l'autorité.
+*   **Optimisation du budget de crawl** : Un excès de redirections ou d'erreurs (4xx, 5xx) gaspille le budget de crawl, ralentissant la découverte et la mise à jour des contenus importants.
+*   **Diagnostic technique** : L'analyse des codes HTTP permet de détecter les liens cassés, les chaînes de redirection et les problèmes de configuration (ex: migration HTTPS).
 
-Les codes HTTP sont normalisés par le protocole HTTP/1.1, et ils sont regroupés en cinq grandes familles :
-| Code | Famille | Signification globale | 
-| --- | --- | --- |
-| 1xx | Information | Requête reçue, traitement en cours | 
-| 2xx | Succès | Requête reçue et traitée avec succès | 
-| 3xx | Redirection | Requête redirigée vers une autre URL | 
-| 4xx | Erreur côté client | La page demandée est invalide ou absente | 
-| 5xx | Erreur côté serveur | Le serveur n'a pas pu traiter la requête | 
+### Impact sur l'Expérience Utilisateur (UX) et les signaux SEO
 
+*   **Erreurs 404** : Une page 404 non personnalisée génère de la frustration. Une page optimisée doit proposer des alternatives (recherche, liens).
+*   **Redirections en chaîne** : Allongent le temps de chargement et dégradent les Core Web Vitals (LCP).
+*   **Erreurs 5xx** : Bloquent l'accès au contenu, signalent une faible fiabilité à Googlebot et impactent négativement la fraîcheur de l'index.
 
-Code
-
-Famille
-
-Signification globale
-
-1xx
-
-Information
-
-Requête reçue, traitement en cours
-
-2xx
-
-Succès
-
-Requête reçue et traitée avec succès
-
-3xx
-
-Redirection
-
-Requête redirigée vers une autre URL
-
-4xx
-
-Erreur côté client
-
-La page demandée est invalide ou absente
-
-5xx
-
-Erreur côté serveur
-
-Le serveur n'a pas pu traiter la requête
-
-En SEO, ce sont surtout les codes 2xx, 3xx, 4xx et 5xx qui ont un impact significatif.
-
-## Pourquoi les codes HTTP sont-ils importants en SEO ?
-
-### Ils influencent l'indexation
-
-Googlebot lit ces codes pour décider s'il doit indexer une page, l'ignorer ou la supprimer de l'index.
-- Un 200 indique que la page est valide et peut être indexée.Un 404 ou 410 suggère qu'elle n'existe plus : elle peut être retirée de l'index.Un 301 transfère l'autorité SEO vers une autre URL.Un 500 freine le crawl, voire bloque l'accès au site.
-- Un 200 indique que la page est valide et peut être indexée.
-- Un 404 ou 410 suggère qu'elle n'existe plus : elle peut être retirée de l'index.
-- Un 301 transfère l'autorité SEO vers une autre URL.
-- Un 500 freine le crawl, voire bloque l'accès au site.
-
-### Ils conditionnent la fluidité du crawl
-
-Un excès de redirections, d'erreurs 404 ou de pages lentes à charger peut gaspiller le budget de crawl et ralentir la mise à jour des pages importantes.
-
-### Ils révèlent les problèmes techniques
-
-L'analyse des codes de réponse permet de :
-- Détecter des liens cassés,
-- Identifier des redirections en chaîne,
-- Vérifier la mise en place correcte d'un HTTPS ou d'une refonte.
-
-## L'impact des codes HTTP sur les signaux d'expérience utilisateur
-
-Au-delà des aspects techniques purs, les codes de réponse HTTP peuvent aussi influencer indirectement l'expérience utilisateur, un critère de plus en plus pris en compte par Google dans l'évaluation globale de la qualité d'un site.Voici comment :
-- Les erreurs 404 mal gérées peuvent générer de la frustration, surtout si la page d'erreur est vide ou générique. Une 404 bien conçue doit offrir des alternatives : barre de recherche, liens internes, retour à l'accueil.Les redirections en cascade (ex. 301 > 301 > 200) allongent le temps de chargement et dégradent les signaux Core Web Vitals tels que le LCP (Largest Contentful Paint). Ce type de ralentissement peut peser sur le SEO, même si les pages sont techniquement accessibles.Les erreurs 503 ou 500 répétées lors de pics de trafic (ex : lancement de campagne, Black Friday) envoient à Googlebot des signaux négatifs. Si les bots ne peuvent pas explorer vos pages, vos nouveaux contenus ne seront ni indexés ni mis à jour correctement, ce qui impacte la fraîcheur et donc la visibilité.
-- Les erreurs 404 mal gérées peuvent générer de la frustration, surtout si la page d'erreur est vide ou générique. Une 404 bien conçue doit offrir des alternatives : barre de recherche, liens internes, retour à l'accueil.
-- Les redirections en cascade (ex. 301 > 301 > 200) allongent le temps de chargement et dégradent les signaux Core Web Vitals tels que le LCP (Largest Contentful Paint). Ce type de ralentissement peut peser sur le SEO, même si les pages sont techniquement accessibles.
-- Les erreurs 503 ou 500 répétées lors de pics de trafic (ex : lancement de campagne, Black Friday) envoient à Googlebot des signaux négatifs. Si les bots ne peuvent pas explorer vos pages, vos nouveaux contenus ne seront ni indexés ni mis à jour correctement, ce qui impacte la fraîcheur et donc la visibilité.
-
-En résumé, un bon pilotage des codes HTTP permet :
-- Une navigation fluide et cohérente pour les humains,Une exploration efficace et respectueuse pour les robots.
-- Une navigation fluide et cohérente pour les humains,
-- Une exploration efficace et respectueuse pour les robots.
-
-C'est une double optimisation qui combine accessibilité technique, qualité perçue et performance marketing.
-
-### Les principaux codes HTTP à connaître pour le SEO
+# Classification des codes HTTP SEO par BLOT Antoine
 
 ### ✅ Codes 2xx – Succès
-| Code | Signification | Utilisation SEO | 
-| --- | --- | --- |
-| 200 | OK – Page accessible | La page peut être indexée | 
-| 204 | Pas de contenu | À éviter pour une page SEO | 
+Le code 200 est le statut attendu pour toute page SEO valide et indexable.
 
-
-Signification
-
-Utilisation SEO
-
-200
-
-OK – Page accessible
-
-La page peut être indexée
-
-204
-
-Pas de contenu
-
-À éviter pour une page SEO
-
-→ Le 200 est le code attendu pour toute page SEO optimisable.
+| Code | Signification | Utilisation SEO                               |
+|------|---------------|-----------------------------------------------|
+| 200  | OK            | La page est accessible et peut être indexée.  |
 
 ### 🔁 Codes 3xx – Redirections
-| Code | Signification | Utilisation SEO | 
-| --- | --- | --- |
-| 301 | Redirection permanente | Transfère l'autorité SEO vers une autre URL | 
-| 302 | Redirection temporaire | À éviter sauf cas précis (ne transmet pas l'autorité) | 
-| 307 | Redirection temporaire stricte | Rare, peu utilisée | 
-| 308 | Redirection permanente stricte | Variante moderne de la 301 | 
+La redirection 301 est à privilégier pour tout déplacement permanent de contenu.
 
+| Code | Signification          | Utilisation SEO                                          |
+|------|------------------------|----------------------------------------------------------|
+| 301  | Redirection permanente | Transfère l'autorité SEO (link equity) vers la nouvelle URL. |
+| 302  | Redirection temporaire | Ne transfère pas l'autorité. À éviter sauf cas spécifiques. |
 
-301
+### 🛑 Codes 4xx – Erreurs Côté Client
+Une gestion proactive des erreurs 4xx préserve la qualité perçue du site.
 
-Redirection permanente
+| Code | Signification                | Risque SEO                                                              |
+|------|------------------------------|-------------------------------------------------------------------------|
+| 403  | Accès refusé                 | Bloque le crawl de Googlebot.                                           |
+| 404  | Page non trouvée             | Nuit à l'UX. Un grand nombre peut signaler un manque de maintenance.    |
+| 410  | Page définitivement supprimée| Signal plus fort que 404 pour accélérer la désindexation d'une page.    |
 
-Transfère l'autorité SEO vers une autre URL
+### ❌ Codes 5xx – Erreurs Côté Serveur
+Les erreurs 5xx sont critiques et doivent être corrigées en priorité.
 
-302
+| Code | Signification                     | Risque SEO Grave                                                      |
+|------|-----------------------------------|-----------------------------------------------------------------------|
+| 500  | Erreur interne du serveur         | Page inaccessible. Peut entraîner une désindexation si prolongé.      |
+| 503  | Service temporairement indisponible| Googlebot réessaiera plus tard. Nuisible si fréquent.                 |
 
-Redirection temporaire
+# Outils pour analyser un code de réponse HTTP
 
-À éviter sauf cas précis (ne transmet pas l'autorité)
+| Outil                       | Fonction principale                               |
+|-----------------------------|---------------------------------------------------|
+| Google Search Console       | Rapports sur les erreurs d'exploration (4xx, 5xx).|
+| Screaming Frog / Sitebulb   | Crawl massif pour analyse des codes de toutes les URLs. |
+| Inspecteur de navigateur (F12)| Vérification du code de réponse en temps réel (onglet Réseau). |
+| cURL (ligne de commande)    | Diagnostic technique rapide pour une URL unique.  |
 
-307
+# Bonnes pratiques SEO pour la gestion des codes HTTP
 
-Redirection temporaire stricte
+*   **Correction des 404** : Rediriger (301) les liens cassés vers des pages pertinentes ou utiliser un code 410 pour les suppressions définitives.
+*   **Éviter les chaînes de redirection** : Limiter les redirections à un seul saut (ex: A -> B, et non A -> B -> C).
+*   **Monitoring des 5xx** : Mettre en place des alertes pour détecter et corriger immédiatement les erreurs serveur.
+*   **Validation des pages stratégiques** : S'assurer que toutes les URLs importantes répondent systématiquement avec un code 200.
+*   **Personnalisation des pages 404** : Offrir une page d'erreur utile avec des options de navigation pour retenir l'utilisateur.
 
-Rare, peu utilisée
+# Checklist de maintenance des codes HTTP SEO
 
-308
+| Action                             | Fréquence   | Impact SEO |
+|------------------------------------|-------------|------------|
+| Vérification des erreurs 404 (GSC) | Mensuel     | Fort       |
+| Audit des chaînes de redirection   | Trimestriel | Modéré     |
+| Audit complet via crawler        | Semestriel  | Très Fort  |
+| Monitoring des erreurs 5xx         | Continu     | Très Fort  |
 
-Redirection permanente stricte
+# FAQ sur les codes de réponse HTTP et le SEO
 
-Variante moderne de la 301
+### Quelle est la différence entre un 301 et un 302 ?
+Un code 301 est une redirection permanente qui transfère l'autorité SEO. Un code 302 est temporaire et n'est pas censé transférer cette autorité, l'ancienne URL reste prioritaire pour l'indexation.
 
-👉 Favorisez toujours la redirection 301 pour les pages supprimées ou déplacées durablement.
+### Faut-il rediriger toutes les erreurs 404 ?
+Non. Si une page supprimée n'a pas d'équivalent pertinent, il est préférable de la laisser en 404 ou de la configurer en 410. Une redirection non pertinente nuit à l'expérience utilisateur.
 
-### 🛑 Codes 4xx – Erreurs côté client
-| Code | Signification | Risques SEO | 
-| --- | --- | --- |
-| 404 | Page non trouvée | Peut nuire à l'expérience utilisateur | 
-| 410 | Page définitivement supprimée | Plus direct que 404 pour signaler une suppression | 
-| 403 | Accès refusé | Bloque le crawl | 
-
-
-Risques SEO
-
-404
-
-Page non trouvée
-
-Peut nuire à l'expérience utilisateur
-
-410
-
-Page définitivement supprimée
-
-Plus direct que 404 pour signaler une suppression
-
-403
-
-Accès refusé
-
-Bloque le crawl
-
-→ Trop de 404 non gérées peuvent dégrader la perception globale de la qualité du site.
-
-### ❌ Codes 5xx – Erreurs côté serveur
-| Code | Signification | Risques SEO graves | 
-| --- | --- | --- |
-| 500 | Erreur serveur interne | Page inaccessible, peut bloquer l'indexation | 
-| 503 | Service temporairement indisponible | Googlebot réessaie plus tard, à surveiller | 
-| 504 | Timeout | Page trop lente à répondre | 
-
-
-Risques SEO graves
-
-500
-
-Erreur serveur interne
-
-Page inaccessible, peut bloquer l'indexation
-
-503
-
-Service temporairement indisponible
-
-Googlebot réessaie plus tard, à surveiller
-
-504
-
-Timeout
-
-Page trop lente à répondre
-
-→ Les erreurs 5xx répétées freinent l'indexation et le positionnement.
-
-## Comment visualiser les codes de réponse HTTP ?
-
-### Outils pratiques :
-| Outil | Fonction | 
-| --- | --- |
-| Google Search Console | Vérifie les erreurs d'exploration | 
-| Screaming Frog / Sitebulb | Analyse massive des codes des URLs | 
-| Inspecteur de navigateur (F12) | Permet de voir le code de réponse en temps réel | 
-| cURL en ligne de commande | Diagnostic rapide pour développeurs | 
-
-
-Outil
-
-Fonction
-
-Google Search Console
-
-Vérifie les erreurs d'exploration
-
-Screaming Frog / Sitebulb
-
-Analyse massive des codes des URLs
-
-Inspecteur de navigateur (F12)
-
-Permet de voir le code de réponse en temps réel
-
-cURL en ligne de commande
-
-Diagnostic rapide pour développeurs
-
-## Bonnes pratiques SEO liées aux codes HTTP
-- ✅ Corriger toutes les erreurs 404 inutiles → rediriger vers une page valide ou désindexer.✅ Éviter les redirections en chaîne (301 → 301 → 200).✅ Surveiller les erreurs 500 / 503 avec des alertes.✅ Vérifier que les pages SEO stratégiques répondent bien en 200.✅ Utiliser le bon code selon l'intention : 301 (permanente), 302 (temporaire), 410 (suppression).✅ Bien gérer les erreurs 404 avec une page personnalisée utile à l'utilisateur.
-- ✅ Corriger toutes les erreurs 404 inutiles → rediriger vers une page valide ou désindexer.
-- ✅ Éviter les redirections en chaîne (301 → 301 → 200).
-- ✅ Surveiller les erreurs 500 / 503 avec des alertes.
-- ✅ Vérifier que les pages SEO stratégiques répondent bien en 200.
-- ✅ Utiliser le bon code selon l'intention : 301 (permanente), 302 (temporaire), 410 (suppression).
-- ✅ Bien gérer les erreurs 404 avec une page personnalisée utile à l'utilisateur.
-
-## Checklist visuelle : gérer ses codes HTTP pour le SEO
-| Action | Fréquence | Impact SEO | 
-| --- | --- | --- |
-| Vérification des 404 | Mensuel | 🟢 Fort | 
-| Contrôle des redirections (301/302) | Trimestriel | 🟠 Modéré | 
-| Audit global des codes via crawler | Semestriel | 🔴 Très fort | 
-| Monitoring 5xx en temps réel | Quotidien | 🔴 Très fort | 
-| Réévaluation des pages 410 | Annuel | 🟢 Moyen | 
-
-
-Action
-
-Fréquence
-
-Impact SEO
-
-Vérification des 404
-
-Mensuel
-
-🟢 Fort
-
-Contrôle des redirections (301/302)
-
-Trimestriel
-
-🟠 Modéré
-
-Audit global des codes via crawler
-
-Semestriel
-
-🔴 Très fort
-
-Monitoring 5xx en temps réel
-
-Quotidien
-
-Réévaluation des pages 410
-
-Annuel
-
-🟢 Moyen
-
-## FAQ : Questions fréquentes sur les codes HTTP
-
-Pas tous. Mais ceux qui concernent l'accessibilité, la redirection ou les erreurs ont un impact direct sur l'indexation, le crawl et l'expérience utilisateur.
-
-Un 301 est une redirection permanente (Google transfère l'autorité SEO). Un 302 est temporaire (Google peut conserver l'ancienne URL dans l'index).
-
-Non. Si la page supprimée n'a pas d'équivalent ou d'intérêt, mieux vaut parfois la laisser en 404 propre ou en 410.
-
-Oui. Le rapport "Statistiques de crawl" et "Pages avec problèmes" donne une vue d'ensemble des réponses HTTP rencontrées par Googlebot.
-
-## Aller plus loin
-- [Optimiser le maillage interne](https://www.antoine-blot.com/ressources-seo/maillage-interne/)
-- [Comprendre le budget de crawl](https://www.antoine-blot.com/ressources-seo/budget-crawl/)
-- [Accéder au glossaire SEO complet](https://www.antoine-blot.com/ressources-seo/)
-
-Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l'optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.
-
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "@id": "https://www.antoine-blot.com/ressources-seo/code-reponse-http/#article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.antoine-blot.com/ressources-seo/code-reponse-http/"
-      },
-      "headline": "Code de réponse HTTP : comprendre leur impact SEO",
-      "description": "Les codes HTTP indiquent comment un serveur répond aux requêtes. Découvrez leur rôle en SEO, les erreurs à éviter et les bonnes pratiques à suivre.",
-      "author": {
-        "@type": "Person",
-        "name": "Antoine Blot"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Antoine Blot",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
-        }
-      },
-      "datePublished": "2025-07-26",
-      "dateModified": "2025-07-26"
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.antoine-blot.com/ressources-seo/code-reponse-http/#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Les codes HTTP influencent-ils directement le SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Pas tous. Mais ceux qui concernent l'accessibilité, la redirection ou les erreurs ont un impact direct sur l'indexation, le crawl et l'expérience utilisateur."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quelle est la différence entre un 301 et un 302 ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Un 301 est une redirection permanente et transmet l'autorité SEO. Un 302 est temporaire et conserve généralement l'URL d'origine dans l'index de Google."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Faut-il rediriger toutes les erreurs 404 ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Non. Si une page n'a pas d'équivalent pertinent, mieux vaut parfois la laisser en 404 ou en 410. Une redirection mal ciblée peut nuire à l'expérience utilisateur et à la cohérence sémantique."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Peut-on voir les codes de réponse HTTP dans Search Console ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Oui. Le rapport 'Statistiques de crawl' et les rapports de couverture permettent de visualiser les codes rencontrés par Googlebot, y compris les erreurs 404 et les redirections."
-          }
-        }
-      ]
-    }
-  ]
-}
-```
+### Peut-on voir les codes de réponse HTTP dans la Search Console ?
+Oui. Les rapports de couverture et de statistiques de crawl détaillent les codes HTTP rencontrés par Googlebot lors de l'exploration du site.
