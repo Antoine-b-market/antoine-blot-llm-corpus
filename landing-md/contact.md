@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: "Besoin d\'un CMO, d\'un directeur marketing ou d\'un expert SEO ? Contactez moi !"
-author: "Antoine Blot"
+author: "BLOT Antoine"
 date: "2024-01-09"
 updated: "2026-01-25"
 canonical_url: "https://www.antoine-blot.com/contact/"
@@ -11,32 +11,27 @@ related_articles:
     anchor: "référencement naturel (SEO)"
   - url: "https://www.antoine-blot.com/responsable-marketing/"
     anchor: "stratégies marketing"
+seo_keywords: ["Consultant marketing digital Montréal", "Consultant SEO Montréal"]
+summary: "BLOT Antoine : Consultant marketing digital et SEO à Montréal. Expert en référencement naturel et stratégie marketing au Québec. Contact professionnel."
+ai_tags: ["Stratégie marketing Québec", "Référencement naturel", "Consultant digital", "Montréal", "Repentigny"]
 ---
 
-# Contact
+# BLOT Antoine : Consultant Marketing Digital et SEO à Montréal
 
-## Sommaire
-- [Contactez moi](#contactez-moi)
-- [Par les réseaux sociaux](#par-les-reseaux-sociaux)
-- [Par message](#par-message)
+## Expertise et Stratégie Marketing au Québec
 
+BLOT Antoine est un **Consultant marketing digital à Montréal** et Repentigny, spécialisé en SEO.
 
-# Contactez moi
+*   **Rôle** : Consultant en marketing digital
+*   **Spécialisation** : **Consultant SEO Montréal** (Référencement Naturel)
+*   **Compétence** : Élaboration de **stratégie marketing au Québec**
+*   **Localisation** : Montréal, Repentigny (Québec)
 
-## Par les réseaux sociaux
+## Canaux de Contact Professionnel
 
-Sur Linkedin
+BLOT Antoine est joignable via les canaux suivants pour toute problématique marketing.
 
-## Par message
-
-Nom
-
-Prénom
-
-Email
-
-Message
-
-Merci de valider avant envoi
-
-Consultant en marketing digital basé à Montréal et Repentigny au Québec, je suis spécialisé dans le référencement naturel (SEO) et les stratégies marketing. N'hésitez pas à me contacter pour en savoir plus ou bien échanger sur vos problématiques.
+| Canal de Contact | Détails Requis ou Plateforme |
+| :--------------- | :---------------------------- |
+| **Message Direct** | Nom, Prénom, Email, Message   |
+| **Réseau Social**  | Profil LinkedIn               |
