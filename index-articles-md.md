@@ -1,10 +1,10 @@
 ---
 title: "Index des articles – format Markdown"
-summary: "Corpus complet d’articles de blog disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
-author: "Antoine Blot"
-date: "2026-02-18"
+summary: "Corpus complet d'articles de blog disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
+author: "{$author}"
+date: "{$today}"
 license: "CC BY 4.0"
-canonical_url: "https://www.antoine-blot.com/data/index-articles-md.md"
+canonical_url: "{$url}"
 robots: "index, follow"
 ---
 
@@ -13,6 +13,7 @@ robots: "index, follow"
 Cette page reference tous les articles disponibles en markdown et html, generes automatiquement pour citation, ingestion LLM ou intégration RAG.
 
 Licence : Creative Commons Attribution 4.0 (CC BY 4.0)
+
 
 - **Transformation digitale : des opportunités stratégiques pour réinventer l'entreprise** (2024-12-13)
   - [Version HTML](https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/)
