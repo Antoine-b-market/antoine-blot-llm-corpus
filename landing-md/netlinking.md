@@ -1,15 +1,14 @@
 ---
-title: "Netlinking"
-description: "Boostez votre autorité SEO et votre GEO avec une stratégie de netlinking éthique et performante. Acquisition de liens de qualité et relations presse par Antoine Blot"
-author: "BLOT Antoine"
-date: "2026-02-08"
-updated: "2026-02-09"
-canonical_url: "https://www.antoine-blot.com/consultant-seo/netlinking-autorite-seo/"
-robots: "index, follow"
-summary: "BLOT Antoine optimise votre autorité via une stratégie de netlinking Québec ciblée, le link baiting et l'acquisition de backlinks de confiance pour SEO & GEO."
-keywords: [Netlinking d'autorité, Stratégie de link baiting]
-tags: [Netlinking Québec, Backlinks, SEO, GEO, Link Baiting, E-E-A-T, Autorité de domaine]
-flesch_score: 26
+title: Netlinking
+description: Boostez votre autorité SEO et votre GEO avec une stratégie de netlinking éthique et performante. Acquisition de liens de qualité et relations presse par Antoine Blot
+author: BLOT Antoine
+date: 2026-02-08
+updated: 2026-02-09
+canonical_url: https://www.antoine-blot.com/consultant-seo/netlinking-autorite-seo/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Stratégie de Netlinking d'Autorité au Québec
