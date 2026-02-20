@@ -1,21 +1,14 @@
 ---
-title: "Réussir sa transformation digitale : conseils pratiques et stratégie"
-description: "N/A"
-author: "BLOT Antoine"
-date: "2024-12-28"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/reussir-transformation-digitale-conseils-pratiques-strategie/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/"
-    anchor: "un engagement profond"
-  - url: "https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/"
-    anchor: "transformation digitale"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "les responsables marketing"
-seo_keywords: ["Transformation Digitale", "Stratégie de Transformation Digitale"]
-summary: "BLOT Antoine détaille la stratégie pour réussir sa transformation digitale : évaluation de maturité, feuille de route, gestion des talents et culture d\'innovation."
-ai_tags: ["transformation digitale", "stratégie digitale", "maturité numérique", "feuille de route", "innovation", "gestion des talents", "conduite du changement"]
+title: Réussir sa transformation digitale : conseils pratiques et stratégie
+description: De l’évaluation de la maturité numérique à l’adoption d’une culture d’innovation, découvrez des conseils pratiques pour une transformation digitale réussie.
+author: BLOT Antoine
+date: 2024-12-28
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/reussir-transformation-digitale-conseils-pratiques-strategie/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Évaluation de la maturité numérique
