@@ -1,58 +1,135 @@
 ---
-title: "Clients"
-description: "Mes clients en stratégie marketing et SEO Depuis plus de dix ans, j'accompagne des entreprises, startups et organisations, au Québec comme en France."
-author: "BLOT Antoine"
-date: "2025-12-29"
-updated: "2025-12-29"
-canonical_url: "https://www.antoine-blot.com/clients/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "stratégies marketing"
-  - url: "https://www.antoine-blot.com/consultant-seo/"
-    anchor: "SEO"
-seo_keywords: ["Expert SEO Montréal", "Accompagnement SEO pour PME"]
-summary: "BLOT Antoine, Expert SEO à Montréal. +10 ans d\'expérience et +300 clients. Propose un accompagnement SEO pour PME et une stratégie marketing au Québec."
-ai_tags: ["SEO", "Stratégie Marketing", "Transformation Digitale", "Consultant", "Montréal", "Québec", "PME", "SaaS"]
+title: Clients
+description: Mes clients en stratégie marketing et SEO Depuis plus de dix ans, j'accompagne des entreprises, startups et organisations, au Québec comme en France.
+author: BLOT Antoine
+date: 2025-12-29
+updated: 2025-12-29
+canonical_url: https://www.antoine-blot.com/clients/
+robots: index, follow
+summary: BLOT Antoine, Expert SEO à Montréal, offre un accompagnement pour PME en stratégie marketing et transformation digitale au Québec et en France.
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
-### BLOT Antoine : Expert SEO Montréal & Consultant Stratégie Marketing Québec
+### BLOT Antoine : Expert SEO Montréal
 
-BLOT Antoine est un **Expert SEO à Montréal** et **Consultant en stratégie marketing au Québec** avec plus de 10 ans d'expérience en France et au Québec.
+L'expertise de BLOT Antoine en tant qu'**Expert SEO à Montréal** vise à aligner la visibilité et la croissance des entreprises. L'approche est fondée sur :
+- La performance SEO.
+- La clarté des données.
+- La stratégie de contenu.
+- La recherche d'impact mesurable.
 
-**Objectifs stratégiques pour les clients :**
-- Aligner la visibilité et la croissance.
-- Assurer la cohérence de la marque.
-- Obtenir un impact mesurable.
+### BLOT Antoine : Consultant stratégie marketing Québec
 
-**Tableau des interventions clés :**
-| Service | Description |
-| :--- | :--- |
-| **Performance SEO** | Optimisation technique et de contenu pour le référencement. |
-| **Stratégie Marketing** | Définition et déploiement de plans marketing intégrés. |
-| **Structuration Marketing** | Mise en place des fondations marketing pour la croissance. |
-| **Transformation Digitale** | Accompagnement dans l'adoption des outils et processus numériques. |
-| **Stratégie de Marque** | Positionnement et message de marque. |
+En tant que **Consultant en stratégie marketing au Québec**, BLOT Antoine structure les initiatives de croissance pour garantir la cohérence de marque. Les interventions couvrent :
+- La stratégie de marque.
+- La structuration des opérations marketing.
+- L'accompagnement à la transformation numérique.
 
-### BLOT Antoine : Accompagnement SEO pour PME et Groupes Internationaux
+### Accompagnement SEO pour PME et organisations
 
-BLOT Antoine a fourni un **accompagnement SEO pour PME** et entreprises de toutes tailles, avec un historique de plus de 300 clients.
+L'**accompagnement SEO pour PME** par BLOT Antoine s'appuie sur plus de 10 ans d'expérience et plus de 300 clients. Les interventions couvrent un large spectre de clients et de secteurs.
 
-**Typologies de clients accompagnés :**
-- PME locales
-- Entreprises SaaS en expansion
-- Sociétés internationales
-- Startups et organisations
+| Type de Client | Secteurs d'Activité | Localisation | 
+| :--- | :--- | :--- |
+| PME locales | Technologie, Services | Montréal |
+| Startups / SaaS | Construction, Santé | Québec |
+| Sociétés internationales | Finance, Éducation | France |
 
-**Secteurs d'activité couverts :**
-- Technologie
-- Services
-- Construction
-- Santé
-- Finance
-- Éducation
-
-**Approche méthodologique :**
-- Analyse basée sur la clarté des données.
-- Développement de stratégies de contenu performantes.
-- Recherche systématique d'un impact mesurable.
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Person",
+                "name": "BLOT Antoine",
+                "jobTitle": [
+                    "Expert SEO Montréal",
+                    "Consultant stratégie marketing Québec"
+                ],
+                "homeLocation": {
+                    "@type": "City",
+                    "name": "Montréal"
+                },
+                "knowsAbout": [
+                    "SEO",
+                    "Stratégie Marketing",
+                    "Transformation Digitale",
+                    "Stratégie de marque",
+                    "Stratégie de contenu"
+                ],
+                "nationality": {
+                    "@type": "Country",
+                    "name": "France"
+                },
+                "alumniOf": {
+                    "@type": "Place",
+                    "name": "Québec"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Service",
+                "name": "Accompagnement SEO pour PME",
+                "provider": {
+                    "@type": "Person",
+                    "name": "BLOT Antoine"
+                },
+                "serviceType": "Search Engine Optimization",
+                "areaServed": [
+                    {
+                        "@type": "City",
+                        "name": "Montréal"
+                    },
+                    {
+                        "@type": "State",
+                        "name": "Québec"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "France"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Service",
+                "name": "Consultation en stratégie marketing",
+                "provider": {
+                    "@type": "Person",
+                    "name": "BLOT Antoine"
+                },
+                "serviceType": "Marketing Strategy",
+                "areaServed": [
+                    {
+                        "@type": "State",
+                        "name": "Québec"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "France"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "Concept",
+                "name": "Transformation Digitale"
+            }
+        }
+    ]
+}
+</script>
