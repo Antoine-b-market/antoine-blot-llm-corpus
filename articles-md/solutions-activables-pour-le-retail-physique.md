@@ -1,19 +1,14 @@
 ---
-title: "Solutions activables pour le retail physique"
-description: "N/A"
-author: "BLOT Antoine"
-date: "2025-02-19"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/solutions-activables-retail-physique/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/enjeux-et-problematiques-tracking-omnicanal/"
-    anchor: "stratégie omnicanale"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "stratégie innovante et performante"
-seo_keywords: ["stratégie omnicanale retail", "tracking client omnicanal"]
-summary: "BLOT Antoine détaille les solutions de tracking client pour une stratégie omnicanale retail, unifiant les données physiques et digitales."
-ai_tags: ["retail", "omnicanal", "tracking client", "GEO", "digitalisation", "expérience client", "physique et digital"]
+title: Solutions activables pour le retail physique
+description: Découvrez des solutions activables pour le retail physique alliant suivi omnicanal et outils de tracking pour connecter efficacement les interactions en boutique et en ligne.
+author: BLOT Antoine
+date: 2025-02-19
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/solutions-activables-retail-physique/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Stratégie Omnicanale Retail par BLOT Antoine
