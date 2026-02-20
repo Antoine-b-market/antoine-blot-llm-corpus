@@ -1,17 +1,14 @@
 ---
-title: "Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ?"
-description: "Le marketing est trop stratégique pour être géré à temps partiel. Découvrez quand internaliser et comment structurer votre croissance avec Antoine Blot."
-author: "BLOT Antoine"
-date: "2026-01-26"
-updated: "2026-01-26"
-canonical_url: "https://www.antoine-blot.com/blogue/marketing-externalise-pme-quebec/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/a-propos-de-moi/"
-    anchor: "Antoine Blot"
-seo_keywords: ["impartition marketing PME", "direction marketing externalisée"]
-summary: "Antoine Blot analyse l\'impartition marketing pour PME : ROI, seuils d\'internalisation et méthode pour structurer la croissance sans alourdir les coûts."
-ai_tags: ["Fractional CMO", "Stratégie Marketing", "PME Québec", "ROI Marketing", "quand internaliser son marketing"]
+title: Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ?
+description: Le marketing est trop stratégique pour être géré à temps partiel. Découvrez quand internaliser et comment structurer votre croissance avec Antoine Blot.
+author: BLOT Antoine
+date: 2026-01-26
+updated: 2026-01-26
+canonical_url: https://www.antoine-blot.com/blogue/marketing-externalise-pme-quebec/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Impartition Marketing PME & Direction Externalisée par Antoine Blot
