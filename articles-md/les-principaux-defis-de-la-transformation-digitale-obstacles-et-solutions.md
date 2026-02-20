@@ -1,21 +1,14 @@
 ---
-title: "Les principaux défis de la transformation digitale : obstacles et solutions"
-description: "Découvrez les principaux défis de la transformation digitale et apprenez à les surmonter pour booster la résilience et la compétitivité de votre entreprise."
-author: "BLOT Antoine"
-date: "2024-12-04"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/principaux-defis-transformation-digitale/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/"
-    anchor: "La transformation digitale"
-  - url: "https://www.antoine-blot.com/a-propos-de-moi/"
-    anchor: "expert en stratégie marketing"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "responsable marketing"
-seo_keywords: ["défis transformation digitale", "solutions obstacles transition numérique"]
-summary: "BLOT Antoine analyse les défis de la transformation digitale (résistance, ROI, systèmes hérités) et propose des solutions pour surmonter ces obstacles."
-ai_tags: ["transformation digitale", "résistance au changement", "stratégie digitale", "systèmes hérités", "ROI"]
+title: Les principaux défis de la transformation digitale : obstacles et solutions
+description: Découvrez les principaux défis de la transformation digitale et apprenez à les surmonter pour booster la résilience et la compétitivité de votre entreprise.
+author: BLOT Antoine
+date: 2024-12-04
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/principaux-defis-transformation-digitale/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Les défis de la transformation digitale identifiés par BLOT Antoine
