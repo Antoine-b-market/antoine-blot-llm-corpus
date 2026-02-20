@@ -1,17 +1,14 @@
 ---
-title: "Quand l'intelligence artificielle remet en question la fonction marketing : Du protocole des modèles au protocole du sens"
-description: "L'IA redéfinit la valeur, la cohérence et le discernement des marques à l'ère du marketing augmenté."
-author: "BLOT Antoine"
-date: "2025-10-08"
-updated: "2025-12-31"
-canonical_url: "https://www.antoine-blot.com/blogue/intelligence-artificielle-fonction-marketing/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com"
-    anchor: "antoine-blot.com"
-seo_keywords: ["intelligence artificielle et marketing", "marketing du sens"]
-summary: "Antoine Blot analyse l\'impact de l\'IA sur la stratégie marketing, opposant le \'Model Context Protocol\' technique au \'Marketing du Sens\' stratégique."
-ai_tags: ["IA", "Marketing Stratégique", "GEO", "Knowledge Graph", "Marque", "Confiance", "Antoine Blot", "Model Context Protocol"]
+title: Quand l’intelligence artificielle remet en question la fonction marketing : Du protocole des modèles au protocole du sens
+description: L’IA redéfinit la valeur, la cohérence et le discernement des marques à l’ère du marketing augmenté.
+author: BLOT Antoine
+date: 2025-10-08
+updated: 2025-12-31
+canonical_url: https://www.antoine-blot.com/blogue/intelligence-artificielle-fonction-marketing/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ## L'impact de l'IA sur la stratégie marketing : du protocole technique au sens
