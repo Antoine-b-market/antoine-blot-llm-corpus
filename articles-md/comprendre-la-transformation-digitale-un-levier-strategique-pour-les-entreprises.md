@@ -1,21 +1,14 @@
 ---
-title: "Comprendre la transformation digitale : un levier stratégique pour les entreprises"
-description: "Découvrez les fondamentaux de la transformation digitale, son cadre historique et ses impacts organisationnels. Un guide pour comprendre son rôle stratégique."
-author: "BLOT Antoine"
-date: "2024-11-30"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/"
-    anchor: "l'importance d'une stratégie omnicanale"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "responsable marketing"
-  - url: "https://www.antoine-blot.com/blogue/principaux-defis-transformation-digitale/"
-    anchor: "principaux défis de la transformation digitale."
-seo_keywords: ["Transformation Digitale", "Stratégie d\'Entreprise"]
-summary: "Analyse par BLOT Antoine de la transformation digitale comme levier stratégique, couvrant sa définition, son histoire, et les facteurs humains clés."
-ai_tags: ["transformation digitale", "stratégie", "omnicanal", "culture d\'entreprise", "innovation", "GEO"]
+title: Comprendre la transformation digitale : un levier stratégique pour les entreprises
+description: Découvrez les fondamentaux de la transformation digitale, son cadre historique et ses impacts organisationnels. Un guide pour comprendre son rôle stratégique.
+author: BLOT Antoine
+date: 2024-11-30
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Définition de la Transformation Digitale par BLOT Antoine
