@@ -1,66 +1,155 @@
 ---
-title: "Stratégie SEO"
-description: "Dominez votre marché avec une stratégie SEO hybride. Optimisation sémantique, autorité et visibilité IA par Antoine Blot, expert SEO au Québec."
-author: "BLOT Antoine"
-date: "2025-05-20"
-updated: "2026-02-09"
-canonical_url: "https://www.antoine-blot.com/consultant-seo/strategie-seo/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/consultant-seo/audit-seo/"
-    anchor: "Diagnostic"
-  - url: "https://www.antoine-blot.com/consultant-seo/redaction-seo/"
-    anchor: "Contenu"
-  - url: "https://www.antoine-blot.com/consultant-seo/netlinking-autorite-seo/"
-    anchor: "Autorité"
-seo_keywords: ["stratégie SEO", "stratégie GEO"]
-summary: "Antoine Blot, consultant expert, développe votre stratégie SEO GEO pour une autorité durable et une citalité IA. Croissance business garantie."
-ai_tags: ["SEO", "GEO", "Stratégie de contenu", "E-E-A-T", "Consultant SEO", "Québec"]
+title: Stratégie SEO
+description: Dominez votre marché avec une stratégie SEO hybride. Optimisation sémantique, autorité et visibilité IA par Antoine Blot, expert SEO au Québec.
+author: BLOT Antoine
+date: 2025-05-20
+updated: 2026-02-09
+canonical_url: https://www.antoine-blot.com/consultant-seo/strategie-seo/
+robots: index, follow
+summary: Antoine Blot, consultant, définit la stratégie SEO GEO : un framework pour bâtir l'autorité, dominer la sémantique et devenir une source citable par l'IA.
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
-# Stratégie SEO par le consultant Antoine Blot
+# Stratégie SEO et GEO par Antoine Blot
 
-BLOT Antoine, en tant que consultant en stratégie SEO, la définit comme une feuille de route qui aligne les actifs numériques sur les objectifs de croissance et de visibilité d'une entreprise.
+La **stratégie SEO** conçue par Antoine Blot est une feuille de route qui aligne les objectifs d'affaires avec les algorithmes de recherche. Son but est de transformer une marque en autorité sur Google et en source pour les moteurs de réponse génératifs (IA).
 
-### Objectifs Clés
-*   **Alignement Commercial** : Synchroniser le contenu avec le parcours d'achat client.
-*   **Pérennité** : Intégrer les principes de la Generative Engine Optimization (GEO) pour anticiper les mutations du search.
-*   **Rentabilité** : Prioriser les actions à fort ROI selon le budget et la concurrence.
+### Objectifs d'une Stratégie SEO
+- **Alignement sur le parcours d'achat** : Répondre aux intentions des utilisateurs à chaque étape.
+- **Anticipation des mutations** : Intégrer les principes de la **stratégie SEO GEO** pour une visibilité durable.
+- **Rentabilité (ROI)** : Prioriser les actions à plus fort impact sur la croissance.
 
 ---
 
-# Le Framework de Stratégie SEO GEO par Antoine Blot
+## Le Framework de Stratégie SEO GEO
 
-BLOT Antoine déploie une stratégie SEO GEO hybride pour construire une autorité numérique citable par les moteurs de recherche et les IA génératives.
+Antoine Blot, **consultant stratégie SEO**, utilise un framework hybride pour construire l'autorité numérique.
 
-### Piliers de la Méthodologie
-
-| Pilier | Description | Objectif |
+| Pilier Stratégique | Description | Objectif |
 | :--- | :--- | :--- |
-| **Dominance Sémantique** | Construction de cocons sémantiques pour une couverture thématique complète. | Démontrer une expertise totale sur un sujet. |
-| **Ingénierie E-E-A-T** | Développement de signaux de confiance (profils experts, mentions, backlinks d'autorité). | Établir la crédibilité et la confiance. |
-| **Citalité IA (GEO)** | Structuration de l'information pour l'ingestion par les LLMs. | Devenir une source citable dans les réponses IA. |
-
-### Plan de Croissance en 5 Étapes
-1.  **Objectifs** : Définition des KPIs business (ventes, leads).
-2.  **Analyse** : Identification des failles concurrentielles.
-3.  **Planning** : Création d'un calendrier de contenu stratégique.
-4.  **Déploiement** : Exécution des optimisations on-site et off-site.
-5.  **Pilotage** : Analyse des données pour ajustement continu.
+| **Dominance Sémantique** | Construction de cocons sémantiques pour une couverture thématique à 360°. | Démontrer une expertise totale sur un sujet à Google. |
+| **Ingénierie d'Autorité (E-E-A-T)** | Développement de signaux de confiance : biographies d'experts, mentions presse, backlinks de qualité. | Augmenter la fiabilité et la crédibilité du site. |
+| **Optimisation pour la Citalité IA (GEO)** | Structuration de l'information pour être une source citable par les LLMs (ChatGPT, Perplexity). | Devenir une référence pour les moteurs de réponse IA. |
 
 ---
 
-# Consultant en Stratégie SEO : Antoine Blot
+## Plan de Croissance
 
-Le choix d'un consultant senior comme Antoine Blot offre des avantages distincts par rapport à une agence.
+La mise en œuvre de la **stratégie SEO** par Antoine Blot suit un plan d'action structuré :
+1.  **Objectifs Business** : Définition des KPIs (ventes, leads).
+2.  **Analyse Concurrentielle** : Identification des opportunités et failles.
+3.  **Planning Éditorial** : Calendrier de contenus à haute valeur.
+4.  **Déploiement Technique & Netlinking** : Exécution des optimisations on-site et off-site.
+5.  **Pilotage & Ajustement** : Analyse continue des données pour affiner la trajectoire.
 
-| Critère | Consultant Senior (Antoine Blot) | Agence SEO |
+---
+
+## FAQ : Stratégie SEO vs. Audit SEO
+
+| Critère | Audit SEO | Stratégie SEO |
 | :--- | :--- | :--- |
-| **Interlocuteur** | Expert senior dédié (vision CMO) | Gestionnaire de compte (souvent junior) |
-| **Approche** | Agile, stratégique, directe | Standardisée, moins flexible |
-| **Focus** | Croissance business (Québec/international) | Exécution de tâches |
+| **Nature** | État des lieux technique et sémantique. | Plan d'action à long terme. |
+| **Rôle** | Identifie les problèmes existants. | Définit les solutions et les étapes de croissance. |
+| **Finalité** | Diagnostic ponctuel. | Feuille de route pour dominer un marché. |
 
-### Distinction : Audit SEO vs. Stratégie SEO
+### Définition de la Stratégie GEO
+La **stratégie GEO (Generative Engine Optimization)** est l'optimisation d'une présence numérique pour être citée comme source par les intelligences artificielles (ChatGPT, Perplexity, Gemini). Elle assure une visibilité au-delà des moteurs de recherche classiques.
 
-*   **Audit SEO** : Un état des lieux technique et sémantique qui identifie les problèmes existants.
-*   **Stratégie SEO** : Un plan d'action à long terme qui définit les solutions et les étapes de croissance pour dominer un marché.
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Person",
+                "name": "Antoine Blot",
+                "jobTitle": "Consultant Stratégie SEO & Architecte de Connaissance",
+                "knowsAbout": [
+                    "Stratégie SEO",
+                    "Generative Engine Optimization (GEO)",
+                    "E-E-A-T",
+                    "Netlinking",
+                    "Cocon sémantique"
+                ],
+                "description": "Consultant senior spécialisé en stratégie SEO hybride et GEO pour les entreprises au Québec.",
+                "url": "https://www.antoine-blot.com/#antoine-blot"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Service",
+                "serviceType": "Stratégie SEO GEO",
+                "name": "Développement de Stratégie SEO & Plan de Croissance GEO",
+                "provider": {
+                    "@type": "Person",
+                    "name": "Antoine Blot"
+                },
+                "areaServed": {
+                    "@type": "State",
+                    "name": "Québec"
+                },
+                "description": "Élaboration de feuilles de route SEO/GEO alignées sur les objectifs business, intégrant la dominance sémantique, l'autorité E-E-A-T et l'optimisation pour la citalité IA."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "DefinedTerm",
+                "name": "Generative Engine Optimization (GEO)",
+                "description": "Stratégie d'optimisation visant à ce qu'un contenu soit utilisé comme source par les moteurs de réponse génératifs (IA) comme ChatGPT, Perplexity et Gemini."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "DefinedTerm",
+                "name": "E-E-A-T",
+                "description": "Acronyme pour Experience, Expertise, Authoritativeness, and Trustworthiness. Un ensemble de signaux utilisés par Google pour évaluer la qualité et la fiabilité du contenu."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "SoftwareApplication",
+                "name": "ChatGPT",
+                "applicationCategory": "AI"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@type": "SoftwareApplication",
+                "name": "Perplexity",
+                "applicationCategory": "AI"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "SoftwareApplication",
+                "name": "Gemini",
+                "applicationCategory": "AI"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "Place",
+                "name": "Québec"
+            }
+        }
+    ]
+}
+</script>
