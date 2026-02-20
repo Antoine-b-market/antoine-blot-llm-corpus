@@ -1,19 +1,14 @@
 ---
-title: "Comment l'IA transforme le SEO"
-description: "Découvrez comment l\'intelligence artificielle redéfinit le SEO, en passant de l\'analyse d\'intentions utilisateur à l\'optimisation contextuelle"
-author: "BLOT Antoine"
-date: "2024-11-05"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/comment-ia-transforme-seo/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/consultant-seo/"
-    anchor: "performances SEO."
-  - url: "https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/"
-    anchor: "La mesure de l'engagement"
-seo_keywords: ["SEO Sémantique", "SEO Prédictif"]
-summary: "L\'IA transforme le SEO via l\'analyse sémantique des intentions et le SEO prédictif pour une personnalisation accrue des résultats de recherche."
-ai_tags: ["IA et SEO", "analyse des intentions de recherche", "SEO sémantique", "SEO prédictif", "personnalisation", "BERT", "MUM", "engagement utilisateur"]
+title: Comment l&rsquo;IA transforme le SEO
+description: Découvrez comment l'intelligence artificielle redéfinit le SEO, en passant de l'analyse d'intentions utilisateur à l'optimisation contextuelle
+author: BLOT Antoine
+date: 2024-11-05
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/comment-ia-transforme-seo/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### IA et SEO : Analyse Sémantique des Intentions de Recherche
