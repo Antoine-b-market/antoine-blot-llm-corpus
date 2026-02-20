@@ -1,21 +1,14 @@
 ---
-title: "Recruter ou externaliser son marketing ?"
-description: "PME, startup : faut-il recruter un responsable marketing ou faire appel à une agence ? Suivez notre guide pour choisir le bon modèle."
-author: "BLOT Antoine"
-date: "2025-07-25"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/recruter-externaliser-marketing-pme/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/structurer-fonction-marketing-pme/"
-    anchor: "Structurer la fonction marketing en PME"
-  - url: "https://www.antoine-blot.com/blogue/role-cmo-pme/"
-    anchor: "Le rôle du CMO dans une PME : plus qu'un chef de projet marketing"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "directeur marketing à Montréal"
-seo_keywords: ["recruter ou externaliser marketing", "organisation marketing PME"]
-summary: "Guide expert pour structurer son service marketing en PME. Analyse des modèles : recrutement interne, externalisation et hybride pour faire le bon choix."
-ai_tags: ["marketing PME", "CMO externalisé", "structuration marketing", "gouvernance marketing", "fractional CMO"]
+title: Recruter ou externaliser son marketing ?
+description: PME, startup : faut-il recruter un responsable marketing ou faire appel à une agence ? Suivez notre guide pour choisir le bon modèle.
+author: BLOT Antoine
+date: 2025-07-25
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/recruter-externaliser-marketing-pme/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Les 4 fonctions clés du marketing à distinguer
