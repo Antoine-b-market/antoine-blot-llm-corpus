@@ -1,17 +1,14 @@
 ---
-title: "L'intelligence artificielle générative et son impact sur le marketing"
-description: "Découvrez comment l'IA générative transforme la création de contenu, l'automatisation des campagnes et l'expérience client en marketing numérique"
-author: "BLOT Antoine"
-date: "2025-03-04"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/intelligence-artificielle-impact-marketing/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/automatisation-data-driven/"
-    anchor: "automatiser les tâches marketing"
-seo_keywords: ["intelligence artificielle générative marketing", "personnalisation expérience client IA"]
-summary: "L\'IA générative en marketing optimise la création de contenu, automatise les campagnes et permet une hyperpersonnalisation de l\'expérience client."
-ai_tags: ["IA générative", "Marketing Digital", "Expérience Client", "Automatisation", "Éthique IA", "Hyperpersonnalisation"]
+title: L’intelligence artificielle générative et son impact sur le marketing
+description: Découvrez comment l’IA générative transforme la création de contenu, l’automatisation des campagnes et l’expérience client en marketing numérique
+author: BLOT Antoine
+date: 2025-03-04
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/intelligence-artificielle-impact-marketing/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Intelligence Artificielle Générative et Marketing : Optimisation et Personnalisation
