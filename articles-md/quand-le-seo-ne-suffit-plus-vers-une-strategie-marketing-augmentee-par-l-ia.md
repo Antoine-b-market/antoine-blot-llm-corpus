@@ -1,21 +1,14 @@
 ---
-title: "Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l'IA"
-description: "À l'ère des IA génératives, le SEO seul ne suffit plus. Comment les marques construisent une autorité cognitive durable dans des parcours éclatés ?"
-author: "BLOT Antoine"
-date: "2025-07-05"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/intelligence-artificielle-impact-marketing/"
-    anchor: "structurer rigoureusement les informations"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "stratégie marketing"
-  - url: "https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/"
-    anchor: "l'optimisation des tunnels"
-seo_keywords: ["stratégie marketing augmentée par l\'IA", "Knowledge Branding"]
-summary: "L\'IA générative rend le SEO obsolète. La stratégie marketing évolue vers le Knowledge Branding pour devenir une source d\'autorité citée par les IA."
-ai_tags: ["GEO", "RAG", "SEO", "IA Générative", "Knowledge Branding", "Marketing Digital", "Antoine Blot"]
+title: Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l’IA
+description: À l’ère des IA génératives, le SEO seul ne suffit plus. Comment les marques construisent une autorité cognitive durable dans des parcours éclatés ?
+author: BLOT Antoine
+date: 2025-07-05
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Stratégie marketing augmentée par l'IA : de l'obsolescence du SEO au Knowledge Branding
