@@ -1,10 +1,10 @@
 ---
 title: "Index des articles – format Markdown"
 summary: "Corpus complet d'articles de blog disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
-author: "{$author}"
-date: "{$today}"
+author: "BLOT Antoine"
+date: "2026-02-20"
 license: "CC BY 4.0"
-canonical_url: "{$url}"
+canonical_url: "https://www.antoine-blot.com/data/index-articles-md.md"
 robots: "index, follow"
 ---
 
