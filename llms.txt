@@ -3,7 +3,7 @@ title: "llms.txt - Index IA BLOT Antoine"
 author: "BLOT Antoine"
 summary: "Index thematique et citation LLM du corpus https://www.antoine-blot.com, licence CC BY 4.0"
 license: "CC BY 4.0"
-date: "2026-02-19"
+date: "2026-02-20"
 canonical_url: "https://www.antoine-blot.com/llms.txt"
 index_yaml: "https://www.antoine-blot.com/.well-known/llms.yaml"
 ---
@@ -237,6 +237,6 @@ Donnees et ressources optimisees pour ingestion directe par IA, chatbots, agents
 
 ---
 
-Dernière mise à jour : 2026-02-19
+Dernière mise à jour : 2026-02-20
 ---
 
