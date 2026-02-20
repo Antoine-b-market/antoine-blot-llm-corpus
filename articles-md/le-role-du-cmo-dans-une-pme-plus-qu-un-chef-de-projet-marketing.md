@@ -1,21 +1,14 @@
 ---
-title: "Le rôle du CMO dans une PME : plus qu'un chef de projet marketing"
-description: "Que fait un CMO en PME ? Découvrez le rôle stratégique du directeur marketing : structurer, piloter, aligner et préparer la croissance."
-author: "BLOT Antoine"
-date: "2025-07-25"
-updated: "2025-09-21"
-canonical_url: "https://www.antoine-blot.com/blogue/role-cmo-pme/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/structurer-fonction-marketing-pme/"
-    anchor: "Structurer la fonction marketing"
-  - url: "https://www.antoine-blot.com/blogue/recruter-externaliser-marketing-pme/"
-    anchor: "guide comparatif des modèles marketing en PME"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "directeur marketing à Montréal"
-seo_keywords: ["Rôle CMO PME", "CMO Externalisé"]
-summary: "Le rôle du CMO en PME est de piloter la stratégie, organiser les ressources et assurer la scalabilité. Le CMO externalisé est une solution flexible."
-ai_tags: ["CMO", "PME", "Marketing Stratégique", "Direction Marketing", "Fractional CMO"]
+title: Le rôle du CMO dans une PME : plus qu’un chef de projet marketing
+description: Que fait un CMO en PME ? Découvrez le rôle stratégique du directeur marketing : structurer, piloter, aligner et préparer la croissance.
+author: BLOT Antoine
+date: 2025-07-25
+updated: 2025-09-21
+canonical_url: https://www.antoine-blot.com/blogue/role-cmo-pme/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ## Le Rôle et les Missions du Directeur Marketing (CMO) en PME
