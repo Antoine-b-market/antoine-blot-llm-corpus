@@ -1,19 +1,14 @@
 ---
-title: "L'intégration de l'intelligence artificielle dans les stratégies SEO"
-description: "Découvrez les bonnes pratiques pour intégrer l\'IA à vos stratégies SEO tout en respectant les critères E-E-A-T et l\'authenticité du contenu."
-author: "BLOT Antoine"
-date: "2025-05-20"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/integration-intelligence-artificielle-strategies-seo/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/importance-eeat-seo/"
-    anchor: "critère E-E-A-T"
-  - url: "https://www.antoine-blot.com/consultant-seo/"
-    anchor: "stratégie SEO"
-seo_keywords: ["intégration IA stratégies SEO", "contenu optimisé par l\'IA"]
-summary: "BLOT Antoine détaille l\'intégration de l\'intelligence artificielle en SEO : analyse sémantique, production de contenu, et respect des critères E-E-A-T."
-ai_tags: ["SEO", "Intelligence Artificielle", "E-E-A-T", "Génération de contenu", "Analyse prédictive", "BERT", "GPT-4"]
+title: L&rsquo;intégration de l&rsquo;intelligence artificielle dans les stratégies SEO
+description: Découvrez les bonnes pratiques pour intégrer l'IA à vos stratégies SEO tout en respectant les critères E-E-A-T et l'authenticité du contenu.
+author: BLOT Antoine
+date: 2025-05-20
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/integration-intelligence-artificielle-strategies-seo/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### L'impact de l'IA sur les stratégies SEO
