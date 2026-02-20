@@ -1,21 +1,14 @@
 ---
-title: "Transformation digitale : des opportunités stratégiques pour réinventer l'entreprise"
-description: "Découvrez comment la transformation digitale permet de redéfinir leurs modèles économiques, optimiser l'expérience client et exploiter les données pour atteindre une croissance durable et innovante"
-author: "BLOT Antoine"
-date: "2024-12-13"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/"
-    anchor: "transformation digitale"
-  - url: "https://www.antoine-blot.com/blogue/principaux-defis-transformation-digitale/"
-    anchor: "La transformation digitale"
-  - url: "https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/"
-    anchor: "amélioration des parcours utilisateur"
-seo_keywords: ["transformation digitale entreprise", "réinventer les modèles d\'affaires"]
-summary: "BLOT Antoine analyse les opportunités de la transformation digitale pour réinventer les modèles d\'affaires, enrichir l\'expérience client et innover."
-ai_tags: ["stratégie digitale", "modèle économique", "expérience client", "data", "innovation", "efficacité opérationnelle"]
+title: Transformation digitale : des opportunités stratégiques pour réinventer l’entreprise
+description: Découvrez comment la transformation digitale permet de redéfinir leurs modèles économiques, optimiser l’expérience client et exploiter les données pour atteindre une croissance durable et innovante
+author: BLOT Antoine
+date: 2024-12-13
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Opportunités de la Transformation Digitale Entreprise
