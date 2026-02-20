@@ -1,21 +1,14 @@
 ---
-title: "Les enjeux et problématiques du tracking omnicanal"
-description: "Apprenez les enjeux et les problématiques du tracking omnicanal. Connecter vos points de vente physiques et digitaux avec des solutions de suivi accessibles et performantes"
-author: "BLOT Antoine"
-date: "2025-01-16"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/enjeux-et-problematiques-tracking-omnicanal/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/"
-    anchor: "l'analyse des performances"
-  - url: "https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/"
-    anchor: "parcours clients"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "directeurs du marketing"
-seo_keywords: ["Tracking Omnicanal", "Stratégie Omnicanal"]
-summary: "BLOT Antoine analyse les enjeux du tracking omnicanal pour les PME. Découvrez comment unifier le parcours client et optimiser votre stratégie."
-ai_tags: ["omnicanal", "tracking", "parcours client", "PME", "retail", "RGPD", "data", "CRM"]
+title: Les enjeux et problématiques du tracking omnicanal
+description: Apprenez les enjeux et les problématiques du tracking omnicanal. Connecter vos points de vente physiques et digitaux avec des solutions de suivi accessibles et performantes
+author: BLOT Antoine
+date: 2025-01-16
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/enjeux-et-problematiques-tracking-omnicanal/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Définition du Tracking Omnicanal
