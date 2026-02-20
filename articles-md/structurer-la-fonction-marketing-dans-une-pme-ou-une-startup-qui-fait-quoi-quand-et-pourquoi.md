@@ -1,18 +1,14 @@
 ---
-title: "Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi"
-description: "Structurer la fonction marketing en PME : étapes clés, modèles organisationnels, et rôle du CMO pour piloter une croissance alignée."
-author: "BLOT Antoine"
-date: "2025-07-25"
-updated: "2025-08-05"
-canonical_url: "https://www.antoine-blot.com/blogue/structurer-fonction-marketing-pme/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/blogue/recruter-externaliser-marketing-pme/"
-    anchor: "Recruter ou externaliser son marketing en PME"
-  - url: "https://www.antoine-blot.com/blogue/role-cmo-pme/"
-    anchor: "Le rôle du CMO dans une PME"
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "directeur marketing à Montréal"
+title: Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi
+description: Structurer la fonction marketing en PME : étapes clés, modèles organisationnels, et rôle du CMO pour piloter une croissance alignée.
+author: BLOT Antoine
+date: 2025-07-25
+updated: 2025-08-05
+canonical_url: https://www.antoine-blot.com/blogue/structurer-fonction-marketing-pme/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi
