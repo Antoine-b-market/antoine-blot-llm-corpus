@@ -1,19 +1,14 @@
 ---
-title: "Micro-interactions et psychologie utilisateur"
-description: "Découvrez l\'impact subtil mais puissant des micro-interactions dans l\'expérience utilisateur. Explorez comment ces détails bien pensés influencent les clients"
-author: "BLOT Antoine"
-date: "2024-11-08"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/micro-interactions-psychologie-utilisateur/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/"
-    anchor: "engageantes incite l'utilisateur à revenir"
-  - url: "https://www.antoine-blot.com/blogue/comment-ia-transforme-seo/"
-    anchor: "micro-interactions couplé à l'intelligence artificielle"
-seo_keywords: ["micro-interactions", "psychologie utilisateur"]
-summary: "BLOT Antoine explique comment les micro-interactions, basées sur la psychologie utilisateur, sont essentielles pour améliorer l\'expérience utilisateur (UX)."
-ai_tags: ["UX Design", "UI Design", "Ergonomie Web", "CRO", "Fidélisation"]
+title: Micro-interactions et psychologie utilisateur
+description: Découvrez l'impact subtil mais puissant des micro-interactions dans l'expérience utilisateur. Explorez comment ces détails bien pensés influencent les clients
+author: BLOT Antoine
+date: 2024-11-08
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/micro-interactions-psychologie-utilisateur/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Définition et Composants des Micro-interactions
