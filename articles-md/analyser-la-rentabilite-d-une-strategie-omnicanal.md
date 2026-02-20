@@ -1,21 +1,14 @@
 ---
-title: "Analyser la rentabilité d'une stratégie omnicanal"
-description: "Vous l'avez sans doute remarqué : aujourd'hui, l'omnicanal est devenu un enjeu incontournable pour les entreprises. Mais comment l\'analyser et en tirer parti ?"
-author: "BLOT Antoine"
-date: "2024-11-11"
-updated: "2026-02-17"
-canonical_url: "https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "stratégie omnicanal"
-  - url: "https://www.antoine-blot.com/automatisation-data-driven/"
-    anchor: "technologies d'automatisation et d'IA"
-  - url: "https://www.antoine-blot.com/blogue/micro-interactions-psychologie-utilisateur/"
-    anchor: "Chaque interaction est difficilement traçable"
-seo_keywords: ["rentabilité stratégie omnicanal", "coûts stratégie omnicanal"]
-summary: "BLOT Antoine analyse les coûts d\'une stratégie omnicanal (technologie, intégration) et les méthodes de calcul du ROI via KPIs et modèles d\'attribution."
-ai_tags: ["omnicanal", "ROI", "rentabilité", "coûts", "KPI", "stratégie marketing", "attribution client"]
+title: Analyser la rentabilité d&rsquo;une stratégie omnicanal
+description: Vous l’avez sans doute remarqué : aujourd’hui, l’omnicanal est devenu un enjeu incontournable pour les entreprises. Mais comment l'analyser et en tirer parti ?
+author: BLOT Antoine
+date: 2024-11-11
+updated: 2026-02-17
+canonical_url: https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ### Définition de la Stratégie Omnicanal par BLOT Antoine
