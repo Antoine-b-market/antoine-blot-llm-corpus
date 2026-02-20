@@ -1,19 +1,14 @@
 ---
-title: "Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?"
-description: "N/A"
-author: "BLOT Antoine"
-date: "2025-02-01"
-updated: "2025-08-01"
-canonical_url: "https://www.antoine-blot.com/blogue/outils-tacking-omnicanal-petits-comptes-quelles-solutions/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com/responsable-marketing/"
-    anchor: "directeur du marketing"
-  - url: "https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/"
-    anchor: "stratégie omnicanale"
-seo_keywords: ["tracking omnicanal", "outils tracking omnicanal"]
-summary: "BLOT Antoine structure les solutions et outils de tracking omnicanal pour petits comptes, des principes de base (CRM, GTM) aux applications retail."
-ai_tags: ["omnicanal", "retail", "CRM", "data tracking", "petits comptes", "marketing digital", "Google Tag Manager"]
+title: Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?
+description: Avant de plonger dans le choix d’outils spécifiques, il est essentiel de poser les bases d’une solution de tracking omnicanal.
+author: BLOT Antoine
+date: 2025-02-01
+updated: 2025-08-01
+canonical_url: https://www.antoine-blot.com/blogue/outils-tacking-omnicanal-petits-comptes-quelles-solutions/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 ## Principes d'une solution de tracking omnicanal selon BLOT Antoine
