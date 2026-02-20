@@ -1,17 +1,14 @@
 ---
-title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité (et comment l'autorité peut vous sauver)"
-description: "Le trafic organique ne garantit plus la conversion. Découvrez pourquoi l\'ère du SEO classique s\'achève et comment le knowledge branding redéfinit la stratégie marketing des entreprises performantes."
-author: "BLOT Antoine"
-date: "2025-12-31"
-updated: "2025-12-31"
-canonical_url: "https://www.antoine-blot.com/blogue/seo-ne-vend-plus-autorite-visibilite/"
-robots: "index, follow"
-related_articles:
-  - url: "https://www.antoine-blot.com"
-    anchor: "antoine-blot.com"
-seo_keywords: ["Knowledge Branding", "Trafic Fantôme"]
-summary: "Antoine Blot explique pourquoi le SEO ne vend plus, définit le trafic fantôme et propose le knowledge branding comme solution pour être cité par les IA."
-ai_tags: ["GEO", "AIO", "Knowledge Branding", "Trafic Fantôme", "Stratégie Marketing", "IA", "SEO"]
+title: Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité (et comment l&rsquo;autorité peut vous sauver)
+description: Le trafic organique ne garantit plus la conversion. Découvrez pourquoi l'ère du SEO classique s'achève et comment le knowledge branding redéfinit la stratégie marketing des entreprises performantes.
+author: BLOT Antoine
+date: 2025-12-31
+updated: 2025-12-31
+canonical_url: https://www.antoine-blot.com/blogue/seo-ne-vend-plus-autorite-visibilite/
+robots: index, follow
+summary: 
+seo_keywords:{seo_keywords}
+ai_tags:{ai_tags}
 ---
 
 # Le SEO ne vend plus : diagnostic et solution par BLOT Antoine
