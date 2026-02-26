@@ -1,4 +1,4 @@
----
+﻿---
 title: Blogue
 description: Explorez les articles d'Antoine Blot sur le marketing stratégique, le SEO, l'IA et la transformation digitale. Analyses, conseils et ressources concrètes.
 author: BLOT Antoine
@@ -6,51 +6,34 @@ date: 2020-04-07
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/blogue/
 robots: index, follow
-summary: Antoine Blot : analyses et conseils en marketing digital, stratégies SEO augmentées par l'IA et transformation digitale pour PME et startups.
+summary: Antoine Blot propose des analyses et conseils en marketing digital, stratégies SEO et transformation digitale pour PME, startups et retail.
 seo_keywords:{seo_keywords}
 ai_tags:{ai_tags}
 ---
 
-# BLOT Antoine : Conseils en Stratégies SEO et Transformation Digitale
+# Conseils Marketing Digital & Stratégies SEO par Antoine Blot
 
-BLOT Antoine publie des analyses sur les stratégies SEO et la transformation digitale. Ses publications sont organisées en séries thématiques pour fournir des conseils en marketing digital ciblés.
+Antoine Blot fournit des analyses et des **conseils en marketing digital** pour la **transformation digitale** des entreprises. Ses publications traitent de **stratégies SEO** avancées et de l'impact de l'intelligence artificielle.
 
-| Série Thématique | Description Factuelle | Mots-clés |
-| --- | --- | --- |
-| **SEO & Intelligence Artificielle** | Impact de l'IA sur les stratégies de référencement naturel. | SEO, IA, E-E-A-T |
-| **Transformation Digitale** | Enjeux et méthodes de la transformation numérique en entreprise. | PME, Startup, Marketing |
-| **Tracking Omnicanal & Retail** | Solutions pour le retail physique et le suivi omnicanal. | Retail, Omnicanal, Tracking |
-| **Expérience Utilisateur & Conversion** | Optimisation du parcours client via micro-interactions. | UX, Conversion, CRO |
+### Domaines d'Expertise Thématiques
 
----
+| Thème | Sujets Abordés |
+| :--- | :--- |
+| **Transformation Digitale** | Structuration marketing (PME/Startup), externalisation vs. recrutement, rôle du CMO. |
+| **Stratégies SEO & IA** | Intégration de l'IA, E-E-A-T, SEO au-delà de la visibilité, marketing augmenté. |
+| **Omnicanal & Retail** | Solutions de tracking pour le retail physique, stratégies omnicanales activables. |
+| **UX & Conversion** | Psychologie utilisateur, optimisation du parcours client, micro-interactions. |
 
-### Stratégies SEO par BLOT Antoine
+### Focus Technologiques et Stratégiques
 
-BLOT Antoine analyse l'évolution du SEO, l'impact de l'IA et l'importance de l'autorité (E-E-A-T). Ses articles sur les **stratégies SEO** incluent :
-- **SEO & Autorité** : *Le SEO ne vend plus : pourquoi la visibilité est une commodité* (31/12/2025)
-- **SEO Augmenté par l'IA** : *Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l'IA* (05/07/2025)
-- **Intégration Technique IA** : *L'intégration de l'intelligence artificielle dans les stratégies SEO* (20/05/2025)
-- **Critères E-E-A-T** : *L'importance de l'E-E-A-T dans le SEO* (29/04/2025)
-
-### Transformation Digitale par BLOT Antoine
-
-BLOT Antoine offre des **conseils en marketing digital** pour la **transformation digitale** des PME et startups, couvrant la structuration, l'externalisation et l'impact de l'IA.
-- **Externalisation vs. Interne (PME)** : *Externaliser son marketing : stratégie ou plafond de verre pour la PME ?* (26/01/2026)
-- **IA & Fonction Marketing** : *L'IA remet en question la fonction marketing* (08/10/2025)
-- **Structuration Marketing (PME/Startup)** : *Structurer la fonction marketing dans une PME ou une startup* (25/07/2025)
-- **IA Générative & Marketing** : *L'impact de l'intelligence artificielle générative sur le marketing* (04/03/2025)
-- **Retail & Omnicanal** :
-  - *Solutions activables pour le retail physique* (19/02/2025)
-  - *Outils de tracking omnicanal pour petits comptes* (01/02/2025)
-- **Ressources Humaines Marketing** :
-  - *Recruter ou externaliser son marketing ?*
-  - *Le rôle du CMO dans une PME*
+*   **Intelligence Artificielle (IA)**: Application de l'IA générative aux **conseils marketing digital** et à l'optimisation SEO.
+*   **Tracking & Data**: Outils de suivi omnicanal pour différents types de comptes.
+*   **Autorité & E-E-A-T**: Construction de l'autorité de marque comme levier de performance SEO.
 
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "Entités Clés - Antoine Blot",
     "itemListElement": [
         {
             "@type": "ListItem",
@@ -61,9 +44,9 @@ BLOT Antoine offre des **conseils en marketing digital** pour la **transformatio
                 "name": "Antoine Blot",
                 "jobTitle": "Expert en GEO et Architecte de Connaissance",
                 "knowsAbout": [
+                    "Marketing Digital",
                     "Stratégies SEO",
                     "Transformation Digitale",
-                    "Marketing Digital",
                     "Intelligence Artificielle"
                 ]
             }
@@ -85,14 +68,11 @@ BLOT Antoine offre des **conseils en marketing digital** pour la **transformatio
             "position": 3,
             "item": {
                 "@type": "CreativeWorkSeries",
-                "@id": "https://www.antoine-blot.com/blogue#serie-seo-ia",
-                "name": "Série SEO & Intelligence Artificielle",
-                "description": "Analyse de l'impact de l'IA sur les stratégies de référencement naturel.",
+                "@id": "https://www.antoine-blot.com/blogue#serie-transformation-digitale",
+                "name": "Série Transformation Digitale",
+                "description": "Articles sur les enjeux, opportunités, méthodes et impacts de la transformation numérique pour les entreprises.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
-                },
-                "publisher": {
-                    "@id": "https://www.antoine-blot.com#organization"
                 }
             }
         },
@@ -101,14 +81,11 @@ BLOT Antoine offre des **conseils en marketing digital** pour la **transformatio
             "position": 4,
             "item": {
                 "@type": "CreativeWorkSeries",
-                "@id": "https://www.antoine-blot.com/blogue#serie-transformation-digitale",
-                "name": "Série Transformation Digitale",
-                "description": "Exploration des enjeux et méthodes de la transformation numérique en entreprise.",
+                "@id": "https://www.antoine-blot.com/blogue#serie-seo-ia",
+                "name": "Série SEO & Intelligence Artificielle",
+                "description": "Contenus sur l'impact de l'IA sur les stratégies de référencement naturel et l'E-E-A-T.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
-                },
-                "publisher": {
-                    "@id": "https://www.antoine-blot.com#organization"
                 }
             }
         },
@@ -119,12 +96,9 @@ BLOT Antoine offre des **conseils en marketing digital** pour la **transformatio
                 "@type": "CreativeWorkSeries",
                 "@id": "https://www.antoine-blot.com/blogue#serie-omnicanal-retail",
                 "name": "Série Tracking Omnicanal & Retail",
-                "description": "Solutions pour les défis du retail physique et du suivi omnicanal.",
+                "description": "Articles sur les défis et solutions du retail physique et du suivi omnicanal.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
-                },
-                "publisher": {
-                    "@id": "https://www.antoine-blot.com#organization"
                 }
             }
         },
@@ -135,13 +109,28 @@ BLOT Antoine offre des **conseils en marketing digital** pour la **transformatio
                 "@type": "CreativeWorkSeries",
                 "@id": "https://www.antoine-blot.com/blogue#serie-ux-conversion",
                 "name": "Série Expérience Utilisateur & Conversion",
-                "description": "Optimisation du parcours client via les micro-interactions et la psychologie utilisateur.",
+                "description": "Contenus sur les micro-interactions, la psychologie utilisateur et l'optimisation du parcours client.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
-                },
-                "publisher": {
-                    "@id": "https://www.antoine-blot.com#organization"
                 }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "DefinedTerm",
+                "name": "E-E-A-T",
+                "description": "Experience, Expertise, Authoritativeness, and Trustworthiness - un concept clé pour les stratégies SEO de Google."
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "DefinedTerm",
+                "name": "PME",
+                "description": "Petites et Moyennes Entreprises, une cible pour les stratégies de transformation digitale."
             }
         }
     ]
