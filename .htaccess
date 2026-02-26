@@ -1,0 +1,4 @@
+DirectoryIndex index.html index.php
+<FilesMatch "\.(md|txt|yaml|yml|json|html|php)$">
+    Require all granted
+</FilesMatch>
