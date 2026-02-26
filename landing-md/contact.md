@@ -1,4 +1,4 @@
----
+﻿---
 title: Contact
 description: Besoin d'un CMO, d'un directeur marketing ou d'un expert SEO ? Contactez moi !
 author: BLOT Antoine
@@ -6,29 +6,30 @@ date: 2024-01-09
 updated: 2026-01-25
 canonical_url: https://www.antoine-blot.com/contact/
 robots: index, follow
-summary: BLOT Antoine, Consultant marketing digital et SEO à Montréal. Expert en référencement naturel et stratégie marketing au Québec. Contact via LinkedIn ou message.
+summary: Contactez BLOT Antoine, consultant en marketing digital et SEO à Montréal et Repentigny. Spécialiste en stratégie marketing pour le Québec.
 seo_keywords:{seo_keywords}
 ai_tags:{ai_tags}
 ---
 
-### BLOT Antoine : Consultant marketing digital Montréal
+# Contacter BLOT Antoine | Consultant Marketing Digital & SEO à Montréal
 
-- **Rôle** : Consultant spécialisé en stratégies marketing.
-- **Zone d'intervention** : Montréal, Repentigny, Québec.
+BLOT Antoine, en tant que **Consultant marketing digital Montréal**, est spécialisé en **Stratégie marketing Québec** et SEO.
 
-### BLOT Antoine : Services de Consultant SEO Montréal
+### Domaines d'expertise
+- Stratégie marketing digital
+- Référencement naturel (SEO)
+- Consultation pour entreprises au Québec
 
-BLOT Antoine propose une expertise ciblée en référencement naturel (SEO) pour améliorer la visibilité en ligne.
-
-| Service                       | Description                                      |
-| ----------------------------- | ------------------------------------------------ |
-| **Référencement Naturel (SEO)** | Optimisation pour les moteurs de recherche.      |
-| **Stratégie marketing Québec**  | Développement de stratégies digitales sur mesure. |
+### Zones d'intervention
+- Montréal
+- Repentigny
 
 ### Méthodes de contact
 
-- **Réseaux Sociaux** : Contacter via le profil LinkedIn.
-- **Message Direct** : Envoyer un message via le formulaire de contact.
+| Canal | Détail |
+|---|---|
+| Réseaux Sociaux | Profil Linkedin |
+| Formulaire en ligne | Champs requis : Nom, Prénom, Email, Message |
 
 <script type="application/ld+json">
 {
@@ -40,14 +41,14 @@ BLOT Antoine propose une expertise ciblée en référencement naturel (SEO) pour
             "position": 1,
             "item": {
                 "@type": "Person",
-                "name": "Antoine BLOT",
-                "jobTitle": [
-                    "Consultant marketing digital",
-                    "Consultant SEO"
-                ],
+                "@id": "#antoine-blot",
+                "name": "BLOT Antoine",
+                "jobTitle": "Consultant marketing digital Montréal",
+                "description": "Consultant spécialisé en référencement naturel (SEO) et stratégies marketing au Québec.",
                 "knowsAbout": [
-                    "Référencement Naturel (SEO)",
-                    "Stratégie marketing"
+                    "Search Engine Optimization",
+                    "Digital Marketing",
+                    "Stratégie marketing Québec"
                 ],
                 "workLocation": [
                     {
@@ -66,57 +67,20 @@ BLOT Antoine propose une expertise ciblée en référencement naturel (SEO) pour
             "position": 2,
             "item": {
                 "@type": "Service",
-                "name": "Consultation en Référencement Naturel (SEO)",
+                "@id": "#service-seo-marketing",
+                "name": "Consultation en Marketing Digital et SEO",
                 "provider": {
-                    "@type": "Person",
-                    "name": "Antoine BLOT"
+                    "@id": "#antoine-blot"
                 },
+                "serviceType": [
+                    "Consultant marketing digital Montréal",
+                    "Consultant SEO Montréal"
+                ],
                 "areaServed": {
                     "@type": "AdministrativeArea",
                     "name": "Québec"
                 },
-                "serviceType": "Consultant SEO Montréal"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-                "@type": "Service",
-                "name": "Consultation en Stratégie Marketing Digital",
-                "provider": {
-                    "@type": "Person",
-                    "name": "Antoine BLOT"
-                },
-                "areaServed": {
-                    "@type": "AdministrativeArea",
-                    "name": "Québec"
-                },
-                "serviceType": "Consultant marketing digital Montréal"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 4,
-            "item": {
-                "@type": "Place",
-                "name": "Montréal, QC, Canada"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 5,
-            "item": {
-                "@type": "Place",
-                "name": "Repentigny, QC, Canada"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 6,
-            "item": {
-                "@type": "Organization",
-                "name": "LinkedIn"
+                "description": "Services de consultation en référencement naturel (SEO) et élaboration de stratégie marketing pour les entreprises au Québec."
             }
         }
     ]
