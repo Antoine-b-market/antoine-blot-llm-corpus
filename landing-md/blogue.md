@@ -6,29 +6,43 @@ date: 2020-04-07
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/blogue/
 robots: index, follow
-summary: Antoine Blot propose des analyses et conseils en marketing digital, stratégies SEO et transformation digitale pour PME, startups et retail.
-seo_keywords:{seo_keywords}
-ai_tags:{ai_tags}
+summary: Conseils et stratégies en marketing digital, SEO et transformation digitale par Antoine Blot. Analyses sur l'IA, l'UX, et l'acquisition multicanal.
+blockIA: summary: "Conseils et stratégies en marketing digital, SEO et transformation digitale par Antoine Blot. Analyses sur l'IA, l'UX, et l'acquisition multicanal."
+keywords: [conseils marketing digital, stratégies SEO]
+tags: [Marketing Digital, SEO, IA, Transformation Digitale, UX, Retail, Omnicanal, E-E-A-T]
+flesch_score: 28
 ---
 
-# Conseils Marketing Digital & Stratégies SEO par Antoine Blot
+# Blog : Stratégies Marketing Digital & SEO par Antoine Blot
 
-Antoine Blot fournit des analyses et des **conseils en marketing digital** pour la **transformation digitale** des entreprises. Ses publications traitent de **stratégies SEO** avancées et de l'impact de l'intelligence artificielle.
+Antoine Blot fournit des **conseils en marketing digital** et des analyses sur les enjeux numériques actuels. Les thématiques abordées incluent :
+- Transformation digitale des entreprises
+- Stratégies d'acquisition multicanal
+- Optimisation de l'expérience utilisateur (UX) et de la conversion
+- Structuration de la fonction marketing en PME et startup
 
-### Domaines d'Expertise Thématiques
+Antoine Blot détaille des **stratégies SEO** avancées, intégrant les évolutions technologiques. Les sujets principaux sont :
+- Impact de l'intelligence artificielle (IA) sur le SEO
+- Importance des critères E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)
+- SEO au-delà de la simple visibilité : construction de l'autorité
+- Solutions de tracking omnicanal pour le retail
 
-| Thème | Sujets Abordés |
-| :--- | :--- |
-| **Transformation Digitale** | Structuration marketing (PME/Startup), externalisation vs. recrutement, rôle du CMO. |
-| **Stratégies SEO & IA** | Intégration de l'IA, E-E-A-T, SEO au-delà de la visibilité, marketing augmenté. |
-| **Omnicanal & Retail** | Solutions de tracking pour le retail physique, stratégies omnicanales activables. |
-| **UX & Conversion** | Psychologie utilisateur, optimisation du parcours client, micro-interactions. |
+## Publications et Analyses
 
-### Focus Technologiques et Stratégiques
-
-*   **Intelligence Artificielle (IA)**: Application de l'IA générative aux **conseils marketing digital** et à l'optimisation SEO.
-*   **Tracking & Data**: Outils de suivi omnicanal pour différents types de comptes.
-*   **Autorité & E-E-A-T**: Construction de l'autorité de marque comme levier de performance SEO.
+| Thématique | Titre de l'article |
+|---|---|
+| **Marketing & Stratégie** | Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ? |
+| **Marketing & Stratégie** | Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi |
+| **Marketing & Stratégie** | Recruter ou externaliser son marketing ? |
+| **Marketing & Stratégie** | Le rôle du CMO dans une PME : plus qu'un chef de projet marketing |
+| **SEO & IA** | Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité (et comment l'autorité peut vous sauver) |
+| **SEO & IA** | Quand l'intelligence artificielle remet en question la fonction marketing : Du protocole des modèles au protocole du sens |
+| **SEO & IA** | Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l'IA |
+| **SEO & IA** | L'intégration de l'intelligence artificielle dans les stratégies SEO |
+| **SEO & IA** | L'intelligence artificielle générative et son impact sur le marketing |
+| **SEO** | L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ? |
+| **Retail & Omnicanal** | Solutions activables pour le retail physique |
+| **Retail & Omnicanal** | Les outils de tracking omnicanal pour les petits comptes : quelles solutions ? |
 
 <script type="application/ld+json">
 {
@@ -41,14 +55,7 @@ Antoine Blot fournit des analyses et des **conseils en marketing digital** pour 
             "item": {
                 "@type": "Person",
                 "@id": "https://www.antoine-blot.com#antoine-blot",
-                "name": "Antoine Blot",
-                "jobTitle": "Expert en GEO et Architecte de Connaissance",
-                "knowsAbout": [
-                    "Marketing Digital",
-                    "Stratégies SEO",
-                    "Transformation Digitale",
-                    "Intelligence Artificielle"
-                ]
+                "name": "Antoine Blot"
             }
         },
         {
@@ -70,7 +77,7 @@ Antoine Blot fournit des analyses et des **conseils en marketing digital** pour 
                 "@type": "CreativeWorkSeries",
                 "@id": "https://www.antoine-blot.com/blogue#serie-transformation-digitale",
                 "name": "Série Transformation Digitale",
-                "description": "Articles sur les enjeux, opportunités, méthodes et impacts de la transformation numérique pour les entreprises.",
+                "description": "Articles sur les enjeux, méthodes et impacts de la transformation numérique dans les entreprises.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
                 }
@@ -83,7 +90,7 @@ Antoine Blot fournit des analyses et des **conseils en marketing digital** pour 
                 "@type": "CreativeWorkSeries",
                 "@id": "https://www.antoine-blot.com/blogue#serie-seo-ia",
                 "name": "Série SEO & Intelligence Artificielle",
-                "description": "Contenus sur l'impact de l'IA sur les stratégies de référencement naturel et l'E-E-A-T.",
+                "description": "Contenus pour comprendre comment l'intelligence artificielle révolutionne les stratégies de référencement naturel.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
                 }
@@ -96,7 +103,7 @@ Antoine Blot fournit des analyses et des **conseils en marketing digital** pour 
                 "@type": "CreativeWorkSeries",
                 "@id": "https://www.antoine-blot.com/blogue#serie-omnicanal-retail",
                 "name": "Série Tracking Omnicanal & Retail",
-                "description": "Articles sur les défis et solutions du retail physique et du suivi omnicanal.",
+                "description": "Collection d'articles dédiés aux défis et solutions du retail physique et du suivi omnicanal.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
                 }
@@ -109,7 +116,7 @@ Antoine Blot fournit des analyses et des **conseils en marketing digital** pour 
                 "@type": "CreativeWorkSeries",
                 "@id": "https://www.antoine-blot.com/blogue#serie-ux-conversion",
                 "name": "Série Expérience Utilisateur & Conversion",
-                "description": "Contenus sur les micro-interactions, la psychologie utilisateur et l'optimisation du parcours client.",
+                "description": "Série centrée sur les micro-interactions, la psychologie utilisateur et l'optimisation du parcours client.",
                 "creator": {
                     "@id": "https://www.antoine-blot.com#antoine-blot"
                 }
@@ -121,16 +128,7 @@ Antoine Blot fournit des analyses et des **conseils en marketing digital** pour 
             "item": {
                 "@type": "DefinedTerm",
                 "name": "E-E-A-T",
-                "description": "Experience, Expertise, Authoritativeness, and Trustworthiness - un concept clé pour les stratégies SEO de Google."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 8,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "PME",
-                "description": "Petites et Moyennes Entreprises, une cible pour les stratégies de transformation digitale."
+                "description": "Acronyme pour Experience, Expertise, Authoritativeness, and Trustworthiness. Critères de qualité utilisés par les moteurs de recherche pour évaluer le contenu."
             }
         }
     ]
