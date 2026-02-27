@@ -7,9 +7,11 @@ updated: 2025-05-23
 canonical_url: https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/
 robots: index, follow
 summary: 
-seo_keywords:{seo_keywords}
-ai_tags:{ai_tags}
+blockIA: keywords: [optimisation parcours utilisateur, tunnel de conversion, carte du parcours utilisateur]
+flesch_score: 13
 ---
+
+<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # Parcours utilisateur
 
