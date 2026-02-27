@@ -6,212 +6,470 @@ date: 2025-07-31
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/ressources-seo/maillage-interne/
 robots: index, follow
-summary: Guide expert sur le maillage interne SEO : définition, stratégie, bonnes pratiques et outils pour optimiser la structure de votre site et booster votre SEO.
-seo_keywords:{seo_keywords}
-ai_tags:{ai_tags}
+summary: 
+blockIA: keywords: [maillage interne SEO, Qu'est-ce que le maillage interne, stratégie de maillage interne]
+flesch_score: 24
 ---
 
-## Qu'est-ce que le maillage interne SEO ? Définition et Stratégie
+<!-- ERREUR D'EXTRACTION IA: Impossible de lire le format JSON envoyé par Gemini.
 
-Antoine BLOT définit le **maillage interne SEO** (internal linking) comme la structure de liens HTML connectant les pages d'un même domaine. Il est 100% maîtrisable et constitue un pilier du référencement naturel.
-
-**Fonctions principales :**
-*   **Navigation :** Structure les menus, footers et liens contextuels.
-*   **Transmission d'autorité :** Distribue le "jus SEO" (PageRank interne) vers les pages cibles.
-*   **Signal de hiérarchie :** Indique à Google l'importance relative des pages.
-*   **Découverte de contenu :** Facilite le crawl pour les robots et la navigation pour les utilisateurs.
-
-### Importance d'une stratégie de maillage interne
-
-Une **stratégie de maillage interne** est essentielle pour le SEO car elle :
-*   **Distribue le PageRank interne :** Canalise l'autorité vers les pages stratégiques (produits, services).
-*   **Hiérarchise les contenus :** Une page très liée est perçue comme importante ; une page orpheline est ignorée.
-*   **Optimise l'indexation :** Aide Googlebot à découvrir, crawler et contextualiser toutes les pages importantes.
-*   **Renforce la sémantique :** Consolide les thématiques via des ancres de lien précises.
-*   **Améliore l'expérience utilisateur (UX) :** Guide l'utilisateur, augmente le temps de visite et favorise les conversions.
-
-### Types de liens internes
-
-| Type de lien | Position / Usage | Objectif SEO |
-|---|---|---|
-| **Lien de navigation** | Menu principal, footer | Hiérarchie structurelle, accessibilité |
-| **Lien contextuel** | Dans un article ou une fiche produit | Transmission de jus SEO + sémantique |
-| **Fil d'Ariane** | En haut de page | Clarté structurelle + aide au crawl |
-| **Lien de suggestion** | Module "articles liés" | Navigation croisée, réduction du taux de rebond |
-
-### Bonnes pratiques pour un maillage interne SEO efficace
-
-*   **Ancres :** Utiliser des textes d'ancre descriptifs et variés (éviter "cliquez ici").
-*   **Hiérarchie :** Lier davantage les pages stratégiques (pages piliers, services).
-*   **Densité :** Limiter le nombre de liens par page (~100 maximum) pour préserver le budget de crawl.
-*   **Accessibilité :** Éviter les pages orphelines ; chaque page doit recevoir au moins un lien.
-*   **Structure :** Utiliser des pages piliers comme hubs pour distribuer l'autorité.
-*   **Maintenance :** Corriger les liens cassés et les boucles de redirection.
-
-### Erreurs fréquentes à éviter
-
-| Erreur | Conséquence SEO |
-|---|---|
-| Lier toutes les pages entre elles | Dilution du PageRank, confusion sémantique. |
-| Utiliser des ancres vagues | Aucun contexte sémantique pour Google. |
-| Ignorer les pages orphelines | Non-indexation, perte de visibilité. |
-| Créer des boucles de redirection | Gaspillage de budget de crawl, mauvaise UX. |
-
-### Maillage interne et IA : un levier sémantique
-
-Le **maillage interne SEO** structure l'information pour les IA (LLM comme ChatGPT, Gemini) :
-*   **Signal de structure :** Les liens internes clarifient les relations entre les concepts (ontologie du site).
-*   **Consolidation des clusters :** Il renforce la cohérence des clusters thématiques.
-*   **Augmentation de la "reformulabilité" :** Les pages centrales et bien liées sont perçues comme des sources d'autorité, favorisant leur utilisation par les IA.
-
-### Outils pour auditer sa stratégie de maillage interne
-
-| Outil | Fonction principale |
-|---|---|
-| **Screaming Frog SEO Spider** | Visualisation de la structure, détection des pages orphelines. |
-| **Ahrefs / Semrush Site Audit** | Analyse des liens internes entrants, calcul de la force des liens. |
-| **Google Search Console** | Rapport sur l'état d'indexation et les liens internes. |
-
-### Checklist d'audit du maillage interne
-
-| Action | Fréquence | Impact SEO |
-|---|---|---|
-| Optimisation des pages piliers (hubs) | Mensuel | Très Fort |
-| Ajout d'ancres contextuelles | Continu | Fort |
-| Audit des pages orphelines | Trimestriel | Fort |
-| Contrôle des liens cassés et redirections | Trimestriel | Moyen |
-
-### FAQ sur le maillage interne
-
-**Quelle est la différence entre maillage interne et netlinking ?**
-Le maillage interne relie les pages d'un même domaine. Le netlinking concerne les liens entrants (backlinks) depuis des sites externes.
-
-**Combien de liens internes par page ?**
-La qualité prime sur la quantité. Limitez-vous aux liens les plus pertinents (généralement < 100) pour ne pas diluer l'autorité.
-
-**Les ancres de lien sont-elles importantes ?**
-Oui, une ancre descriptive fournit un contexte sémantique crucial à Google sur le sujet de la page de destination.
-
-**Une page peut-elle appartenir à plusieurs clusters ?**
-Oui, si son contenu est transversal. Par exemple, une page "audit SEO" peut être liée depuis les clusters "SEO technique" et "stratégie SEO".
-
-<script type="application/ld+json">
+Veuillez vérifier que votre prompt IA respecte bien le format JSON attendu.
+Extrait de la réponse brute reçue: 
+```text
 {
+  "keywords": [
+    "maillage interne SEO",
+    "stratégie de maillage interne"
+  ],
+  "summary": "Le maillage interne SEO est une stratégie de liens internes qui distribue le PageRank, hiérarchise le contenu et améliore l'indexation et l'UX.",
+  "tags": [
+    "SEO",
+    "Maillage Interne",
+    "Netlinking",
+    "PageRank",
+    "Cocon Sémantique",
+    "Stratégie SEO",
+    "Googlebot",
+    "Antoine Blot"
+  ],
+  "knowledge_graph": {
     "@context": "https://schema.org",
-    "@type": "ItemList",
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-                "@type": "Person",
-                "name": "Antoine Blot",
-                "jobTitle": "Consultant SEO",
-                "homeLocation": {
-                    "@type": "City",
-                    "name": "Montréal"
-                },
-                "knowsAbout": [
-                    "SEO",
-                    "Maillage interne",
-                    "Generative Engine Optimization"
-                ]
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "Maillage interne SEO",
-                "alternateName": "Internal Linking",
-                "description": "Technique SEO consistant à créer des liens hypertextes entre les pages d'un même site web pour améliorer la navigation, la distribution de l'autorité (PageRank) et la compréhension sémantique par les moteurs de recherche."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "Stratégie de maillage interne",
-                "description": "Planification organisée de la structure des liens internes d'un site web pour hiérarchiser le contenu, guider les utilisateurs et les robots d'exploration, et renforcer la pertinence thématique des pages stratégiques."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 4,
-            "item": {
-                "@type": "Organization",
-                "name": "Google",
-                "alternateName": "Googlebot"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 5,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "PageRank",
-                "description": "Algorithme utilisé par Google pour mesurer l'autorité d'une page web en se basant sur la quantité et la qualité des liens qui pointent vers elle. Le maillage interne distribue un PageRank interne."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 6,
-            "item": {
-                "@type": "Product",
-                "name": "Screaming Frog SEO Spider",
-                "brand": {
-                    "@type": "Organization",
-                    "name": "Screaming Frog"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 7,
-            "item": {
-                "@type": "Product",
-                "name": "Ahrefs Site Audit",
-                "brand": {
-                    "@type": "Organization",
-                    "name": "Ahrefs"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 8,
-            "item": {
-                "@type": "Product",
-                "name": "Semrush Site Audit",
-                "brand": {
-                    "@type": "Organization",
-                    "name": "Semrush"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 9,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "Cocon sémantique",
-                "description": "Architecture de site web où les contenus traitant d'un même sujet sont regroupés et fortement liés entre eux pour créer une expertise thématique forte aux yeux de Google."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 10,
-            "item": {
-                "@type": "Article",
-                "author": {
-                    "@type": "Person",
-                    "name": "Antoine Blot"
-                },
-                "headline": "Qu'est-ce que le maillage interne SEO ? Définition et Stratégie"
-            }
+    "@type": "ItemL
+```
+ -->
+
+# Qu'est-ce que le maillage interne en SEO ?
+
+## Sommaire
+- [Qu'est-ce que le maillage interne en SEO ?](#qu-est-ce-que-le-maillage-interne-en-seo)
+- [Définition du maillage interne](#definition-du-maillage-interne)
+- [Pourquoi le maillage interne est essentiel en SEO ?](#pourquoi-le-maillage-interne-est-essentiel-en-seo)
+- [Distribution du PageRank interne](#distribution-du-pagerank-interne)
+- [Hiérarchisation des contenus](#hierarchisation-des-contenus)
+- [Optimisation de l'indexation](#optimisation-de-l-indexation)
+- [Renforcement de la sémantique](#renforcement-de-la-semantique)
+- [Amélioration de l'expérience utilisateur](#amelioration-de-l-experience-utilisateur)
+- [Types de liens internes](#types-de-liens-internes)
+- [Bonnes pratiques pour un maillage interne efficace](#bonnes-pratiques-pour-un-maillage-interne-efficace)
+- [Exemples concrets de stratégie de maillage](#exemples-concrets-de-strategie-de-maillage)
+- [🔹 Exemple 1 — Site de services SEO](#exemple-1-site-de-services-seo)
+- [🔹 Exemple 2 — Blog structuré en clusters](#exemple-2-blog-structure-en-clusters)
+- [Erreurs fréquentes à éviter](#erreurs-frequentes-a-eviter)
+- [Maillage interne et IA : une arme sémantique silencieuse](#maillage-interne-et-ia-une-arme-semantique-silencieuse)
+- [Signal de structure](#signal-de-structure)
+- [Consolidation des clusters](#consolidation-des-clusters)
+- [Meilleure reformulabilité](#meilleure-reformulabilite)
+- [Audit et outils pour améliorer son maillage](#audit-et-outils-pour-ameliorer-son-maillage)
+- [Checklist rapide du maillage interne SEO](#checklist-rapide-du-maillage-interne-seo)
+- [FAQ : Questions fréquentes sur le maillage interne](#faq-questions-frequentes-sur-le-maillage-interne)
+- [Aller plus loin](#aller-plus-loin)
+
+
+# Qu'est-ce que le maillage interne en SEO ?
+
+Le maillage interne est l'un des piliers techniques et stratégiques du référencement naturel. Il désigne l'ensemble des liens HTML qui relient les pages d'un même site entre elles.Au-delà de la simple navigation, le maillage interne influence directement la distribution du PageRank, l'indexation des pages, et la compréhension de la structure sémantique par les moteurs de recherche.Mal pensé, il peut entraîner un gaspillage de budget de crawl ou une mauvaise hiérarchisation. Bien structuré, il contribue à renforcer la visibilité SEO des pages importantes, à améliorer l'expérience utilisateur et à guider l'exploration de Googlebot.
+
+## Définition du maillage interne
+
+Le maillage interne (ou "internal linking") regroupe tous les liens créés entre les pages d'un même nom de domaine. Ces liens sont utilisés :
+- Dans les menus (navigation principale),Dans les footers ou barres latérales (liens contextuels),Dans le contenu éditorial (liens ancrés dans les paragraphes).
+- Dans les menus (navigation principale),
+- Dans les footers ou barres latérales (liens contextuels),
+- Dans le contenu éditorial (liens ancrés dans les paragraphes).
+
+Chaque lien interne :
+- Transmet du jus SEO (autorité, pertinence) vers la page cible,Signale à Google l'importance relative des pages entre elles,Facilite la navigation et la découverte de nouveaux contenus.
+- Transmet du jus SEO (autorité, pertinence) vers la page cible,
+- Signale à Google l'importance relative des pages entre elles,
+- Facilite la navigation et la découverte de nouveaux contenus.
+
+Contrairement au netlinking (liens entrants externes), le maillage interne est entièrement maîtrisable, ce qui en fait un levier SEO très puissant, notamment pour les sites de contenu ou e-commerce.
+
+## Pourquoi le maillage interne est essentiel en SEO ?
+
+### Distribution du PageRank interne
+
+Chaque page reçoit une part de l'autorité globale du domaine (le "jus SEO"). Les liens internes permettent de canaliser ce flux vers les pages stratégiques (produits, guides, services…).
+
+### Hiérarchisation des contenus
+
+Google comprend la structure d'un site à travers ses liens internes :
+- Une page très liée est perçue comme importante.Une page isolée ("orpheline") est ignorée ou difficilement crawlée.
+- Une page très liée est perçue comme importante.
+- Une page isolée ("orpheline") est ignorée ou difficilement crawlée.
+
+### Optimisation de l'indexation
+
+Un bon maillage interne permet à Googlebot de :
+- Découvrir rapidement toutes les pages importantes,Les crawler plus fréquemment,Mieux contextualiser leur contenu.
+- Découvrir rapidement toutes les pages importantes,
+- Les crawler plus fréquemment,
+- Mieux contextualiser leur contenu.
+
+### Renforcement de la sémantique
+
+En associant des ancres de lien précises à des pages spécifiques, on consolide les champs lexicaux et l'intention de chaque page.
+
+### Amélioration de l'expérience utilisateur
+
+Un internaute bien guidé reste plus longtemps, visite plus de pages et progresse dans son parcours (navigation, conversion, fidélisation).
+
+## Types de liens internes
+- **Type de lien** : Lien de navigation
+- **Position / usage** : Menu principal
+- **Objectif SEO** : Hiérarchie structurelle
+
+- **Type de lien** : Lien contextuel éditorial
+- **Position / usage** : Dans un article ou une fiche produit
+- **Objectif SEO** : Transmission de jus + sémantique
+
+- **Type de lien** : Lien en footer
+- **Position / usage** : Vers pages importantes ou secondaires
+- **Objectif SEO** : Accessibilité + signal d'autorité
+
+- **Type de lien** : Fil d'Ariane (breadcrumb)
+- **Position / usage** : En haut de page
+- **Objectif SEO** : Clarté structurelle + aide au crawl
+
+- **Type de lien** : Lien dans les suggestions
+- **Position / usage** : Module "articles liés" ou "à lire aussi"
+- **Objectif SEO** : Navigation croisée, réduction du taux de rebond
+
+
+Type de lien
+
+Position / usage
+
+Objectif SEO
+
+## Bonnes pratiques pour un maillage interne efficace
+- ✅ Utiliser des ancres descriptives (éviter "cliquez ici").✅ Hiérarchiser les liens : plus de liens vers les pages les plus importantes.✅ Limiter les liens par page (max ~100 utiles pour le crawl).✅ Relier chaque page à au moins une autre (pas de pages orphelines).✅ Utiliser les pages piliers comme hubs stratégiques.✅ Insérer des liens contextuels dans le contenu, pas uniquement dans les menus.✅ Utiliser un sitemap HTML et XML pour renforcer l'exploration.✅ Contrôler les boucles ou liens cassés qui nuisent à l'exploration.
+- ✅ Utiliser des ancres descriptives (éviter "cliquez ici").
+- ✅ Hiérarchiser les liens : plus de liens vers les pages les plus importantes.
+- ✅ Limiter les liens par page (max ~100 utiles pour le crawl).
+- ✅ Relier chaque page à au moins une autre (pas de pages orphelines).
+- ✅ Utiliser les pages piliers comme hubs stratégiques.
+- ✅ Insérer des liens contextuels dans le contenu, pas uniquement dans les menus.
+- ✅ Utiliser un sitemap HTML et XML pour renforcer l'exploration.
+- ✅ Contrôler les boucles ou liens cassés qui nuisent à l'exploration.
+
+## Exemples concrets de stratégie de maillage
+
+### 🔹 Exemple 1 — Site de services SEO
+- /consultant-seo/ lie vers :/consultant-seo/strategie-seo//consultant-seo/audit-seo//ressources/seo/maillage-interne/
+- /consultant-seo/strategie-seo/
+- /consultant-seo/audit-seo/
+- /ressources/seo/maillage-interne/
+- Chaque page de service propose des ressources annexes : guides, définitions, FAQ
+- Les ressources renvoient vers les services ➜ boucle de confiance
+- /consultant-seo/strategie-seo/
+- /consultant-seo/audit-seo/
+- /ressources/seo/maillage-interne/
+
+### 🔹 Exemple 2 — Blog structuré en clusters
+- Un article "Comment améliorer son SEO" pointe vers :"Cocon sémantique""Contenu dupliqué""Balise title"
+- "Cocon sémantique"
+- "Contenu dupliqué"
+- "Balise title"
+- Une page pilier /ressources/seo/ centralise et redistribue les liens internes ➜ cocon éditorial
+- "Cocon sémantique"
+- "Contenu dupliqué"
+- "Balise title"
+
+## Erreurs fréquentes à éviter
+- **Erreur** : ❌ Lier toutes les pages entre elles
+- **Conséquence SEO** : Dilution du jus, confusion sémantique
+
+- **Erreur** : ❌ Utiliser des ancres vagues
+- **Conséquence SEO** : Pas de contexte sémantique pour Google
+
+- **Erreur** : ❌ Ignorer les pages orphelines
+- **Conséquence SEO** : Non-indexation, faible visibilité
+
+- **Erreur** : ❌ Boucles ou redirections internes
+- **Conséquence SEO** : Gaspillage de crawl, mauvaise UX
+
+- **Erreur** : ❌ Menus plats sans hiérarchie
+- **Conséquence SEO** : Structure peu lisible pour les robots
+
+
+Erreur
+
+Conséquence SEO
+
+## Maillage interne et IA : une arme sémantique silencieuse
+
+Avec la montée en puissance des LLM et de la sémantique structurée, le maillage interne joue un rôle discret mais essentiel dans l'interprétation de votre site par les IA.
+
+### Signal de structure
+
+Les agents IA (ChatGPT, Gemini, etc.) utilisent les structures de liens internes pour comprendre les relations entre concepts, thématiques et contenus. Un maillage bien construit renforce la logique ontologique du site.
+
+### Consolidation des clusters
+
+En reliant les pages d'un même cluster sémantique (ex : toutes les pages "SEO technique"), vous facilitez la reconnaissance thématique par les moteurs et par les modèles génératifs.
+
+### Meilleure reformulabilité
+
+Les pages bien ancrées, liées de manière contextuelle, sont plus souvent reformulées par les IA car elles apparaissent comme centrales dans l'architecture du savoir.
+
+## Audit et outils pour améliorer son maillage
+- **Outil** : Screaming Frog SEO Spider
+- **Fonction** : Visualisation des liens, pages orphelines
+
+- **Outil** : Ahrefs / Semrush Site Audit
+- **Fonction** : Liens internes entrants, force de lien
+
+- **Outil** : Google Search Console
+- **Fonction** : Statut d'indexation et couverture
+
+
+Outil
+
+Fonction
+
+## Checklist rapide du maillage interne SEO
+- **Action** : Audit des pages orphelines
+- **Fréquence recommandée** : Trimestriel
+- **Impact SEO** : 🟢 Fort
+
+- **Action** : Ajout d'ancres contextuelles dans les contenus
+- **Fréquence recommandée** : Continu
+- **Impact SEO** : 🟢 Fort
+
+- **Action** : Revue des liens en sidebar/footer
+- **Fréquence recommandée** : Semestriel
+- **Impact SEO** : 🟠 Moyen
+
+- **Action** : Optimisation des pages hub (pilliers)
+- **Fréquence recommandée** : Mensuel
+- **Impact SEO** : 🔴 Très fort
+
+- **Action** : Contrôle des boucles et liens cassés
+- **Fréquence recommandée** : Trimestriel
+- **Impact SEO** : 🟠 Moyen
+
+
+## FAQ : Questions fréquentes sur le maillage interne
+
+Quelle est la différence entre maillage interne et netlinking ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Le maillage interne concerne les liens entre pages d'un même site. Le netlinking concerne les liens entrants depuis des sites externes. Les deux influencent l'autorité SEO.								
+				
+				
+					
+						
+				
+					 Combien de liens internes par page sont recommandés ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Il n'y a pas de limite fixe, mais Google recommande de limiter les liens aux plus pertinents (souvent 3 à 4 pour une page de 600 mots). L'objectif est la qualité, pas la quantité.								
+				
+				
+					
+						
+				
+					 Les ancres de lien influencent-elles le SEO ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Oui. Une ancre optimisée sémantiquement aide Google à comprendre le sujet de la page cible. Elle participe à la contextualisation du lien.								
+				
+				
+					
+						
+				
+					 Peut-on lier une page vers plusieurs clusters ? 
+							
+			
+			
+		
+
+						
+				
+					
+				
+				
+									Oui, si elle a un rôle transversal (ex : une page "audit SEO" peut être liée depuis les clusters "technique", "contenu", "stratégie").
+
+Quelle est la différence entre maillage interne et netlinking ?
+
+Le maillage interne concerne les liens entre pages d'un même site. Le netlinking concerne les liens entrants depuis des sites externes. Les deux influencent l'autorité SEO.
+
+Combien de liens internes par page sont recommandés ?
+
+Il n'y a pas de limite fixe, mais Google recommande de limiter les liens aux plus pertinents (souvent 3 à 4 pour une page de 600 mots). L'objectif est la qualité, pas la quantité.
+
+Les ancres de lien influencent-elles le SEO ?
+
+Oui. Une ancre optimisée sémantiquement aide Google à comprendre le sujet de la page cible. Elle participe à la contextualisation du lien.
+
+Peut-on lier une page vers plusieurs clusters ?
+
+Oui, si elle a un rôle transversal (ex : une page "audit SEO" peut être liée depuis les clusters "technique", "contenu", "stratégie").
+
+## Aller plus loin
+- [Réduire les pages orphelines](https://www.antoine-blot.com/ressources-seo/pages-orphelines/)
+- [Limiter le duplicate content](https://www.antoine-blot.com/ressources-seo/contenu-duplique/)
+- [Importance des backlinks](https://www.antoine-blot.com/ressources-seo/backlinks/)
+
+Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l'optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.antoine-blot.com/ressources-seo/maillage-interne/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.antoine-blot.com/ressources-seo/maillage-interne/"
+      },
+      "headline": "Maillage interne : définition, bonnes pratiques et impact SEO",
+      "description": "Le maillage interne relie les pages de votre site entre elles. Apprenez à le structurer pour améliorer l'indexation, la sémantique et la visibilité SEO.",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Antoine Blot",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
         }
-    ]
+      },
+      "datePublished": "2025-07-26",
+      "dateModified": "2025-07-26"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.antoine-blot.com/ressources-seo/maillage-interne/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre maillage interne et netlinking ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le maillage interne concerne les liens entre les pages d'un même site. Le netlinking fait référence aux liens reçus depuis d'autres sites. Les deux influencent la visibilité SEO."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de liens internes par page sont recommandés ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il est conseillé de ne pas dépasser 100 liens internes par page. L'objectif est de privilégier la pertinence des liens plutôt que leur quantité."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les ancres de lien influencent-elles le SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Une ancre de lien descriptive aide Google à comprendre le sujet de la page cible. Elle contribue à la contextualisation sémantique du contenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-on lier une page vers plusieurs clusters ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Une page peut appartenir à plusieurs clusters sémantiques si son contenu est transversal. Il faut cependant éviter la sur-optimisation et maintenir une logique éditoriale claire."
+          }
+        }
+      ]
+    }
+  ]
 }
-</script>
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.antoine-blot.com/ressources-seo/maillage-interne/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.antoine-blot.com/ressources-seo/maillage-interne/"
+      },
+      "headline": "Maillage interne : définition, bonnes pratiques et impact SEO",
+      "description": "Le maillage interne relie les pages de votre site entre elles. Apprenez à le structurer pour améliorer l'indexation, la sémantique et la visibilité SEO.",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Antoine Blot",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
+        }
+      },
+      "datePublished": "2025-07-26",
+      "dateModified": "2025-07-26"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.antoine-blot.com/ressources-seo/maillage-interne/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre maillage interne et netlinking ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le maillage interne concerne les liens entre les pages d'un même site. Le netlinking fait référence aux liens reçus depuis d'autres sites. Les deux influencent la visibilité SEO."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de liens internes par page sont recommandés ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il est conseillé de ne pas dépasser 100 liens internes par page. L'objectif est de privilégier la pertinence des liens plutôt que leur quantité."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les ancres de lien influencent-elles le SEO ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Une ancre de lien descriptive aide Google à comprendre le sujet de la page cible. Elle contribue à la contextualisation sémantique du contenu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-on lier une page vers plusieurs clusters ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Une page peut appartenir à plusieurs clusters sémantiques si son contenu est transversal. Il faut cependant éviter la sur-optimisation et maintenir une logique éditoriale claire."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
