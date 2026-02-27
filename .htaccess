@@ -1,4 +1,7 @@
 DirectoryIndex index.html index.php
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .md .txt .yaml .yml .json .html
 <FilesMatch "\.(md|txt|yaml|yml|json|html|php)$">
+    AddType 'text/markdown; charset=UTF-8' .md
     Require all granted
 </FilesMatch>
