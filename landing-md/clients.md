@@ -6,43 +6,39 @@ date: 2025-12-29
 updated: 2025-12-29
 canonical_url: https://www.antoine-blot.com/clients/
 robots: index, follow
-summary: BLOT Antoine, Expert SEO à Montréal. Offre un accompagnement SEO pour PME et une consultation en stratégie marketing au Québec. +10 ans, +300 clients.
-seo_keywords:{seo_keywords}
-ai_tags:{ai_tags}
+summary: BLOT Antoine, expert SEO à Montréal, propose un accompagnement pour PME en stratégie marketing et transformation digitale au Québec et en France.
+blockIA: summary: "BLOT Antoine, expert SEO à Montréal, propose un accompagnement pour PME en stratégie marketing et transformation digitale au Québec et en France."
+keywords: [Expert SEO Montréal, Consultant stratégie marketing Québec]
+tags: [SEO, Marketing Digital, Consultant SEO, Stratégie de contenu, PME, Montréal, Québec]
+flesch_score: 13
 ---
 
-### BLOT Antoine : Expert SEO Montréal et Consultant en Stratégie Marketing Québec
+# BLOT Antoine : Expert SEO Montréal & Consultant Stratégie Marketing Québec
 
-- **Expérience** : +10 ans
-- **Clients** : +300 entreprises, startups, organisations
-- **Localisation** : Basé à Montréal
-- **Zones d'intervention** : Québec, France
-- **Objectifs** : Visibilité, croissance, cohérence de marque
+BLOT Antoine fournit un **accompagnement SEO pour PME** et des services de consultation en stratégie marketing à Montréal, au Québec et en France.
 
-### Accompagnement SEO pour PME et Grandes Entreprises
+### Profil & Expérience
 
-L'accompagnement par BLOT Antoine en SEO et stratégie marketing se fonde sur une approche axée sur les données et l'impact mesurable.
+*   **Expertise** : +10 ans
+*   **Clients** : +300 organisations (PME, startups, sociétés internationales, SaaS)
+*   **Localisation** : Montréal, Québec
+*   **Zone d'intervention** : Québec, France
 
-| Domaine d'Intervention      | Focus Spécifique                                  |
-|-----------------------------|---------------------------------------------------|
-| **Performance SEO**         | Optimisation technique et de contenu              |
-| **Stratégie Marketing**     | Structuration marketing, stratégie de marque      |
-| **Transformation Digitale** | Accompagnement au changement numérique            |
-| **Méthodologie**            | Analyse de données, stratégie de contenu, ROI     |
+### Domaines d'intervention
 
-### Typologies de Clients et Secteurs d'Activité
+*   **Performance SEO** : Audit, stratégie de contenu, optimisation technique.
+*   **Stratégie Marketing** : Positionnement, structuration des opérations marketing.
+*   **Transformation Digitale** : Accompagnement stratégique du changement.
+*   **Stratégie de Marque** : Cohérence et visibilité de la marque.
 
-- **Profils de clients** :
-  - PME locales
-  - Entreprises SaaS
-  - Sociétés internationales
-- **Secteurs d'intervention** :
-  - Technologie
-  - Services
-  - Construction
-  - Santé
-  - Finance
-  - Éducation
+### Secteurs d'activité des clients
+
+*   Technologie
+*   Services
+*   Construction
+*   Santé
+*   Finance
+*   Éducation
 
 <script type="application/ld+json">
 {
@@ -55,19 +51,21 @@ L'accompagnement par BLOT Antoine en SEO et stratégie marketing se fonde sur un
             "item": {
                 "@type": "Person",
                 "name": "BLOT Antoine",
-                "jobTitle": "Expert SEO Montréal",
-                "description": "Consultant en stratégie marketing et SEO basé à Montréal, Québec, avec plus de 10 ans d'expérience et plus de 300 clients accompagnés.",
-                "homeLocation": {
-                    "@type": "City",
-                    "name": "Montréal"
-                },
+                "jobTitle": "Expert SEO Montréal | Consultant stratégie marketing Québec",
                 "knowsAbout": [
                     "SEO",
                     "Stratégie Marketing",
                     "Transformation Digitale",
-                    "Stratégie de marque",
-                    "Stratégie de contenu"
-                ]
+                    "Stratégie de marque"
+                ],
+                "workLocation": {
+                    "@type": "City",
+                    "name": "Montréal"
+                },
+                "nationality": {
+                    "@type": "Country",
+                    "name": "France"
+                }
             }
         },
         {
@@ -89,26 +87,12 @@ L'accompagnement par BLOT Antoine en SEO et stratégie marketing se fonde sur un
                         "@type": "Country",
                         "name": "France"
                     }
-                ],
-                "serviceType": "Search Engine Optimization"
+                ]
             }
         },
         {
             "@type": "ListItem",
             "position": 3,
-            "item": {
-                "@type": "Service",
-                "name": "Consultant stratégie marketing Québec",
-                "provider": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                },
-                "serviceType": "Marketing Strategy"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 4,
             "item": {
                 "@type": "Place",
                 "name": "Montréal"
@@ -116,26 +100,34 @@ L'accompagnement par BLOT Antoine en SEO et stratégie marketing se fonde sur un
         },
         {
             "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "AdministrativeArea",
+                "name": "Québec"
+            }
+        },
+        {
+            "@type": "ListItem",
             "position": 5,
             "item": {
-                "@type": "Place",
-                "name": "Québec"
+                "@type": "Country",
+                "name": "France"
             }
         },
         {
             "@type": "ListItem",
             "position": 6,
             "item": {
-                "@type": "Place",
-                "name": "France"
+                "@type": "DefinedTerm",
+                "name": "SEO"
             }
         },
         {
             "@type": "ListItem",
             "position": 7,
             "item": {
-                "@type": "Concept",
-                "name": "PME (Petite et Moyenne Entreprise)"
+                "@type": "DefinedTerm",
+                "name": "Stratégie Marketing"
             }
         }
     ]
