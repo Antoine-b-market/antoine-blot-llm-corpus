@@ -1,214 +1,99 @@
 ﻿---
 title: Accueil
-description: J’accompagne les entreprises dans leur croissance avec des stratégies marketing sur-mesure : SEO, direction marketing, acquisition digitale et transformation numérique.
+description: J'accompagne les entreprises dans leur croissance avec des stratégies marketing sur-mesure : SEO, direction marketing, acquisition digitale et transformation numérique.
 author: BLOT Antoine
 date: 2022-12-14
 updated: 2026-01-07
 canonical_url: https://www.antoine-blot.com/
 robots: index, follow
 summary: 
-seo_keywords:{seo_keywords}
-ai_tags:{ai_tags}
+blockIA: keywords: [Consultant SEO Montréal, Consultant marketing stratégique Montréal, Direction marketing externalisée Montréal]
+flesch_score: 11
 ---
 
-# BLOT Antoine | Consultant Marketing Stratégique & Consultant SEO Montréal
+<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
-BLOT Antoine est un consultant spécialisé en stratégie marketing et SEO/GEO à Montréal, avec plus de 10 ans d'expérience. Il intervient en tant que direction marketing externalisée pour les entreprises au Québec et au Canada.
+# Accueil
 
-**Mission** : Aligner marketing, produit et objectifs d'affaires pour une croissance durable et mesurable.
+## Sommaire
+- [Responsable marketing stratégique 
+Consultant SEO et GEO à Montréal](#responsable-marketing-strategique-consultant-seo-et-geo-a-montreal)
+- [Une stratégie marketing pilotée, pas une accumulation de leviers](#une-strategie-marketing-pilotee-pas-une-accumulation-de-leviers)
+- [Stratégie Marketing](#strategie-marketing)
+- [Transformation Digitale](#transformation-digitale)
+- [Conseil en Stratégie](#conseil-en-strategie)
+- [Regards sur le marketing, la performance et la transformation](#regards-sur-le-marketing-la-performance-et-la-transformation)
 
-### Domaines d'Expertise
 
-*   Stratégie de croissance
-*   Marketing numérique
-*   Transformation digitale
-*   Acquisition multicanale
-*   SEO (Search Engine Optimization) & GEO (Generative Engine Optimization)
-*   Marketing de marque
+# Responsable marketing stratégique 
+Consultant SEO et GEO à Montréal
 
----
+Des stratégies sur-mesure, fondées sur l'analyse, la performance et la croissance à long terme
 
-### Services de Consultation à Montréal
+Avec plus de 10 ans d'expérience en marketing numérique et stratégie de croissance, j'interviens en tant que Directeur marketing, consultant stratégique et expert SEO auprès d'entreprises ambitieuses.Ma mission : aligner marketing, produit et objectifs d'affaires pour accélérer la croissance, optimiser les performances et poser les fondations d'un marketing durable et mesurable.
 
-| Service | Description | Mots-clés associés |
-| :--- | :--- | :--- |
-| **Stratégie Marketing** | BLOT Antoine, en tant que **Consultant marketing stratégique Montréal**, conçoit des plans d'action basés sur l'analyse de marché, concurrentielle et de performance. L'objectif est de structurer et prioriser les initiatives marketing. | Analyse de marché, Plan d'action, Positionnement |
-| **Transformation Digitale** | Accompagnement dans le déploiement ou la refonte d'outils, processus et canaux digitaux. Vise à optimiser les parcours clients, automatiser les processus et améliorer la mesurabilité du marketing. | Automatisation, Parcours client, Scalabilité |
-| **Conseil & Direction Marketing Externalisée** | BLOT Antoine offre un service de **Direction marketing externalisée à Montréal**, agissant comme sparring partner pour valider un positionnement, cadrer une refonte de site, ou définir des priorités de croissance. | Prise de décision, Croissance, Refonte de site |
+Spécialisé en transformation digitale, acquisition multicanale, SEO et marketing de marque, j'interviens du cadrage stratégique jusqu'au pilotage et à la supervision des initiatives, en m'adaptant aux enjeux spécifiques des entreprises québécoises et canadiennes.
 
-### Approche Méthodologique
+## Une stratégie marketing pilotée, pas une accumulation de leviers
 
-*   **Pilotage Stratégique** : Priorisation et arbitrage des actions plutôt qu'accumulation de leviers.
-*   **Sur-mesure** : Plans d'action fondés sur la data, les enjeux business et les ressources internes.
-*   **Orienté Résultats** : Le marketing est positionné comme un levier de croissance aligné sur les priorités commerciales.
+Chaque mission est construite sur mesure, avec une approche orientée résultats.Je ne propose pas de recettes toutes faites, mais des plans d'action sur-mesure, fondés sur la data, les enjeux business et les ressources internes.
 
----
+Mon rôle n'est pas d'empiler des actions, mais de prioriser, arbitrer et piloter des plans d'action sur mesure. Pour faire du marketing un levier de croissance aligné avec vos priorités commerciales.
 
-### Analyses et Publications
+.cls-637b7f18f95e86b59c57a008-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}
 
-BLOT Antoine analyse les tendances du marketing, de la performance et de la transformation.
+### Stratégie Marketing
 
-*   **Externalisation Marketing** : Stratégie ou plafond de verre pour la PME ? (26/01/2026)
-*   **SEO & Autorité** : Pourquoi la visibilité est une commodité. (31/12/2025)
-*   **IA & Marketing** : Du protocole des modèles au protocole du sens. (08/10/2025)
-*   **Structuration Marketing** : Qui fait quoi dans une PME/startup. (25/07/2025)
-*   **SEO & IA** : Vers une stratégie marketing augmentée. (05/07/2025)
-*   **Intégration IA en SEO** (20/05/2025)
-*   **E-E-A-T en SEO** : Booster le référencement. (29/04/2025)
-*   **IA Générative & Marketing** : Impact et applications. (04/03/2025)
-*   **Retail Physique** : Solutions activables. (19/02/2025)
-*   **Tracking Omnicanal** : Solutions pour petits comptes. (01/02/2025)
+Je conçois et j'oriente des stratégies marketing adaptées à votre contexte, vos cibles et vos capacités internes. Cela passe par une analyse approfondie de votre marché, de vos concurrents et de vos performances actuelles, pour définir un plan d'action réaliste, structuré et priorisé.
 
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-                "@type": "Person",
-                "name": "BLOT Antoine",
-                "jobTitle": [
-                    "Consultant SEO Montréal",
-                    "Consultant marketing stratégique Montréal",
-                    "Directeur marketing externalisé"
-                ],
-                "description": "Expert en marketing stratégique, SEO, GEO et transformation digitale à Montréal, avec plus de 10 ans d'expérience.",
-                "knowsAbout": [
-                    "Marketing Stratégique",
-                    "SEO",
-                    "GEO",
-                    "Transformation Digitale",
-                    "Acquisition multicanale",
-                    "Marketing de marque",
-                    "E-E-A-T",
-                    "Intelligence Artificielle"
-                ],
-                "address": {
-                    "@type": "PostalAddress",
-                    "addressLocality": "Montréal",
-                    "addressRegion": "QC",
-                    "addressCountry": "CA"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-                "@type": "Service",
-                "name": "Consultant marketing stratégique Montréal",
-                "serviceType": "Stratégie Marketing",
-                "provider": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                },
-                "areaServed": {
-                    "@type": "Place",
-                    "name": [
-                        "Montréal",
-                        "Québec",
-                        "Canada"
-                    ]
-                },
-                "description": "Conception de stratégies marketing sur-mesure basées sur l'analyse de marché, la data et les objectifs d'affaires."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-                "@type": "Service",
-                "name": "Consultant SEO & GEO Montréal",
-                "serviceType": "Search Engine Optimization",
-                "provider": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                },
-                "areaServed": {
-                    "@type": "Place",
-                    "name": "Montréal"
-                },
-                "description": "Optimisation pour les moteurs de recherche (SEO) et les moteurs génératifs (GEO) pour améliorer la visibilité et l'autorité en ligne."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 4,
-            "item": {
-                "@type": "Service",
-                "name": "Direction marketing externalisée Montréal",
-                "serviceType": "Conseil en Stratégie",
-                "provider": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                },
-                "areaServed": {
-                    "@type": "Place",
-                    "name": "Montréal"
-                },
-                "description": "Intervention en tant que directeur marketing externalisé pour piloter la stratégie, organiser les équipes et définir les priorités de croissance."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 5,
-            "item": {
-                "@type": "Service",
-                "name": "Transformation Digitale",
-                "serviceType": "Conseil en transformation numérique",
-                "provider": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                },
-                "areaServed": {
-                    "@type": "Place",
-                    "name": "Montréal"
-                },
-                "description": "Accompagnement dans la refonte des outils, processus et canaux digitaux pour un marketing plus efficace, scalable et mesurable."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 6,
-            "item": {
-                "@type": "Article",
-                "headline": "Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ?",
-                "datePublished": "2026-01-26",
-                "author": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 7,
-            "item": {
-                "@type": "Article",
-                "headline": "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité (et comment l'autorité peut vous sauver)",
-                "datePublished": "2025-12-31",
-                "author": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 8,
-            "item": {
-                "@type": "Article",
-                "headline": "L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ?",
-                "datePublished": "2025-04-29",
-                "author": {
-                    "@type": "Person",
-                    "name": "BLOT Antoine"
-                }
-            }
-        }
-    ]
-}
-</script>
+En savoir plus
+
+.cls-637b83faf95e86b59c57a0f4-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}
+
+### Transformation Digitale
+
+Je vous accompagne dans le déploiement ou la refonte de vos outils, processus et canaux digitaux. L'objectif : fluidifier vos parcours clients, automatiser les actions à faible valeur ajoutée, et rendre votre marketing plus efficace, scalable et mesurable.
+
+.cls-637b7f18f95e86b59c579fef-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}
+
+### Conseil en Stratégie
+
+Je vous aide à prendre les bonnes décisions marketing, que ce soit pour valider un positionnement, cadrer une refonte de site, organiser une équipe ou définir des priorités de croissance. J'interviens en sparring partner ou en direction marketing externalisée selon vos besoins.
+
+### Regards sur le marketing, la performance et la transformation
+
+Des analyses et prises de position pour aider les dirigeants et responsables marketing à structurer, prioriser et piloter leurs décisions.
+
+Externaliser son marketing : stratégie intelligente ou plafond de verre pour la PME ?
+- 26 janvier 2026
+
+Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité (et comment l'autorité peut vous sauver)
+- 31 décembre 2025
+
+Quand l'intelligence artificielle remet en question la fonction marketing : Du protocole des modèles au protocole du sens
+- 8 octobre 2025
+
+Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi
+- 25 juillet 2025
+
+Recruter ou externaliser son marketing ?
+
+Le rôle du CMO dans une PME : plus qu'un chef de projet marketing
+
+Quand le SEO ne suffit plus : vers une stratégie marketing augmentée par l'IA
+- 5 juillet 2025
+
+L'intégration de l'intelligence artificielle dans les stratégies SEO
+- 20 mai 2025
+
+L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ?
+- 29 avril 2025
+
+L'intelligence artificielle générative et son impact sur le marketing
+- 4 mars 2025
+
+Solutions activables pour le retail physique
+- 19 février 2025
+
+Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?
+- 1 février 2025
