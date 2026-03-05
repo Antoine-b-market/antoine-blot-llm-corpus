@@ -6,7 +6,6 @@ date: 2024-05-17
 updated: 2025-12-31
 canonical_url: https://www.antoine-blot.com/a-propos-de-moi/
 robots: index, follow
-summary: 
 blockIA: keywords: [Consultant marketing digital Montréal, Expert en transformation digitale, Stratégie marketing sur-mesure]
 flesch_score: 11
 ---
