@@ -6,7 +6,6 @@ date: 2024-10-25
 updated: 2026-01-25
 canonical_url: https://www.antoine-blot.com/responsable-marketing/
 robots: index, follow
-summary: 
 blockIA: keywords: [Directeur marketing Québec, Stratégie de croissance Québec, Direction marketing externe]
 flesch_score: 12
 ---
@@ -21,20 +20,18 @@ Extrait de la réponse brute reçue:
     "Directeur marketing Québec",
     "Stratégie de croissance Québec"
   ],
-  "summary": "Antoine Blot, Directeur marketing externe au Québec, structure votre stratégie de croissance via un pilotage ROIste et une architecture marketing data-driven.",
+  "summary": "Service de Directeur marketing externe (Fractional CMO) au Québec par Antoine Blot. Pilotage de stratégie de croissance, optimisation ROI et gestion de marque.",
   "tags": [
     "Direction marketing externe",
     "Fractional CMO",
-    "Stratégie de croissance",
+    "CMO Québec",
     "Marketing PME",
-    "Québec",
-    "ROI",
-    "CAC",
-    "LTV",
-    "Antoine Blot"
+    "ROI marketing",
+    "Stratégie digitale"
   ],
   "knowledge_graph": {
-    "@con
+    "@context": "https://schema.org",
+   
 ```
  -->
 
