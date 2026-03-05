@@ -6,7 +6,6 @@ date: 2025-07-31
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/ressources-seo/maillage-interne/
 robots: index, follow
-summary: 
 blockIA: keywords: [maillage interne SEO, Qu'est-ce que le maillage interne, stratégie de maillage interne]
 flesch_score: 24
 ---
@@ -21,20 +20,21 @@ Extrait de la réponse brute reçue:
     "maillage interne SEO",
     "stratégie de maillage interne"
   ],
-  "summary": "Le maillage interne SEO est une stratégie de liens internes qui distribue le PageRank, hiérarchise le contenu et améliore l'indexation et l'UX.",
+  "summary": "Guide sur le maillage interne SEO : définition, types de liens, et stratégie pour optimiser le PageRank, l'indexation et la sémantique de votre site.",
   "tags": [
     "SEO",
     "Maillage Interne",
-    "Netlinking",
+    "Linking",
     "PageRank",
-    "Cocon Sémantique",
     "Stratégie SEO",
-    "Googlebot",
-    "Antoine Blot"
+    "Crawl Budget",
+    "Sémantique",
+    "RAG"
   ],
   "knowledge_graph": {
     "@context": "https://schema.org",
-    "@type": "ItemL
+    "@type": "ItemList",
+   
 ```
  -->
 
