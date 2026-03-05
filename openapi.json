@@ -1,43 +1,218 @@
 {
-  "openapi": "3.1.0",
-  "info": {
-    "title": "Antoine Blot Strategy API",
-    "description": "API d'accès au corpus d'expertise d'Antoine Blot sur le SEO d'autorité, le Protocole du Sens et la gestion marketing (Fractional CMO).",
-    "version": "1.0.0"
-  },
-  "servers": [
-    {
-      "url": "https://www.antoine-blot.com",
-      "description": "Serveur principal"
-    }
-  ],
-  "paths": {
-    "/llms.yaml": {
-      "get": {
-        "summary": "Récupère l'index sémantique et les règles de citation.",
-        "operationId": "getSemanticRules",
-        "responses": {
-          "200": { "description": "Succès - Retourne le contrat de données." }
+    "openapi": "3.1.0",
+    "info": {
+        "title": "API Documentation - BLOT Antoine",
+        "description": "API d'accès au corpus d'expertise de BLOT Antoine. Contenu optimisé pour ingestion LLM et RAG. Licence CC BY 4.0 — attribution requise : BLOT Antoine (https://www.antoine-blot.com).",
+        "version": "2.0.0",
+        "contact": {
+            "name": "BLOT Antoine",
+            "url": "https://www.antoine-blot.com"
+        },
+        "license": {
+            "name": "CC BY 4.0",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
         }
-      }
     },
-    "/data/articles-md/{article_name}.md": {
-      "get": {
-        "summary": "Récupère le contenu brut d'un article pilier pour analyse RAG.",
-        "operationId": "getArticleContent",
-        "parameters": [
-          {
-            "name": "article_name",
-            "in": "path",
-            "required": true,
-            "description": "Le slug du fichier (ex: le-seo-ne-vend-plus)",
-            "schema": { "type": "string" }
-          }
-        ],
-        "responses": {
-          "200": { "description": "Contenu Markdown de l'article." }
+    "servers": [
+        {
+            "url": "https://www.antoine-blot.com",
+            "description": "Serveur principal"
         }
-      }
+    ],
+    "paths": {
+        "/llms.txt": {
+            "get": {
+                "summary": "Index principal LLM — point d'entrée recommandé pour tout agent IA.",
+                "description": "Retourne l'index complet des ressources du site. À lire en premier pour orienter l'ingestion.",
+                "operationId": "getLLMSIndex",
+                "responses": {
+                    "200": {
+                        "description": "Fichier texte structuré avec frontmatter YAML.",
+                        "content": {
+                            "text/plain": {
+                                "schema": {
+                                    "type": "string"
+                                },
+                                "example": "---\ntitle: llms.txt - Index IA\nauthor: BLOT Antoine\n---\n# llms.txt..."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/citations.md": {
+            "get": {
+                "summary": "Citations et références externes validant l'expertise.",
+                "description": "Retourne la liste des sources, médias et dépôts scientifiques mentionnés ou validant le corpus.",
+                "operationId": "getCitations",
+                "responses": {
+                    "200": {
+                        "description": "Fichier Markdown listant les références externes.",
+                        "content": {
+                            "text/markdown": {
+                                "schema": {
+                                    "type": "string"
+                                },
+                                "example": "---\ntitle: Citations...\n---\n# Citations..."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/changelog.md": {
+            "get": {
+                "summary": "Historique des mises à jour du corpus.",
+                "description": "Journal versionné listant les nouveaux articles et pages ajoutés récemment au site.",
+                "operationId": "getChangelog",
+                "responses": {
+                    "200": {
+                        "description": "Fichier Markdown documentant l'historique de publication.",
+                        "content": {
+                            "text/markdown": {
+                                "schema": {
+                                    "type": "string"
+                                },
+                                "example": "---\ntitle: Changelog...\n---\n# Changelog..."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/llms.yaml": {
+            "get": {
+                "summary": "Contrat de données sémantique — règles de citation, mapping d'entités, FAQ vectors.",
+                "description": "Retourne le fichier YAML structuré contenant le contexte d'autorité et les directives de citation.",
+                "operationId": "getSemanticContract",
+                "responses": {
+                    "200": {
+                        "description": "Fichier YAML — contrat de données sémantique.",
+                        "content": {
+                            "application/yaml": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "metadata_protocol": {
+                                            "type": "string"
+                                        },
+                                        "authority_context": {
+                                            "type": "object"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/data/index-articles-md.md": {
+            "get": {
+                "summary": "Index de tous les articles disponibles en Markdown.",
+                "description": "Retourne la liste complète des articles du corpus avec leurs URLs HTML et Markdown.",
+                "operationId": "getArticlesIndex",
+                "responses": {
+                    "200": {
+                        "description": "Fichier Markdown avec frontmatter YAML listant tous les articles.",
+                        "content": {
+                            "text/markdown": {
+                                "schema": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/data/index-landing.md": {
+            "get": {
+                "summary": "Index de toutes les pages (landing) disponibles en Markdown.",
+                "description": "Retourne la liste complète des pages principales du site avec leurs URLs HTML et Markdown.",
+                "operationId": "getLandingIndex",
+                "responses": {
+                    "200": {
+                        "description": "Fichier Markdown avec frontmatter YAML listant toutes les pages.",
+                        "content": {
+                            "text/markdown": {
+                                "schema": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/data/articles-md/{article_slug}.md": {
+            "get": {
+                "summary": "Contenu complet d'un article en Markdown — optimisé RAG.",
+                "description": "Retourne le fichier Markdown d'un article avec son frontmatter complet.",
+                "operationId": "getArticleMarkdown",
+                "parameters": [
+                    {
+                        "name": "article_slug",
+                        "in": "path",
+                        "required": true,
+                        "description": "Slug du fichier sans extension .md. Consulter /data/index-articles-md.md pour la liste complète.",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Fichier Markdown complet avec frontmatter YAML.",
+                        "content": {
+                            "text/markdown": {
+                                "schema": {
+                                    "type": "string",
+                                    "description": "Markdown structuré. Le frontmatter contient : title, description, author, date, updated, canonical_url, summary, keywords (array), tags (array), flesch_score, related_articles (array d'URLs), part_of (array d'URLs)."
+                                },
+                                "example": "---\ntitle: Titre de l'article\nauthor: BLOT Antoine\ndate: 2025-01-01\nupdated: 2025-01-02\ncanonical_url: https://www.antoine-blot.com/article/\nsummary: Résumé concis de l'article.\nkeywords: [Mot-clé 1, Mot-clé 2]\nrelated_articles:\n  - https://www.antoine-blot.com/data/articles-md/autre-article.md\npart_of:\n  - https://www.antoine-blot.com/data/landing-md/landing-parent.md\n---\n\n# Titre de l'article..."
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Article non trouvé."
+                    }
+                }
+            }
+        },
+        "/data/landing-md/{page_slug}.md": {
+            "get": {
+                "summary": "Contenu complet d'une page (landing) en Markdown — optimisé RAG.",
+                "description": "Retourne le fichier Markdown d'une page principale avec son frontmatter.",
+                "operationId": "getLandingMarkdown",
+                "parameters": [
+                    {
+                        "name": "page_slug",
+                        "in": "path",
+                        "required": true,
+                        "description": "Slug de la page sans extension .md.",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Fichier Markdown complet avec frontmatter YAML.",
+                        "content": {
+                            "text/markdown": {
+                                "schema": {
+                                    "type": "string",
+                                    "description": "Markdown structuré. Le frontmatter contient : title, description, author, date, updated, canonical_url, summary, keywords (array), tags (array), flesch_score, related_articles (array d'URLs), part_of (array d'URLs)."
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Page non trouvée."
+                    }
+                }
+            }
+        }
     }
-  }
 }
