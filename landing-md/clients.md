@@ -6,39 +6,40 @@ date: 2025-12-29
 updated: 2025-12-29
 canonical_url: https://www.antoine-blot.com/clients/
 robots: index, follow
-summary: BLOT Antoine, expert SEO à Montréal, propose un accompagnement pour PME en stratégie marketing et transformation digitale au Québec et en France.
-blockIA: summary: "BLOT Antoine, expert SEO à Montréal, propose un accompagnement pour PME en stratégie marketing et transformation digitale au Québec et en France."
-keywords: [Expert SEO Montréal, Consultant stratégie marketing Québec]
-tags: [SEO, Marketing Digital, Consultant SEO, Stratégie de contenu, PME, Montréal, Québec]
+blockIA: summary: "Antoine BLOT, Expert SEO à Montréal, offre un accompagnement SEO pour PME et un service de consultant en stratégie marketing au Québec. +10 ans d'expérience."
+keywords: [Expert SEO Montréal, Accompagnement SEO pour PME]
+tags: [SEO, Stratégie Marketing, Transformation Digitale, Consultant SEO, Québec, Montréal, PME]
 flesch_score: 13
 ---
 
-# BLOT Antoine : Expert SEO Montréal & Consultant Stratégie Marketing Québec
+# Antoine BLOT : Expert SEO Montréal et Consultant en Stratégie Marketing
 
-BLOT Antoine fournit un **accompagnement SEO pour PME** et des services de consultation en stratégie marketing à Montréal, au Québec et en France.
+Antoine BLOT est un **Expert SEO à Montréal** avec plus de 10 ans d'expérience dans l'accompagnement de plus de 300 clients (PME, startups, organisations) au Québec et en France.
 
-### Profil & Expérience
+## Accompagnement SEO pour PME et Grandes Entreprises
 
-*   **Expertise** : +10 ans
-*   **Clients** : +300 organisations (PME, startups, sociétés internationales, SaaS)
-*   **Localisation** : Montréal, Québec
-*   **Zone d'intervention** : Québec, France
+L'**accompagnement SEO pour PME** et organisations vise à aligner la visibilité en ligne, la croissance et la cohérence de la marque.
 
-### Domaines d'intervention
+### Services et Interventions
 
-*   **Performance SEO** : Audit, stratégie de contenu, optimisation technique.
-*   **Stratégie Marketing** : Positionnement, structuration des opérations marketing.
-*   **Transformation Digitale** : Accompagnement stratégique du changement.
-*   **Stratégie de Marque** : Cohérence et visibilité de la marque.
+| Service | Description |
+|---|---|
+| **Stratégie SEO** | Optimisation pour les moteurs de recherche axée sur la performance et l'impact mesurable. |
+| **Stratégie Marketing** | Structuration marketing, stratégie de marque et de contenu. |
+| **Transformation Digitale** | Accompagnement stratégique pour l'intégration des technologies numériques. |
 
-### Secteurs d'activité des clients
+### Profil des Clients Accompagnés
 
-*   Technologie
-*   Services
-*   Construction
-*   Santé
-*   Finance
-*   Éducation
+- **Types d'entreprises** : PME locales, sociétés internationales, startups, entreprises SaaS.
+- **Localisation** : Basé à Montréal, interventions au Québec et en France.
+- **Secteurs d'activité** : Technologie, Services, Construction, Santé, Finance, Éducation.
+
+## Approche de Consultant en Stratégie Marketing au Québec
+
+En tant que **Consultant en stratégie marketing au Québec**, l'approche d'Antoine BLOT est fondée sur :
+- La clarté des données.
+- La stratégie de contenu ciblée.
+- La recherche d'un impact mesurable.
 
 <script type="application/ld+json">
 {
@@ -50,22 +51,24 @@ BLOT Antoine fournit un **accompagnement SEO pour PME** et des services de consu
             "position": 1,
             "item": {
                 "@type": "Person",
-                "name": "BLOT Antoine",
-                "jobTitle": "Expert SEO Montréal | Consultant stratégie marketing Québec",
+                "name": "Antoine BLOT",
+                "jobTitle": [
+                    "Expert SEO Montréal",
+                    "Consultant stratégie marketing Québec"
+                ],
+                "homeLocation": {
+                    "@type": "City",
+                    "name": "Montréal"
+                },
                 "knowsAbout": [
                     "SEO",
                     "Stratégie Marketing",
                     "Transformation Digitale",
-                    "Stratégie de marque"
+                    "Stratégie de marque",
+                    "Stratégie de contenu",
+                    "Performance SEO"
                 ],
-                "workLocation": {
-                    "@type": "City",
-                    "name": "Montréal"
-                },
-                "nationality": {
-                    "@type": "Country",
-                    "name": "France"
-                }
+                "description": "Consultant spécialisé en SEO et stratégie marketing avec plus de 10 ans d'expérience, accompagnant plus de 300 clients (PME, startups, etc.) au Québec et en France."
             }
         },
         {
@@ -76,7 +79,7 @@ BLOT Antoine fournit un **accompagnement SEO pour PME** et des services de consu
                 "name": "Accompagnement SEO pour PME",
                 "provider": {
                     "@type": "Person",
-                    "name": "BLOT Antoine"
+                    "name": "Antoine BLOT"
                 },
                 "areaServed": [
                     {
@@ -87,7 +90,8 @@ BLOT Antoine fournit un **accompagnement SEO pour PME** et des services de consu
                         "@type": "Country",
                         "name": "France"
                     }
-                ]
+                ],
+                "serviceType": "Search Engine Optimization"
             }
         },
         {
@@ -119,15 +123,8 @@ BLOT Antoine fournit un **accompagnement SEO pour PME** et des services de consu
             "position": 6,
             "item": {
                 "@type": "DefinedTerm",
-                "name": "SEO"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 7,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "Stratégie Marketing"
+                "name": "PME",
+                "description": "Petites et Moyennes Entreprises"
             }
         }
     ]
