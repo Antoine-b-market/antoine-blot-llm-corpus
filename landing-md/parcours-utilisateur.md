@@ -6,7 +6,6 @@ date: 2024-11-06
 updated: 2025-05-23
 canonical_url: https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/
 robots: index, follow
-summary: 
 blockIA: keywords: [optimisation parcours utilisateur, tunnel de conversion, carte du parcours utilisateur]
 flesch_score: 13
 ---
