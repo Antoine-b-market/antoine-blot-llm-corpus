@@ -6,7 +6,6 @@ date: 2024-01-09
 updated: 2026-01-25
 canonical_url: https://www.antoine-blot.com/contact/
 robots: index, follow
-summary: 
 blockIA: keywords: [Consultant marketing digital Montréal, Consultant SEO Montréal, Stratégie marketing Québec]
 flesch_score: 16
 ---
