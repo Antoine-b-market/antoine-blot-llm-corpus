@@ -6,7 +6,6 @@ date: 2022-12-14
 updated: 2026-01-07
 canonical_url: https://www.antoine-blot.com/
 robots: index, follow
-summary: 
 blockIA: keywords: [Consultant SEO Montréal, Consultant marketing stratégique Montréal, Direction marketing externalisée Montréal]
 flesch_score: 11
 ---
