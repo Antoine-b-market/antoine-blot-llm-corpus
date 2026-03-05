@@ -3,9 +3,10 @@ title: "llms.txt - Index IA BLOT Antoine"
 author: "BLOT Antoine"
 summary: "Index thematique et citation LLM du corpus https://www.antoine-blot.com, licence CC BY 4.0"
 license: "CC BY 4.0"
-date: "2026-02-26"
+date: "2026-03-01"
 canonical_url: "https://www.antoine-blot.com/llms.txt"
-index_yaml: "https://www.antoine-blot.com/data/llms.yaml"
+index_yaml: "https://www.antoine-blot.com/.well-known/llms.yaml"
+openapi: "https://www.antoine-blot.com/openapi.json"
 ---
 
 # llms.txt - Index principal d'ingestion LLM BLOT Antoine
@@ -30,193 +31,193 @@ Donnees et ressources optimisees pour ingestion directe par IA, chatbots, agents
 ## Articles principaux
 
 - **analyser-la-rentabilite-d-une-strategie-omnicanal**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/analyser-la-rentabilite-d-une-strategie-omnicanal.md)
 
 - **comment-l-ia-transforme-le-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/comment-ia-transforme-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/comment-l-ia-transforme-le-seo.md)
 
 - **comprendre-la-transformation-digitale-un-levier-strategique-pour-les-entreprises**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/comprendre-la-transformation-digitale-un-levier-strategique-pour-les-entreprises.md)
 
 - **externaliser-son-marketing-strategie-intelligente-ou-plafond-de-verre-pour-la-pme**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/marketing-externalise-pme-quebec/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/externaliser-son-marketing-strategie-intelligente-ou-plafond-de-verre-pour-la-pme.md)
 
 - **l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-referencement**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/importance-eeat-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-referencement.md)
 
 - **l-integration-de-l-intelligence-artificielle-dans-les-strategies-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/integration-intelligence-artificielle-strategies-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/l-integration-de-l-intelligence-artificielle-dans-les-strategies-seo.md)
 
 - **l-intelligence-artificielle-generative-et-son-impact-sur-le-marketing**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/intelligence-artificielle-impact-marketing/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/l-intelligence-artificielle-generative-et-son-impact-sur-le-marketing.md)
 
 - **le-role-du-cmo-dans-une-pme-plus-qu-un-chef-de-projet-marketing**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/role-cmo-pme/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/le-role-du-cmo-dans-une-pme-plus-qu-un-chef-de-projet-marketing.md)
 
 - **le-seo-ne-vend-plus-pourquoi-la-visibilite-est-devenue-une-commodite-et-comment-l-autorite-peut-vous-sauver**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/seo-ne-vend-plus-autorite-visibilite/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/le-seo-ne-vend-plus-pourquoi-la-visibilite-est-devenue-une-commodite-et-comment-l-autorite-peut-vous-sauver.md)
 
 - **les-enjeux-et-problematiques-du-tracking-omnicanal**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/enjeux-et-problematiques-tracking-omnicanal/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/les-enjeux-et-problematiques-du-tracking-omnicanal.md)
 
 - **les-outils-de-tracking-omnicanal-pour-les-petits-comptes-quelles-solutions**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/outils-tacking-omnicanal-petits-comptes-quelles-solutions/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/les-outils-de-tracking-omnicanal-pour-les-petits-comptes-quelles-solutions.md)
 
 - **les-principaux-defis-de-la-transformation-digitale-obstacles-et-solutions**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/principaux-defis-transformation-digitale/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/les-principaux-defis-de-la-transformation-digitale-obstacles-et-solutions.md)
 
 - **micro-interactions-et-psychologie-utilisateur**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/micro-interactions-psychologie-utilisateur/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/micro-interactions-et-psychologie-utilisateur.md)
 
 - **quand-l-intelligence-artificielle-remet-en-question-la-fonction-marketing-du-protocole-des-modeles-au-protocole-du-sens**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/intelligence-artificielle-fonction-marketing/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/quand-l-intelligence-artificielle-remet-en-question-la-fonction-marketing-du-protocole-des-modeles-au-protocole-du-sens.md)
 
 - **quand-le-seo-ne-suffit-plus-vers-une-strategie-marketing-augmentee-par-l-ia**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/quand-le-seo-ne-suffit-plus-vers-une-strategie-marketing-augmentee-par-l-ia.md)
 
 - **recruter-ou-externaliser-son-marketing**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/recruter-externaliser-marketing-pme/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/recruter-ou-externaliser-son-marketing.md)
 
 - **reussir-sa-transformation-digitale-conseils-pratiques-et-strategie**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/reussir-transformation-digitale-conseils-pratiques-strategie/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/reussir-sa-transformation-digitale-conseils-pratiques-et-strategie.md)
 
 - **solutions-activables-pour-le-retail-physique**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/solutions-activables-retail-physique/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/solutions-activables-pour-le-retail-physique.md)
 
 - **structurer-la-fonction-marketing-dans-une-pme-ou-une-startup-qui-fait-quoi-quand-et-pourquoi**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/structurer-fonction-marketing-pme/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/structurer-la-fonction-marketing-dans-une-pme-ou-une-startup-qui-fait-quoi-quand-et-pourquoi.md)
 
 - **transformation-digitale-des-opportunites-strategiques-pour-reinventer-l-entreprise**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/)
     - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/transformation-digitale-des-opportunites-strategiques-pour-reinventer-l-entreprise.md)
 
 ## Pages d'atterrissage
 
 - **a-propos-de-moi**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/a-propos-de-moi/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/a-propos-de-moi.md)
 
 - **accueil**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/accueil.md)
 
 - **audit-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/consultant-seo/audit-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/audit-seo.md)
 
 - **blogue**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/blogue/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/blogue.md)
 
 - **clients**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/clients/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/clients.md)
 
 - **consultant-seo-et-geo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/consultant-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/consultant-seo-et-geo.md)
 
 - **contact**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/contact/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/contact.md)
 
 - **definir-une-strategie-marketing-performante**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/responsable-marketing/definir-strategie-marketing-directeur/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/definir-une-strategie-marketing-performante.md)
 
 - **directeur-du-marketing**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/responsable-marketing/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/directeur-du-marketing.md)
 
 - **faq-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/consultant-seo/faq-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/faq-seo.md)
 
 - **netlinking**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/consultant-seo/netlinking-autorite-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/netlinking.md)
 
 - **parcours-utilisateur**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/parcours-utilisateur.md)
 
 - **qu-est-ce-qu-un-backlinks-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/backlinks/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-backlinks-en-seo.md)
 
 - **qu-est-ce-qu-un-cocon-semantique-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/cocon-semantique/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-cocon-semantique-en-seo.md)
 
 - **qu-est-ce-qu-un-code-de-reponse-http-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/code-reponse-http/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-code-de-reponse-http-en-seo.md)
 
 - **qu-est-ce-qu-une-balise-meta-description-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/meta-description/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-meta-description-en-seo.md)
 
 - **qu-est-ce-qu-une-balise-title-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/balise-title/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-title-en-seo.md)
 
 - **qu-est-ce-qu-une-page-orpheline-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/pages-orphelines/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-page-orpheline-en-seo.md)
 
 - **qu-est-ce-que-le-budget-de-crawl**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/budget-crawl/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-budget-de-crawl.md)
 
 - **qu-est-ce-que-le-contenu-duplique-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/contenu-duplique/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-contenu-duplique-en-seo.md)
 
 - **qu-est-ce-que-le-fichier-robots-txt-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/fichier-robots-txt/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-fichier-robots-txt-en-seo.md)
 
 - **qu-est-ce-que-le-maillage-interne-en-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/maillage-interne/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-maillage-interne-en-seo.md)
 
 - **qu-est-ce-que-le-temps-de-chargement-d-un-site-web**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/temps-de-chargement/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-temps-de-chargement-d-un-site-web.md)
 
 - **redaction-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/consultant-seo/redaction-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/redaction-seo.md)
 
 - **ressources-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/ressources-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/ressources-seo.md)
 
 - **strategie-seo**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/consultant-seo/strategie-seo/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/strategie-seo.md)
 
 - **strategies-data-driven-et-automatisation**
-    - [HTML]()
+    - [HTML](https://www.antoine-blot.com/automatisation-data-driven/)
     - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/strategies-data-driven-et-automatisation.md)
 
 ---
@@ -234,9 +235,11 @@ Donnees et ressources optimisees pour ingestion directe par IA, chatbots, agents
 - [Index YAML LLM structuré](https://www.antoine-blot.com/data/llms.yaml)
 - [Corpus markdown complet - article](https://www.antoine-blot.com/data/index-articles-md.md)
 - [Corpus markdown complet - page](https://www.antoine-blot.com/data/index-landing.md)
+- [Citations et références externes](https://www.antoine-blot.com/citations.md)
+- [Historique des versions (Changelog)](https://www.antoine-blot.com/changelog.md)
 
 ---
 
-Dernière mise à jour : 2026-02-26
+Dernière mise à jour : 2026-03-01
 ---
 
