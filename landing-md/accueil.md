@@ -1,16 +1,13 @@
 ﻿---
 title: Accueil
-description: J'accompagne les entreprises dans leur croissance avec des stratégies marketing sur-mesure : SEO, direction marketing, acquisition digitale et transformation numérique.
+description: J’accompagne les entreprises dans leur croissance avec des stratégies marketing sur-mesure : SEO, direction marketing, acquisition digitale et transformation numérique.
 author: BLOT Antoine
 date: 2022-12-14
 updated: 2026-01-07
 canonical_url: https://www.antoine-blot.com/
 robots: index, follow
-blockIA: keywords: [Consultant SEO Montréal, Consultant marketing stratégique Montréal, Direction marketing externalisée Montréal]
-flesch_score: 11
+blockIA:
 ---
-
-<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # Accueil
 
