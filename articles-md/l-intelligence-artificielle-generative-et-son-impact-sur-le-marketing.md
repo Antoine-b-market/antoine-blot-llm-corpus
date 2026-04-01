@@ -1,20 +1,16 @@
 ﻿---
-title: L'intelligence artificielle générative et son impact sur le marketing
-description: Découvrez comment l'IA générative transforme la création de contenu, l'automatisation des campagnes et l'expérience client en marketing numérique
+title: L’intelligence artificielle générative et son impact sur le marketing
+description: Découvrez comment l’IA générative transforme la création de contenu, l’automatisation des campagnes et l’expérience client en marketing numérique
 author: BLOT Antoine
 date: 2025-03-04
 updated: 2025-08-01
 canonical_url: https://www.antoine-blot.com/blogue/intelligence-artificielle-impact-marketing/
 robots: index, follow
-blockIA: keywords: [intelligence artificielle générative marketing, applications IA générative marketing, personnalisation expérience client IA]
-flesch_score: 22
-related_articles:
+blockIA: related_articles:
   - https://www.antoine-blot.com/data/articles-md/marketing-externalise-pme-quebec.md
   - https://www.antoine-blot.com/data/articles-md/seo-ne-vend-plus-autorite-visibilite.md
   - https://www.antoine-blot.com/data/articles-md/integration-intelligence-artificielle-strategies-seo.md
 ---
-
-<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # L'intelligence artificielle générative et son impact sur le marketing
 
