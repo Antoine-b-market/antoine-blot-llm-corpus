@@ -1,199 +1,455 @@
 ﻿---
-title: Qu'est-ce que le budget de crawl
-description: Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l'optimiser pour un SEO plus efficace.
+title: Qu’est-ce que le budget de crawl
+description: Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l’optimiser pour un SEO plus efficace.
 author: BLOT Antoine
 date: 2025-07-31
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/ressources-seo/budget-crawl/
 robots: index, follow
-blockIA: summary: "Qu'est-ce que le budget de crawl et comment l'optimiser ? Guide technique pour améliorer l'exploration et l'indexation de votre site par Google."
-keywords: [budget de crawl, optimiser budget de crawl]
-tags: [SEO Technique, Googlebot, Indexation, Crawl, robots.txt, Performance Web]
-flesch_score: 34
+blockIA:
 ---
 
-# Qu'est-ce que le budget de crawl ?
+# Qu'est-ce que le budget de crawl
 
-Le **budget de crawl** est le nombre de pages qu'un moteur de recherche comme Google alloue pour l'exploration (crawl) d'un site web sur une période donnée. Une mauvaise gestion de ce budget nuit à l'indexation des contenus stratégiques.
+## Sommaire
+- [Qu'est-ce que le budget de crawl](#qu-est-ce-que-le-budget-de-crawl)
+- [Définition du budget de crawl](#definition-du-budget-de-crawl)
+- [Pourquoi le budget de crawl est-il important en SEO ?](#pourquoi-le-budget-de-crawl-est-il-important-en-seo)
+- [Il conditionne l'indexation de vos contenus](#il-conditionne-l-indexation-de-vos-contenus)
+- [Il impacte directement la fraîcheur de l'indexation](#il-impacte-directement-la-fraicheur-de-l-indexation)
+- [Il révèle l'efficacité technique d'un site](#il-revele-l-efficacite-technique-d-un-site)
+- [Comment fonctionne le budget de crawl ?](#comment-fonctionne-le-budget-de-crawl)
+- [Facteurs liés à la capacité de crawl](#facteurs-lies-a-la-capacite-de-crawl)
+- [Facteurs liés à la demande de crawl](#facteurs-lies-a-la-demande-de-crawl)
+- [Exemples concrets de gaspillage de budget](#exemples-concrets-de-gaspillage-de-budget)
+- [Outils pour analyser et gérer son budget de crawl](#outils-pour-analyser-et-gerer-son-budget-de-crawl)
+- [Bonnes pratiques pour optimiser le budget de crawl](#bonnes-pratiques-pour-optimiser-le-budget-de-crawl)
+- [Checklist visuelle : optimiser son budget de crawl](#checklist-visuelle-optimiser-son-budget-de-crawl)
+- [FAQ : Questions fréquentes sur le budget de crawl](#faq-questions-frequentes-sur-le-budget-de-crawl)
+- [Aller plus loin](#aller-plus-loin)
+
+
+# Qu'est-ce que le budget de crawl
+
+Le budget de crawl est un concept technique fondamental mais souvent méconnu en SEO. Il désigne la quantité de ressources que les moteurs de recherche, comme Google, sont prêts à consacrer à l'exploration des pages d'un site web. Mal géré, ce budget peut entraîner une indexation partielle, un retard de prise en compte des nouvelles pages ou la perte de visibilité sur des contenus essentiels.Pour les sites de grande taille ou les sites mal structurés, comprendre et optimiser le budget de crawl est une étape cruciale pour garantir une indexabilité optimale et une meilleure performance SEO globale.
 
 ## Définition du budget de crawl
 
-Selon l'analyse d'Antoine Blot, le budget de crawl est l'interaction entre deux facteurs clés :
-- **Capacité de crawl (Crawl Capacity)** : Nombre maximal de pages que Googlebot peut explorer sans dégrader la performance du serveur.
-- **Demande de crawl (Crawl Demand)** : Intérêt de Google pour les pages, basé sur leur popularité (backlinks), leur fraîcheur et leur importance perçue.
+Le budget de crawl représente la quantité de pages qu'un moteur de recherche est prêt à explorer sur un site donné dans un laps de temps donné.Google définit ce budget comme l'interaction entre deux paramètres :
+- La capacité de crawl (crawl capacity) : le nombre de pages que Googlebot peut techniquement explorer sans nuire aux performances du serveur.La demande de crawl (crawl demand) : l'intérêt que Google porte aux pages, basé sur leur popularité, leur fréquence de mise à jour et leur importance perçue.
+- La capacité de crawl (crawl capacity) : le nombre de pages que Googlebot peut techniquement explorer sans nuire aux performances du serveur.
+- La demande de crawl (crawl demand) : l'intérêt que Google porte aux pages, basé sur leur popularité, leur fréquence de mise à jour et leur importance perçue.
 
-**Formule :** `Budget de crawl = Capacité technique × Intérêt SEO`
+En résumé :
 
-## Importance pour le SEO
+Budget de crawl = capacité technique × intérêt SEO
 
-Optimiser le budget de crawl est crucial pour :
-- **Conditionner l'indexation** : Assurer que Googlebot découvre et explore les pages stratégiques (nouvelles, mises à jour, profondes).
-- **Garantir la fraîcheur de l'index** : Permettre une exploration rapide après publication ou mise à jour.
-- **Révéler la santé technique du site** : Un budget gaspillé signale souvent des problèmes d'architecture, de contenu dupliqué ou de gestion des URLs.
+Chaque site a un budget implicite, alloué selon sa notoriété, son historique de performance, et la qualité de son contenu.Une mauvaise gestion de ce budget peut entraîner le crawl inutile de pages peu utiles (tags, paramètres, pagination…) au détriment des pages stratégiques.
 
-## Facteurs influençant le budget de crawl
+## Pourquoi le budget de crawl est-il important en SEO ?
 
-### Capacité de crawl (Facteurs techniques)
-- **Temps de réponse serveur** : Un serveur lent ou instable réduit le crawl.
-- **Codes HTTP** : Les erreurs 5xx (serveur) et un grand nombre de 404 (non trouvé) limitent le budget.
+### Il conditionne l'indexation de vos contenus
 
-### Demande de crawl (Facteurs SEO)
-- **Popularité** : Pages avec de nombreux backlinks.
-- **Fraîcheur** : Contenus mis à jour fréquemment.
-- **Maillage interne** : Structure et profondeur du site.
+Google n'indexe pas tout ce qu'il explore. Et il n'explore pas tout ce qu'il pourrait indexer.Si votre site gaspille son budget de crawl sur des pages inutiles, Google risque de passer à côté de pages stratégiques comme :
+- Nouvelles pages publiées,Pages mises à jour,Pages profondes mais essentielles.
+- Nouvelles pages publiées,
+- Pages mises à jour,
+- Pages profondes mais essentielles.
 
-## Exemples de gaspillage de budget de crawl
+### Il impacte directement la fraîcheur de l'indexation
 
-| Problème identifié | Conséquence sur le crawl |
-|---|---|
-| Filtres de navigation non gérés (noindex) | Crawl de milliers d'URLs à faible valeur. |
-| Paramètres d'URL non bloqués | Crawl de pages dupliquées. |
-| Pagination non optimisée | Exploration de pages profondes sans fin. |
-| Liens internes vers des erreurs 404 | Perte de budget sur des ressources inexistantes. |
+Un bon budget de crawl permet à vos contenus d'être :
+- Explorés rapidement après publication,Revisités régulièrement pour tenir compte des mises à jour.
+- Explorés rapidement après publication,
+- Revisités régulièrement pour tenir compte des mises à jour.
 
-## Outils pour analyser et optimiser le budget de crawl
+Cela favorise une meilleure réactivité SEO, notamment en cas de refonte, de mise à jour importante ou de contenu temporel.
 
-| Outil | Utilité principale |
-|---|---|
-| Google Search Console | Analyser le rapport "Statistiques de crawl". |
-| Screaming Frog | Identifier les URLs crawlables, les erreurs et la profondeur. |
-| Logs serveur | Analyser précisément les hits de Googlebot. |
-| robots.txt / meta robots | Contrôler l'accès des robots aux URLs. |
+### Il révèle l'efficacité technique d'un site
 
-## Comment optimiser le budget de crawl : Bonnes pratiques
+Une mauvaise gestion du budget est souvent le symptôme :
+- D'une architecture trop profonde,D'une absence de hiérarchisation,D'un contenu dupliqué ou inutile,D'une gestion défaillante des paramètres d'URL.
+- D'une architecture trop profonde,
+- D'une absence de hiérarchisation,
+- D'un contenu dupliqué ou inutile,
+- D'une gestion défaillante des paramètres d'URL.
 
-- **Bloquer les URLs inutiles** via le fichier `robots.txt` (filtres, paramètres, recherche interne).
-- **Utiliser la balise `noindex`** pour les pages sans valeur SEO mais qui doivent rester accessibles.
-- **Corriger les erreurs** : 4xx (liens brisés) et 5xx (erreurs serveur).
-- **Optimiser le maillage interne** : Aucune page stratégique ne doit être à plus de 3 clics de la page d'accueil.
-- **Gérer les redirections** : Éviter les chaînes de redirections.
-- **Utiliser un sitemap XML** à jour pour signaler les pages importantes.
-- **Améliorer la vitesse du site** pour augmenter la capacité de crawl.
+## Comment fonctionne le budget de crawl ?
 
-## Checklist d'optimisation
+### Facteurs liés à la capacité de crawl
+- Temps de réponse serveur : si votre site est lent ou instable, Google limitera son exploration.Code HTTP : des erreurs 5xx ou trop de 404 peuvent brider le budget.Surcharge détectée : Googlebot ajuste sa fréquence de passage pour ne pas surcharger le serveur.
+- Temps de réponse serveur : si votre site est lent ou instable, Google limitera son exploration.
+- Code HTTP : des erreurs 5xx ou trop de 404 peuvent brider le budget.
+- Surcharge détectée : Googlebot ajuste sa fréquence de passage pour ne pas surcharger le serveur.
 
-| Action | Impact estimé | Fréquence |
-|---|---|---|
-| Gérer les paramètres d'URL | 🟢 Fort | Semestriel |
-| Réduire les filtres inutiles | 🔴 Très fort | Trimestriel |
-| Nettoyer les pages orphelines | 🟢 Fort | Mensuel |
-| Surveiller les stats de crawl (GSC) | 🟢 Fort | Mensuel |
-| Contrôler les redirections en chaîne | 🟠 Modéré | Lors des refontes |
+### Facteurs liés à la demande de crawl
+- Popularité des pages (nombre de backlinks),Fréquence de mise à jour,Historique d'indexation et de clics,Structure interne du site (maillage, profondeur).
+- Popularité des pages (nombre de backlinks),
+- Fréquence de mise à jour,
+- Historique d'indexation et de clics,
+- Structure interne du site (maillage, profondeur).
 
-## FAQ : Budget de Crawl
+## Exemples concrets de gaspillage de budget
+- **Problème identifié** : Filtres de navigation sans nofollow ni noindex
+- **Conséquence possible** : Indexation de centaines de pages à faible valeur ajoutée
 
-**Google alloue-t-il un budget de crawl à tous les sites ?**
-Oui, chaque site a un budget implicite. Sa taille dépend de la popularité, la fiabilité et la performance du site.
+- **Problème identifié** : Balises rel=next / rel=prev mal gérées
+- **Conséquence possible** : Crawl infini sur des paginations
 
-**Les petits sites (<500 pages) doivent-ils s'en soucier ?**
-Généralement non, si la structure est saine. Le problème devient critique pour les sites volumineux ou mal optimisés.
+- **Problème identifié** : Paramètres d'URL non bloqués
+- **Conséquence possible** : Multiplication de pages quasi identiques
 
-**Comment savoir si mon budget est mal utilisé ?**
-Indices : pages importantes non indexées après plusieurs jours, logs montrant un crawl intense sur des pages inutiles.
+- **Problème identifié** : Liens internes vers des pages 404
+- **Conséquence possible** : Perte de temps de crawl sur des pages inexistantes
 
-**Le budget de crawl est-il un facteur de classement direct ?**
-Non, mais il a un impact indirect majeur. S'il empêche l'indexation de pages clés, la performance SEO est affectée.
 
-<script type="application/ld+json">
+Problème identifié
+
+Conséquence possible
+
+Filtres de navigation sans nofollow ni noindex
+
+Indexation de centaines de pages à faible valeur ajoutée
+
+Balises rel=next / rel=prev mal gérées
+
+Crawl infini sur des paginations
+
+Paramètres d'URL non bloqués
+
+Multiplication de pages quasi identiques
+
+Liens internes vers des pages 404
+
+Perte de temps de crawl sur des pages inexistantes
+
+## Outils pour analyser et gérer son budget de crawl
+- **Outil** : Google Search Console
+- **Utilité principale** : Voir les pages explorées (Rapport « Statistiques de crawl »)
+
+- **Outil** : Screaming Frog
+- **Utilité principale** : Identifier les pages inutiles ou crawlables inutilement
+
+- **Outil** : Googlebot logs (serveur)
+- **Utilité principale** : Analyse fine des passages de Googlebot
+
+- **Outil** : Ahrefs / Semrush
+- **Utilité principale** : Identifier les pages indexées sans lien entrant
+
+- **Outil** : robots.txt / balise meta
+- **Utilité principale** : Contrôler ce que Googlebot peut explorer
+
+
+Outil
+
+Utilité principale
+
+Google Search Console
+
+Voir les pages explorées (Rapport « Statistiques de crawl »)
+
+Screaming Frog
+
+Identifier les pages inutiles ou crawlables inutilement
+
+Googlebot logs (serveur)
+
+Analyse fine des passages de Googlebot
+
+Ahrefs / Semrush
+
+Identifier les pages indexées sans lien entrant
+
+robots.txt / balise meta
+
+Contrôler ce que Googlebot peut explorer
+
+## Bonnes pratiques pour optimiser le budget de crawl
+- ✅ Bloquer les pages inutiles dans le fichier robots.txt (filtres, sessions, recherche interne).✅ Réduire les erreurs techniques (404, 500, redirections en boucle).✅ Limiter la profondeur de crawl : idéalement, chaque page importante est accessible en ≤ 3 clics.✅ Nettoyer les URL inutiles ou générées dynamiquement.✅ Mettre en place une structure claire, avec un bon maillage interne.✅ Mettre à jour régulièrement les contenus importants pour inciter à leur revisite.✅ Sur les gros sites, prioriser les crawls via les balises priority dans le sitemap XML.
+- ✅ Bloquer les pages inutiles dans le fichier robots.txt (filtres, sessions, recherche interne).
+- ✅ Réduire les erreurs techniques (404, 500, redirections en boucle).
+- ✅ Limiter la profondeur de crawl : idéalement, chaque page importante est accessible en ≤ 3 clics.
+- ✅ Nettoyer les URL inutiles ou générées dynamiquement.
+- ✅ Mettre en place une structure claire, avec un bon maillage interne.
+- ✅ Mettre à jour régulièrement les contenus importants pour inciter à leur revisite.
+- ✅ Sur les gros sites, prioriser les crawls via les balises priority dans le sitemap XML.
+
+## Checklist visuelle : optimiser son budget de crawl
+- **Action** : Nettoyer les pages orphelines
+- **Impact estimé** : 🟢 Fort
+- **Fréquence de vérification** : Mensuel
+
+- **Action** : Contrôler les redirections en chaîne
+- **Impact estimé** : 🟠 Modéré
+- **Fréquence de vérification** : À chaque refonte ou MAJ
+
+- **Action** : Réduire les filtres inutiles
+- **Impact estimé** : 🔴 Très fort
+- **Fréquence de vérification** : Initial + trimestriel
+
+- **Action** : Gérer les paramètres d'URL
+- **Impact estimé** : 🟢 Fort
+- **Fréquence de vérification** : Semestriel
+
+- **Action** : Surveiller les stats de crawl GSC
+- **Impact estimé** : 🟢 Fort
+- **Fréquence de vérification** : Mensuel
+
+
+Action
+
+Impact estimé
+
+Fréquence de vérification
+
+Nettoyer les pages orphelines
+
+🟢 Fort
+
+Mensuel
+
+Contrôler les redirections en chaîne
+
+🟠 Modéré
+
+À chaque refonte ou MAJ
+
+Réduire les filtres inutiles
+
+🔴 Très fort
+
+Initial + trimestriel
+
+Gérer les paramètres d'URL
+
+Semestriel
+
+Surveiller les stats de crawl GSC
+
+## FAQ : Questions fréquentes sur le budget de crawl
+
+Google alloue-t-il un budget de crawl à tous les sites ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Oui. Chaque site dispose implicitement d'un budget, même s'il n'est pas communiqué. Plus le site est populaire, fiable et performant, plus ce budget est élevé.								
+				
+				
+					
+						
+				
+					 Les petits sites doivent-ils se soucier du budget de crawl ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Pas toujours. Si votre site a 								
+				
+				
+					
+						
+				
+					 Comment savoir si mon budget de crawl est mal utilisé ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Des indices :Des pages importantes non indexées alors qu'elles sont en ligne depuis plusieurs jours,Des logs montrant que Googlebot passe beaucoup de temps sur des pages sans intérêt,Des centaines de pages indexées mais non liées depuis le site.								
+				
+				
+					
+						
+				
+					 Le budget de crawl est-il un facteur de classement ? 
+							
+			
+			
+		
+
+						
+				
+					
+				
+				
+									Pas directement. Mais s'il empêche vos pages importantes d'être explorées ou indexées, alors oui, il a un impact indirect sur votre SEO.
+
+Google alloue-t-il un budget de crawl à tous les sites ?
+
+Oui. Chaque site dispose implicitement d'un budget, même s'il n'est pas communiqué. Plus le site est populaire, fiable et performant, plus ce budget est élevé.
+
+Les petits sites doivent-ils se soucier du budget de crawl ?
+
+Pas toujours. Si votre site a
+
+Comment savoir si mon budget de crawl est mal utilisé ?
+
+Des indices :
+- Des pages importantes non indexées alors qu'elles sont en ligne depuis plusieurs jours,Des logs montrant que Googlebot passe beaucoup de temps sur des pages sans intérêt,Des centaines de pages indexées mais non liées depuis le site.
+- Des pages importantes non indexées alors qu'elles sont en ligne depuis plusieurs jours,
+- Des logs montrant que Googlebot passe beaucoup de temps sur des pages sans intérêt,
+- Des centaines de pages indexées mais non liées depuis le site.
+
+Le budget de crawl est-il un facteur de classement ?
+
+Pas directement. Mais s'il empêche vos pages importantes d'être explorées ou indexées, alors oui, il a un impact indirect sur votre SEO.
+
+## Aller plus loin
+- [Comment structurer une arborescence SEO efficace](https://www.antoine-blot.com/ressources-seo/cocon-semantique/)
+- Comprendre l'indexation par Googlebot
+- [Optimiser un site pour le crawl](https://www.antoine-blot.com/ressources-seo/budget-crawl/)
+
+Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l'optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.
+
 {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-                "@type": "Person",
-                "name": "Antoine Blot",
-                "jobTitle": "Consultant SEO",
-                "homeLocation": "Montréal"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-                "@type": "Organization",
-                "name": "Google"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Google Search Console"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 4,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Screaming Frog"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 5,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Ahrefs"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 6,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Semrush"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 7,
-            "item": {
-                "@type": "Thing",
-                "name": "Budget de crawl",
-                "description": "Ressources allouées par un moteur de recherche pour explorer un site web sur une période donnée."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 8,
-            "item": {
-                "@type": "Thing",
-                "name": "SEO",
-                "description": "Search Engine Optimization"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 9,
-            "item": {
-                "@type": "Thing",
-                "name": "Indexation",
-                "description": "Processus par lequel les moteurs de recherche stockent et organisent les informations des pages web."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 10,
-            "item": {
-                "@type": "Thing",
-                "name": "Googlebot",
-                "description": "Robot d'exploration de Google."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 11,
-            "item": {
-                "@type": "Thing",
-                "name": "robots.txt",
-                "description": "Fichier texte qui indique aux robots des moteurs de recherche quelles pages ou sections d'un site ne doivent pas être explorées."
-            }
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.antoine-blot.com/ressources/seo/budget-crawl/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.antoine-blot.com/ressources/seo/budget-crawl/"
+      },
+      "headline": "Budget de crawl : comment Google explore votre site",
+      "description": "Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l'optimiser pour un SEO plus efficace.",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Antoine Blot",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
         }
-    ]
+      },
+      "datePublished": "2025-07-26",
+      "dateModified": "2025-07-26"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.antoine-blot.com/ressources/seo/budget-crawl/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Google alloue-t-il un budget de crawl à tous les sites ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Chaque site dispose implicitement d'un budget, même s'il n'est pas communiqué. Plus le site est populaire, fiable et performant, plus ce budget est élevé."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les petits sites doivent-ils se soucier du budget de crawl ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pas toujours. Pour les sites de moins de 500 pages bien structurées, le budget de crawl est rarement un problème. Il devient critique sur les sites volumineux ou mal optimisés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment savoir si mon budget de crawl est mal utilisé ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Des signes révélateurs incluent des pages stratégiques non indexées, un crawl excessif de pages sans valeur ajoutée, ou une exploration inefficace de la structure du site."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le budget de crawl est-il un facteur de classement ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non directement. Mais s'il empêche l'exploration ou l'indexation de vos pages clés, alors il a un impact indirect sur la performance SEO globale."
+          }
+        }
+      ]
+    }
+  ]
 }
-</script>
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.antoine-blot.com/ressources/seo/budget-crawl/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.antoine-blot.com/ressources/seo/budget-crawl/"
+      },
+      "headline": "Budget de crawl : comment Google explore votre site",
+      "description": "Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l'optimiser pour un SEO plus efficace.",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Antoine Blot",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
+        }
+      },
+      "datePublished": "2025-07-26",
+      "dateModified": "2025-07-26"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.antoine-blot.com/ressources/seo/budget-crawl/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Google alloue-t-il un budget de crawl à tous les sites ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Chaque site dispose implicitement d'un budget, même s'il n'est pas communiqué. Plus le site est populaire, fiable et performant, plus ce budget est élevé."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les petits sites doivent-ils se soucier du budget de crawl ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pas toujours. Pour les sites de moins de 500 pages bien structurées, le budget de crawl est rarement un problème. Il devient critique sur les sites volumineux ou mal optimisés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment savoir si mon budget de crawl est mal utilisé ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Des signes révélateurs incluent des pages stratégiques non indexées, un crawl excessif de pages sans valeur ajoutée, ou une exploration inefficace de la structure du site."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le budget de crawl est-il un facteur de classement ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non directement. Mais s'il empêche l'exploration ou l'indexation de vos pages clés, alors il a un impact indirect sur la performance SEO globale."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
