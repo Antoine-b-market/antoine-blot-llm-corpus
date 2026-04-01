@@ -1,16 +1,13 @@
 ﻿---
 title: A propos de moi
-description: Découvrez le parcours d'Antoine Blot, consultant en marketing stratégique à Montréal. Expertise en SEO, transformation digitale et stratégie de croissance.
+description: Découvrez le parcours d’Antoine Blot, consultant en marketing stratégique à Montréal. Expertise en SEO, transformation digitale et stratégie de croissance.
 author: BLOT Antoine
 date: 2024-05-17
-updated: 2025-12-31
+updated: 2026-03-26
 canonical_url: https://www.antoine-blot.com/a-propos-de-moi/
 robots: index, follow
-blockIA: keywords: [Consultant marketing digital Montréal, Expert en transformation digitale, Stratégie marketing sur-mesure]
-flesch_score: 11
+blockIA:
 ---
-
-<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # A propos de moi
 
@@ -127,6 +124,7 @@ Retrouvez mes publications en accès libre de droit :
 - [Mon GitHub](https://github.com/Antoine-b-market/)
 - [Mon profil SlideShare](https://fr.slideshare.net/tuisspog)
 - [Ma chaine YouTube](https://www.youtube.com/@Marketing-SEO-Antoine-BLOT)
+- [Mon site de ressource technique SEO](https://blotmkt.com/ia/)
 
 ```json
 {
