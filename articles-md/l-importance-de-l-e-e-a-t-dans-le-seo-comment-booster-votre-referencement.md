@@ -1,20 +1,16 @@
 ﻿---
-title: L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ?
+title: L’importance de l’E-E-A-T dans le SEO : comment booster votre référencement ?
 description: Quand avez-vous vérifié pour la dernière fois la qualité réelle de vos contenus web ?
 author: BLOT Antoine
 date: 2025-04-29
 updated: 2025-08-01
 canonical_url: https://www.antoine-blot.com/blogue/importance-eeat-seo/
 robots: index, follow
-blockIA: keywords: [E-E-A-T SEO, comment améliorer son E-E-A-T, importance E-E-A-T référencement]
-flesch_score: 20
-related_articles:
+blockIA: related_articles:
   - https://www.antoine-blot.com/data/articles-md/seo-ne-vend-plus-autorite-visibilite.md
   - https://www.antoine-blot.com/data/articles-md/integration-intelligence-artificielle-strategies-seo.md
   - https://www.antoine-blot.com/data/articles-md/intelligence-artificielle-impact-marketing.md
 ---
-
-<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # L'importance de l'E-E-A-T dans le SEO : comment booster votre référencement ?
 
