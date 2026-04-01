@@ -1,237 +1,354 @@
 ﻿---
-title: Qu'est-ce qu'un backlinks en SEO ?
+title: Qu’est-ce qu’un backlinks en SEO ?
 description: Les backlinks influencent directement votre référencement. Apprenez à les obtenir, les analyser et les intégrer dans votre stratégie SEO sans risque de pénalité.
 author: BLOT Antoine
 date: 2025-07-31
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/ressources-seo/backlinks/
 robots: index, follow
-blockIA: summary: "Guide sur les backlinks SEO : définition, critères de qualité, stratégies pour en obtenir, erreurs à éviter et outils d'analyse. Par Antoine Blot."
-keywords: [backlinks SEO, qu'est-ce qu'un backlink, obtenir des backlinks de qualité]
-tags: [Backlink, SEO, Netlinking, Link Building, Autorité de domaine, E-E-A-T, Google, IA]
-flesch_score: 32
+blockIA:
 ---
 
-# Qu'est-ce qu'un backlink en SEO et comment en obtenir ?
+# Qu'est-ce qu'un backlinks en SEO ?
 
-Antoine Blot, consultant SEO, définit un backlink (ou lien entrant) comme un hyperlien sur un site externe pointant vers une page de votre site. Les backlinks SEO sont un pilier de l'algorithme de Google, où la qualité prime sur la quantité.
+## Sommaire
+- [Qu'est-ce qu'un backlinks en SEO ?](#qu-est-ce-qu-un-backlinks-en-seo)
+- [Définition d'un backlink](#definition-d-un-backlink)
+- [Trois critères majeurs à considérer :](#trois-criteres-majeurs-a-considerer)
+- [Pourquoi les backlinks sont-ils importants pour le SEO ?](#pourquoi-les-backlinks-sont-ils-importants-pour-le-seo)
+- [Critère d'autorité](#critere-d-autorite)
+- [Renforcement de la légitimité sémantique](#renforcement-de-la-legitimite-semantique)
+- [Amélioration de l'indexation](#amelioration-de-l-indexation)
+- [Trafic de référence](#trafic-de-reference)
+- [Les différents types de backlinks](#les-differents-types-de-backlinks)
+- [Stratégies efficaces pour obtenir des backlinks de qualité](#strategies-efficaces-pour-obtenir-des-backlinks-de-qualite)
+- [Créer des contenus référencables (link-worthy)](#creer-des-contenus-referencables-link-worthy)
+- [Tactique du "broken link building"](#tactique-du-broken-link-building)
+- [Guest blogging intelligent](#guest-blogging-intelligent)
+- [Partenariats et citations croisées](#partenariats-et-citations-croisees)
+- [Réponses expertes dans les médias](#reponses-expertes-dans-les-medias)
+- [Erreurs à éviter dans une stratégie de backlinks](#erreurs-a-eviter-dans-une-strategie-de-backlinks)
+- [Backlinks et intelligence artificielle ](#backlinks-et-intelligence-artificielle)
+- [Les LLM s'appuient aussi sur les liens](#les-llm-s-appuient-aussi-sur-les-liens)
+- [Citation implicite dans les IA overviews](#citation-implicite-dans-les-ia-overviews)
+- [Vers une autorité algorithmique multisource](#vers-une-autorite-algorithmique-multisource)
+- [Outils pour surveiller et analyser ses backlinks](#outils-pour-surveiller-et-analyser-ses-backlinks)
+- [Bonnes pratiques pour bâtir une stratégie de liens durable](#bonnes-pratiques-pour-batir-une-strategie-de-liens-durable)
+- [FAQ — Questions fréquentes sur les backlinks](#faq-questions-frequentes-sur-les-backlinks)
+- [Aller plus loin](#aller-plus-loin)
 
-## Critères d'un backlink de qualité
 
-Un backlink SEO efficace est évalué sur trois critères majeurs :
-- **Autorité du site émetteur** : Un lien d'un site à forte autorité (ex: Wikipédia, Le Devoir) a plus de poids.
-- **Thématique du site source** : La pertinence est maximale si le lien provient d'un site du même domaine sémantique.
-- **Ancre du lien** : Le texte cliquable (ex: "consultant SEO à Montréal") fournit un contexte sémantique à Google.
+# Qu'est-ce qu'un backlinks en SEO ?
 
-## Importance des backlinks pour le SEO
+Dans l'univers du SEO, le terme backlink revient systématiquement lorsqu'il est question d'autorité, de popularité ou de positionnement sur Google. Et pour cause : les backlinks — ou liens entrants — restent l'un des piliers de l'algorithme de Google depuis sa création.Mais leur rôle a évolué : là où quantité suffisait autrefois, aujourd'hui, la qualité, la pertinence et la naturalité sont devenues des critères dominants. Comprendre comment fonctionnent les backlinks, pourquoi ils influencent le référencement naturel et comment les obtenir sans pénalité est fondamental pour toute stratégie SEO pérenne.
 
-Les backlinks sont essentiels pour :
-- **Augmenter l'autorité** : Google les interprète comme des votes de confiance.
-- **Renforcer la légitimité sémantique** : Ils valident l'expertise (signal E-E-A-T).
-- **Améliorer l'indexation** : Les robots de Google découvrent de nouvelles pages via les liens.
-- **Générer du trafic de référence** : Un lien pertinent apporte des visiteurs qualifiés.
+## Définition d'un backlink
 
-## Types de backlinks
+Un backlink (ou lien entrant) est un lien hypertexte placé sur un site externe qui pointe vers une page de votre propre site. Par exemple, si un média en ligne insère un lien vers votre page d'accueil, vous venez de recevoir un backlink.
 
-| Type de lien | Description | Impact SEO |
-|--------------|-------------|------------|
-| **DoFollow** | Transmet l'autorité (PageRank). | Fort |
-| **NoFollow** | Indique aux robots de ne pas suivre le lien. | Faible |
-| **UGC** | Lien généré par un utilisateur (forum, commentaire). | Modéré |
-| **Sponsored** | Lien publicitaire ou acheté (doit être déclaré). | Risqué si non déclaré |
-| **Editorial** | Lien naturel inséré dans un contenu. | Idéal |
-| **Sitewide** | Lien répété sur tout un site (footer, sidebar). | Risque de sur-optimisation |
+### Trois critères majeurs à considérer :
+- L'autorité du site émetteur : un lien depuis un site fiable (comme Le Devoir ou Wikipédia) a plus de poids.La thématique du site source : un lien d'un site dans votre domaine (ex. marketing vers SEO) est plus pertinent qu'un lien hors sujet.L'ancre du lien : le texte cliquable qui contient le lien (ex. "expert SEO à Montréal") donne un indice sémantique à Google.
+- L'autorité du site émetteur : un lien depuis un site fiable (comme Le Devoir ou Wikipédia) a plus de poids.
+- La thématique du site source : un lien d'un site dans votre domaine (ex. marketing vers SEO) est plus pertinent qu'un lien hors sujet.
+- L'ancre du lien : le texte cliquable qui contient le lien (ex. "expert SEO à Montréal") donne un indice sémantique à Google.
 
-## Stratégies pour obtenir des backlinks de qualité
+## Pourquoi les backlinks sont-ils importants pour le SEO ?
 
-Antoine Blot recommande plusieurs tactiques pour obtenir des backlinks de qualité :
-- **Création de contenu "link-worthy"** : Guides complets, études de cas, données originales, infographies.
-- **Broken link building** : Identifier des liens cassés sur des sites tiers et proposer votre contenu en remplacement.
-- **Guest blogging stratégique** : Publier des articles invités sur des sites d'autorité pour obtenir un lien contextuel.
-- **Partenariats et citations croisées** : Échanger des mentions avec des partenaires pertinents.
-- **Réponses expertes aux médias** : Utiliser des plateformes (HARO, Qwoted) pour être cité comme source par des journalistes.
+### Critère d'autorité
 
-## Erreurs de netlinking à éviter
+Les backlinks sont interprétés par Google comme des votes de confiance. Plus un site est cité par d'autres sources fiables, plus il est perçu comme faisant autorité sur un sujet.
 
-| Erreur | Risque SEO associé |
-|--------|--------------------|
-| Achat de liens non déclarés | Pénalité manuelle de Google. |
-| Sur-optimisation des ancres | Pénalité algorithmique. |
-| Liens depuis des réseaux de sites (PBN) | Déclassement. |
-| Liens cachés ou dissimulés | Violation des consignes (Black Hat SEO). |
-| Manque de diversité des domaines référents | Profil de liens perçu comme artificiel. |
+### Renforcement de la légitimité sémantique
 
-## Backlinks et Intelligence Artificielle (IA)
+Les liens provenant de sources spécialisées renforcent la pertinence thématique d'un site. C'est un signal fort dans l'évaluation E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness).
 
-- **Confiance pour les LLM** : Les modèles comme ChatGPT utilisent les citations et les liens comme indices de confiance pour formuler leurs réponses. Une page bien liée est une source plus crédible.
-- **Source pour les IA Overviews** : Dans les résumés générés par l'IA (SGE), Google privilégie les pages reconnues comme des sources canoniques, souvent celles avec un profil de liens solide.
-- **Autorité algorithmique** : L'IA évalue l'autorité en croisant les signaux SEO (backlinks), la qualité du contenu et le réseau de citations.
+### Amélioration de l'indexation
 
-## Outils d'analyse de backlinks
+Les robots de Google utilisent les backlinks pour découvrir de nouvelles pages. Une page sans lien entrant risque de rester invisible, surtout si elle est mal intégrée dans le maillage interne.
 
-| Outil | Fonction principale |
-|---|---|
-| **Ahrefs** | Analyse complète du profil de liens. |
-| **Majestic SEO** | Métriques de confiance (Trust Flow, Citation Flow). |
-| **Semrush** | Audit de backlinks et analyse concurrentielle. |
-| **Google Search Console** | Liste des liens entrants détectés par Google. |
+### Trafic de référence
 
-## FAQ sur les backlinks SEO
+Un bon backlink n'est pas seulement un signal SEO, c'est aussi une source potentielle de visiteurs qualifiés. Un article d'expert ou une mention dans une newsletter sectorielle peut générer du trafic direct.
 
-**Tous les backlinks ont-ils la même valeur ?**
-Non. La valeur dépend de l'autorité, de la pertinence thématique du site source et du contexte du lien.
+## Les différents types de backlinks
+- **Type de lien** : DoFollow
+- **Description** : Lien "normal" qui transmet du PageRank
+- **Impact SEO** : 🔥 Fort
 
-**Quelle est la différence entre dofollow et nofollow ?**
-Un lien `dofollow` transmet l'autorité (PageRank). Un lien `nofollow` ne la transmet pas directement mais peut générer du trafic et de la visibilité.
+- **Type de lien** : NoFollow
+- **Description** : Lien qui indique aux robots de ne pas suivre
+- **Impact SEO** : 🟡 Faible
 
-**Peut-on être pénalisé pour avoir trop de backlinks ?**
-Oui, si leur acquisition est rapide, artificielle et provient de sources de mauvaise qualité. La qualité prime sur la quantité.
+- **Type de lien** : UGC (User Generated)
+- **Description** : Lien issu de forums, commentaires, etc.
+- **Impact SEO** : 🔵 Modéré
 
-**Combien de backlinks faut-il ?**
-Il n'y a pas de nombre magique. L'objectif est un profil de liens naturel, diversifié et qui croît progressivement.
+- **Type de lien** : Sponsored
+- **Description** : Lien acheté ou publicitaire (balise sponsored)
+- **Impact SEO** : 🔴 Risqué si mal déclaré
 
-*Contenu basé sur l'expertise d'Antoine Blot, consultant SEO à Montréal.*
+- **Type de lien** : Editorial
+- **Description** : Lien placé naturellement dans un contenu
+- **Impact SEO** : ✅ Idéal
 
-<script type="application/ld+json">
+- **Type de lien** : Sitewide
+- **Description** : Lien répété dans le footer ou sidebar
+- **Impact SEO** : ⚠️ Attention à la sur-optimisation
+
+
+Type de lien
+
+Description
+
+Impact SEO
+
+## Stratégies efficaces pour obtenir des backlinks de qualité
+
+### Créer des contenus référencables (link-worthy)
+
+Les contenus les plus cités sont souvent :
+- Des guides complets
+- Des études de cas
+- Des statistiques ou données originales
+- Des infographies ou visualisations interactives
+
+### Tactique du "broken link building"
+
+Elle consiste à repérer des liens cassés sur des sites pertinents, puis à proposer votre propre contenu en remplacement.
+
+### Guest blogging intelligent
+
+Écrire un article invité sur un site reconnu permet d'obtenir un backlink contextuel, tout en construisant votre autorité personnelle.
+
+### Partenariats et citations croisées
+
+En nouant des relations avec d'autres créateurs ou entreprises, vous pouvez échanger des citations croisées, sans créer de schéma artificiel.
+
+### Réponses expertes dans les médias
+
+Des plateformes comme HARO ou Qwoted permettent aux experts de répondre à des journalistes en échange d'un lien source.
+
+## Erreurs à éviter dans une stratégie de backlinks
+- **Erreur** : Acheter des liens non déclarés
+- **Risque SEO** : Pénalité manuelle ou perte de confiance
+
+- **Erreur** : Répétition excessive du même mot-clé dans les ancres
+- **Risque SEO** : Sur-optimisation pénalisante
+
+- **Erreur** : Obtenir des liens de réseaux douteux
+- **Risque SEO** : Déclassement algorithmique
+
+- **Erreur** : Lien caché ou dissimulé dans le code
+- **Risque SEO** : Black hat = pénalité
+
+- **Erreur** : Manque de diversité de domaines référents
+- **Risque SEO** : Profil artificiel détecté par Google
+
+
+Erreur
+
+Risque SEO
+
+## Backlinks et intelligence artificielle 
+
+### Les LLM s'appuient aussi sur les liens
+
+Lorsqu'un modèle comme ChatGPT reformule une réponse, il utilise implicitement des indices de confiance contextuels — y compris les liens cités dans les pages d'origine.Une page qui reçoit de nombreux backlinks de qualité a plus de chances d'être reformulée, résumée ou citée dans un assistant IA.
+
+### Citation implicite dans les IA overviews
+
+Google expérimente des formats où la réponse est résumée à partir de plusieurs sources. Les pages fortement liées dans leur thématique ont plus de chances d'être reconnues comme "source canonique" dans ces formats.
+
+### Vers une autorité algorithmique multisource
+
+Les IA de demain croisent les signaux : autorité SEO, qualité du contenu, réseau de citations. Les backlinks deviennent alors une empreinte cognitive plus qu'un simple levier SEO.
+
+## Outils pour surveiller et analyser ses backlinks
+- **Outil** : Ahrefs
+- **Fonction principale** : Analyse complète du profil de backlinks
+
+- **Outil** : Majestic SEO
+- **Fonction principale** : Trust Flow / Citation Flow
+
+- **Outil** : Semrush
+- **Fonction principale** : Audit de backlinks et analyse concurrentielle
+
+- **Outil** : Google Search Console
+- **Fonction principale** : Voir les liens entrants détectés par Google
+
+
+Outil
+
+Fonction principale
+
+## Bonnes pratiques pour bâtir une stratégie de liens durable
+- Viser la cohérence sémantique plus que la popularité brute.Diversifier les types et sources de liens (blogs, médias, partenaires).Prioriser les liens qui peuvent générer du trafic qualifié réel.Ne pas négliger les mentions sans lien (citations brandées utiles pour l'E-E-A-T).Penser à internaliser le link building via les ressources existantes.
+- Viser la cohérence sémantique plus que la popularité brute.
+- Diversifier les types et sources de liens (blogs, médias, partenaires).
+- Prioriser les liens qui peuvent générer du trafic qualifié réel.
+- Ne pas négliger les mentions sans lien (citations brandées utiles pour l'E-E-A-T).
+- Penser à internaliser le link building via les ressources existantes.
+
+## FAQ — Questions fréquentes sur les backlinks
+
+Est-ce que tous les backlinks ont la même valeur ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Non. Un lien provenant d'un site fiable, pertinent et dans votre thématique aura beaucoup plus de valeur qu'un lien d'un annuaire générique ou d'un commentaire de blog.								
+				
+				
+					
+						
+				
+					 Quelle est la différence entre un backlink dofollow et nofollow ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Un lien dofollow transmet l'autorité (PageRank) vers la page cible. Un lien nofollow indique aux robots de ne pas suivre ce lien. Ce dernier est utile mais moins puissant.								
+				
+				
+					
+						
+				
+					 Peut-on avoir trop de backlinks ? 
+							
+			
+			
+		
+
+						
+				
+				
+				
+									Oui, surtout s'ils viennent tous de sources douteuses ou sont construits trop vite. Google peut y voir une tentative de manipulation, ce qui entraîne des sanctions.								
+				
+				
+					
+						
+				
+					 Combien de backlinks faut-il pour bien se positionner ? 
+							
+			
+			
+		
+
+						
+				
+					
+				
+				
+									Il n'y a pas de chiffre universel. L'important est d'avoir un profil naturel, varié, cohérent avec votre domaine et progressif.
+
+Est-ce que tous les backlinks ont la même valeur ?
+
+Non. Un lien provenant d'un site fiable, pertinent et dans votre thématique aura beaucoup plus de valeur qu'un lien d'un annuaire générique ou d'un commentaire de blog.
+
+Quelle est la différence entre un backlink dofollow et nofollow ?
+
+Un lien dofollow transmet l'autorité (PageRank) vers la page cible. Un lien nofollow indique aux robots de ne pas suivre ce lien. Ce dernier est utile mais moins puissant.
+
+Peut-on avoir trop de backlinks ?
+
+Oui, surtout s'ils viennent tous de sources douteuses ou sont construits trop vite. Google peut y voir une tentative de manipulation, ce qui entraîne des sanctions.
+
+Combien de backlinks faut-il pour bien se positionner ?
+
+Il n'y a pas de chiffre universel. L'important est d'avoir un profil naturel, varié, cohérent avec votre domaine et progressif.
+
+## Aller plus loin
+- [Cocon sémantique](https://www.antoine-blot.com/ressources-seo/cocon-semantique/)
+- Autorité de domaine
+- [Maillage interne](https://www.antoine-blot.com/ressources-seo/maillage-interne/)
+
+Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l'optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.
+
 {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-                "@type": "Person",
-                "name": "Antoine Blot",
-                "jobTitle": "Consultant SEO",
-                "knowsAbout": [
-                    "SEO",
-                    "Backlink",
-                    "Generative Engine Optimization",
-                    "Knowledge Architecture"
-                ],
-                "homeLocation": {
-                    "@type": "City",
-                    "name": "Montréal"
-                }
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-                "@type": "Organization",
-                "name": "Google",
-                "description": "Moteur de recherche qui utilise les backlinks comme un facteur de classement majeur."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "Backlink",
-                "description": "Un lien hypertexte d'un site web externe pointant vers une page d'un autre site web. Aussi appelé lien entrant."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 4,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "SEO (Search Engine Optimization)",
-                "description": "Ensemble de techniques visant à optimiser la visibilité d'une page web dans les résultats des moteurs de recherche."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 5,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)",
-                "description": "Critères utilisés par Google pour évaluer la qualité d'une page web."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 6,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Ahrefs",
-                "applicationCategory": "SEO Tool",
-                "description": "Outil d'analyse de profil de backlinks."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 7,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Majestic SEO",
-                "applicationCategory": "SEO Tool",
-                "description": "Outil d'analyse de backlinks connu pour ses métriques Trust Flow et Citation Flow."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 8,
-            "item": {
-                "@type": "SoftwareApplication",
-                "name": "Semrush",
-                "applicationCategory": "SEO Tool",
-                "description": "Suite d'outils SEO incluant l'audit de backlinks et l'analyse concurrentielle."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 9,
-            "item": {
-                "@type": "WebSite",
-                "name": "Google Search Console",
-                "description": "Service gratuit de Google qui aide à surveiller la présence d'un site dans les résultats de recherche, y compris les liens entrants."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 10,
-            "item": {
-                "@type": "DefinedTerm",
-                "name": "LLM (Large Language Model)",
-                "description": "Modèle d'intelligence artificielle entraîné sur de grandes quantités de données textuelles pour comprendre et générer du langage humain, comme ChatGPT."
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 11,
-            "item": {
-                "@type": "Organization",
-                "name": "Wikipédia"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 12,
-            "item": {
-                "@type": "Organization",
-                "name": "Le Devoir"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 13,
-            "item": {
-                "@type": "Service",
-                "name": "HARO (Help a Reporter Out)"
-            }
-        },
-        {
-            "@type": "ListItem",
-            "position": 14,
-            "item": {
-                "@type": "Service",
-                "name": "Qwoted"
-            }
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.antoine-blot.com/ressources-seo/backlinks/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.antoine-blot.com/ressources-seo/backlinks/"
+      },
+      "headline": "Backlinks : définition, impact SEO et stratégies efficaces",
+      "description": "Les backlinks influencent directement votre référencement. Apprenez à les obtenir, les analyser et les intégrer dans votre stratégie SEO sans risque de pénalité.",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Antoine Blot",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
         }
-    ]
-}
-</script>
+      },
+      "datePublished": "2025-07-26",
+      "dateModified": "2025-07-26"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.antoine-blot.com/ressources-seo/backlinks/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Est-ce que tous les backlinks ont la même valeur ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Un backlink provenant d'un site fiable, pertinent et dans votre thématique a plus de valeur qu'un lie
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.antoine-blot.com/ressources-seo/backlinks/#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.antoine-blot.com/ressources-seo/backlinks/"
+      },
+      "headline": "Backlinks : définition, impact SEO et stratégies efficaces",
+      "description": "Les backlinks influencent directement votre référencement. Apprenez à les obtenir, les analyser et les intégrer dans votre stratégie SEO sans risque de pénalité.",
+      "author": {
+        "@type": "Person",
+        "name": "Antoine Blot"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Antoine Blot",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.antoine-blot.com/wp-content/uploads/2024/05/LOGO-Antoine-BLOT-1.jpg"
+        }
+      },
+      "datePublished": "2025-07-26",
+      "dateModified": "2025-07-26"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.antoine-blot.com/ressources-seo/backlinks/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Est-ce que tous les backlinks ont la même valeur ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Un backlink provenant d'un site fiable, pertinent et dans votre thématique a plus de valeur qu'un lie
+```
