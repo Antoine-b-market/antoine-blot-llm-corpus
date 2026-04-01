@@ -1,42 +1,13 @@
 ﻿---
-title: Qu'est-ce que le maillage interne en SEO ?
-description: Le maillage interne relie les pages de votre site entre elles. Apprenez à le structurer pour améliorer l'indexation, la sémantique et la visibilité SEO.
+title: Qu’est-ce que le maillage interne en SEO ?
+description: Le maillage interne relie les pages de votre site entre elles. Apprenez à le structurer pour améliorer l’indexation, la sémantique et la visibilité SEO.
 author: BLOT Antoine
 date: 2025-07-31
 updated: 2025-07-31
 canonical_url: https://www.antoine-blot.com/ressources-seo/maillage-interne/
 robots: index, follow
-blockIA: keywords: [maillage interne SEO, Qu'est-ce que le maillage interne, stratégie de maillage interne]
-flesch_score: 24
+blockIA:
 ---
-
-<!-- ERREUR D'EXTRACTION IA: Impossible de lire le format JSON envoyé par Gemini.
-
-Veuillez vérifier que votre prompt IA respecte bien le format JSON attendu.
-Extrait de la réponse brute reçue: 
-```text
-{
-  "keywords": [
-    "maillage interne SEO",
-    "stratégie de maillage interne"
-  ],
-  "summary": "Guide sur le maillage interne SEO : définition, types de liens, et stratégie pour optimiser le PageRank, l'indexation et la sémantique de votre site.",
-  "tags": [
-    "SEO",
-    "Maillage Interne",
-    "Linking",
-    "PageRank",
-    "Stratégie SEO",
-    "Crawl Budget",
-    "Sémantique",
-    "RAG"
-  ],
-  "knowledge_graph": {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-   
-```
- -->
 
 # Qu'est-ce que le maillage interne en SEO ?
 
