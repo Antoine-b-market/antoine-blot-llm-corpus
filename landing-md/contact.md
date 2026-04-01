@@ -6,11 +6,8 @@ date: 2024-01-09
 updated: 2026-01-25
 canonical_url: https://www.antoine-blot.com/contact/
 robots: index, follow
-blockIA: keywords: [Consultant marketing digital Montréal, Consultant SEO Montréal, Stratégie marketing Québec]
-flesch_score: 16
+blockIA:
 ---
-
-<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # Contact
 
