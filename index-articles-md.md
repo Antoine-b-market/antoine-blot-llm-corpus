@@ -2,7 +2,7 @@
 title: "Index des articles – format Markdown"
 summary: "Corpus complet d'articles de blog disponibles en version Markdown pour citation, ingestion LLM ou intégration RAG."
 author: "BLOT Antoine"
-date: "2026-03-01"
+date: "2026-04-01"
 license: "CC BY 4.0"
 canonical_url: "https://www.antoine-blot.com/data/index-articles-md.md"
 robots: "index, follow"
