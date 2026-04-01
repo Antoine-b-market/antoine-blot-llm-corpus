@@ -6,11 +6,8 @@ date: 2024-10-24
 updated: 2026-02-11
 canonical_url: https://www.antoine-blot.com/consultant-seo/
 robots: index, follow
-blockIA: keywords: [Consultant SEO Montréal, Consultant SEO, Consultant GEO, Agence SEO Montréal, montreal]
-flesch_score: 23
+blockIA:
 ---
-
-<!-- ERREUR API HTTP 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. -->
 
 # Consultant SEO et GEO
 
