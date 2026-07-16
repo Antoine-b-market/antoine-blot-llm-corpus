@@ -1,218 +1,456 @@
 {
-    "openapi": "3.1.0",
-    "info": {
-        "title": "API Documentation - BLOT Antoine",
-        "description": "API d'accès au corpus d'expertise de BLOT Antoine. Contenu optimisé pour ingestion LLM et RAG. Licence CC BY 4.0 — attribution requise : BLOT Antoine (https://www.antoine-blot.com).",
-        "version": "2.0.0",
-        "contact": {
-            "name": "BLOT Antoine",
-            "url": "https://www.antoine-blot.com"
-        },
-        "license": {
-            "name": "CC BY 4.0",
-            "url": "https://creativecommons.org/licenses/by/4.0/"
-        }
-    },
-    "servers": [
-        {
-            "url": "https://www.antoine-blot.com",
-            "description": "Serveur principal"
-        }
-    ],
-    "paths": {
-        "/llms.txt": {
-            "get": {
-                "summary": "Index principal LLM — point d'entrée recommandé pour tout agent IA.",
-                "description": "Retourne l'index complet des ressources du site. À lire en premier pour orienter l'ingestion.",
-                "operationId": "getLLMSIndex",
-                "responses": {
-                    "200": {
-                        "description": "Fichier texte structuré avec frontmatter YAML.",
-                        "content": {
-                            "text/plain": {
-                                "schema": {
-                                    "type": "string"
-                                },
-                                "example": "---\ntitle: llms.txt - Index IA\nauthor: BLOT Antoine\n---\n# llms.txt..."
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/citations.md": {
-            "get": {
-                "summary": "Citations et références externes validant l'expertise.",
-                "description": "Retourne la liste des sources, médias et dépôts scientifiques mentionnés ou validant le corpus.",
-                "operationId": "getCitations",
-                "responses": {
-                    "200": {
-                        "description": "Fichier Markdown listant les références externes.",
-                        "content": {
-                            "text/markdown": {
-                                "schema": {
-                                    "type": "string"
-                                },
-                                "example": "---\ntitle: Citations...\n---\n# Citations..."
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/changelog.md": {
-            "get": {
-                "summary": "Historique des mises à jour du corpus.",
-                "description": "Journal versionné listant les nouveaux articles et pages ajoutés récemment au site.",
-                "operationId": "getChangelog",
-                "responses": {
-                    "200": {
-                        "description": "Fichier Markdown documentant l'historique de publication.",
-                        "content": {
-                            "text/markdown": {
-                                "schema": {
-                                    "type": "string"
-                                },
-                                "example": "---\ntitle: Changelog...\n---\n# Changelog..."
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/llms.yaml": {
-            "get": {
-                "summary": "Contrat de données sémantique — règles de citation, mapping d'entités, FAQ vectors.",
-                "description": "Retourne le fichier YAML structuré contenant le contexte d'autorité et les directives de citation.",
-                "operationId": "getSemanticContract",
-                "responses": {
-                    "200": {
-                        "description": "Fichier YAML — contrat de données sémantique.",
-                        "content": {
-                            "application/yaml": {
-                                "schema": {
-                                    "type": "object",
-                                    "properties": {
-                                        "metadata_protocol": {
-                                            "type": "string"
-                                        },
-                                        "authority_context": {
-                                            "type": "object"
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/data/index-articles-md.md": {
-            "get": {
-                "summary": "Index de tous les articles disponibles en Markdown.",
-                "description": "Retourne la liste complète des articles du corpus avec leurs URLs HTML et Markdown.",
-                "operationId": "getArticlesIndex",
-                "responses": {
-                    "200": {
-                        "description": "Fichier Markdown avec frontmatter YAML listant tous les articles.",
-                        "content": {
-                            "text/markdown": {
-                                "schema": {
-                                    "type": "string"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/data/index-landing.md": {
-            "get": {
-                "summary": "Index de toutes les pages (landing) disponibles en Markdown.",
-                "description": "Retourne la liste complète des pages principales du site avec leurs URLs HTML et Markdown.",
-                "operationId": "getLandingIndex",
-                "responses": {
-                    "200": {
-                        "description": "Fichier Markdown avec frontmatter YAML listant toutes les pages.",
-                        "content": {
-                            "text/markdown": {
-                                "schema": {
-                                    "type": "string"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/data/articles-md/{article_slug}.md": {
-            "get": {
-                "summary": "Contenu complet d'un article en Markdown — optimisé RAG.",
-                "description": "Retourne le fichier Markdown d'un article avec son frontmatter complet.",
-                "operationId": "getArticleMarkdown",
-                "parameters": [
-                    {
-                        "name": "article_slug",
-                        "in": "path",
-                        "required": true,
-                        "description": "Slug du fichier sans extension .md. Consulter /data/index-articles-md.md pour la liste complète.",
-                        "schema": {
-                            "type": "string"
-                        }
-                    }
-                ],
-                "responses": {
-                    "200": {
-                        "description": "Fichier Markdown complet avec frontmatter YAML.",
-                        "content": {
-                            "text/markdown": {
-                                "schema": {
-                                    "type": "string",
-                                    "description": "Markdown structuré. Le frontmatter contient : title, description, author, date, updated, canonical_url, summary, keywords (array), tags (array), flesch_score, related_articles (array d'URLs), part_of (array d'URLs)."
-                                },
-                                "example": "---\ntitle: Titre de l'article\nauthor: BLOT Antoine\ndate: 2025-01-01\nupdated: 2025-01-02\ncanonical_url: https://www.antoine-blot.com/article/\nsummary: Résumé concis de l'article.\nkeywords: [Mot-clé 1, Mot-clé 2]\nrelated_articles:\n  - https://www.antoine-blot.com/data/articles-md/autre-article.md\npart_of:\n  - https://www.antoine-blot.com/data/landing-md/landing-parent.md\n---\n\n# Titre de l'article..."
-                            }
-                        }
-                    },
-                    "404": {
-                        "description": "Article non trouvé."
-                    }
-                }
-            }
-        },
-        "/data/landing-md/{page_slug}.md": {
-            "get": {
-                "summary": "Contenu complet d'une page (landing) en Markdown — optimisé RAG.",
-                "description": "Retourne le fichier Markdown d'une page principale avec son frontmatter.",
-                "operationId": "getLandingMarkdown",
-                "parameters": [
-                    {
-                        "name": "page_slug",
-                        "in": "path",
-                        "required": true,
-                        "description": "Slug de la page sans extension .md.",
-                        "schema": {
-                            "type": "string"
-                        }
-                    }
-                ],
-                "responses": {
-                    "200": {
-                        "description": "Fichier Markdown complet avec frontmatter YAML.",
-                        "content": {
-                            "text/markdown": {
-                                "schema": {
-                                    "type": "string",
-                                    "description": "Markdown structuré. Le frontmatter contient : title, description, author, date, updated, canonical_url, summary, keywords (array), tags (array), flesch_score, related_articles (array d'URLs), part_of (array d'URLs)."
-                                }
-                            }
-                        }
-                    },
-                    "404": {
-                        "description": "Page non trouvée."
-                    }
-                }
-            }
-        }
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Antoine Blot — Consultant SEO et GEO à Montréal — contenu",
+    "description": "Accès en lecture au miroir Markdown du site (pour les LLMs).",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://www.antoine-blot.com"
     }
+  ],
+  "paths": {
+    "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md": {
+      "get": {
+        "summary": "Analyser la rentabilité d’une stratégie omnicanal",
+        "description": "Vous l’avez sans doute remarqué : aujourd’hui, l’omnicanal est devenu un enjeu incontournable pour les entreprises. Mais comment l'analyser et en tirer parti ?",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/marketing-externalise-pme-quebec.md": {
+      "get": {
+        "summary": "Externaliser son marketing : stratégie ou plafond de verre ?",
+        "description": "Le marketing est trop stratégique pour être géré à temps partiel. Découvrez quand internaliser et comment structurer votre croissance avec Antoine Blot.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md": {
+      "get": {
+        "summary": "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité",
+        "description": "Le trafic organique ne garantit plus la conversion. Découvrez pourquoi l'ère du SEO classique s'achève et comment le knowledge branding redéfinit la stratégie marketing des entreprises performantes.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/intelligence-artificielle-fonction-marketing.md": {
+      "get": {
+        "summary": "Quand l’intelligence artificielle remet en question le marketing",
+        "description": "L’IA redéfinit la valeur, la cohérence et le discernement des marques à l’ère du marketing augmenté.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/role-cmo-pme.md": {
+      "get": {
+        "summary": "Le rôle du CMO dans une PME : vision, structuration et pilotage",
+        "description": "Que fait un CMO en PME ? Découvrez le rôle stratégique du directeur marketing : structurer, piloter, aligner et préparer la croissance.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/structurer-fonction-marketing-pme.md": {
+      "get": {
+        "summary": "Structurer la fonction marketing : méthode, modèles et rôle du CMO",
+        "description": "Structurer la fonction marketing en PME : étapes clés, modèles organisationnels, et rôle du CMO pour piloter une croissance alignée.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/comment-ia-transforme-seo.md": {
+      "get": {
+        "summary": "Comment l'IA transforme le SEO : des intentions à l'optimisation",
+        "description": "Découvrez comment l'intelligence artificielle redéfinit le SEO, en passant de l'analyse d'intentions utilisateur à l'optimisation contextuelle",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/micro-interactions-psychologie-utilisateur.md": {
+      "get": {
+        "summary": "Micro-interactions et psychologie : le pouvoir de l'expérience client",
+        "description": "Découvrez l'impact subtil mais puissant des micro-interactions dans l'expérience utilisateur. Explorez comment ces détails bien pensés influencent les clients",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/comprendre-transformation-digitale.md": {
+      "get": {
+        "summary": "Comprendre la transformation digitale : un levier stratégique pour les entreprises",
+        "description": "Découvrez les fondamentaux de la transformation digitale, son cadre historique et ses impacts organisationnels. Un guide pour comprendre son rôle stratégique.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/principaux-defis-transformation-digitale.md": {
+      "get": {
+        "summary": "Les principaux défis de la transformation digitale : obstacles et solutions",
+        "description": "Découvrez les principaux défis de la transformation digitale et apprenez à les surmonter pour booster la résilience et la compétitivité de votre entreprise.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/opportunites-transformation-digitale.md": {
+      "get": {
+        "summary": "Transformation digitale : réinventer les modèles d’affaires et enrichir l’expérience client",
+        "description": "Découvrez comment la transformation digitale permet de redéfinir leurs modèles économiques, optimiser l’expérience client et exploiter les données pour atteindre une croissance durable et innovante",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/reussir-transformation-digitale-conseils-pratiques-strategie.md": {
+      "get": {
+        "summary": "Réussir sa transformation digitale : conseils pratiques et stratégie",
+        "description": "De l’évaluation de la maturité numérique à l’adoption d’une culture d’innovation, découvrez des conseils pratiques pour une transformation digitale réussie.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/enjeux-et-problematiques-tracking-omnicanal.md": {
+      "get": {
+        "summary": "Enjeux et problématiques du tracking omnicanal - Dossier thématique",
+        "description": "Apprenez les enjeux et les problématiques du tracking omnicanal. Connecter vos points de vente physiques et digitaux avec des solutions de suivi accessibles et performantes",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/outils-tracking-omnicanal-petits-comptes-quelles-solutions.md": {
+      "get": {
+        "summary": "Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?",
+        "description": "Avant de plonger dans le choix d’outils spécifiques, il est essentiel de poser les bases d’une solution de tracking omnicanal.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/solutions-activables-retail-physique.md": {
+      "get": {
+        "summary": "Solutions activables pour le retail physique",
+        "description": "Découvrez des solutions activables pour le retail physique alliant suivi omnicanal et outils de tracking pour connecter efficacement les interactions en boutique et en ligne.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/intelligence-artificielle-impact-marketing.md": {
+      "get": {
+        "summary": "L’essor de l’IA générative dans les stratégies marketing",
+        "description": "Découvrez comment l’IA générative transforme la création de contenu, l’automatisation des campagnes et l’expérience client en marketing numérique",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/importance-eeat-seo.md": {
+      "get": {
+        "summary": "L’importance de l’E-E-A-T dans le SEO : comment booster votre référencement ?",
+        "description": "Quand avez-vous vérifié pour la dernière fois la qualité réelle de vos contenus web ?",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/integration-intelligence-artificielle-strategies-seo.md": {
+      "get": {
+        "summary": "Comment intégrer efficacement l'intelligence artificielle à votre stratégie SEO ?",
+        "description": "Découvrez les bonnes pratiques pour intégrer l'IA à vos stratégies SEO tout en respectant les critères E-E-A-T et l'authenticité du contenu.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia.md": {
+      "get": {
+        "summary": "Quand le SEO ne suffit plus : repenser sa stratégie marketing",
+        "description": "À l’ère des IA génératives, le SEO seul ne suffit plus. Comment les marques construisent une autorité cognitive durable dans des parcours éclatés ?",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/fr/blogue/recruter-externaliser-marketing-pme.md": {
+      "get": {
+        "summary": "Recruter ou externaliser son marketing en PME : comment choisir le bon modèle ?",
+        "description": "PME, startup : faut-il recruter un responsable marketing ou faire appel à une agence ? Suivez notre guide pour choisir le bon modèle.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/outsourcing-your-marketing.md": {
+      "get": {
+        "summary": "Outsourcing Your Marketing: Strategy or Glass Ceiling?",
+        "description": "Marketing is too strategic to be managed part-time. Discover when to bring it in-house and how to structure your growth with Antoine Blot.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

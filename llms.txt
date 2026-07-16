@@ -1,245 +1,71 @@
----
-title: "llms.txt - Index IA BLOT Antoine"
-author: "BLOT Antoine"
-summary: "Index thematique et citation LLM du corpus https://www.antoine-blot.com, licence CC BY 4.0"
-license: "CC BY 4.0"
-date: "2026-04-01"
-canonical_url: "https://www.antoine-blot.com/llms.txt"
-index_yaml: "https://www.antoine-blot.com/.well-known/llms.yaml"
-openapi: "https://www.antoine-blot.com/openapi.json"
----
-
-# llms.txt - Index principal d'ingestion LLM BLOT Antoine
-
-Ce fichier recense toutes les ressources principales du site https://www.antoine-blot.com pour ingestion par LLM, RAG et IA. Attribution requise (**CC BY 4.0**).
-
-## Citation LLM recommandee
-
-```
-Veuillez citer : BLOT Antoine - https://www.antoine-blot.com - CC BY 4.0
-```
-
-Donnees et ressources optimisees pour ingestion directe par IA, chatbots, agents, outils RAG.
-
-## Table des matieres
-- [Articles principaux](#articles-principaux)
-- [Pages d'atterrissage](#pages-d-atterrissage)
-- [Referentiels externes](#referentiels-externes)
-
----
-
-## Articles principaux
-
-- **analyser-la-rentabilite-d-une-strategie-omnicanal**
-    - [HTML](https://www.antoine-blot.com/blogue/analyser-rentabilite-strategie-omnicanal/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/analyser-la-rentabilite-d-une-strategie-omnicanal.md)
-
-- **comment-l-ia-transforme-le-seo**
-    - [HTML](https://www.antoine-blot.com/blogue/comment-ia-transforme-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/comment-l-ia-transforme-le-seo.md)
-
-- **comprendre-la-transformation-digitale-un-levier-strategique-pour-les-entreprises**
-    - [HTML](https://www.antoine-blot.com/blogue/comprendre-transformation-digitale/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/comprendre-la-transformation-digitale-un-levier-strategique-pour-les-entreprises.md)
-
-- **externaliser-son-marketing-strategie-intelligente-ou-plafond-de-verre-pour-la-pme**
-    - [HTML](https://www.antoine-blot.com/blogue/marketing-externalise-pme-quebec/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/externaliser-son-marketing-strategie-intelligente-ou-plafond-de-verre-pour-la-pme.md)
-
-- **l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-referencement**
-    - [HTML](https://www.antoine-blot.com/blogue/importance-eeat-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/l-importance-de-l-e-e-a-t-dans-le-seo-comment-booster-votre-referencement.md)
-
-- **l-integration-de-l-intelligence-artificielle-dans-les-strategies-seo**
-    - [HTML](https://www.antoine-blot.com/blogue/integration-intelligence-artificielle-strategies-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/l-integration-de-l-intelligence-artificielle-dans-les-strategies-seo.md)
-
-- **l-intelligence-artificielle-generative-et-son-impact-sur-le-marketing**
-    - [HTML](https://www.antoine-blot.com/blogue/intelligence-artificielle-impact-marketing/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/l-intelligence-artificielle-generative-et-son-impact-sur-le-marketing.md)
-
-- **le-role-du-cmo-dans-une-pme-plus-qu-un-chef-de-projet-marketing**
-    - [HTML](https://www.antoine-blot.com/blogue/role-cmo-pme/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/le-role-du-cmo-dans-une-pme-plus-qu-un-chef-de-projet-marketing.md)
-
-- **le-seo-ne-vend-plus-pourquoi-la-visibilite-est-devenue-une-commodite-et-comment-l-autorite-peut-vous-sauver**
-    - [HTML](https://www.antoine-blot.com/blogue/seo-ne-vend-plus-autorite-visibilite/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/le-seo-ne-vend-plus-pourquoi-la-visibilite-est-devenue-une-commodite-et-comment-l-autorite-peut-vous-sauver.md)
-
-- **les-enjeux-et-problematiques-du-tracking-omnicanal**
-    - [HTML](https://www.antoine-blot.com/blogue/enjeux-et-problematiques-tracking-omnicanal/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/les-enjeux-et-problematiques-du-tracking-omnicanal.md)
-
-- **les-outils-de-tracking-omnicanal-pour-les-petits-comptes-quelles-solutions**
-    - [HTML](https://www.antoine-blot.com/blogue/outils-tacking-omnicanal-petits-comptes-quelles-solutions/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/les-outils-de-tracking-omnicanal-pour-les-petits-comptes-quelles-solutions.md)
-
-- **les-principaux-defis-de-la-transformation-digitale-obstacles-et-solutions**
-    - [HTML](https://www.antoine-blot.com/blogue/principaux-defis-transformation-digitale/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/les-principaux-defis-de-la-transformation-digitale-obstacles-et-solutions.md)
-
-- **micro-interactions-et-psychologie-utilisateur**
-    - [HTML](https://www.antoine-blot.com/blogue/micro-interactions-psychologie-utilisateur/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/micro-interactions-et-psychologie-utilisateur.md)
-
-- **quand-l-intelligence-artificielle-remet-en-question-la-fonction-marketing-du-protocole-des-modeles-au-protocole-du-sens**
-    - [HTML](https://www.antoine-blot.com/blogue/intelligence-artificielle-fonction-marketing/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/quand-l-intelligence-artificielle-remet-en-question-la-fonction-marketing-du-protocole-des-modeles-au-protocole-du-sens.md)
-
-- **quand-le-seo-ne-suffit-plus-vers-une-strategie-marketing-augmentee-par-l-ia**
-    - [HTML](https://www.antoine-blot.com/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/quand-le-seo-ne-suffit-plus-vers-une-strategie-marketing-augmentee-par-l-ia.md)
-
-- **recruter-ou-externaliser-son-marketing**
-    - [HTML](https://www.antoine-blot.com/blogue/recruter-externaliser-marketing-pme/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/recruter-ou-externaliser-son-marketing.md)
-
-- **reussir-sa-transformation-digitale-conseils-pratiques-et-strategie**
-    - [HTML](https://www.antoine-blot.com/blogue/reussir-transformation-digitale-conseils-pratiques-strategie/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/reussir-sa-transformation-digitale-conseils-pratiques-et-strategie.md)
-
-- **solutions-activables-pour-le-retail-physique**
-    - [HTML](https://www.antoine-blot.com/blogue/solutions-activables-retail-physique/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/solutions-activables-pour-le-retail-physique.md)
-
-- **structurer-la-fonction-marketing-dans-une-pme-ou-une-startup-qui-fait-quoi-quand-et-pourquoi**
-    - [HTML](https://www.antoine-blot.com/blogue/structurer-fonction-marketing-pme/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/structurer-la-fonction-marketing-dans-une-pme-ou-une-startup-qui-fait-quoi-quand-et-pourquoi.md)
-
-- **transformation-digitale-des-opportunites-strategiques-pour-reinventer-l-entreprise**
-    - [HTML](https://www.antoine-blot.com/blogue/opportunites-transformation-digitale/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/articles-md/transformation-digitale-des-opportunites-strategiques-pour-reinventer-l-entreprise.md)
-
-## Pages d'atterrissage
-
-- **a-propos-de-moi**
-    - [HTML](https://www.antoine-blot.com/a-propos-de-moi/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/a-propos-de-moi.md)
-
-- **accueil**
-    - [HTML](https://www.antoine-blot.com/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/accueil.md)
-
-- **audit-seo**
-    - [HTML](https://www.antoine-blot.com/consultant-seo/audit-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/audit-seo.md)
-
-- **blogue**
-    - [HTML](https://www.antoine-blot.com/blogue/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/blogue.md)
-
-- **clients**
-    - [HTML](https://www.antoine-blot.com/clients/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/clients.md)
-
-- **consultant-seo-et-geo**
-    - [HTML](https://www.antoine-blot.com/consultant-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/consultant-seo-et-geo.md)
-
-- **contact**
-    - [HTML](https://www.antoine-blot.com/contact/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/contact.md)
-
-- **definir-une-strategie-marketing-performante**
-    - [HTML](https://www.antoine-blot.com/responsable-marketing/definir-strategie-marketing-directeur/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/definir-une-strategie-marketing-performante.md)
-
-- **directeur-du-marketing**
-    - [HTML](https://www.antoine-blot.com/responsable-marketing/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/directeur-du-marketing.md)
-
-- **faq-seo**
-    - [HTML](https://www.antoine-blot.com/consultant-seo/faq-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/faq-seo.md)
-
-- **netlinking**
-    - [HTML](https://www.antoine-blot.com/consultant-seo/netlinking-autorite-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/netlinking.md)
-
-- **parcours-utilisateur**
-    - [HTML](https://www.antoine-blot.com/tunnel-conversion-parcours-utilisateur/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/parcours-utilisateur.md)
-
-- **qu-est-ce-qu-un-backlinks-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/backlinks/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-backlinks-en-seo.md)
-
-- **qu-est-ce-qu-un-cocon-semantique-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/cocon-semantique/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-cocon-semantique-en-seo.md)
-
-- **qu-est-ce-qu-un-code-de-reponse-http-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/code-reponse-http/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-un-code-de-reponse-http-en-seo.md)
-
-- **qu-est-ce-qu-une-balise-meta-description-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/meta-description/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-meta-description-en-seo.md)
-
-- **qu-est-ce-qu-une-balise-title-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/balise-title/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-balise-title-en-seo.md)
-
-- **qu-est-ce-qu-une-page-orpheline-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/pages-orphelines/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-qu-une-page-orpheline-en-seo.md)
-
-- **qu-est-ce-que-le-budget-de-crawl**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/budget-crawl/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-budget-de-crawl.md)
-
-- **qu-est-ce-que-le-contenu-duplique-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/contenu-duplique/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-contenu-duplique-en-seo.md)
-
-- **qu-est-ce-que-le-fichier-robots-txt-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/fichier-robots-txt/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-fichier-robots-txt-en-seo.md)
-
-- **qu-est-ce-que-le-maillage-interne-en-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/maillage-interne/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-maillage-interne-en-seo.md)
-
-- **qu-est-ce-que-le-temps-de-chargement-d-un-site-web**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/temps-de-chargement/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/qu-est-ce-que-le-temps-de-chargement-d-un-site-web.md)
-
-- **redaction-seo**
-    - [HTML](https://www.antoine-blot.com/consultant-seo/redaction-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/redaction-seo.md)
-
-- **ressources-seo**
-    - [HTML](https://www.antoine-blot.com/ressources-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/ressources-seo.md)
-
-- **strategie-seo**
-    - [HTML](https://www.antoine-blot.com/consultant-seo/strategie-seo/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/strategie-seo.md)
-
-- **strategies-data-driven-et-automatisation**
-    - [HTML](https://www.antoine-blot.com/automatisation-data-driven/)
-    - [Markdown LLM](https://www.antoine-blot.com/data/landing-md/strategies-data-driven-et-automatisation.md)
-
----
-
-## Referentiels externes
-
-- [Orcid.org](https://orcid.org/0000-0003-1147-1740)
-- [Linkedin.com](https://www.linkedin.com/in/antoine-blot/)
-- [Crunchbase.com](https://www.crunchbase.com/person/antoine-blot)
-- [Cv.archives-ouvertes.fr](https://cv.archives-ouvertes.fr/antoine-blot)
-- [Doi.org](https://doi.org/10.5281/zenodo.16696747)
-
-## Corpus complet & index YAML
-
-- [Index YAML LLM structuré](https://www.antoine-blot.com/data/llms.yaml)
-- [Corpus markdown complet - article](https://www.antoine-blot.com/data/index-articles-md.md)
-- [Corpus markdown complet - page](https://www.antoine-blot.com/data/index-landing.md)
-- [Citations et références externes](https://www.antoine-blot.com/citations.md)
-- [Historique des versions (Changelog)](https://www.antoine-blot.com/changelog.md)
-
----
-
-Dernière mise à jour : 2026-04-01
----
-
+# Antoine Blot — Consultant SEO et GEO à Montréal
+
+> Antoine Blot, consultant SEO/GEO et directeur marketing à Montréal.
+
+## Auteur
+- Antoine Blot
+  - [LinkedIn](https://www.linkedin.com/in/blotantoine/)
+  - [ORCID](https://orcid.org/0009-0005-6450-4528)
+  - [GitHub](https://github.com/Antoine-b-market/)
+
+# Français
+
+## Articles de blogue
+- [Externaliser son marketing : stratégie ou plafond de verre ?](https://www.antoine-blot.com/fr/blogue/marketing-externalise-pme-quebec/): Le marketing est trop stratégique pour être géré à temps partiel. Découvrez quand internaliser et comment structurer votre croissance avec Antoine Blot. ([markdown](https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md))
+- [Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité](https://www.antoine-blot.com/fr/blogue/seo-ne-vend-plus-autorite-visibilite/): Le trafic organique ne garantit plus la conversion. Découvrez pourquoi l'ère du SEO classique s'achève et comment le knowledge branding redéfinit la stratégie marketing des entreprises performantes. ([markdown](https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md))
+- [Quand l’intelligence artificielle remet en question le marketing](https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-fonction-marketing/): L’IA redéfinit la valeur, la cohérence et le discernement des marques à l’ère du marketing augmenté. ([markdown](https://www.antoine-blot.com/data/fr/blogue/intelligence-artificielle-fonction-marketing.md))
+- [Structurer la fonction marketing : méthode, modèles et rôle du CMO](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/): Structurer la fonction marketing en PME : étapes clés, modèles organisationnels, et rôle du CMO pour piloter une croissance alignée. ([markdown](https://www.antoine-blot.com/data/fr/blogue/structurer-fonction-marketing-pme.md))
+- [Recruter ou externaliser son marketing en PME : comment choisir le bon modèle ?](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/): PME, startup : faut-il recruter un responsable marketing ou faire appel à une agence ? Suivez notre guide pour choisir le bon modèle. ([markdown](https://www.antoine-blot.com/data/fr/blogue/recruter-externaliser-marketing-pme.md))
+- [Le rôle du CMO dans une PME : vision, structuration et pilotage](https://www.antoine-blot.com/fr/blogue/role-cmo-pme/): Que fait un CMO en PME ? Découvrez le rôle stratégique du directeur marketing : structurer, piloter, aligner et préparer la croissance. ([markdown](https://www.antoine-blot.com/data/fr/blogue/role-cmo-pme.md))
+- [Quand le SEO ne suffit plus : repenser sa stratégie marketing](https://www.antoine-blot.com/fr/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia/): À l’ère des IA génératives, le SEO seul ne suffit plus. Comment les marques construisent une autorité cognitive durable dans des parcours éclatés ? ([markdown](https://www.antoine-blot.com/data/fr/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia.md))
+- [Comment intégrer efficacement l'intelligence artificielle à votre stratégie SEO ?](https://www.antoine-blot.com/fr/blogue/integration-intelligence-artificielle-strategies-seo/): Découvrez les bonnes pratiques pour intégrer l'IA à vos stratégies SEO tout en respectant les critères E-E-A-T et l'authenticité du contenu. ([markdown](https://www.antoine-blot.com/data/fr/blogue/integration-intelligence-artificielle-strategies-seo.md))
+- [L’importance de l’E-E-A-T dans le SEO : comment booster votre référencement ?](https://www.antoine-blot.com/fr/blogue/importance-eeat-seo/): Quand avez-vous vérifié pour la dernière fois la qualité réelle de vos contenus web ? ([markdown](https://www.antoine-blot.com/data/fr/blogue/importance-eeat-seo.md))
+- [L’essor de l’IA générative dans les stratégies marketing](https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-impact-marketing/): Découvrez comment l’IA générative transforme la création de contenu, l’automatisation des campagnes et l’expérience client en marketing numérique ([markdown](https://www.antoine-blot.com/data/fr/blogue/intelligence-artificielle-impact-marketing.md))
+- [Solutions activables pour le retail physique](https://www.antoine-blot.com/fr/blogue/solutions-activables-retail-physique/): Découvrez des solutions activables pour le retail physique alliant suivi omnicanal et outils de tracking pour connecter efficacement les interactions en boutique et en ligne. ([markdown](https://www.antoine-blot.com/data/fr/blogue/solutions-activables-retail-physique.md))
+- [Les outils de tracking omnicanal pour les petits comptes : quelles solutions ?](https://www.antoine-blot.com/fr/blogue/outils-tracking-omnicanal-petits-comptes-quelles-solutions/): Avant de plonger dans le choix d’outils spécifiques, il est essentiel de poser les bases d’une solution de tracking omnicanal. ([markdown](https://www.antoine-blot.com/data/fr/blogue/outils-tracking-omnicanal-petits-comptes-quelles-solutions.md))
+- [Enjeux et problématiques du tracking omnicanal - Dossier thématique](https://www.antoine-blot.com/fr/blogue/enjeux-et-problematiques-tracking-omnicanal/): Apprenez les enjeux et les problématiques du tracking omnicanal. Connecter vos points de vente physiques et digitaux avec des solutions de suivi accessibles et performantes ([markdown](https://www.antoine-blot.com/data/fr/blogue/enjeux-et-problematiques-tracking-omnicanal.md))
+- [Réussir sa transformation digitale : conseils pratiques et stratégie](https://www.antoine-blot.com/fr/blogue/reussir-transformation-digitale-conseils-pratiques-strategie/): De l’évaluation de la maturité numérique à l’adoption d’une culture d’innovation, découvrez des conseils pratiques pour une transformation digitale réussie. ([markdown](https://www.antoine-blot.com/data/fr/blogue/reussir-transformation-digitale-conseils-pratiques-strategie.md))
+- [Transformation digitale : réinventer les modèles d’affaires et enrichir l’expérience client](https://www.antoine-blot.com/fr/blogue/opportunites-transformation-digitale/): Découvrez comment la transformation digitale permet de redéfinir leurs modèles économiques, optimiser l’expérience client et exploiter les données pour atteindre une croissance durable et innovante ([markdown](https://www.antoine-blot.com/data/fr/blogue/opportunites-transformation-digitale.md))
+- [Les principaux défis de la transformation digitale : obstacles et solutions](https://www.antoine-blot.com/fr/blogue/principaux-defis-transformation-digitale/): Découvrez les principaux défis de la transformation digitale et apprenez à les surmonter pour booster la résilience et la compétitivité de votre entreprise. ([markdown](https://www.antoine-blot.com/data/fr/blogue/principaux-defis-transformation-digitale.md))
+- [Comprendre la transformation digitale : un levier stratégique pour les entreprises](https://www.antoine-blot.com/fr/blogue/comprendre-transformation-digitale/): Découvrez les fondamentaux de la transformation digitale, son cadre historique et ses impacts organisationnels. Un guide pour comprendre son rôle stratégique. ([markdown](https://www.antoine-blot.com/data/fr/blogue/comprendre-transformation-digitale.md))
+- [Analyser la rentabilité d’une stratégie omnicanal](https://www.antoine-blot.com/fr/blogue/analyser-rentabilite-strategie-omnicanal/): Vous l’avez sans doute remarqué : aujourd’hui, l’omnicanal est devenu un enjeu incontournable pour les entreprises. Mais comment l'analyser et en tirer parti ? ([markdown](https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md))
+- [Micro-interactions et psychologie : le pouvoir de l'expérience client](https://www.antoine-blot.com/fr/blogue/micro-interactions-psychologie-utilisateur/): Découvrez l'impact subtil mais puissant des micro-interactions dans l'expérience utilisateur. Explorez comment ces détails bien pensés influencent les clients ([markdown](https://www.antoine-blot.com/data/fr/blogue/micro-interactions-psychologie-utilisateur.md))
+- [Comment l'IA transforme le SEO : des intentions à l'optimisation](https://www.antoine-blot.com/fr/blogue/comment-ia-transforme-seo/): Découvrez comment l'intelligence artificielle redéfinit le SEO, en passant de l'analyse d'intentions utilisateur à l'optimisation contextuelle ([markdown](https://www.antoine-blot.com/data/fr/blogue/comment-ia-transforme-seo.md))
+
+## Services
+- [Rédaction SEO et stratégie de contenu IA | Antoine Blot](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/): Transformez vos contenus en actifs stratégiques. Rédaction SEO haute performance, optimisation sémantique et préparation au GEO par Antoine Blot au Québec.
+- [Netlinking et autorité au Québec | Antoine Blot](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/): Boostez votre autorité SEO et votre GEO avec une stratégie de netlinking éthique et performante. Acquisition de liens de qualité et relations presse par Antoine Blot
+- [Client et étude de cas SEO - Antoine BLOT](https://www.antoine-blot.com/fr/clients/): Mes clients en stratégie marketing et SEO Depuis plus de dix ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France.
+- [FAQ SEO - Réponses claires sur le référencement naturel](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/): Découvrez notre FAQ SEO : définitions, outils, méthodes, bonnes pratiques. Comprenez les bases du référencement naturel et comment l’appliquer à votre site web.
+- [Stratégie SEO et plan de croissance GEO | Antoine BLOT](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/): Dominez votre marché avec une stratégie SEO hybride. Optimisation sémantique, autorité et visibilité IA par Antoine Blot, expert SEO au Québec.
+- [Audit SEO stratégique et diagnostic de visibilité IA | Antoine Blot](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/): Boostez votre croissance organique avec un audit SEO haute précision. Diagnostic technique, sémantique, autorité et préparation au GEO (IA) par Antoine Blot.
+- [Marketing analytics - Data - automatisation- BLOT Antoine](https://www.antoine-blot.com/fr/automatisation-data-driven/): Exploitez le potentiel de l'automatisation et des données pour des stratégies marketing précises et performantes. Optimisez votre ROI et adapter vos campagnes en temps réel.
+- [Optimisation des parcours utilisateur](https://www.antoine-blot.com/fr/tunnel-conversion-parcours-utilisateur/): Boostez vos taux de conversion avec des parcours utilisateur optimisés. Tunnels de conversion et de contact pour renforcer la fidélisation et l'engagement de vos clients,
+- [Directeur du marketing à Montréal – Stratégie et acquisition clients](https://www.antoine-blot.com/fr/responsable-marketing/): ⚡Boostez la croissance de votre entreprise avec une stratégie marketing sur-mesure - Acquisition client, amélioration de la visibilité web, stratégie multicanal
+- [Consultant SEO Montréal - Expert SEO](https://www.antoine-blot.com/fr/consultant-seo/): Faites appel à un consultant SEO expert à Montréal pour améliorer le référencement naturel de votre site web. Découvrez le métier de consultant en référencement et comment un consultant SEO peut propulser un site en tête des résultats.
+- [A propos d'Antoine Blot - CMO et consultant SEO à Montréal](https://www.antoine-blot.com/fr/a-propos-de-moi/): Découvrez le parcours d’Antoine Blot, consultant en marketing stratégique à Montréal. Expertise en SEO, transformation digitale et stratégie de croissance.
+- [Contact](https://www.antoine-blot.com/fr/contact/): Besoin d'un CMO, d'un directeur marketing ou d'un expert SEO ? Contactez moi !
+
+## Ressources SEO
+- [Temps de chargement : un facteur clé de performance SEO et UX](https://www.antoine-blot.com/fr/ressources-seo/temps-de-chargement/): Comprenez l’impact du temps de chargement sur le SEO et l’expérience utilisateur, et découvrez les meilleures pratiques pour accélérer votre site web.
+- [Maillage interne : définition, bonnes pratiques et impact SEO](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/): Le maillage interne relie les pages de votre site entre elles. Apprenez à le structurer pour améliorer l’indexation, la sémantique et la visibilité SEO.
+- [Fichier robots.txt : rôle, bonnes pratiques et impact sur le SEO](https://www.antoine-blot.com/fr/ressources-seo/fichier-robots-txt/): À quoi sert un fichier robots.txt ? Découvrez comment il contrôle le crawl des moteurs, améliore le SEO, et protège votre site des erreurs d’indexation.
+- [Contenu dupliqué : définition, impact SEO et solutions concrètes](https://www.antoine-blot.com/fr/ressources-seo/contenu-duplique/): Le contenu dupliqué peut nuire à votre référencement naturel. Apprenez à l’identifier, à le prévenir et à l’optimiser grâce à des méthodes efficaces.
+- [Pages orphelines : définition, impact SEO et comment les corriger](https://www.antoine-blot.com/fr/ressources-seo/pages-orphelines/): Découvrez ce que sont les pages orphelines, pourquoi elles nuisent au SEO et comment les identifier et les réintégrer efficacement dans votre maillage interne.
+- [Qu’est-ce qu’une balise title en SEO ? Définition et bonnes pratiques](https://www.antoine-blot.com/fr/ressources-seo/balise-title/): Découvrez le rôle de la balise title en SEO, son impact sur le référencement et les meilleures pratiques pour l’optimiser
+- [Balise meta description : rôle, optimisation et bonnes pratiques SEO](https://www.antoine-blot.com/fr/ressources-seo/meta-description/): Découvrez à quoi sert la balise meta description, son impact sur le SEO et comment l’optimiser pour améliorer le taux de clic dans les résultats Google.
+- [Code de réponse HTTP : comprendre leur impact SEO](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/): Les codes HTTP indiquent comment un serveur répond aux requêtes. Découvrez leur rôle en SEO, les erreurs à éviter et les bonnes pratiques à suivre.
+- [Cocon sémantique : définition, fonctionnement et impact SEO](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/): Découvrez comment structurer vos contenus SEO avec un cocon sémantique : définition, mise en place, avantages, erreurs à éviter et bonnes pratiques.
+- [Backlinks : définition, impact SEO et stratégies efficaces](https://www.antoine-blot.com/fr/ressources-seo/backlinks/): Les backlinks influencent directement votre référencement. Apprenez à les obtenir, les analyser et les intégrer dans votre stratégie SEO sans risque de pénalité.
+- [Budget de crawl : comment Google explore votre site](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/): Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l’optimiser pour un SEO plus efficace.
+
+## Pages
+- [SEO : Ressources et fondamentaux pour optimiser votre référencement naturel](https://www.antoine-blot.com/fr/ressources-seo/): Découvrez l’essentiel du SEO : définitions, techniques, balises et stratégies. Accédez à toutes les ressources SEO pour structurer et améliorer votre visibilité.
+- [Stratégie marketing : un accompagnement personnalisé](https://www.antoine-blot.com/fr/responsable-marketing/definir-strategie-marketing-directeur/): Directeur marketing à Montréal, j’aide les entreprises, OBNL et PME à définir une stratégie marketing claire, efficace et adaptée à leurs objectifs.
+- [Blog marketing stratégique et SEO | Antoine Blot à Montréal](https://www.antoine-blot.com/fr/blogue/): Explorez les articles d’Antoine Blot sur le marketing stratégique, le SEO, l’IA et la transformation digitale. Analyses, conseils et ressources concrètes.
+- [Consultant SEO et directeur marketing à Montréal](https://www.antoine-blot.com/fr/): J’accompagne les entreprises dans leur croissance avec des stratégies marketing sur-mesure : SEO, direction marketing, acquisition digitale et transformation numérique.
+
+# English
+
+## Articles
+- [Outsourcing Your Marketing: Strategy or Glass Ceiling?](https://www.antoine-blot.com/en/blog/outsourcing-your-marketing/): Marketing is too strategic to be managed part-time. Discover when to bring it in-house and how to structure your growth with Antoine Blot. ([markdown](https://www.antoine-blot.com/data/en/blog/outsourcing-your-marketing.md))
