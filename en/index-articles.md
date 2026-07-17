@@ -4,7 +4,7 @@ description: "Articles — contenus anglais."
 base_url: "https://www.antoine-blot.com"
 lang: "en"
 type: "article"
-last_updated: "2026-07-16"
+last_updated: "2026-07-17"
 count: 1
 ---
 

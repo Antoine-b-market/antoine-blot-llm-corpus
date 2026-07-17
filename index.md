@@ -2,7 +2,6 @@
 title: "Antoine Blot — Corpus LLM"
 description: "Index du corpus Markdown : miroir du site, lisible par les LLMs."
 base_url: "https://www.antoine-blot.com"
-updated: "2026-07-16"
 documents: 50
 license: "CC BY 4.0"
 ---
