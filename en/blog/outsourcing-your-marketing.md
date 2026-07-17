@@ -11,8 +11,6 @@ hreflang: "en-CA"
 robots: "index, follow"
 ---
 
-Résumer avec ChatGPT Résumer avec Perplexity
-
 Marketing has become too strategic to be managed part-time, and too costly to bring in-house too early. For the growing Québec SME, the challenge is no longer simply about "doing digital," but about steering a complex function without locking in a rigid cost structure.
 
 In this context, **outsourced marketing** (or marketing impartition) has emerged as a hybrid governance model: gaining access to senior-level leadership to structure growth before anchoring it permanently in-house.
@@ -51,7 +49,7 @@ Outsourced marketing should not be an end in itself. A healthy company must know
 2. **The budget critical mass:** When external management fees reach approximately 60% to 70% of the fully loaded salary of an equivalent internal profile (often exceeding $100,000 CAD in Montréal).
 3. **The data culture:** When the company needs ultra-rapid iteration and institutional memory that only a dedicated talent can provide.
 
-![L'impartition marketing](http://89.167.9.181/media/impartition-marketing.jpg)
+![L'impartition marketing](/media/impartition-marketing.jpg)
 
 ## **The Growth Architecture: My 3-Step Method**
 

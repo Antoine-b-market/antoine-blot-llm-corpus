@@ -26,8 +26,6 @@ Dans cet article, nous clarifions le **rôle exact du CMO**, adapté aux réalit
 
 **Le CMO n’est pas là pour “faire du marketing”. Il est là pour donner un cap, organiser, prioriser, aligner.**
 
-Résumer avec ChatGPT Résumer avec Perplexity
-
 ## CMO : définition et périmètre
 
 CMO signifie **Chief Marketing Officer**. C’est un titre souvent associé aux grandes entreprises, mais de plus en plus adopté dans les PME structurées ou les startups en phase de scale-up.

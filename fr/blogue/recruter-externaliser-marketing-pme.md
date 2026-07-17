@@ -28,10 +28,6 @@ Dans cet article, nous vous proposons un cadre de réflexion structuré, pour ch
 
 👉 Pour une vue d’ensemble complète de la structuration marketing en entreprise, consultez notre article de fond : [Structurer la fonction marketing en PME](/fr/blogue/structurer-fonction-marketing-pme/)
 
-Résumer avec ChatGPT
-
-Résumer avec Perplexity
-
 ## Ce que vous cherchez (vraiment) à décider
 
 Ce que vous cherchez (vraiment) à décider

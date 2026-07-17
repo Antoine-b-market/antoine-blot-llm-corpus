@@ -19,8 +19,6 @@ related_articles:
     url: "/data/fr/blogue/intelligence-artificielle-fonction-marketing.md"
 ---
 
-Résumer avec ChatGPT Résumer avec Perplexity
-
 ## **Le paradoxe du trafic fantôme**
 
 Regardez vos rapports Google Search Console. Là où compétition numérique fait rage, la tendance est identique : pour beaucoup d’entreprises, les courbes de clics et d’impressions affichent une santé insolente. Pourtant, dans les bureaux de la direction, l’ambiance est plus morose. Le pipeline commercial stagne, les formulaires de contact prennent la poussière et le retour sur investissement des campagnes de contenu semble s’évaporer. C’est ce que j’appelle le paradoxe du trafic fantôme : vous attirez des foules de visiteurs qui traversent votre site sans jamais laisser de trace, ni de souvenir, ni d’argent.

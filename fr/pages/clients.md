@@ -23,8 +23,8 @@ Basé à Montréal, j’interviens auprès d’acteurs issus de secteurs variés
 
 ![](/media/logo-Cactusoft-300x118.png)
 
-![](http://89.167.9.181/media/logo-BNP-Paribas.webp)![](http://89.167.9.181/media/logo-BNP-Paribas.webp)
+![](/media/logo-BNP-Paribas.webp)
 
-![](http://89.167.9.181/media/logo-BNP-Paribas.webp)
+![](/media/logo-BNP-Paribas.webp)
 
 ![](/media/logo-BNP-Paribas.webp)![](/media/logo-BMD-avocat.jpeg)![](/media/logo-Mercedes-benz.png)![](/media/logo-groupe-argus-1024x682.jpg)![](/media/logo-h\_moser\_\_cie.png)![](/media/logo-cosavostra-1024x369.png)![](/media/logo-Cityscoot-300x89.webp)![](/media/logo-CITIM.png)![](/media/logo-canada-explorer-1024x535.webp)![](/media/logo-duro-toit.svg)![](/media/logo-UGAP.jpg)

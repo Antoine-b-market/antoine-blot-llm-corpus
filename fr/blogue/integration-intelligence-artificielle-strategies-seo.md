@@ -87,4 +87,4 @@ Le véritable enjeu des prochaines années ne sera pas seulement d’intégrer l
 - [Moz Introduces State-of-the-Art SEO Advancements at MozCon 2024](https://www.prnewswire.com/news-releases/moz-introduces-state-of-the-art-seo-advancements-at-mozcon-2024-302161114.html)
 - [OpenAI – GPT-4: Capacités et cas d’utilisation](https://openai.com/index/gpt-4-research/)
 - [Semrush AI Overviews Study: What 2025 SEO Data Tells Us About Google’s Search Shift](https://www.semrush.com/blog/semrush-ai-overviews-study/?utm_source=chatgpt.com)
-- [Résumés de l’IA et votre site Web](https://developers.google.com/search/docs/appearance/ai-overviews?hl=fr)
+- [Résumés de l’IA et votre site Web](https://developers.google.com/search/docs/appearance/ai-features?hl=fr)

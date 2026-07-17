@@ -19,8 +19,6 @@ related_articles:
     url: "/data/fr/blogue/intelligence-artificielle-fonction-marketing.md"
 ---
 
-Résumer avec ChatGPT Résumer avec Perplexity
-
 Le marketing est devenu trop stratégique pour être géré à temps partiel, et trop coûteux pour être internalisé trop tôt. Pour la PME québécoise en croissance, l’enjeu n’est plus seulement de « faire du Web », mais de piloter une fonction complexe sans rigidifier sa structure de coûts.
 
 Dans ce contexte, le **marketing externalisé** (ou impartition marketing) s’impose comme un modèle de gouvernance hybride : accéder à un pilotage senior pour structurer la croissance avant de l’ancrer durablement à l’interne.

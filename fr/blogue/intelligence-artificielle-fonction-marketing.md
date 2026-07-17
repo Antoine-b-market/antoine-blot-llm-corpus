@@ -18,8 +18,6 @@ related_articles:
     url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
-Résumer avec ChatGPT Résumer avec Perplexity
-
 L’intelligence artificielle s’est imposée dans les pratiques marketing plus vite qu’on ne l’aurait imaginé. Avec une promesse d’efficacité presque irrésistible. Elle accélère la recherche d’information, automatise les tâches répétitives et facilite l’analyse de données massives. Pourtant, derrière cette apparente simplicité, l’IA agit surtout comme un révélateur : elle met en lumière les forces et les failles d’un marketing déjà saturé d’outils, de métriques et de discours.
 
 Cette technologie ne modifie pas seulement les moyens du marketing, elle en déplace les fondements. Les marques découvrent que la question n’est plus tant de « faire plus vite « que de **penser autrement**. L’IA interroge les logiques établies : la place du jugement humain, la cohérence des messages, la frontière entre création et reproduction. En d’autres termes, elle questionne moins nos méthodes que notre rapport au sens.
