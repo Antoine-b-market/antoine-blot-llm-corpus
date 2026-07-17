@@ -3,6 +3,7 @@ title: "Changelog du corpus — Antoine Blot"
 author: "Antoine Blot"
 date: "2026-01-26"
 updated: "2026-07-16"
+canonical_url: "https://www.antoine-blot.com/changelog.md"
 license: "CC BY 4.0"
 summary: "Historique des mises à jour du corpus LLM de www.antoine-blot.com. Signal de fraîcheur pour les agents IA."
 ---
