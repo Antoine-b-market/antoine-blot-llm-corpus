@@ -451,6 +451,27 @@
           }
         }
       }
+    },
+    "/data/fr/blogue/zzz-b1-owner.md": {
+      "get": {
+        "summary": "ZZZ B1 owner test",
+        "description": "",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
