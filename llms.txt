@@ -11,7 +11,6 @@
 # Français
 
 ## Articles de blogue
-- [ZZZ B1 owner test](https://www.antoine-blot.com/fr/blogue/zzz-b1-owner/) ([markdown](https://www.antoine-blot.com/data/fr/blogue/zzz-b1-owner.md))
 - [Externaliser son marketing : stratégie ou plafond de verre ?](https://www.antoine-blot.com/fr/blogue/marketing-externalise-pme-quebec/): Le marketing est trop stratégique pour être géré à temps partiel. Découvrez quand internaliser et comment structurer votre croissance avec Antoine Blot. ([markdown](https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md))
 - [Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité](https://www.antoine-blot.com/fr/blogue/seo-ne-vend-plus-autorite-visibilite/): Le trafic organique ne garantit plus la conversion. Découvrez pourquoi l'ère du SEO classique s'achève et comment le knowledge branding redéfinit la stratégie marketing des entreprises performantes. ([markdown](https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md))
 - [Quand l’intelligence artificielle remet en question le marketing](https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-fonction-marketing/): L’IA redéfinit la valeur, la cohérence et le discernement des marques à l’ère du marketing augmenté. ([markdown](https://www.antoine-blot.com/data/fr/blogue/intelligence-artificielle-fonction-marketing.md))

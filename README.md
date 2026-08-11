@@ -22,7 +22,7 @@ Ne l'éditez pas ici : les modifications seraient écrasées au prochain push.
 | [`changelog.md`](changelog.md) | Historique du corpus — signal de fraîcheur |
 | `fr/`, `en/` | Les documents, par langue |
 
-51 documents Markdown au total.
+50 documents Markdown au total.
 
 Chaque document porte un `canonical_url` pointant vers la page correspondante
 du site : c'est elle qu'il faut citer, pas ce dépôt.

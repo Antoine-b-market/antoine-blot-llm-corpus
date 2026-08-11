@@ -5,7 +5,7 @@ base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "article"
 last_updated: "2026-08-11"
-count: 21
+count: 20
 ---
 
 # Articles — Contenus français
@@ -30,4 +30,3 @@ count: 21
 - [Solutions activables pour le retail physique](/data/fr/blogue/solutions-activables-retail-physique.md)
 - [Structurer la fonction marketing : méthode, modèles et rôle du CMO](/data/fr/blogue/structurer-fonction-marketing-pme.md)
 - [Transformation digitale : réinventer les modèles d’affaires et enrichir l’expérience client](/data/fr/blogue/opportunites-transformation-digitale.md)
-- [ZZZ B1 owner test](/data/fr/blogue/zzz-b1-owner.md)
