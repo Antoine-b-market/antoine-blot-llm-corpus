@@ -439,4 +439,4 @@ Contrairement aux campagnes payantes, les résultats du **référencement nature
 
 Dans un environnement concurrentiel où les premiers **résultats de recherche** captent l’essentiel du **trafic**, élaborer une **stratégie SEO pour votre entreprise** n’est pas un simple choix technique : c’est un levier marketing stratégique, au cœur de votre présence numérique.
 
- [Vers la page consultant SEO](/fr/consultant-seo/)  [Vers la page audit SEO](/fr/consultant-seo/audit-seo/)  [Vers la page stratégie SEO](/fr/consultant-seo/strategie-seo/)
+ [Vers la page consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)  [Vers la page audit SEO](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/)  [Vers la page stratégie SEO](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/)

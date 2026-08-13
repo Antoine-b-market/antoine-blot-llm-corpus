@@ -17,7 +17,7 @@ In this context, **outsourced marketing** (or marketing impartition) has emerged
 
 ## **In Brief:**
 
-A fractional marketing directorship provides access to strategic expertise without bearing the weight of a permanent executive salary. The goal is to transform a series of isolated tactics into a predictable growth system, driven by performance and brand desirability. **By** [**Antoine Blot**](/fr/a-propos-de-moi/)
+A fractional marketing directorship provides access to strategic expertise without bearing the weight of a permanent executive salary. The goal is to transform a series of isolated tactics into a predictable growth system, driven by performance and brand desirability. **By Antoine Blot**
 
 ## The Reality of Small Organizations: Agility Before Structure
 
@@ -49,7 +49,7 @@ Outsourced marketing should not be an end in itself. A healthy company must know
 2. **The budget critical mass:** When external management fees reach approximately 60% to 70% of the fully loaded salary of an equivalent internal profile (often exceeding $100,000 CAD in Montréal).
 3. **The data culture:** When the company needs ultra-rapid iteration and institutional memory that only a dedicated talent can provide.
 
-![L'impartition marketing](/media/impartition-marketing.jpg)
+![L'impartition marketing](https://www.antoine-blot.com/media/impartition-marketing.jpg)
 
 ## **The Growth Architecture: My 3-Step Method**
 

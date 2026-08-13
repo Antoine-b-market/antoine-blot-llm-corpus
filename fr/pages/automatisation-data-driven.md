@@ -17,14 +17,14 @@ Dans un contexte numérique où la réactivité et la précision sont les clés 
 
 Les langages Python et R, connus pour leur flexibilité et leur puissance, permettent d’automatiser les tâches répétitives et d’accélérer le processus décisionnel grâce à des scripts personnalisés et adaptés aux besoins spécifiques de votre entreprise.
 
-Ces automations libèrent les équipes de marketing de tâches chronophages, leur permettant de se concentrer sur [la stratégie marketing](/fr/responsable-marketing/), la créativité et l’engagement client, tout en ayant la certitude que les données sont analysées de manière précise et régulière.
+Ces automations libèrent les équipes de marketing de tâches chronophages, leur permettant de se concentrer sur [la stratégie marketing](https://www.antoine-blot.com/fr/responsable-marketing/), la créativité et l’engagement client, tout en ayant la certitude que les données sont analysées de manière précise et régulière.
 
 Voici quelques applications pratiques :
 
 - Traitement de données massives : automatiser le nettoyage, la transformation et la consolidation de grandes quantités de données (données CRM, logs Google Analytics, comportements de consommateurs en ligne) pour une exploitation rapide et sans erreur.
 - Visualisations dynamiques des tendances : créer des rapports automatisés qui mettent en lumière les tendances de marché, les performances de campagnes ou encore les préférences clients, afin de prendre des décisions plus éclairées.
 - Traitement de contenu avec le NLP (Natural Language Processing) : exploiter les technologies de traitement du langage naturel pour analyser et générer des contenus adaptés, en utilisant notamment des modèles de NLP pour extraire des informations pertinentes (avis clients, sentiments autour des marques, tendances sociales), ou pour créer du contenu dynamique et optimisé.
-![Automatisation et prise de décision basée sur les données](/media/intelligence-articifielle-scaled.webp)
+![Automatisation et prise de décision basée sur les données](https://www.antoine-blot.com/media/intelligence-articifielle-scaled.webp)
 
 ## Comment l’automatisation renforce la stratégie marketing data-driven ?
 
@@ -38,7 +38,7 @@ Par exemple, les campagnes publicitaires peuvent être optimisées grâce à l�
 
 Adopter une approche basée sur les données dans la gestion de campagnes permet d’adapter les messages, les budgets et les canaux en temps réel pour obtenir un retour sur investissement optimal.
 
-Grâce à des outils de collecte de données et d’analyse avancée, nous pouvons suivre l’efficacité de chaque action marketing (qu’elle soit sur les réseaux sociaux, via des campagnes Google Ads, en email marketing ou encore en [SEO](/fr/consultant-seo/)) et les ajuster en fonction des résultats.
+Grâce à des outils de collecte de données et d’analyse avancée, nous pouvons suivre l’efficacité de chaque action marketing (qu’elle soit sur les réseaux sociaux, via des campagnes Google Ads, en email marketing ou encore en [SEO](https://www.antoine-blot.com/fr/consultant-seo/)) et les ajuster en fonction des résultats.
 
 En combinant les données, l’automatisation et l’intelligence artificielle, il est possible de créer des campagnes qui s’ajustent continuellement, maximisant ainsi leur efficacité et leur pertinence.
 

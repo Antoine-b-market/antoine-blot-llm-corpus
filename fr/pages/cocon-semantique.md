@@ -168,8 +168,8 @@ Oui, notamment pour les catégories importantes. Des guides liés, des articles 
 
 ## **Aller plus loin**
 
-- - - [Maillage interne SEO](/fr/ressources-seo/maillage-interne/)
-    - [Référencement naturel : demander l’aide d’un consultant SEO](/fr/consultant-seo/)
-    - [Optimiser l’arborescence d’un site pour le SEO](/fr/ressources-seo/cocon-semantique/)
+- - - [Maillage interne SEO](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
+    - [Référencement naturel : demander l’aide d’un consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)
+    - [Optimiser l’arborescence d’un site pour le SEO](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

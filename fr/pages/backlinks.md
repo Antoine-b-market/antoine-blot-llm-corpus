@@ -143,7 +143,7 @@ Il n’y a pas de chiffre universel. L’important est d’avoir un profil **nat
 ## **Aller plus loin**
 
 - - - Autorité de domaine
-    - [Cocon sémantique](/fr/ressources-seo/cocon-semantique/)
-    - [Maillage interne](/fr/ressources-seo/maillage-interne/)
+    - [Cocon sémantique](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/)
+    - [Maillage interne](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

@@ -19,7 +19,7 @@ Dans un web saturé de contenus génériques, la simple rédaction ne suffit plu
 
 ## Expertises SEO et GEO
 
- [Diagnostic](/fr/consultant-seo/audit-seo/)  [Contenu](/fr/consultant-seo/redaction-seo/)  [Autorité](/fr/consultant-seo/netlinking-autorite-seo/)
+ [Diagnostic](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/)  [Contenu](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/)  [Autorité](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/)
 
 ## Qu’est-ce que la rédaction SEO et pourquoi est-elle le moteur de votre visibilité ?
 
@@ -58,7 +58,7 @@ Le temps du contenu anonyme et automatisé est révolu. Google privilégie déso
 
 - **Expérience (Experience) :** Nous intégrons des retours d’expérience concrets, des études de cas et des insights que seule une pratique réelle peut fournir. C’est ce qui distingue votre marque des contenus générés par IA sans âme.
 - **Expertise (Expertise) :** Le contenu est structuré pour démontrer une maîtrise profonde du sujet, utilisant un vocabulaire technique précis et des analyses pointues.
-- **Autorité (Authoritativeness) :** Nous travaillons sur la réputation de l’auteur et de la marque, en veillant à ce que vos contenus soient cités et reconnus par vos pairs et [propulser vos contenus avec l’autorité](/fr/consultant-seo/netlinking-autorite-seo/).
+- **Autorité (Authoritativeness) :** Nous travaillons sur la réputation de l’auteur et de la marque, en veillant à ce que vos contenus soient cités et reconnus par vos pairs et [propulser vos contenus avec l’autorité](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/).
 - **Confiance (Trust) :** La pierre angulaire. Nous optimisons la transparence de vos informations, vos sources et vos mentions légales pour garantir une crédibilité totale aux yeux des utilisateurs et des algorithmes.
 
 ## Humaniser le contenu pour dominer le GEO
@@ -101,4 +101,4 @@ Au-delà du positionnement, nous suivons le taux d’engagement, le nombre de mo
 
 L’E-E-A-T est le critère de qualité de Google pour évaluer la fiabilité d’un contenu. Une rédaction intégrant l’Expérience, l’Expertise, l’Autorité et la Confiance est indispensable pour ranker sur des thématiques compétitives et pour être reconnu comme une source crédible par les moteurs de réponse IA.
 
- [Retrouvez l'ensemble de la FAQ SEO](/fr/consultant-seo/faq-seo/)
+ [Retrouvez l'ensemble de la FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)

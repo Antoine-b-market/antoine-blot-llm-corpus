@@ -11,14 +11,14 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
-Après s’être intéressé à l’[IA générative dans le cadre des stratégie marketing](/fr/blogue/intelligence-artificielle-impact-marketing/), regardons un peu plus en détail l’impact dans le SEO. Notamment comment elle transforme profondément les stratégies.
+Après s’être intéressé à l’[IA générative dans le cadre des stratégie marketing](https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-impact-marketing/), regardons un peu plus en détail l’impact dans le SEO. Notamment comment elle transforme profondément les stratégies.
 
 Plus qu’un simple phénomène technologique, elle constitue un véritable changement de paradigme, influençant à la fois les pratiques opérationnelles et stratégiques du référencement naturel (SEO). Cette mutation soulève des questions essentielles : jusqu’où peut-on aller dans l’automatisation ? Comment préserver la pertinence et l’authenticité des contenus face à la montée en puissance des algorithmes ?
 
@@ -46,7 +46,7 @@ Ainsi, bien que l’IA puisse produire efficacement des articles ou des supports
 
 ## Garantir l’E-E-A-T dans une stratégie SEO basée sur l’IA
 
-Le [critère E-E-A-T](/fr/blogue/importance-eeat-seo/) (Expérience, Expertise, Autorité, Fiabilité) reste central dans le jugement de qualité des contenus par Google. L’utilisation massive de l’IA pose un risque majeur de dilution de ces critères si la vérification humaine est absente.
+Le [critère E-E-A-T](https://www.antoine-blot.com/fr/blogue/importance-eeat-seo/) (Expérience, Expertise, Autorité, Fiabilité) reste central dans le jugement de qualité des contenus par Google. L’utilisation massive de l’IA pose un risque majeur de dilution de ces critères si la vérification humaine est absente.
 
 Intégrer efficacement l’E-E-A-T implique donc une stratégie hybride : les contenus IA doivent être systématiquement vérifiés par des experts, les sources clairement identifiées et les auteurs humains explicitement mis en avant. Certaines entreprises comme HubSpot, Forbes ou Deloitte réussissent déjà ce mélange subtil, démontrant qu’il est possible d’associer IA et supervision humaine sans compromettre les critères fondamentaux de qualité.
 
@@ -80,7 +80,7 @@ Intégrer efficacement l’intelligence artificielle dans une stratégie SEO req
 
 Le véritable enjeu des prochaines années ne sera pas seulement d’intégrer l’IA, mais de le faire intelligemment, en maintenant constamment un haut niveau de qualité, d’authenticité et d’expertise. La réussite future des stratégies SEO dépendra donc d’une collaboration harmonieuse entre l’humain et l’intelligence artificielle, garantissant ainsi des résultats durables et une excellente visibilité sur les moteurs de recherche.
 
-Êtes-vous prêt à adopter cette approche hybride et équilibrée pour garantir le succès durable de votre [stratégie SEO](/fr/consultant-seo/) ?
+Êtes-vous prêt à adopter cette approche hybride et équilibrée pour garantir le succès durable de votre [stratégie SEO](https://www.antoine-blot.com/fr/consultant-seo/) ?
 
 ### Bibliographie
 

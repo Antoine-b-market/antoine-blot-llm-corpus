@@ -146,8 +146,8 @@ Oui. S’il la juge non pertinente, trop optimisée ou inexacte, Google peut **g
 
 ## **Aller plus loin**
 
-- - - [Voir tous les codes de réponses HTTP](/fr/ressources-seo/code-reponse-http/)
-    - [Comprendre le rôle des meta descriptions](/fr/ressources-seo/meta-description/)
-    - [Accéder à l’index complet des ressources SEO](/fr/ressources-seo/)
+- - - [Voir tous les codes de réponses HTTP](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/)
+    - [Comprendre le rôle des meta descriptions](https://www.antoine-blot.com/fr/ressources-seo/meta-description/)
+    - [Accéder à l’index complet des ressources SEO](https://www.antoine-blot.com/fr/ressources-seo/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

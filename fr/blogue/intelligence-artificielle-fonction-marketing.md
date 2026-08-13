@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 L’intelligence artificielle s’est imposée dans les pratiques marketing plus vite qu’on ne l’aurait imaginé. Avec une promesse d’efficacité presque irrésistible. Elle accélère la recherche d’information, automatise les tâches répétitives et facilite l’analyse de données massives. Pourtant, derrière cette apparente simplicité, l’IA agit surtout comme un révélateur : elle met en lumière les forces et les failles d’un marketing déjà saturé d’outils, de métriques et de discours.
@@ -87,7 +87,7 @@ La visibilité est devenue le cœur battant de la stratégie marketing. Être vu
 
 L’IA a renforcé ce paradoxe. Les systèmes de recommandation, les moteurs de recherche et les plateformes sociales privilégient ce qui ressemble à ce qui fonctionne déjà. La visibilité récompense la conformité, pas l’originalité. Cette logique pousse les marques à lisser leurs discours pour rester compatibles avec les algorithmes, jusqu’à risquer de perdre leur identité dans la recherche de portée.
 
-![Quand l’intelligence artificielle remet en question la fonction marketing](/media/Quand-lintelligence-artificielle-remet-en-question-la-fonction-marketing2.jpg)
+![Quand l’intelligence artificielle remet en question la fonction marketing](https://www.antoine-blot.com/media/Quand-lintelligence-artificielle-remet-en-question-la-fonction-marketing2.jpg)
 
 Trouver l’équilibre entre lisibilité et distinction devient alors un exercice d’orfèvre. Il ne s’agit pas d’être différent pour le plaisir de l’être, mais d’être différent avec cohérence. L’analyse de persona, souvent perçue comme un outil de segmentation, retrouve ici une dimension stratégique : elle permet d’ancrer la différenciation dans la perception réelle du public. En comprenant les valeurs, les besoins et les motivations de leurs audiences, les marques peuvent ajuster leurs messages sans rompre la continuité de leur image.
 

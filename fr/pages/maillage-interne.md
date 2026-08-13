@@ -168,8 +168,8 @@ Oui, si elle a un rôle transversal (ex : une page “audit SEO” peut être li
 
 ## **Aller plus loin**
 
-- - - [Réduire les pages orphelines](/fr/ressources-seo/pages-orphelines/)
-    - [Limiter le duplicate content](/fr/ressources-seo/contenu-duplique/)
-    - [Importance des backlinks](/fr/ressources-seo/backlinks/)
+- - - [Réduire les pages orphelines](https://www.antoine-blot.com/fr/ressources-seo/pages-orphelines/)
+    - [Limiter le duplicate content](https://www.antoine-blot.com/fr/ressources-seo/contenu-duplique/)
+    - [Importance des backlinks](https://www.antoine-blot.com/fr/ressources-seo/backlinks/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

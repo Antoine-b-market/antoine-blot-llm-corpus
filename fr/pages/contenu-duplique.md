@@ -154,7 +154,7 @@ Non, tant que le contenu est **encadré, reformulé et intégré dans un context
 
 ## **Aller plus loin**
 
-- - - [Optimiser le maillage interne](/fr/ressources-seo/maillage-interne/)
+- - - [Optimiser le maillage interne](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
     - Comprendre le fonctionnement du sitemap.xml
     - Comprendre l’usage des balises canonical
 

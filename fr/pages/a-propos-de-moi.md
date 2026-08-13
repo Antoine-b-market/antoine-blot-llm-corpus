@@ -19,7 +19,7 @@ Ma priorité est d’accompagner la croissance des entreprises avec des solution
 
 Installé à Montréal, je continue à innover et à anticiper les évolutions futures, en concevant des stratégies durables qui vont au-delà des résultats immédiats. Mon engagement : une collaboration étroite et un accompagnement constant pour une transformation numérique réussie.
 
-![SEO Montreal](/media/SEO-Montreal-scaled.webp)![Specialiste marketing](/media/AdobeStock_68655192-2048x1365.jpeg)![strategie marketing](/media/AdobeStock_359225185-scaled-e1731300444997.webp)![SEO montreal](/media/AdobeStock_281277946-scaled.jpeg)
+![SEO Montreal](https://www.antoine-blot.com/media/SEO-Montreal-scaled.webp)![Specialiste marketing](https://www.antoine-blot.com/media/AdobeStock_68655192-2048x1365.jpeg)![strategie marketing](https://www.antoine-blot.com/media/AdobeStock_359225185-scaled-e1731300444997.webp)![SEO montreal](https://www.antoine-blot.com/media/AdobeStock_281277946-scaled.jpeg)
 
 ## Mes valeurs
 
@@ -36,37 +36,37 @@ Mes valeurs fondamentales guident chacune de mes décisions et interactions prof
 
 ## Mes compétences
 
-![Strategie](/media/Strategie.webp)
+![Strategie](https://www.antoine-blot.com/media/Strategie.webp)
 
-### [Stratégie marketing](/fr/responsable-marketing/)
+### [Stratégie marketing](https://www.antoine-blot.com/fr/responsable-marketing/)
 
 Je conçois des stratégies marketing globales, alignées sur les objectifs commerciaux de mes clients, pour maximiser leur visibilité, leurs conversions et leur notoriété
 
-![transformation](/media/transformation-1.webp)
+![transformation](https://www.antoine-blot.com/media/transformation-1.webp)
 
 ### Transformation digitale
 
 J’accompagne les entreprises dans leur transformation numérique en optimisant leurs processus et en intégrant des stratégies digitales efficaces, adaptées à leurs besoins spécifiques.
 
-![formation](/media/formation.webp)
+![formation](https://www.antoine-blot.com/media/formation.webp)
 
 ### Formation et accompagnement
 
 Je transmets mon expertise en marketing digital et stratégie commerciale pour renforcer les compétences des équipes et leur compréhension des enjeux du marché
 
-![optimisation](/media/optimisation.webp)
+![optimisation](https://www.antoine-blot.com/media/optimisation.webp)
 
 ### Optimisation des performances
 
 J’analyse et optimise les parcours utilisateurs et les processus marketing pour maximiser les taux de conversion et la satisfaction client.
 
-![Gestion de projet](/media/Gestion-de-projet.webp)
+![Gestion de projet](https://www.antoine-blot.com/media/Gestion-de-projet.webp)
 
 ### Gestion de projet
 
 Je pilote des projets marketing complexes, en collaborant avec des équipes pluridisciplinaires pour assurer l’intégration cohérente des stratégies digitales dans les processus métiers.
 
-![Approche](/media/Approche.webp)
+![Approche](https://www.antoine-blot.com/media/Approche.webp)
 
 ### Approche pluridisciplinaire
 

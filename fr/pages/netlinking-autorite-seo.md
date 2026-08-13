@@ -19,7 +19,7 @@ Malgré les évolutions de l’intelligence artificielle, le **backlink** (lien 
 
 ## Expertises SEO et GEO
 
- [Diagnostic](/fr/consultant-seo/audit-seo/)  [Vision](/fr/consultant-seo/strategie-seo/)  [Contenu](/fr/consultant-seo/redaction-seo/)
+ [Diagnostic](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/)  [Vision](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/)  [Contenu](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/)
 
 ## **Qu’est-ce que le netlinking et pourquoi est-ce le moteur de votre SEO ?**
 
@@ -38,7 +38,7 @@ Oubliez les fermes de liens et les catalogues automatisés. Je privilégie une a
 
 1. **Audit du profil de liens et nettoyage**
 
-Avant de construire, il faut assainir. [J’analyse vos backlinks actuels](/fr/consultant-seo/audit-seo/) pour détecter d’éventuels signaux toxiques et je réalise un benchmark complet de la stratégie de vos concurrents pour identifier leurs meilleures sources.
+Avant de construire, il faut assainir. [J’analyse vos backlinks actuels](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/) pour détecter d’éventuels signaux toxiques et je réalise un benchmark complet de la stratégie de vos concurrents pour identifier leurs meilleures sources.
 
 2. **Relations presse digitales et Link Baiting**
 
@@ -92,4 +92,4 @@ Il n’y a pas de chiffre magique. Tout dépend de l’autorité de vos concurre
 
 Le risque n’existe que dans l’automatisation et l’abus de liens de faible qualité. Une stratégie basée sur la pertinence et la progressivité est totalement sécuritaire et pérenne.
 
- [Retrouvez l'ensemble de la FAQ SEO](/fr/consultant-seo/faq-seo/)
+ [Retrouvez l'ensemble de la FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)

@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 Dans une PME ou une startup en croissance, il n’est pas rare que le marketing soit d’abord porté par le fondateur, un profil touche-à-tout ou une ressource opérationnelle polyvalente. Et puis vient un moment où l’entreprise se demande si elle ne devrait pas **recruter ou intégrer un « vrai » directeur marketing**. Un CMO.
@@ -94,7 +94,7 @@ Voici les principaux cas de figure où un CMO devient un **accélérateur strat�
 | Le fondateur ne veut plus gérer le marketing | Délégation de confiance |
 | Le marketing est dispersé entre agences, freelances, juniors | Centralisation et alignement |
 
-Pour une analyse complète de la structuration marketing en PME, consultez mon article de fond : [Structurer la fonction marketing](/fr/blogue/structurer-fonction-marketing-pme/)
+Pour une analyse complète de la structuration marketing en PME, consultez mon article de fond : [Structurer la fonction marketing](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/)
 
 
 
@@ -107,7 +107,7 @@ Il peut intervenir 1 à 2 jours par semaine, définir la vision, coacher les éq
 
 💡 C’est souvent la meilleure solution pour les entreprises entre 10 et 80 personnes qui veulent **accélérer sans se surcharger.**
 
-➜ Vous hésitez entre recruter un responsable marketing ou externaliser ? Découvrez mon [guide comparatif des modèles marketing en PME](/fr/blogue/recruter-externaliser-marketing-pme/)
+➜ Vous hésitez entre recruter un responsable marketing ou externaliser ? Découvrez mon [guide comparatif des modèles marketing en PME](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/)
 
 ## En résumé
 
@@ -115,7 +115,7 @@ Le CMO n’est pas un profil de luxe réservé aux grandes entreprises. Il est u
 
 Dans une PME, un bon CMO n’est pas celui qui fait “beaucoup”. C’est celui qui permet à **l’équipe de faire mieux, dans la bonne direction, avec des objectifs clairs.**
 
-➜ En savoir plus sur mon accompagnement marketing avec un [directeur marketing à Montréal](/fr/responsable-marketing/)
+➜ En savoir plus sur mon accompagnement marketing avec un [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/)
 
 ## Foire aux questions
 

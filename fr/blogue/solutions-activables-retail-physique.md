@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 ## Solutions activables pour le retail physique
@@ -23,7 +23,7 @@ related_articles:
 Les interactions entre le digital et le physique s’intensifient, il devient indispensable pour les retailers d’adopter des outils de tracking performants. Ces solutions permettent non seulement d’optimiser l’expérience client, mais aussi de créer une véritable synergie entre les différents canaux de vente.
 
 **Avant de commencer**
-Avant de détailler les approches concrètes, il est essentiel de souligner l’importance d’une [stratégie omnicanale](/fr/blogue/enjeux-et-problematiques-tracking-omnicanal/) bien orchestrée. Cela permet de mieux comprendre les attentes des clients et d’adapter l’offre en conséquence
+Avant de détailler les approches concrètes, il est essentiel de souligner l’importance d’une [stratégie omnicanale](https://www.antoine-blot.com/fr/blogue/enjeux-et-problematiques-tracking-omnicanal/) bien orchestrée. Cela permet de mieux comprendre les attentes des clients et d’adapter l’offre en conséquence
 
 Dans le contexte du retail physique, le suivi omnicanal requiert des solutions spécifiques et adaptées aux réalités des interactions en boutique. L’objectif principal est de connecter efficacement les données des canaux physiques et digitaux pour mieux comprendre les parcours clients. Voici quelques approches concrètes pour gérer les deux sens d’interaction (web vers physique et physique vers web) :
 
@@ -44,4 +44,4 @@ Dans le contexte du retail physique, le suivi omnicanal requiert des solutions s
 
 L’intégration entre le digital et le physique va bien au-delà de la simple personnalisation des offres : elle redéfinit entièrement l’expérience client. En reliant intelligemment les interactions en magasin aux activités en ligne, les retailers ont l’opportunité de repenser leur relation avec les consommateurs. Toutefois, cette convergence soulève des questions cruciales sur la protection des données, l’éthique de leur utilisation et la préservation de la vie privée. Elle impose également de relever le défi d’une personnalisation respectueuse et transparente, qui ne sacrifie pas la confiance des clients sur l’autel de l’efficacité commerciale. Ainsi, ces solutions invitent à une réflexion stratégique approfondie, mêlant innovation technologique et responsabilité sociale, afin de bâtir des expériences à la fois enrichissantes, sécurisées et durables.
 
-Les outils de tracking et les solutions omnicanales sont essentiels pour optimiser l’expérience client dans le retail physique. En adoptant ces approches, les commerçants bénéficient d’une meilleure compréhension des comportements d’achat et peuvent ainsi offrir des services personnalisés et fluides. Cette intégration des données digitales et physiques représente une [stratégie innovante et performante](/fr/responsable-marketing/), capable de transformer durablement le parcours client.
+Les outils de tracking et les solutions omnicanales sont essentiels pour optimiser l’expérience client dans le retail physique. En adoptant ces approches, les commerçants bénéficient d’une meilleure compréhension des comportements d’achat et peuvent ainsi offrir des services personnalisés et fluides. Cette intégration des données digitales et physiques représente une [stratégie innovante et performante](https://www.antoine-blot.com/fr/responsable-marketing/), capable de transformer durablement le parcours client.

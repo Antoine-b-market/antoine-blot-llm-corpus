@@ -118,8 +118,8 @@ Commencez par un audit PageSpeed ou GTmetrix, identifiez les points bloquants, e
 
 ## **Aller plus loin**
 
-- - - [Comprendre les codes de réponses](/fr/ressources-seo/code-reponse-http/)
-    - [Optimiser son bidget crawl](/fr/ressources-seo/budget-crawl/)
-    - [Retourner aux ressources SEO](/fr/ressources-seo/)
+- - - [Comprendre les codes de réponses](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/)
+    - [Optimiser son bidget crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
+    - [Retourner aux ressources SEO](https://www.antoine-blot.com/fr/ressources-seo/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

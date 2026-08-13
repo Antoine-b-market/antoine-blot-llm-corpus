@@ -15,7 +15,7 @@ robots: "index, follow"
 
 Dans un écosystème numérique saturé, le rôle d’un **consultant SEO** a radicalement évolué. Il ne s’agit plus seulement d’optimiser des balises techniques ou de chasser des mots-clés, mais de bâtir une autorité que les moteurs de recherche, et désormais les **moteurs de réponse (IA),** ne peuvent ignorer.
 
-À Montréal, la concurrence est féroce entre les agences traditionnelles et les experts indépendants. Mon approche se distingue par une vision hybride, fusionnant les fondamentaux du référencement naturel, avec les nouvelles exigences du **GEO (Generative Engine Optimization)** pour proposer une solide [stratégie SEO hybride](/fr/consultant-seo/strategie-seo/).
+À Montréal, la concurrence est féroce entre les agences traditionnelles et les experts indépendants. Mon approche se distingue par une vision hybride, fusionnant les fondamentaux du référencement naturel, avec les nouvelles exigences du **GEO (Generative Engine Optimization)** pour proposer une solide [stratégie SEO hybride](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/).
 
 **Le constat est simple :** Le SEO d’hier cherchait à vous rendre visible. Le SEO d’aujourd’hui doit vous rendre mémorable, recommandable et, surtout, incontournable face aux algorithmes génératifs.
 
@@ -27,7 +27,7 @@ Avec plus de dix ans d’expérience en stratégie SEO à Montréal, je me posit
 
 Mon métier est de vous aider à définir une autorité numérique qui vous démarque durablement de vos concurrents, en transformant chaque signal algorithmique en avantage business concret.
 
--   [**Audit SEO stratégique**](/fr/consultant-seo/audit-seo/) : Une analyse chirurgicale de votre socle technique pour garantir une indexation parfaite par Google et une lecture fluide par les modèles de langage (LLMs).
+-   [**Audit SEO stratégique**](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/) : Une analyse chirurgicale de votre socle technique pour garantir une indexation parfaite par Google et une lecture fluide par les modèles de langage (LLMs).
 
 -   **Ingénierie de contenu E-E-A-T :** Je ne crée pas de simples textes, je bâtis des actifs sémantiques qui répondent aux critères d’Expérience et d’Expertise de Google, devenant ainsi la source de référence pour les IA génératives.
 
@@ -37,7 +37,7 @@ Mon métier est de vous aider à définir une autorité numérique qui vous dém
 
 Ces optimisations ne sont pas de simples cases à cocher : elles construisent un socle technique **lisible pour Google, mais surtout compréhensible pour les IA**.
 
-![Consultant SEO resultat](/media/AdobeStock_294863782_Editorial_Use_Only-scaled.webp)
+![Consultant SEO resultat](https://www.antoine-blot.com/media/AdobeStock_294863782_Editorial_Use_Only-scaled.webp)
 
 ### Les résultats concrets que vous pouvez attendre
 
@@ -77,7 +77,7 @@ Ma mission principale est de transformer votre site web en un actif financier pe
 
 ### Et moi dans tout ça ?
 
-Je suis Antoine Blot, [Reponsable marketing, consultant stratégique](/fr/responsable-marketing/) et expert SEO et GEO à Montréal. Mon travail ne s’arrête pas à vous faire grimper dans les résultats Google. Je conçois votre contenu pour qu’il devienne une référence mémorisable, reprise par les intelligences artificielles, et surtout : crédible aux yeux de vos futurs clients.
+Je suis Antoine Blot, [Reponsable marketing, consultant stratégique](https://www.antoine-blot.com/fr/responsable-marketing/) et expert SEO et GEO à Montréal. Mon travail ne s’arrête pas à vous faire grimper dans les résultats Google. Je conçois votre contenu pour qu’il devienne une référence mémorisable, reprise par les intelligences artificielles, et surtout : crédible aux yeux de vos futurs clients.
 
 > 90 % des consultants SEO vous parlent de visibilité. Moi, je vous rends **recommandable** par les moteurs, par les modèles d’IA… et surtout par vos clients.
 
@@ -108,9 +108,9 @@ Un expert SEO senior ne se contente pas de maîtriser les outils ; il les fait p
 
 -   **Intelligence de données** : Interprétation experte des données (Google Analytics, Search Console) pour transformer les tendances en plans d’action concrets.
 
--   [**Rédaction SEO et GEO**](/fr/consultant-seo/redaction-seo/) **à haute valeur ajoutée** : Création de contenus qui satisfont à la fois les intentions de recherche humaines et les exigences de compréhension des IA.
+-   [**Rédaction SEO et GEO**](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/) **à haute valeur ajoutée** : Création de contenus qui satisfont à la fois les intentions de recherche humaines et les exigences de compréhension des IA.
 
--   [**Netlinking et autorité**](/fr/consultant-seo/netlinking-autorite-seo/) : Définition d’une stratégie consistant à obtenir des liens provenant de sites tiers vers le vôtre et renforcer votre autorité.
+-   [**Netlinking et autorité**](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/) : Définition d’une stratégie consistant à obtenir des liens provenant de sites tiers vers le vôtre et renforcer votre autorité.
 
 -   **Vision marketing intégrée** : Capacité à aligner le SEO sur vos objectifs de communication globale pour un impact business réel.
 
@@ -136,4 +136,4 @@ Une stratégie robuste repose sur quatre axes majeurs : une technique irréproch
 
 Au contraire, il évolue. Le SEO d’aujourd’hui doit être hybride : il doit continuer à satisfaire les algorithmes classiques de Google tout en étant parfaitement compréhensible et « formulable » pour les modèles de langage et les intelligences artificielles.
 
-[Retrouvez l'ensemble de la FAQ SEO](/fr/consultant-seo/faq-seo/)
+[Retrouvez l'ensemble de la FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)

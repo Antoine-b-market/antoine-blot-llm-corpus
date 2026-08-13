@@ -36,45 +36,45 @@ Chacune des fiches proposées a été rédigée pour être **utile à l’utilis
 
 Les bases techniques garantissent une exploration optimale par les moteurs et une expérience fluide pour les utilisateurs.
 
--   [Code de réponse HTTP](/fr/ressources-seo/code-reponse-http/)
+-   [Code de réponse HTTP](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/)
     
--   [Budget de crawl](/fr/ressources-seo/budget-crawl/)
+-   [Budget de crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
     
--   [Fichier robots.txt](/fr/ressources-seo/fichier-robots-txt/)
+-   [Fichier robots.txt](https://www.antoine-blot.com/fr/ressources-seo/fichier-robots-txt/)
     
--   [Temps de chargement](/fr/ressources-seo/temps-de-chargement/)
+-   [Temps de chargement](https://www.antoine-blot.com/fr/ressources-seo/temps-de-chargement/)
     
 
 ### **Contenu, structure et sémantique**
 
 Ces ressources vous aident à structurer votre contenu pour qu’il réponde aux attentes des moteurs, des utilisateurs et des IA.
 
--   [Contenu dupliqué](/fr/ressources-seo/contenu-duplique/)
+-   [Contenu dupliqué](https://www.antoine-blot.com/fr/ressources-seo/contenu-duplique/)
     
--   [Balise title](/fr/ressources-seo/balise-title/)
+-   [Balise title](https://www.antoine-blot.com/fr/ressources-seo/balise-title/)
     
--   [Balise méta description](/fr/ressources-seo/meta-description/)
+-   [Balise méta description](https://www.antoine-blot.com/fr/ressources-seo/meta-description/)
     
--   [Pages orphelines](/fr/ressources-seo/pages-orphelines/)
+-   [Pages orphelines](https://www.antoine-blot.com/fr/ressources-seo/pages-orphelines/)
     
--   [Maillage interne](/fr/ressources-seo/maillage-interne/)
+-   [Maillage interne](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
     
--   [Cocon sémantique](/fr/ressources-seo/cocon-semantique/)
+-   [Cocon sémantique](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/)
     
 
 ### **Autorité et popularité**
 
 L’acquisition de liens externes reste un levier SEO puissant. Ces ressources expliquent comment bâtir une autorité naturelle et durable.
 
--   [Backlinks](/fr/ressources-seo/backlinks/)
+-   [Backlinks](https://www.antoine-blot.com/fr/ressources-seo/backlinks/)
     
 
 ## **Pour aller plus loin**
 
 Vous consultez actuellement la section SEO. Vous pouvez également explorer :
 
--   [FAQ SEO](/fr/consultant-seo/faq-seo/)
+-   [FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)
     
--   [Audit SEO](/fr/consultant-seo/audit-seo/)
+-   [Audit SEO](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/)
     
--   [Mes services de consultant SEO](/fr/consultant-seo/)
+-   [Mes services de consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)

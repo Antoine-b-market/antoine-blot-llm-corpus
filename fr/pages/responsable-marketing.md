@@ -29,14 +29,14 @@ Comme directeur marketing (CMO), je combine une expertise technique solide avec 
 
 ### Une Direction Marketing stratégique pour propulser votre croissance au Québec
 
-[Une vision sans pilotage](/fr/responsable-marketing/definir-strategie-marketing-directeur/) reste une dépense ; une stratégie orchestrée devient un actif durable. Mon approche consiste à transformer vos ambitions d’affaires en une feuille de route rigoureuse, où chaque levier marketing devient un contributeur net à votre chiffre d’affaires. En tant que leader marketing, j’assure l’arbitrage constant des ressources pour garantir que chaque dollar investi est orienté vers la performance et la pérennité de votre marque.
+[Une vision sans pilotage](https://www.antoine-blot.com/fr/responsable-marketing/definir-strategie-marketing-directeur/) reste une dépense ; une stratégie orchestrée devient un actif durable. Mon approche consiste à transformer vos ambitions d’affaires en une feuille de route rigoureuse, où chaque levier marketing devient un contributeur net à votre chiffre d’affaires. En tant que leader marketing, j’assure l’arbitrage constant des ressources pour garantir que chaque dollar investi est orienté vers la performance et la pérennité de votre marque.
 
 - Alignement stratégique et objectifs d'affaires : Diagnostic complet de vos leviers de croissance pour traduire vos priorités commerciales en indicateurs de performance (KPI) mesurables.
 - Intelligence marché et segmentation : Analyse approfondie des comportements d'achat pour affiner votre positionnement et garantir un message percutant auprès des bons segments.
 - Architecture multicanal : Orchestration cohérente des canaux (SEO, SEA, réseaux sociaux) pour bâtir un écosystème numérique unifié, performant et résilient.
 - Gouvernance de la donnée : Suivi rigoureux et analytique pour optimiser les campagnes en temps réel et assurer une reddition de comptes précise à la direction générale.
 - Optimisation budgétaire et ROI : Gestion et arbitrage des budgets marketing pour maximiser l'impact opérationnel et réduire le coût d'acquisition client (CAC).
-![Strategie marketing](/media/AdobeStock_263281398-scaled.jpeg)
+![Strategie marketing](https://www.antoine-blot.com/media/AdobeStock_263281398-scaled.jpeg)
 
 ### Capital de marque et stratégie de rayonnement
 

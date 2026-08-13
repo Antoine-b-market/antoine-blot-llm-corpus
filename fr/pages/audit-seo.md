@@ -19,7 +19,7 @@ Le paysage de la recherche en ligne est en pleine mutation. En 2026, apparaître
 
 ## Expertises SEO et GEO
 
- [Vision](/fr/consultant-seo/strategie-seo/)  [Contenu](/fr/consultant-seo/redaction-seo/)  [Autorité](/fr/consultant-seo/netlinking-autorite-seo/)
+ [Vision](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/)  [Contenu](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/)  [Autorité](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/)
 
 ## Qu’est-ce qu’un audit SEO ?
 
@@ -84,7 +84,7 @@ C’est ici que mon approche se distingue des méthodes traditionnelles. Je test
 
 Mon audit ne se termine pas par un document PDF de 80 pages que personne ne lit. Je livre des solutions concrètes :
 
-1. **La roadmap priorisée :** [Un plan d’action](/fr/consultant-seo/strategie-seo/) classé par impact et par difficulté de mise en œuvre (loi de Pareto).
+1. **La roadmap priorisée :** [Un plan d’action](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/) classé par impact et par difficulté de mise en œuvre (loi de Pareto).
 2. **Le cahier des charges technique :** Des instructions claires pour vos développeurs afin de corriger les erreurs critiques rapidement.
 3. **La session de restitution :** Une présentation stratégique pour aligner vos équipes marketing et votre direction sur les objectifs de croissance.
 
@@ -118,4 +118,4 @@ Absolument. On ne peut pas gagner une course sans connaître la vitesse de ses a
 
 En travaillant avec moi, vous bénéficiez d’une expertise senior directe, sans intermédiaire. Chaque recommandation est le fruit d’une analyse humaine et d’une vision business stratégique, loin des rapports automatisés des grandes structures.
 
- [Retrouvez l'ensemble de la FAQ SEO](/fr/consultant-seo/faq-seo/)
+ [Retrouvez l'ensemble de la FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)

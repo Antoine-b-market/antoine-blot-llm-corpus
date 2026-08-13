@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 Structurer la fonction marketing dans une PME ou une startup ne se résume pas à recruter ou à multiplier les canaux. C’est un acte stratégique qui consiste à aligner la vision, les moyens et les objectifs de l’entreprise autour d’un marketing gouverné. Dans cet article, je vous propose une lecture progressive des modèles de structuration : phases de maturité, signaux faibles, arbitrages organisationnels (interne, externe, hybride) et rôle du CMO comme architecte. Il en résulte une typologie utile à tout décideur souhaitant faire évoluer son marketing vers plus de clarté, d’efficacité et de durabilité. Structurer, ce n’est pas rigidifier, c’est rendre possible une croissance cohérente et pilotée.
@@ -77,7 +77,7 @@ C’est dans ce sens que ***Peter Drucker***, en définissant les deux fonctions
 
 **Ne pas structurer le marketing, c’est prendre le risque de l’appauvrir**, de le rendre dépendant de talents isolés, de tactiques désynchronisées ou de budgets mal calibrés.
 
-![Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi](/media/Structurer-la-fonction-marketing-dans-une-PME-ou-une-startup-1024x683.jpg)
+![Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-PME-ou-une-startup-1024x683.jpg)
 
 ## Les signaux faibles qui indiquent que le moment est venu
 
@@ -323,7 +323,7 @@ Un bon modèle hybride repose sur un **triptyque fonctionnel** :
 | Organisation en scale-up avec ambitions fortes | Interne structuré + prestataires spécialisés | CMO stratégique membre du COMEX |
 
 Besoin d’un guide pratique pour faire le bon choix ?
-Consultez notre article comparatif : [Recruter ou externaliser son marketing en PME](/fr/blogue/recruter-externaliser-marketing-pme/)
+Consultez notre article comparatif : [Recruter ou externaliser son marketing en PME](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/)
 
 
 
@@ -383,7 +383,7 @@ Ce modèle lui permet :
 C’est aussi ce qui distingue un CMO d’un Head of Marketing ou d’un directeur marketing “opérationnel”.
 
 Pour une exploration complète du rôle du CMO en entreprise, lisez notre article dédié :
-[Le rôle du CMO dans une PME](/fr/blogue/role-cmo-pme/)
+[Le rôle du CMO dans une PME](https://www.antoine-blot.com/fr/blogue/role-cmo-pme/)
 
 ### **🔎 Le CMO doit-il être au COMEX ?**
 
@@ -392,7 +392,7 @@ Tant que le marketing est vu comme un poste budgétaire ou un outil de soutien, 
 
 Le COMEX, ce n’est pas un privilège : c’est le lieu où se décident les arbitrages structurants. Y intégrer le marketing, c’est reconnaître que la croissance ne se fait ni sans marque, ni sans client.
 
-En savoir plus sur mon accompagnement en tant que [directeur marketing à Montréal](/fr/responsable-marketing/).
+En savoir plus sur mon accompagnement en tant que [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/).
 
 
 
@@ -407,7 +407,7 @@ Enfin, le rôle du CMO dépend fortement de :
 
 Il est donc impossible d’appliquer une fiche de poste unique. Mais une constante demeure :
 
-![Structurer la fonction marketing dans une startup](/media/Structurer-la-fonction-marketing-dans-une-startup.jpg)
+![Structurer la fonction marketing dans une startup](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-startup.jpg)
 > Un bon CMO est celui qui permet au marketing de cesser d’être un coût dispersé, pour devenir un investissement piloté.
 
 
@@ -541,5 +541,5 @@ Non. Il existe différents modèles selon l’intention stratégique : volume (v
 
 ### Articles complémentaires sur la structuration marketing :
 
-- [Recruter ou externaliser son marketing ? Le guide pour PME](/fr/blogue/recruter-externaliser-marketing-pme/)
-- [Le rôle du CMO dans une PME : vision et pilotage](/fr/blogue/role-cmo-pme/)
+- [Recruter ou externaliser son marketing ? Le guide pour PME](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/)
+- [Le rôle du CMO dans une PME : vision et pilotage](https://www.antoine-blot.com/fr/blogue/role-cmo-pme/)

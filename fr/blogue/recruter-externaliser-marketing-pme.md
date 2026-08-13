@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 Quand une entreprise décide d’investir sérieusement dans son marketing, une question revient inévitablement :
@@ -26,7 +26,7 @@ Cette décision, en apparence opérationnelle, est en réalité profondément st
 
 Dans cet article, nous vous proposons un cadre de réflexion structuré, pour choisir le bon modèle en fonction de vos contraintes, de vos objectifs et de votre stade de développement.
 
-👉 Pour une vue d’ensemble complète de la structuration marketing en entreprise, consultez notre article de fond : [Structurer la fonction marketing en PME](/fr/blogue/structurer-fonction-marketing-pme/)
+👉 Pour une vue d’ensemble complète de la structuration marketing en entreprise, consultez notre article de fond : [Structurer la fonction marketing en PME](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/)
 
 ## Ce que vous cherchez (vraiment) à décider
 
@@ -103,7 +103,7 @@ Une personne en interne (chargé.e marketing, ops, bras droit…) exécute, un p
 📌 **À retenir :** ce modèle permet d’avancer vite sans recruter toute une équipe, tout en gardant la main sur les arbitrages.
 
 Pour mieux comprendre ce qu’apporte un CMO dans ce modèle hybride, lisez notre article dédié :
-[Le rôle du CMO dans une PME : plus qu’un chef de projet marketing](/fr/blogue/role-cmo-pme/)
+[Le rôle du CMO dans une PME : plus qu’un chef de projet marketing](https://www.antoine-blot.com/fr/blogue/role-cmo-pme/)
 
 ## Comment choisir le bon modèle pour votre entreprise ?
 
@@ -133,7 +133,7 @@ L’essentiel est de garder la gouvernance claire et évolutive de la fonction m
 
 Un modèle pertinent aujourd’hui peut devenir limitant demain et inversement. L’important est de ne pas subir le modèle choisi, mais de le piloter activement : avec des rituels, des objectifs clairs, des critères d’évaluation réguliers.
 
-➜ En savoir plus sur mon accompagnement en marketing stratégique avec un [directeur marketing à Montréal](/fr/responsable-marketing/)
+➜ En savoir plus sur mon accompagnement en marketing stratégique avec un [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/)
 
 ## Tableau comparatif synthétique
 
@@ -158,7 +158,7 @@ Un modèle pertinent aujourd’hui peut devenir limitant demain et inversement. 
 
 > Structurer le marketing, ce n’est pas choisir un format, c’est choisir une gouvernance.
 
-👉 Pour une vue d’ensemble complète de la structuration marketing en entreprise, consultez notre article de fond : [Structurer la fonction marketing en PME](/fr/blogue/structurer-fonction-marketing-pme/)
+👉 Pour une vue d’ensemble complète de la structuration marketing en entreprise, consultez notre article de fond : [Structurer la fonction marketing en PME](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/)
 
 ## Foire aux questions
 

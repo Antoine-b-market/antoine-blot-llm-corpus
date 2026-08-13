@@ -17,7 +17,7 @@ Dans un marché de plus en plus concurrentiel, définir une stratégie marketing
 
 > Une bonne stratégie marketing, ce n’est pas un luxe. C’est un levier de performance, d’alignement et de clarté.
 
-C’est le rôle du directeur marketing de poser les fondations d’une stratégie alignée sur vos enjeux, vos clients et votre marché. En tant que [responsable de la vision marketing](/fr/responsable-marketing/), il s’assure que chaque initiative s’inscrit dans un plan cohérent, mesurable et évolutif. Il garantit la pertinence de vos produits, la cohérence de votre offre, et l’efficacité de vos outils.
+C’est le rôle du directeur marketing de poser les fondations d’une stratégie alignée sur vos enjeux, vos clients et votre marché. En tant que [responsable de la vision marketing](https://www.antoine-blot.com/fr/responsable-marketing/), il s’assure que chaque initiative s’inscrit dans un plan cohérent, mesurable et évolutif. Il garantit la pertinence de vos produits, la cohérence de votre offre, et l’efficacité de vos outils.
 
 ## Une méthode claire pour élaborer votre plan marketing
 
@@ -25,7 +25,7 @@ Je vous accompagne à travers une méthodologie structurée, adaptée à votre r
 
 Le processus commence par une analyse concurrentielle approfondie : marché, audience cible, comportement des consommateurs, perception des prix, positionnement des services et des produits, structure de la concurrence, réputation en ligne, opportunités de différenciation.
 
-Nous définissons ensuite les objectifs marketing : notoriété, acquisition, conversion, taux de rétention, satisfaction client. Le plan intègre une segmentation de la clientèle, des messages adaptés, une stratégie de communication web efficace, et le choix des canaux de communication pertinents : [SEO](/fr/consultant-seo/), marketing digital, réseaux sociaux, campagnes ciblées, contenu, marketing automation.
+Nous définissons ensuite les objectifs marketing : notoriété, acquisition, conversion, taux de rétention, satisfaction client. Le plan intègre une segmentation de la clientèle, des messages adaptés, une stratégie de communication web efficace, et le choix des canaux de communication pertinents : [SEO](https://www.antoine-blot.com/fr/consultant-seo/), marketing digital, réseaux sociaux, campagnes ciblées, contenu, marketing automation.
 
 Chaque stratégie est liée à des actions concrètes et à des résultats mesurables : taux d’ouverture, taux de clics, conversion, notoriété, performance des campagnes, engagement social. L’ensemble est porté par des outils adaptés et une vision unifiée de vos objectifs d’entreprise.
 
@@ -49,7 +49,7 @@ Cette approche est idéale pour les organisations qui veulent structurer leur ma
 
 > Vous avez un budget limité mais une grande ambition ? Vous êtes au bon endroit.
 
-![role-du-directeur-marketing](/media/role-du-directeur-marketing.jpg)
+![role-du-directeur-marketing](https://www.antoine-blot.com/media/role-du-directeur-marketing.jpg)
 
 ### Une stratégie marketing de niche, mais pas approximative
 
@@ -72,7 +72,7 @@ Ici, la stratégie marketing devient un vecteur de clarté et de mobilisation, p
 
 Que vous soyez une organisation en transformation, une jeune pousse, une structure associative ou une entreprise mûre en recherche de clarification, vous pouvez bénéficier d’un accompagnement clair, rigoureux et souple.
 
-Je mets à votre service une compétence en [stratégies marketing](/fr/responsable-marketing/), une compréhension fine des marchés, des opportunités, des audiences, et une capacité à transformer vos ambitions en plans d’action concrets. Cela inclut la valorisation de vos produits, l’optimisation de votre contenu et l’alignement de votre offre avec vos cibles.
+Je mets à votre service une compétence en [stratégies marketing](https://www.antoine-blot.com/fr/responsable-marketing/), une compréhension fine des marchés, des opportunités, des audiences, et une capacité à transformer vos ambitions en plans d’action concrets. Cela inclut la valorisation de vos produits, l’optimisation de votre contenu et l’alignement de votre offre avec vos cibles.
 
 Ma pratique s’appuie sur des outils adaptés, des étapes de validation structurées et un suivi rigoureux des résultats. Ensemble, nous concevons une stratégie ancrée dans la réalité de votre entreprise, exécutable en ligne et sur le terrain, avec les bons relais humains, les bons outils et les bons canaux web.
 

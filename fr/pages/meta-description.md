@@ -142,8 +142,8 @@ Non. Si la description est jugée inadéquate, trop répétitive ou pas en phase
 
 ## **Aller plus loin**
 
-- - - [Comprendre la balise title et son rôle stratégique](/fr/ressources-seo/balise-title/)
-    - [Comprendre les codes de réponses](/fr/ressources-seo/code-reponse-http/)
-    - [Accéder au glossaire SEO complet](/fr/ressources-seo/)
+- - - [Comprendre la balise title et son rôle stratégique](https://www.antoine-blot.com/fr/ressources-seo/balise-title/)
+    - [Comprendre les codes de réponses](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/)
+    - [Accéder au glossaire SEO complet](https://www.antoine-blot.com/fr/ressources-seo/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

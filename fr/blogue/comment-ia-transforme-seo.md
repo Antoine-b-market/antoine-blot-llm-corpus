@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 ## De l'analyse des intentions à l'optimisation contextuelle
@@ -58,7 +58,7 @@ L’analyse sémantique consiste à examiner les mots et leurs relations pour en
 
 - - **Alignement avec l’intention de recherche** : Comprendre les besoins réels de l’utilisateur, souvent cachés derrière des mots ordinaires.
   - **Création de contenus plus riches** : Intégrer des champs lexicaux variés et naturels, ce qui améliore non seulement le référencement, mais enrichit aussi la lecture.
-  - **Engagement authentique** : L’analyse sémantique permet de rédiger des contenus qui résonnent auprès des lecteurs, ce qui améliore l’expérience utilisateur et les [performances SEO.](/fr/consultant-seo/)
+  - **Engagement authentique** : L’analyse sémantique permet de rédiger des contenus qui résonnent auprès des lecteurs, ce qui améliore l’expérience utilisateur et les [performances SEO.](https://www.antoine-blot.com/fr/consultant-seo/)
 
 ### **Impact de l’IA sur la recherche sémantique**
 
@@ -84,7 +84,7 @@ Dans un environnement saturé par des textes générés par l’IA, se démarque
 
 ### **Pourquoi l’engagement est crucial pour une stratégie SEO durable ?**
 
-L’engagement n’est pas une métrique SEO en soi, mais il reflète la capacité d’un contenu à retenir et captiver un utilisateur, ce qui influence indirectement les [performances SEO](/fr/consultant-seo/) (par exemple, par le biais du temps passé sur la page, des taux de clics et de l’interaction utilisateur). Les contenus engageants tendent à recevoir :
+L’engagement n’est pas une métrique SEO en soi, mais il reflète la capacité d’un contenu à retenir et captiver un utilisateur, ce qui influence indirectement les [performances SEO](https://www.antoine-blot.com/fr/consultant-seo/) (par exemple, par le biais du temps passé sur la page, des taux de clics et de l’interaction utilisateur). Les contenus engageants tendent à recevoir :
 
 - - **Plus de partages** sur les réseaux sociaux, ce qui accroît la visibilité.
   - **Un taux de retour** élevé, car les utilisateurs reviennent pour consulter de nouvelles informations ou d’autres ressources similaires.
@@ -101,7 +101,7 @@ Pour aller au-delà d’un contenu informatif classique, plusieurs stratégies p
 
 ### **Mesurer l’impact de l’engagement comme métrique qualitative**
 
-[La mesure de l’engagement](/fr/blogue/analyser-rentabilite-strategie-omnicanal/) dépasse les indicateurs classiques (taux de clics, temps de session) en mettant l’accent sur la fidélité et la satisfaction du lecteur. Voici quelques métriques à surveiller pour évaluer l’impact qualitatif du contenu :
+[La mesure de l’engagement](https://www.antoine-blot.com/fr/blogue/analyser-rentabilite-strategie-omnicanal/) dépasse les indicateurs classiques (taux de clics, temps de session) en mettant l’accent sur la fidélité et la satisfaction du lecteur. Voici quelques métriques à surveiller pour évaluer l’impact qualitatif du contenu :
 
 | Métrique | Explication et intérêt |
 | --- | --- |

@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 L’intelligence artificielle générative est une branche de l’intelligence artificielle capable de produire du contenu (texte, images, vidéos) en se fondant sur de larges ensembles de données. Ces outils se distinguent d’autres formes d’IA qui se concentrent sur la classification ou la prédiction : ils créent du contenu inédit qui répond aux exigences des campagnes marketing modernes. Les entreprises exploitent ces outils pour gagner en efficacité, améliorer la création de contenu et adapter leurs messages aux attentes des clients.
@@ -30,7 +30,7 @@ La croissance de l’IA générative se manifeste à travers une variété d’a
   L’outil permet de générer des textes, images et vidéos adaptés aux préférences de chaque client. Par exemple, un article de blog ou un post pour les réseaux sociaux peut être automatiquement adapté en fonction du profil de l’utilisateur. La personnalisation obtenue par cette méthode aide à renforcer le lien entre l’entreprise et ses clients tout en boostant les ventes.
 
 - **Automatisation des taches marketing**
-  En plus de produire du contenu brut, l’IA générative aide à [automatiser les tâches marketing](/fr/automatisation-data-driven/) répétitives ou qui prennent beaucoup de temps. Cette aptitude à automatiser permet aux équipes de se focaliser sur la stratégie et la création de valeur, pendant que l’outil gère les réalisations opérationnelles.
+  En plus de produire du contenu brut, l’IA générative aide à [automatiser les tâches marketing](https://www.antoine-blot.com/fr/automatisation-data-driven/) répétitives ou qui prennent beaucoup de temps. Cette aptitude à automatiser permet aux équipes de se focaliser sur la stratégie et la création de valeur, pendant que l’outil gère les réalisations opérationnelles.
 
 - **Analyse de données en temps réel et ajustement des campagnes**
   L’outil permet de traiter rapidement des ensembles de données pour surveiller l’efficacité d’une campagne et proposer des ajustements en direct. Une formule mathématique simple évalue le retour sur investissement :

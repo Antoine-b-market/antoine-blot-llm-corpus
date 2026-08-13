@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 Quand avez-vous vérifié pour la dernière fois la qualité réelle de vos contenus web ? Si votre première pensée concerne uniquement les mots-clés ou les backlinks, vous pourriez passer à côté d’un facteur essentiel de référencement : l’E-E-A-T. Mais avant d’entrer dans le détail de ce concept complexe, prenons un instant pour observer une tendance qui bouleverse notre manière d’aborder le marketing en ligne : l’intelligence artificielle générative.
@@ -24,7 +24,7 @@ Quand avez-vous vérifié pour la dernière fois la qualité réelle de vos cont
 
 Vous avez probablement remarqué cette explosion d’intérêt autour de ChatGPT, Bard ou Midjourney. L’IA générative est devenue un sujet incontournable dans le marketing numérique, modifiant profondément la façon dont les entreprises conçoivent et distribuent leurs contenus.
 
-Avec ces outils innovants, il est devenu relativement facile de [produire rapidement du texte, des visuels ou même des vidéos](/fr/blogue/intelligence-artificielle-impact-marketing/). Mais une question se pose : comment garantir la pertinence, la qualité et surtout la crédibilité de ces productions automatisées ? Google, confronté à un océan de contenus nouveaux chaque jour, doit désormais redoubler de vigilance pour identifier ceux qui méritent d’être mis en avant. C’est ici qu’entre en jeu l’E-E-A-T.
+Avec ces outils innovants, il est devenu relativement facile de [produire rapidement du texte, des visuels ou même des vidéos](https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-impact-marketing/). Mais une question se pose : comment garantir la pertinence, la qualité et surtout la crédibilité de ces productions automatisées ? Google, confronté à un océan de contenus nouveaux chaque jour, doit désormais redoubler de vigilance pour identifier ceux qui méritent d’être mis en avant. C’est ici qu’entre en jeu l’E-E-A-T.
 
 Mais concrètement, que signifie E-E-A-T ?
 
@@ -86,7 +86,7 @@ Vous vous demandez probablement comment renforcer votre E-E-A-T au-delà de la r
 4. **Obtenez des certifications et labels officiels visibles sur votre site :**
    Affichez clairement sur votre site web des certifications pertinentes à votre domaine ou secteur d’activité. Par exemple, dans le domaine du marketing digital, des certifications comme Google Partner, Facebook Marketing Partner ou ISO 9001 pour la qualité de vos services jouent un rôle direct dans la construction de la fiabilité et de l’expertise reconnue par Google. Ces badges ou logos doivent être présents sur des pages stratégiques telles que votre page d’accueil, votre footer, ou la page « À propos ». Ce faisant, vous renforcez visiblement votre crédibilité sans devoir publier du nouveau contenu éditorial.
 5. **Engagez une stratégie active de relations publiques (RP) digitales :**
-   Sans écrire directement des articles supplémentaires, une approche proactive en RP digitales peut fortement impacter votre E-E-A-T. Contactez régulièrement des journalistes ou blogueurs influents dans votre secteur pour leur proposer des interventions ou des expertises ponctuelles sur des sujets d’actualité. Ainsi, vous obtenez des mentions spontanées et authentiques dans des médias reconnus, ce qui renforce directement votre réputation en ligne. Ce type de mention indirecte et naturelle est hautement valorisé par Google et alimente positivement votre [positionnement SEO](/fr/consultant-seo/).
+   Sans écrire directement des articles supplémentaires, une approche proactive en RP digitales peut fortement impacter votre E-E-A-T. Contactez régulièrement des journalistes ou blogueurs influents dans votre secteur pour leur proposer des interventions ou des expertises ponctuelles sur des sujets d’actualité. Ainsi, vous obtenez des mentions spontanées et authentiques dans des médias reconnus, ce qui renforce directement votre réputation en ligne. Ce type de mention indirecte et naturelle est hautement valorisé par Google et alimente positivement votre [positionnement SEO](https://www.antoine-blot.com/fr/consultant-seo/).
 
 ## Mise en œuvre pratique et suivi des améliorations
 
@@ -94,7 +94,7 @@ Connaître les principes est une chose, les appliquer concrètement en est une a
 
 ### Auditez votre contenu actuel
 
-Faites régulièrement un [audit approfondi](/fr/consultant-seo/audit-seo/) de votre site pour identifier précisément où vous pouvez améliorer chaque aspect de l’E-E-A-T. Avez-vous suffisamment mis en valeur vos auteurs ? Vos contenus sont-ils systématiquement sourcés ? Obtenez-vous des backlinks de qualité suffisante ? Cet audit initial vous donnera un aperçu clair de vos points faibles et vous permettra d’agir rapidement pour les renforcer.
+Faites régulièrement un [audit approfondi](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/) de votre site pour identifier précisément où vous pouvez améliorer chaque aspect de l’E-E-A-T. Avez-vous suffisamment mis en valeur vos auteurs ? Vos contenus sont-ils systématiquement sourcés ? Obtenez-vous des backlinks de qualité suffisante ? Cet audit initial vous donnera un aperçu clair de vos points faibles et vous permettra d’agir rapidement pour les renforcer.
 
 ### Encouragez une formation continue
 

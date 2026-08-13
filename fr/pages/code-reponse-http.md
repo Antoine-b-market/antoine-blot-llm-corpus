@@ -170,8 +170,8 @@ Oui. Le rapport “Statistiques de crawl” et “Pages avec problèmes” donne
 
 ## **Aller plus loin**
 
-- - - [Optimiser le maillage interne](/fr/ressources-seo/maillage-interne/)
-    - [Comprendre le budget de crawl](/fr/ressources-seo/budget-crawl/)
-    - [Accéder au glossaire SEO complet](/fr/ressources-seo/)
+- - - [Optimiser le maillage interne](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
+    - [Comprendre le budget de crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
+    - [Accéder au glossaire SEO complet](https://www.antoine-blot.com/fr/ressources-seo/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

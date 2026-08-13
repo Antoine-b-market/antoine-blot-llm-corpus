@@ -136,7 +136,7 @@ Pas directement. Mais s’il empêche vos pages importantes d’être explorées
 ## **Aller plus loin**
 
 - - - Comprendre l’indexation par Googlebot
-    - [Comment structurer une arborescence SEO efficace](/fr/ressources-seo/cocon-semantique/)
-    - [Optimiser un site pour le crawl](/fr/ressources-seo/budget-crawl/)
+    - [Comment structurer une arborescence SEO efficace](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/)
+    - [Optimiser un site pour le crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

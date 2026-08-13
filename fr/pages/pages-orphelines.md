@@ -125,8 +125,8 @@ En s’assurant que chaque nouvelle page est liée manuellement ou automatiqueme
 
 ## **Aller plus loin**
 
-- - - [Comprendre le maillage interne en SEO](/fr/ressources-seo/maillage-interne/)
-    - [Comprendre le robots.txt](/fr/ressources-seo/fichier-robots-txt/)
-    - [Optimiser votre budget de crawl](/fr/ressources-seo/budget-crawl/)
+- - - [Comprendre le maillage interne en SEO](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
+    - [Comprendre le robots.txt](https://www.antoine-blot.com/fr/ressources-seo/fichier-robots-txt/)
+    - [Optimiser votre budget de crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

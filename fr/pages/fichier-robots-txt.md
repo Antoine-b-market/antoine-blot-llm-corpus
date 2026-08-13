@@ -272,8 +272,8 @@ Cela limite l’accès de ces agents à tes pages, mais ne garantit pas à 100 %
 
 ## **Aller plus loin**
 
-- - - [Budget de crawl : gérer efficacement l’exploration de votre site](/fr/ressources-seo/budget-crawl/)
+- - - [Budget de crawl : gérer efficacement l’exploration de votre site](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
     - Sitemap XML : faciliter la découverte de vos contenus stratégiques
-    - [Comprendre l’impacte du temps de chargement](/fr/ressources-seo/temps-de-chargement/)
+    - [Comprendre l’impacte du temps de chargement](https://www.antoine-blot.com/fr/ressources-seo/temps-de-chargement/)
 
 *Ce contenu a été rédigé par Antoine Blot, consultant SEO à Montréal, spécialisé dans l’optimisation des contenus pour les moteurs de recherche et les intelligences artificielles.*

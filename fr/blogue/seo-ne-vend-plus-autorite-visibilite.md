@@ -12,11 +12,11 @@ robots: "index, follow"
 category: "seo"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Quand l’intelligence artificielle remet en question le marketing"
-    url: "/data/fr/blogue/intelligence-artificielle-fonction-marketing.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/intelligence-artificielle-fonction-marketing.md"
 ---
 
 ## **Le paradoxe du trafic fantôme**
@@ -76,7 +76,7 @@ La marque interdit la neutralité éditoriale. Si vous n’avez pas d’opinion,
 
 Le mcp n’est pas un framework d’optimisation, c’est un test de survie. Si un contenu ne renforce pas votre autorité, ne répond pas à un contexte de décision réel et n’apporte pas une solution que vous seul pouvez porter, il ne mérite tout simplement pas d’être publié. La technique n’est là que pour servir cette philosophie. Si vous optimisez du vide, vous n’obtiendrez que du trafic fantôme. Comment votre stratégie actuelle survit-elle à cette exigence ?
 
-![Emergence du GEO](/media/Emergence-du-GEO.jpg)
+![Emergence du GEO](https://www.antoine-blot.com/media/Emergence-du-GEO.jpg)
 
 ## **Le nouveau rôle du marketeur : devenir un « architecte de la connaissance »**
 

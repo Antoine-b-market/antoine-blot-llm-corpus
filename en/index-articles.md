@@ -4,10 +4,10 @@ description: "Articles — contenus anglais."
 base_url: "https://www.antoine-blot.com"
 lang: "en"
 type: "article"
-last_updated: "2026-08-11"
+last_updated: "2026-08-13"
 count: 1
 ---
 
 # Articles — Contenus anglais
 
-- [Outsourcing Your Marketing: Strategy or Glass Ceiling?](/data/en/blog/outsourcing-your-marketing.md)
+- [Outsourcing Your Marketing: Strategy or Glass Ceiling?](https://www.antoine-blot.com/data/en/blog/outsourcing-your-marketing.md)

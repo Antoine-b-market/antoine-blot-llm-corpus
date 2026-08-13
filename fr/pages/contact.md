@@ -21,4 +21,4 @@ Sur Linkedin
 
 
 
-Consultant en marketing digital basé à Montréal et Repentigny au Québec, je suis spécialisé dans le [référencement naturel (SEO)](/fr/consultant-seo/) et les [stratégies marketing](/fr/responsable-marketing/). N’hésitez pas à me contacter pour en savoir plus ou bien échanger sur vos problématiques.
+Consultant en marketing digital basé à Montréal et Repentigny au Québec, je suis spécialisé dans le [référencement naturel (SEO)](https://www.antoine-blot.com/fr/consultant-seo/) et les [stratégies marketing](https://www.antoine-blot.com/fr/responsable-marketing/). N’hésitez pas à me contacter pour en savoir plus ou bien échanger sur vos problématiques.

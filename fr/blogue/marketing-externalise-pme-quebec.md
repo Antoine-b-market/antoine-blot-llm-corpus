@@ -12,11 +12,11 @@ robots: "index, follow"
 category: "geo"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
   - title: "Quand l’intelligence artificielle remet en question le marketing"
-    url: "/data/fr/blogue/intelligence-artificielle-fonction-marketing.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/intelligence-artificielle-fonction-marketing.md"
 ---
 
 Le marketing est devenu trop stratégique pour être géré à temps partiel, et trop coûteux pour être internalisé trop tôt. Pour la PME québécoise en croissance, l’enjeu n’est plus seulement de « faire du Web », mais de piloter une fonction complexe sans rigidifier sa structure de coûts.
@@ -25,7 +25,7 @@ Dans ce contexte, le **marketing externalisé** (ou impartition marketing) s’i
 
 ## **En bref :**
 
-Une direction marketing fractionnée permet d’accéder à une expertise stratégique sans supporter le poids d’un salaire de direction permanent. L’objectif est de transformer une suite de tactiques isolées en un système de croissance prévisible, piloté par la performance et la désirabilité de marque. **Par** [**Antoine Blot**](/fr/a-propos-de-moi/)
+Une direction marketing fractionnée permet d’accéder à une expertise stratégique sans supporter le poids d’un salaire de direction permanent. L’objectif est de transformer une suite de tactiques isolées en un système de croissance prévisible, piloté par la performance et la désirabilité de marque. **Par** [**Antoine Blot**](https://www.antoine-blot.com/fr/a-propos-de-moi/)
 
 ## La réalité des petites structures : l'agilité avant la structure
 
@@ -59,7 +59,7 @@ L’impartition marketing ne doit pas être une fin en soi. Une entreprise saine
 
 3.  **La culture de donnée :** Lorsque l’entreprise a besoin d’une itération ultra-rapide et d’une mémoire institutionnelle que seul un talent dédié peut offrir.
 
-![L'impartition marketing](/media/impartition-marketing.jpg)
+![L'impartition marketing](https://www.antoine-blot.com/media/impartition-marketing.jpg)
 
 ## **L’architecture de croissance : ma méthode en 3 étapes**
 

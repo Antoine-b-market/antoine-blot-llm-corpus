@@ -11,11 +11,11 @@ hreflang: "fr-CA"
 robots: "index, follow"
 related_articles:
   - title: "Analyser la rentabilité d’une stratégie omnicanal"
-    url: "/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md"
   - title: "Externaliser son marketing : stratégie ou plafond de verre ?"
-    url: "/data/fr/blogue/marketing-externalise-pme-quebec.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/marketing-externalise-pme-quebec.md"
   - title: "Le SEO ne vend plus : pourquoi la visibilité est devenue une commodité"
-    url: "/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
+    url: "https://www.antoine-blot.com/data/fr/blogue/seo-ne-vend-plus-autorite-visibilite.md"
 ---
 
 ## Le pouvoir des détails dans l'expérience client
@@ -42,7 +42,7 @@ Les micro-interactions jouent sur des mécanismes psychologiques profonds. Elles
 
 ### **Impact sur la fidélisation**
 
-Ce dialogue émotionnel est crucial pour construire la fidélité utilisateur, car il transforme l’interaction en une expérience mémorable. Par exemple, une application qui utilise des micro-interactions subtiles mais [engageantes incite l’utilisateur à revenir](/fr/tunnel-conversion-parcours-utilisateur/). L’effet combiné de ces détails crée une atmosphère de confiance et d’attention aux besoins de l’utilisateur, posant ainsi les bases d’une fidélité à long terme.
+Ce dialogue émotionnel est crucial pour construire la fidélité utilisateur, car il transforme l’interaction en une expérience mémorable. Par exemple, une application qui utilise des micro-interactions subtiles mais [engageantes incite l’utilisateur à revenir](https://www.antoine-blot.com/fr/tunnel-conversion-parcours-utilisateur/). L’effet combiné de ces détails crée une atmosphère de confiance et d’attention aux besoins de l’utilisateur, posant ainsi les bases d’une fidélité à long terme.
 
 ## Exemples de micro-interactions efficaces
 
@@ -74,7 +74,7 @@ LinkedIn utilise aussi des micro-interactions pour signaler les connexions et l�
 
 ### **Renforcement de la compréhension du parcours**
 
-Les micro-interactions jouent un rôle déterminant dans la clarté et la fluidité du [parcours utilisateur](/fr/tunnel-conversion-parcours-utilisateur/). Un bouton qui change de couleur ou une notification subtile guident l’utilisateur de manière intuitive, sans avoir besoin d’instructions supplémentaires. Cela permet de simplifier la navigation tout en offrant une expérience fluide et sans friction.
+Les micro-interactions jouent un rôle déterminant dans la clarté et la fluidité du [parcours utilisateur](https://www.antoine-blot.com/fr/tunnel-conversion-parcours-utilisateur/). Un bouton qui change de couleur ou une notification subtile guident l’utilisateur de manière intuitive, sans avoir besoin d’instructions supplémentaires. Cela permet de simplifier la navigation tout en offrant une expérience fluide et sans friction.
 
 ### **Augmentation du sentiment de contrôle**
 
@@ -120,4 +120,4 @@ Ces micro-interactions, bien intégrées, créent un parcours d’achat sans fri
 
 Les micro-interactions, bien qu’imperceptibles à première vue, jouent un rôle subtil mais décisif dans la manière dont les utilisateurs perçoivent et interagissent avec une interface. Ces détails, soigneusement pensés, créent un environnement interactif qui non seulement guide l’utilisateur, mais renforce aussi son engagement émotionnel. Alors que la technologie évolue, l’avenir des micro-interactions pourrait intégrer de nouvelles dimensions d’intelligence artificielle, personnalisant encore davantage l’expérience.
 
-Quel serait l’impact de [micro-interactions couplé à l’intelligence artificielle](/fr/blogue/comment-ia-transforme-seo/), capables de s’adapter en temps réel aux émotions et aux besoins de chaque utilisateur ? Nous ne sommes peut-être qu’au début d’une ère où les interfaces seront capables d’établir une connexion émotionnelle aussi subtile qu’efficace, pour des expériences plus riches et plus engageantes.
+Quel serait l’impact de [micro-interactions couplé à l’intelligence artificielle](https://www.antoine-blot.com/fr/blogue/comment-ia-transforme-seo/), capables de s’adapter en temps réel aux émotions et aux besoins de chaque utilisateur ? Nous ne sommes peut-être qu’au début d’une ère où les interfaces seront capables d’établir une connexion émotionnelle aussi subtile qu’efficace, pour des expériences plus riches et plus engageantes.
