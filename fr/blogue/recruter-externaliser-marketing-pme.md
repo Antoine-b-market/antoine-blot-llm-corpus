@@ -35,10 +35,10 @@ Ce que vous cherchez (vraiment) à décider
 
 Avant de parler profils ou agences, il est essentiel de clarifier ce que recouvre *“faire du marketing”* dans votre entreprise :
 
-- - - Penser la stratégie ? (positionnement, cible, plan annuel…)
-    - Exécuter des actions ? (campagnes paid, contenu, CRM…)
-    - Mesurer l’impact ? (KPI, ROI, attribution…)
-    - Coordonner l’ensemble ? (équipes internes, partenaires…)
+- Penser la stratégie ? (positionnement, cible, plan annuel…)
+- Exécuter des actions ? (campagnes paid, contenu, CRM…)
+- Mesurer l’impact ? (KPI, ROI, attribution…)
+- Coordonner l’ensemble ? (équipes internes, partenaires…)
 
 Ce découpage est fondamental. Car recruter un profil junior pour “tout gérer” revient à lui confier, seul, une orchestration qui demande normalement plusieurs expertises + un pilotage.
 
@@ -56,15 +56,15 @@ Voyons les avantages et limites de chaque modèle.
 
 **✅ Avantages**
 
-- - - Alignement culturel et stratégique fort
-    - Présence continue et connaissance du produit
-    - Plus de fluidité dans les échanges transverses
+- Alignement culturel et stratégique fort
+- Présence continue et connaissance du produit
+- Plus de fluidité dans les échanges transverses
 
 **⚠️ Limites**
 
-- - - Processus long (recrutement, onboarding, montée en compétence)
-    - Risque de dépendance à un profil unique
-    - Difficulté à tout internaliser si les besoins sont trop variés
+- Processus long (recrutement, onboarding, montée en compétence)
+- Risque de dépendance à un profil unique
+- Difficulté à tout internaliser si les besoins sont trop variés
 
 📌 **À retenir :** recruter un junior sans stratégie claire revient souvent à surcharger un profil trop polyvalent, sans impact mesurable.
 
@@ -72,15 +72,15 @@ Voyons les avantages et limites de chaque modèle.
 
 **✅ Avantages**
 
-- - - Accès immédiat à des expertises pointues (SEO, paid, CRM…)
-    - Flexibilité budgétaire (prestations sur mesure, sans coût fixe)
-    - Moins de gestion RH
+- Accès immédiat à des expertises pointues (SEO, paid, CRM…)
+- Flexibilité budgétaire (prestations sur mesure, sans coût fixe)
+- Moins de gestion RH
 
 **⚠️ Limites**
 
-- - - Moindre intégration stratégique : les prestataires pensent par canal, pas par objectif global
-    - Nécessite un pilotage interne pour garder la cohérence
-    - Risque de dépendance ou de dilution de la marque si mal encadré
+- Moindre intégration stratégique : les prestataires pensent par canal, pas par objectif global
+- Nécessite un pilotage interne pour garder la cohérence
+- Risque de dépendance ou de dilution de la marque si mal encadré
 
 📌 **À retenir :** sans interlocuteur interne clair, l’externalisation produit souvent de la dispersion.
 
@@ -92,14 +92,14 @@ Une personne en interne (chargé.e marketing, ops, bras droit…) exécute, un p
 
 **✅ Avantages**
 
-- - - Vision + exécution = synergie
-    - Souplesse d’adaptation selon la charge ou la saisonnalité
-    - Montée en compétence interne grâce à l’externe
+- Vision + exécution = synergie
+- Souplesse d’adaptation selon la charge ou la saisonnalité
+- Montée en compétence interne grâce à l’externe
 
 **⚠️ Limites**
 
-- - - Il faut coordonner l’ensemble (rituels, reporting, outils partagés)
-    - Repose sur la qualité du pilotage stratégique (fractional CMO, responsable marketing expérimenté)
+- Il faut coordonner l’ensemble (rituels, reporting, outils partagés)
+- Repose sur la qualité du pilotage stratégique (fractional CMO, responsable marketing expérimenté)
 
 📌 **À retenir :** ce modèle permet d’avancer vite sans recruter toute une équipe, tout en gardant la main sur les arbitrages.
 
@@ -112,22 +112,22 @@ Entre recruter, externaliser ou hybrider, le choix ne se résume pas à une ques
 
 Un bon point de départ consiste à vous poser quelques questions simples mais décisives :
 
-- - - Avez-vous une vision marketing claire ?
-      Si vous savez déjà qui vous ciblez, quels canaux sont prioritaires, et ce que vous attendez du marketing à 6 ou 12 mois, vous pouvez envisager un recrutement en interne ou un pilotage hybride.
-  - - Disposez-vous en interne de compétences stratégiques ?
-      Recruter sans encadrer revient à déléguer des décisions fondamentales à un profil souvent opérationnel. Si vous n’avez pas (encore) ce pilotage, l’apport d’un CMO externalisé peut être décisif pour poser les fondations.
-  - - Vos besoins sont-ils réguliers, spécialisés ou évolutifs ?
-      Un besoin récurrent de création de contenu et d’animation CRM n’appelle pas les mêmes choix qu’un besoin ponctuel en refonte de stratégie paid. Plus vos besoins sont évolutifs, plus le modèle hybride offre de souplesse.
-  - - Quelle place voulez-vous donner au marketing dans votre organisation ?
-      Si vous considérez le marketing comme un levier de croissance structurant (et non un centre de production), alors il mérite d’être piloté, que ce soit en interne ou via une direction externalisée.
+- Avez-vous une vision marketing claire ?
+  Si vous savez déjà qui vous ciblez, quels canaux sont prioritaires, et ce que vous attendez du marketing à 6 ou 12 mois, vous pouvez envisager un recrutement en interne ou un pilotage hybride.
+- Disposez-vous en interne de compétences stratégiques ?
+  Recruter sans encadrer revient à déléguer des décisions fondamentales à un profil souvent opérationnel. Si vous n’avez pas (encore) ce pilotage, l’apport d’un CMO externalisé peut être décisif pour poser les fondations.
+- Vos besoins sont-ils réguliers, spécialisés ou évolutifs ?
+  Un besoin récurrent de création de contenu et d’animation CRM n’appelle pas les mêmes choix qu’un besoin ponctuel en refonte de stratégie paid. Plus vos besoins sont évolutifs, plus le modèle hybride offre de souplesse.
+- Quelle place voulez-vous donner au marketing dans votre organisation ?
+  Si vous considérez le marketing comme un levier de croissance structurant (et non un centre de production), alors il mérite d’être piloté, que ce soit en interne ou via une direction externalisée.
 
 ### **🔹** Un modèle peut en cacher un autre
 
 Il est aussi utile de rappeler que ces trois modèles ne sont pas figés. Beaucoup d’entreprises évoluent :
 
-- - - D’une externalisation partielle vers une structuration hybride, avec le temps ;
-    - D’un recrutement un peu prématuré vers un recentrage piloté par un consultant senior ;
-    - Ou d’une équipe interne vers un modèle plus modulaire quand la complexité augmente.
+- D’une externalisation partielle vers une structuration hybride, avec le temps ;
+- D’un recrutement un peu prématuré vers un recentrage piloté par un consultant senior ;
+- Ou d’une équipe interne vers un modèle plus modulaire quand la complexité augmente.
 
 Autrement dit : on peut changer de modèle à mesure que l’entreprise gagne en maturité.
 L’essentiel est de garder la gouvernance claire et évolutive de la fonction marketing.
@@ -151,9 +151,9 @@ Un modèle pertinent aujourd’hui peut devenir limitant demain et inversement. 
 
  Il n’y a pas de “bonne” solution universelle. Le bon modèle est celui que vous êtes capable de piloter aujourd’hui, et de faire évoluer demain.
 
-- - - Recruter sans vision = risque d’échec.
-    - Externaliser sans pilotage = dispersion.
-    - Hybrider sans cadre = perte d’efficacité.
+- Recruter sans vision = risque d’échec.
+- Externaliser sans pilotage = dispersion.
+- Hybrider sans cadre = perte d’efficacité.
 
 **À retenir** : Le modèle hybride (interne + CMO externalisé + prestataires spécialisés) est souvent la solution la plus souple et pilotable pour structurer son marketing en PME.
 
