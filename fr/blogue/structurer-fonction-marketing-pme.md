@@ -388,7 +388,7 @@ Tant que le marketing est vu comme un poste budgétaire ou un outil de soutien, 
 
 Le COMEX, ce n’est pas un privilège : c’est le lieu où se décident les arbitrages structurants. Y intégrer le marketing, c’est reconnaître que la croissance ne se fait ni sans marque, ni sans client.
 
-En savoir plus sur mon accompagnement en tant que [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/).
+En savoir plus sur mon accompagnement en tant que [directeur marketing à Montréal](https://www.antoine-blot.com/fr/directeur-marketing/).
 
 ### **🧩 Un rôle à géométrie variable selon les contextes**
 
