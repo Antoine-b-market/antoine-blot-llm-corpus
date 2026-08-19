@@ -69,8 +69,6 @@ Cette optimisation ne doit pas être vue comme une fin en soi. Elle nécessite u
 
 Au-delà des gains en productivité, le numérique renforce également la résilience des entreprises. Une organisation capable d’adapter ses processus en temps réel peut répondre plus efficacement aux imprévus, qu’il s’agisse de ruptures de chaîne d’approvisionnement ou de fluctuations de la demande.
 
-
-
 Les opportunités offertes par le numérique vont bien au-delà de la simple optimisation des processus. Qu’il s’agisse de réinventer des modèles d’affaires, de redéfinir la relation client ou d’exploiter les données pour explorer de nouveaux marchés, elles permettent aux entreprises de redessiner leur positionnement dans un environnement en constante évolution.
 
 Saisir ces opportunités nécessite une approche réfléchie et stratégique. L’innovation ne doit pas être une finalité, mais un moyen de créer une valeur durable pour l’ensemble des parties prenantes : collaborateurs, clients, et société.
