@@ -33,13 +33,13 @@ Entendons-nous : si votre métier consiste à répondre à une urgence immédiat
 
 ### À retenir
 
--   La visibilité n’est plus un avantage compétitif : elle est devenue une commodité.
+- La visibilité n’est plus un avantage compétitif : elle est devenue une commodité.
 
--   Le SEO reste nécessaire pour exister, mais insuffisant pour créer de la valeur.
+- Le SEO reste nécessaire pour exister, mais insuffisant pour créer de la valeur.
 
--   Un contenu informationnel explique ; un actif cognitif oriente et influence.
+- Un contenu informationnel explique ; un actif cognitif oriente et influence.
 
--   La performance marketing ne se mesure plus uniquement en clics, mais en capacité à être cité, repris et intégré dans les décisions.
+- La performance marketing ne se mesure plus uniquement en clics, mais en capacité à être cité, repris et intégré dans les décisions.
 
 ## L'autopsie du SEO "conversionnel"
 
@@ -116,12 +116,12 @@ Ce texte s’inscrit dans une réflexion plus large sur la transformation du mar
 
 ### Références académiques
 
--   **Berners-Lee, T.** (2001). *The Semantic Web*. Scientific American.
+- **Berners-Lee, T.** (2001). *The Semantic Web*. Scientific American.
 
--   **Godin, S.** (2018). *This is Marketing*. Portfolio. (Sur le courage de ne pas plaire à tout le monde).
+- **Godin, S.** (2018). *This is Marketing*. Portfolio. (Sur le courage de ne pas plaire à tout le monde).
 
--   **Pulizzi, J.** (2014). *Epic Content Marketing*. McGraw-Hill.
+- **Pulizzi, J.** (2014). *Epic Content Marketing*. McGraw-Hill.
 
--   **Zuboff, S.** (2019). *The Age of Surveillance Capitalism*. PublicAffairs.
+- **Zuboff, S.** (2019). *The Age of Surveillance Capitalism*. PublicAffairs.
 
--   **Marcus, G.** (2019). *Rebooting AI*. Pantheon.
+- **Marcus, G.** (2019). *Rebooting AI*. Pantheon.
