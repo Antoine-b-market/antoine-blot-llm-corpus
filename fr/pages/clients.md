@@ -5,7 +5,7 @@ author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/clients/"
 date: "2025-12-30"
-date_modified: "2026-06-13"
+date_modified: "2026-08-19"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -13,7 +13,7 @@ robots: "index, follow"
 
 `[[TESTIMONIALS]]`
 
-Depuis plus de dix ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France, dans leurs [stratégies marketing](https://www.antoine-blot.com/fr/responsable-marketing/), [SEO](https://www.antoine-blot.com/fr/consultant-seo/) et transformation digitale, avec un objectif commun : **aligner la visibilité, la croissance et la cohérence de marque.**
+Depuis plus de dix ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France, dans leurs [stratégies marketing](https://www.antoine-blot.com/fr/directeur-marketing/), [SEO](https://www.antoine-blot.com/fr/consultant-seo/) et transformation digitale, avec un objectif commun : **aligner la visibilité, la croissance et la cohérence de marque.**
 
 ## Plus de 300 clients accompagnés !
 
