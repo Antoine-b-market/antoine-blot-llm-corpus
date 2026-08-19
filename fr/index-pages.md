@@ -5,7 +5,7 @@ base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
 last_updated: "2026-08-19"
-count: 25
+count: 26
 ---
 
 # Pages — Contenus français
@@ -18,6 +18,7 @@ count: 25
 - [Mes références en SEO et stratégie marketing](https://www.antoine-blot.com/data/fr/pages/clients.md)
 - [Qu’est-ce qu’un cocon sémantique en SEO ?](https://www.antoine-blot.com/data/fr/pages/cocon-semantique.md)
 - [Qu’est-ce qu’un code de réponse HTTP en SEO ?](https://www.antoine-blot.com/data/fr/pages/code-reponse-http.md)
+- [Consultant GEO à Montréal](https://www.antoine-blot.com/data/fr/pages/consultant-geo.md)
 - [Consultant SEO et GEO à Montréal Expertise, autorité et futur du Search.](https://www.antoine-blot.com/data/fr/pages/consultant-seo.md)
 - [Contactez moi](https://www.antoine-blot.com/data/fr/pages/contact.md)
 - [Qu’est-ce que le contenu dupliqué en SEO ?](https://www.antoine-blot.com/data/fr/pages/contenu-duplique.md)
