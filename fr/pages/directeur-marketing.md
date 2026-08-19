@@ -29,7 +29,7 @@ Comme directeur marketing (CMO), je combine une expertise technique solide avec 
 
 ### Une Direction Marketing stratégique pour propulser votre croissance au Québec
 
-[Une vision sans pilotage](https://www.antoine-blot.com/fr/responsable-marketing/definir-strategie-marketing-directeur/) reste une dépense ; une stratégie orchestrée devient un actif durable. Mon approche consiste à transformer vos ambitions d’affaires en une feuille de route rigoureuse, où chaque levier marketing devient un contributeur net à votre chiffre d’affaires. En tant que leader marketing, j’assure l’arbitrage constant des ressources pour garantir que chaque dollar investi est orienté vers la performance et la pérennité de votre marque.
+[Une vision sans pilotage](https://www.antoine-blot.com/fr/directeur-marketing/strategie-marketing/) reste une dépense ; une stratégie orchestrée devient un actif durable. Mon approche consiste à transformer vos ambitions d’affaires en une feuille de route rigoureuse, où chaque levier marketing devient un contributeur net à votre chiffre d’affaires. En tant que leader marketing, j’assure l’arbitrage constant des ressources pour garantir que chaque dollar investi est orienté vers la performance et la pérennité de votre marque.
 
 - Alignement stratégique et objectifs d'affaires : Diagnostic complet de vos leviers de croissance pour traduire vos priorités commerciales en indicateurs de performance (KPI) mesurables.
 - Intelligence marché et segmentation : Analyse approfondie des comportements d'achat pour affiner votre positionnement et garantir un message percutant auprès des bons segments.
