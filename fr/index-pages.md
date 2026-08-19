@@ -27,7 +27,7 @@ count: 25
 - [Qu’est-ce que le maillage interne en SEO ?](https://www.antoine-blot.com/data/fr/pages/maillage-interne.md)
 - [Décisions efficaces grâce à la Data et l’automatisation](https://www.antoine-blot.com/data/fr/pages/automatisation-data-driven.md)
 - [Netlinking et autorité](https://www.antoine-blot.com/data/fr/pages/netlinking-autorite-seo.md)
-- [Optimisation des parcours utilisateur](https://www.antoine-blot.com/data/fr/pages/tunnel-conversion-parcours-utilisateur.md)
+- [Optimisation des parcours utilisateur](https://www.antoine-blot.com/data/fr/pages/tunnel-conversion.md)
 - [Qu’est-ce qu’une page orpheline en SEO ?](https://www.antoine-blot.com/data/fr/pages/pages-orphelines.md)
 - [Qu’est-ce qu’une balise title en SEO ?](https://www.antoine-blot.com/data/fr/pages/balise-title.md)
 - [Rédaction SEO - GEO](https://www.antoine-blot.com/data/fr/pages/redaction-seo.md)
