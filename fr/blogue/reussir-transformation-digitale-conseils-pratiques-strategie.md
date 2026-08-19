@@ -57,7 +57,7 @@ Pour relever ce défi, les entreprises doivent adopter une approche proactive ax
 
 ### **Recruter des talents adaptés aux besoins numériques**
 
-Attirer des experts qualifiés dans des domaines stratégiques est une priorité. Toutefois, cette démarche doit s’accompagner d’une réflexion sur la fidélisation : dans un marché concurrentiel, ces talents, notamment [les responsables marketing](https://www.antoine-blot.com/fr/responsable-marketing/) recherchent des environnements de travail stimulants, des perspectives d’évolution et une reconnaissance de leur contribution. Créer une marque employeur attrayante, en mettant en avant des opportunités d’apprentissage et une culture d’innovation, est donc essentiel pour retenir ces profils.
+Attirer des experts qualifiés dans des domaines stratégiques est une priorité. Toutefois, cette démarche doit s’accompagner d’une réflexion sur la fidélisation : dans un marché concurrentiel, ces talents, notamment [les responsables marketing](https://www.antoine-blot.com/fr/directeur-marketing/) recherchent des environnements de travail stimulants, des perspectives d’évolution et une reconnaissance de leur contribution. Créer une marque employeur attrayante, en mettant en avant des opportunités d’apprentissage et une culture d’innovation, est donc essentiel pour retenir ces profils.
 
 ### **Former et accompagner les collaborateurs existants**
 
