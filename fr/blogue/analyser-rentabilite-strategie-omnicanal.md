@@ -118,6 +118,4 @@ La collecte des données client, bien que nécessaire pour analyser le parcours,
 
 Cependant, ces contraintes limitent la quantité de données disponible pour évaluer la rentabilité des actions omnicanales et imposent de nouvelles méthodes, comme les data clean rooms, qui nécessitent souvent un investissement en infrastructure supplémentaire.
 
-
-
 La rentabilité d’une stratégie omnicanal repose sur une balance complexe entre les coûts directs, les investissements technologiques, et les effets à long terme sur la fidélité et la satisfaction client. Pour en tirer pleinement parti, il est nécessaire d’adopter une approche rigoureuse et nuancée, en tenant compte des indicateurs de performance globaux et en ajustant régulièrement la stratégie pour en optimiser les résultats. Finalement, le succès de l’omnicanal dépend d’une vision globale et d’une adaptation constante aux attentes d’une clientèle en quête d’expériences personnalisées, cohérentes et accessibles à chaque point de contact.
