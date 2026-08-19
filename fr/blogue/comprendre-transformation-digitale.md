@@ -59,7 +59,7 @@ Ces résistances, qu’elles soient conscientes ou non, traduisent souvent des c
 
 Pour éviter ces écueils, il est crucial d’impliquer les équipes dès les premières étapes. Expliquer les bénéfices concrets des outils, accompagner les collaborateurs dans leur montée en compétences, et valoriser les succès intermédiaires sont autant de moyens de transformer ces résistances en moteurs d’adhésion.
 
-La transformation digitale n’est pas seulement une question d’outils : elle exige une réinvention de la culture organisationnelle pour qu’elle soutienne durablement les nouveaux modes de travail. Découvrez comment un [responsable marketing](https://www.antoine-blot.com/fr/responsable-marketing/) peut piloter efficacement cette transition.
+La transformation digitale n’est pas seulement une question d’outils : elle exige une réinvention de la culture organisationnelle pour qu’elle soutienne durablement les nouveaux modes de travail. Découvrez comment un [responsable marketing](https://www.antoine-blot.com/fr/directeur-marketing/) peut piloter efficacement cette transition.
 
 La transformation digitale, lorsqu’elle est bien comprise et intégrée, transcende les outils pour devenir un véritable moteur de différenciation et de compétitivité. Les exemples historiques et contemporains montrent que ce processus est un levier stratégique capable de réinventer des secteurs entiers. Mais cette évolution repose sur une clé essentielle : l’humain. Sans une culture organisationnelle adaptée et un accompagnement clair, même les technologies les plus performantes ne suffisent pas à transformer durablement une entreprise.
 
