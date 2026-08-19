@@ -17,7 +17,7 @@ Dans un contexte numérique où la réactivité et la précision sont les clés 
 
 Les langages Python et R, connus pour leur flexibilité et leur puissance, permettent d’automatiser les tâches répétitives et d’accélérer le processus décisionnel grâce à des scripts personnalisés et adaptés aux besoins spécifiques de votre entreprise.
 
-Ces automations libèrent les équipes de marketing de tâches chronophages, leur permettant de se concentrer sur [la stratégie marketing](https://www.antoine-blot.com/fr/responsable-marketing/), la créativité et l’engagement client, tout en ayant la certitude que les données sont analysées de manière précise et régulière.
+Ces automations libèrent les équipes de marketing de tâches chronophages, leur permettant de se concentrer sur [la stratégie marketing](https://www.antoine-blot.com/fr/directeur-marketing/), la créativité et l’engagement client, tout en ayant la certitude que les données sont analysées de manière précise et régulière.
 
 Voici quelques applications pratiques :
 
