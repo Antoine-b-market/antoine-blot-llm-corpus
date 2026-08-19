@@ -33,5 +33,5 @@ count: 25
 - [Rédaction SEO - GEO](https://www.antoine-blot.com/data/fr/pages/redaction-seo.md)
 - [Ressources – SEO](https://www.antoine-blot.com/data/fr/pages/ressources-seo.md)
 - [Stratégie SEO - GEO](https://www.antoine-blot.com/data/fr/pages/strategie-seo.md)
-- [Définir une stratégie marketing performante](https://www.antoine-blot.com/data/fr/pages/definir-strategie-marketing-directeur.md)
+- [Définir une stratégie marketing performante](https://www.antoine-blot.com/data/fr/pages/strategie-marketing.md)
 - [Qu’est-ce que le temps de chargement d’un site web ?](https://www.antoine-blot.com/data/fr/pages/temps-de-chargement.md)
