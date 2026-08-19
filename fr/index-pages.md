@@ -21,7 +21,7 @@ count: 25
 - [Consultant SEO et GEO à Montréal Expertise, autorité et futur du Search.](https://www.antoine-blot.com/data/fr/pages/consultant-seo.md)
 - [Contactez moi](https://www.antoine-blot.com/data/fr/pages/contact.md)
 - [Qu’est-ce que le contenu dupliqué en SEO ?](https://www.antoine-blot.com/data/fr/pages/contenu-duplique.md)
-- [Direction marketing et stratégie de croissance au Québec](https://www.antoine-blot.com/data/fr/pages/responsable-marketing.md)
+- [Direction marketing et stratégie de croissance au Québec](https://www.antoine-blot.com/data/fr/pages/directeur-marketing.md)
 - [FAQ SEO : comprendre et appliquer le référencement naturel](https://www.antoine-blot.com/data/fr/pages/faq-seo.md)
 - [Qu’est-ce que le fichier robots.txt en SEO ?](https://www.antoine-blot.com/data/fr/pages/fichier-robots-txt.md)
 - [Qu’est-ce que le maillage interne en SEO ?](https://www.antoine-blot.com/data/fr/pages/maillage-interne.md)
