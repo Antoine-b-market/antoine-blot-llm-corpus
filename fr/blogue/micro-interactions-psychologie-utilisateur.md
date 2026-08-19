@@ -43,7 +43,7 @@ Les micro-interactions jouent sur des mécanismes psychologiques profonds. Elles
 
 ### **Impact sur la fidélisation**
 
-Ce dialogue émotionnel est crucial pour construire la fidélité utilisateur, car il transforme l’interaction en une expérience mémorable. Par exemple, une application qui utilise des micro-interactions subtiles mais [engageantes incite l’utilisateur à revenir](https://www.antoine-blot.com/fr/tunnel-conversion-parcours-utilisateur/). L’effet combiné de ces détails crée une atmosphère de confiance et d’attention aux besoins de l’utilisateur, posant ainsi les bases d’une fidélité à long terme.
+Ce dialogue émotionnel est crucial pour construire la fidélité utilisateur, car il transforme l’interaction en une expérience mémorable. Par exemple, une application qui utilise des micro-interactions subtiles mais [engageantes incite l’utilisateur à revenir](https://www.antoine-blot.com/fr/directeur-marketing/tunnel-conversion/). L’effet combiné de ces détails crée une atmosphère de confiance et d’attention aux besoins de l’utilisateur, posant ainsi les bases d’une fidélité à long terme.
 
 ## Exemples de micro-interactions efficaces
 
@@ -75,7 +75,7 @@ LinkedIn utilise aussi des micro-interactions pour signaler les connexions et l�
 
 ### **Renforcement de la compréhension du parcours**
 
-Les micro-interactions jouent un rôle déterminant dans la clarté et la fluidité du [parcours utilisateur](https://www.antoine-blot.com/fr/tunnel-conversion-parcours-utilisateur/). Un bouton qui change de couleur ou une notification subtile guident l’utilisateur de manière intuitive, sans avoir besoin d’instructions supplémentaires. Cela permet de simplifier la navigation tout en offrant une expérience fluide et sans friction.
+Les micro-interactions jouent un rôle déterminant dans la clarté et la fluidité du [parcours utilisateur](https://www.antoine-blot.com/fr/directeur-marketing/tunnel-conversion/). Un bouton qui change de couleur ou une notification subtile guident l’utilisateur de manière intuitive, sans avoir besoin d’instructions supplémentaires. Cela permet de simplifier la navigation tout en offrant une expérience fluide et sans friction.
 
 ### **Augmentation du sentiment de contrôle**
 
