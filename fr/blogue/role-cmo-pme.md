@@ -37,51 +37,46 @@ Le CMO est **le garant de la cohérence marketing globale** : stratégie, exécu
 
 Il ne se substitue pas aux profils opérationnels. Il les pilote. Il définit **le cadre d’action** plutôt que d’exécuter chaque campagne.
 
-
-
 ## Ce que fait un CMO en PME
 
 Voici les **missions clés** d’un CMO adapté à une entreprise en structuration (10 à 100 personnes) :
 
 ### **Définir la stratégie marketing**
 
-- - - Positionnement, narration, promesse
-    - Ciblage, segmentation, persona
-    - Mix canal & plan d’action priorisé
+- Positionnement, narration, promesse
+- Ciblage, segmentation, persona
+- Mix canal & plan d’action priorisé
 
 ### **Organiser les ressources**
 
-- - - Définir qui fait quoi : interne / externe / freelance
-    - Recruter ou recommander les bons profils
-    - Construire une roadmap réaliste
+- Définir qui fait quoi : interne / externe / freelance
+- Recruter ou recommander les bons profils
+- Construire une roadmap réaliste
 
 ### **Mettre en place le pilotage**
 
-- - - Définir les bons KPIs
-    - Installer une culture de mesure (reporting, tableaux de bord)
-    - Aligner marketing, ventes et produit
+- Définir les bons KPIs
+- Installer une culture de mesure (reporting, tableaux de bord)
+- Aligner marketing, ventes et produit
 
 ### **Créer la cohérence entre les pôles**
 
-- - - Garantir la synchronisation entre discours commercial, contenu, expérience client
-    - Être l’interface entre fondateur / sales / RH / produit
+- Garantir la synchronisation entre discours commercial, contenu, expérience client
+- Être l’interface entre fondateur / sales / RH / produit
 
 ### **Scalabilité & vision**
 
-- - - Préparer la montée en charge (canaux, outils, équipe)
-    - Penser la croissance marketing à 6–12–24 mois
-    - Porter la fonction marketing auprès de la direction ou du board
-
+- Préparer la montée en charge (canaux, outils, équipe)
+- Penser la croissance marketing à 6–12–24 mois
+- Porter la fonction marketing auprès de la direction ou du board
 
 ## Ce qu’un CMO ne devrait pas faire (s’il est bien utilisé)
 
-- - - Passer ses journées à produire des posts LinkedIn ou à configurer des outils.
-    - Gérer seul tous les prestataires, sans délégation.
-    - Se contenter d’un rôle de “chef de projet marketing” ou “responsable com’ ++”.
+- Passer ses journées à produire des posts LinkedIn ou à configurer des outils.
+- Gérer seul tous les prestataires, sans délégation.
+- Se contenter d’un rôle de “chef de projet marketing” ou “responsable com’ ++”.
 
 Un CMO efficace **n’exécute pas à la place de l’équipe**, il donne le cap, oriente, arbitre. Il fait émerger une structure, puis la rend autonome.
-
-
 
 ## Pourquoi faire appel à un CMO en PME ?
 
@@ -96,8 +91,6 @@ Voici les principaux cas de figure où un CMO devient un **accélérateur strat�
 | Le marketing est dispersé entre agences, freelances, juniors | Centralisation et alignement |
 
 Pour une analyse complète de la structuration marketing en PME, consultez mon article de fond : [Structurer la fonction marketing](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/)
-
-
 
 ## Et en pratique : CMO salarié, ou CMO externalisé ?
 
