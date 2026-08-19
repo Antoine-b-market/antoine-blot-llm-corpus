@@ -134,7 +134,7 @@ L’essentiel est de garder la gouvernance claire et évolutive de la fonction m
 
 Un modèle pertinent aujourd’hui peut devenir limitant demain et inversement. L’important est de ne pas subir le modèle choisi, mais de le piloter activement : avec des rituels, des objectifs clairs, des critères d’évaluation réguliers.
 
-➜ En savoir plus sur mon accompagnement en marketing stratégique avec un [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/)
+➜ En savoir plus sur mon accompagnement en marketing stratégique avec un [directeur marketing à Montréal](https://www.antoine-blot.com/fr/directeur-marketing/)
 
 ## Tableau comparatif synthétique
 
