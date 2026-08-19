@@ -30,7 +30,7 @@ Dans le cadre du retail physique, le suivi omnicanal doit s’adapter aux spéci
 Pour mettre en place une solution de tracking omnicanal, voici quelques réflexions :
 
 - **Analyse des besoins** : Identifiez les objectifs prioritaires, qu’il s’agisse d’améliorer la personnalisation ou d’optimiser les performances des campagnes marketing.
-- **Budget et priorisation** : Élaborez un budget réaliste en évaluant les solutions disponibles sur le marché. Pensez éventuellement à un [directeur du marketing](https://www.antoine-blot.com/fr/responsable-marketing/) pour consolider la stratégie marketing.
+- **Budget et priorisation** : Élaborez un budget réaliste en évaluant les solutions disponibles sur le marché. Pensez éventuellement à un [directeur du marketing](https://www.antoine-blot.com/fr/directeur-marketing/) pour consolider la stratégie marketing.
 - **Structuration des données** : Centralisez les données clients dans un système unique, qu’il s’agisse d’un CRM ou d’une plateforme omnicanale.
 - **Formation des équipes** : Sensibilisez vos collaborateurs pour qu’ils soient en mesure de comprendre et d’exploiter efficacement les outils choisis.
 - **Suivi et optimisation continue** : Analysez les données collectées pour identifier les points de friction et ajuster vos stratégies au fil du temps.
