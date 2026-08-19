@@ -5,7 +5,7 @@ author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/a-propos-de-moi/"
 date: "2024-05-17"
-date_modified: "2026-06-30"
+date_modified: "2026-08-19"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -38,7 +38,7 @@ Mes valeurs fondamentales guident chacune de mes décisions et interactions prof
 
 ![Strategie](https://www.antoine-blot.com/media/Strategie.webp)
 
-### [Stratégie marketing](https://www.antoine-blot.com/fr/responsable-marketing/)
+### [Stratégie marketing](https://www.antoine-blot.com/fr/directeur-marketing/)
 
 Je conçois des stratégies marketing globales, alignées sur les objectifs commerciaux de mes clients, pour maximiser leur visibilité, leurs conversions et leur notoriété
 
