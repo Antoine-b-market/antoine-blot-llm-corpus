@@ -17,7 +17,7 @@ Dans un marché de plus en plus concurrentiel, définir une stratégie marketing
 
 > Une bonne stratégie marketing, ce n’est pas un luxe. C’est un levier de performance, d’alignement et de clarté.
 
-C’est le rôle du directeur marketing de poser les fondations d’une stratégie alignée sur vos enjeux, vos clients et votre marché. En tant que [responsable de la vision marketing](https://www.antoine-blot.com/fr/responsable-marketing/), il s’assure que chaque initiative s’inscrit dans un plan cohérent, mesurable et évolutif. Il garantit la pertinence de vos produits, la cohérence de votre offre, et l’efficacité de vos outils.
+C’est le rôle du directeur marketing de poser les fondations d’une stratégie alignée sur vos enjeux, vos clients et votre marché. En tant que [responsable de la vision marketing](https://www.antoine-blot.com/fr/directeur-marketing/), il s’assure que chaque initiative s’inscrit dans un plan cohérent, mesurable et évolutif. Il garantit la pertinence de vos produits, la cohérence de votre offre, et l’efficacité de vos outils.
 
 ## Une méthode claire pour élaborer votre plan marketing
 
@@ -72,7 +72,7 @@ Ici, la stratégie marketing devient un vecteur de clarté et de mobilisation, p
 
 Que vous soyez une organisation en transformation, une jeune pousse, une structure associative ou une entreprise mûre en recherche de clarification, vous pouvez bénéficier d’un accompagnement clair, rigoureux et souple.
 
-Je mets à votre service une compétence en [stratégies marketing](https://www.antoine-blot.com/fr/responsable-marketing/), une compréhension fine des marchés, des opportunités, des audiences, et une capacité à transformer vos ambitions en plans d’action concrets. Cela inclut la valorisation de vos produits, l’optimisation de votre contenu et l’alignement de votre offre avec vos cibles.
+Je mets à votre service une compétence en [stratégies marketing](https://www.antoine-blot.com/fr/directeur-marketing/), une compréhension fine des marchés, des opportunités, des audiences, et une capacité à transformer vos ambitions en plans d’action concrets. Cela inclut la valorisation de vos produits, l’optimisation de votre contenu et l’alignement de votre offre avec vos cibles.
 
 Ma pratique s’appuie sur des outils adaptés, des étapes de validation structurées et un suivi rigoureux des résultats. Ensemble, nous concevons une stratégie ancrée dans la réalité de votre entreprise, exécutable en ligne et sur le terrain, avec les bons relais humains, les bons outils et les bons canaux web.
 
