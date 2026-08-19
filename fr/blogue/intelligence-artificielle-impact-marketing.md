@@ -4,6 +4,7 @@ description: "Découvrez comment l’IA générative transforme la création de 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-impact-marketing/"
+image: "https://www.antoine-blot.com/media/IA-impact-marketing.jpg"
 date: "2025-03-05"
 date_modified: "2026-08-19"
 lang: "fr"

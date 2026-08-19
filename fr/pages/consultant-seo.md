@@ -4,6 +4,7 @@ description: "Faites appel à un consultant SEO expert à Montréal pour amélio
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/"
+image: "https://www.antoine-blot.com/media/Consultant-SEO.jpg"
 date: "2024-10-24"
 date_modified: "2026-08-19"
 lang: "fr"

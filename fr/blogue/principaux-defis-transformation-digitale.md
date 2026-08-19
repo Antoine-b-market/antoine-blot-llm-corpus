@@ -4,6 +4,7 @@ description: "Découvrez les principaux défis de la transformation digitale et 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/principaux-defis-transformation-digitale/"
+image: "https://www.antoine-blot.com/media/principaux-defis-transformation-digitale.jpg"
 date: "2024-12-04"
 date_modified: "2026-08-19"
 lang: "fr"

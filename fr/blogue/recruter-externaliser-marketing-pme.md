@@ -4,6 +4,7 @@ description: "PME, startup : faut-il recruter un responsable marketing ou faire 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/"
+image: "https://www.antoine-blot.com/media/Recruter-ou-externaliser-son-marketing.jpg"
 date: "2025-07-25"
 date_modified: "2026-08-19"
 lang: "fr"

@@ -4,6 +4,7 @@ description: "⚡Boostez la croissance de votre entreprise avec une stratégie m
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/directeur-marketing/"
+image: "https://www.antoine-blot.com/media/AdobeStock_286454778-scaled.jpeg"
 date: "2024-10-25"
 date_modified: "2026-08-19"
 lang: "fr"

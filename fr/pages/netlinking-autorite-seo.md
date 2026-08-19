@@ -4,6 +4,7 @@ description: "Boostez votre autorité SEO et votre GEO avec une stratégie de ne
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/"
+image: "https://www.antoine-blot.com/media/Netlinking-autorite.jpg"
 date: "2026-02-09"
 date_modified: "2026-02-09"
 lang: "fr"

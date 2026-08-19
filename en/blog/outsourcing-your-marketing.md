@@ -4,6 +4,7 @@ description: "Marketing is too strategic to be managed part-time. Discover when 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/en/blog/outsourcing-your-marketing/"
+image: "https://www.antoine-blot.com/media/impartition-marketing.jpg"
 date: "2026-01-26"
 date_modified: "2026-06-30"
 lang: "en"

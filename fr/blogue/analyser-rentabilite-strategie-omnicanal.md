@@ -4,6 +4,7 @@ description: "Vous l’avez sans doute remarqué : aujourd’hui, l’omnicanal 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/analyser-rentabilite-strategie-omnicanal/"
+image: "https://www.antoine-blot.com/media/AdobeStock_327503239-scaled.webp"
 date: "2024-11-11"
 date_modified: "2026-08-19"
 lang: "fr"

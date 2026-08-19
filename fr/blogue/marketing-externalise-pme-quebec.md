@@ -4,6 +4,7 @@ description: "Le marketing est trop stratégique pour être géré à temps part
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/marketing-externalise-pme-quebec/"
+image: "https://www.antoine-blot.com/media/impartition-marketing.jpg"
 date: "2026-01-26"
 date_modified: "2026-08-19"
 lang: "fr"

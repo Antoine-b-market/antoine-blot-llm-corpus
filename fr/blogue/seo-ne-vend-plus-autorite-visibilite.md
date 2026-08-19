@@ -4,6 +4,7 @@ description: "Le trafic organique ne garantit plus la conversion. Découvrez pou
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/seo-ne-vend-plus-autorite-visibilite/"
+image: "https://www.antoine-blot.com/media/Emergence-du-GEO.jpg"
 date: "2025-12-31"
 date_modified: "2026-08-19"
 lang: "fr"

@@ -4,6 +4,7 @@ description: "Avant de plonger dans le choix d’outils spécifiques, il est ess
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/outils-tracking-omnicanal-petits-comptes-quelles-solutions/"
+image: "https://www.antoine-blot.com/media/outils-tracking-omnicanal-petits-comptes.jpg"
 date: "2025-02-01"
 date_modified: "2026-08-19"
 lang: "fr"

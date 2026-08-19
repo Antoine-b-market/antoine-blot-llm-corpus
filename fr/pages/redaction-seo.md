@@ -4,6 +4,7 @@ description: "Transformez vos contenus en actifs stratégiques. Rédaction SEO h
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/"
+image: "https://www.antoine-blot.com/media/redaction-SEo-GEO-EEAT.jpg"
 date: "2026-02-09"
 date_modified: "2026-07-15"
 lang: "fr"

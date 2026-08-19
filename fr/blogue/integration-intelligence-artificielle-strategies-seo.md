@@ -4,6 +4,7 @@ description: "Découvrez les bonnes pratiques pour intégrer l'IA à vos straté
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/integration-intelligence-artificielle-strategies-seo/"
+image: "https://www.antoine-blot.com/media/IA-strategie-SEO.jpg"
 date: "2025-05-20"
 date_modified: "2026-08-19"
 lang: "fr"

@@ -4,6 +4,7 @@ description: "Apprenez les enjeux et les problématiques du tracking omnicanal. 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/enjeux-et-problematiques-tracking-omnicanal/"
+image: "https://www.antoine-blot.com/media/enjeux-et-defi-omnicanalite.jpg"
 date: "2025-01-17"
 date_modified: "2026-08-19"
 lang: "fr"

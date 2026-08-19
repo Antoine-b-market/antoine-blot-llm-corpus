@@ -4,6 +4,7 @@ description: "Structurer la fonction marketing en PME : étapes clés, modèles 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/"
+image: "https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-PME-ou-une-startup-1024x683.jpg"
 date: "2025-07-25"
 date_modified: "2026-08-19"
 lang: "fr"

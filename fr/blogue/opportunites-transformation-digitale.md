@@ -4,6 +4,7 @@ description: "Découvrez comment la transformation digitale permet de redéfinir
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/opportunites-transformation-digitale/"
+image: "https://www.antoine-blot.com/media/Transformation-digitale-opportunites-stratgiques.jpg"
 date: "2024-12-13"
 date_modified: "2026-08-19"
 lang: "fr"

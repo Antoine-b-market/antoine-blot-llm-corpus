@@ -4,6 +4,7 @@ description: "Quand avez-vous vérifié pour la dernière fois la qualité réel
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/importance-eeat-seo/"
+image: "https://www.antoine-blot.com/media/EEAT-google-content-seo.jpg"
 date: "2025-04-30"
 date_modified: "2026-08-19"
 lang: "fr"

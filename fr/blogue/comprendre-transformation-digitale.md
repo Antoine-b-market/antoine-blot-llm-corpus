@@ -4,6 +4,7 @@ description: "Découvrez les fondamentaux de la transformation digitale, son cad
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/comprendre-transformation-digitale/"
+image: "https://www.antoine-blot.com/media/comprendre-transformation-digitale.jpg"
 date: "2024-12-01"
 date_modified: "2026-08-19"
 lang: "fr"

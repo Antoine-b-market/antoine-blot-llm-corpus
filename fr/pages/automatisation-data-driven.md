@@ -4,6 +4,7 @@ description: "Exploitez le potentiel de l'automatisation et des données pour de
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/"
+image: "https://www.antoine-blot.com/media/intelligence-articifielle3-scaled.webp"
 date: "2024-11-07"
 date_modified: "2026-08-19"
 lang: "fr"

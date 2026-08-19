@@ -4,6 +4,7 @@ description: "Découvrez notre FAQ SEO : définitions, outils, méthodes, bonnes
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/faq-seo/"
+image: "https://www.antoine-blot.com/media/FAQ-SEO.jpg"
 date: "2025-07-15"
 date_modified: "2025-07-31"
 lang: "fr"

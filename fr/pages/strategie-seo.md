@@ -4,6 +4,7 @@ description: "Dominez votre marché avec une stratégie SEO hybride. Optimisatio
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/"
+image: "https://www.antoine-blot.com/media/Strategie-seo-montreal.jpg"
 date: "2025-05-20"
 date_modified: "2026-08-11"
 lang: "fr"

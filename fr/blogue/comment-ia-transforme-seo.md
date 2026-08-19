@@ -4,6 +4,7 @@ description: "Découvrez comment l'intelligence artificielle redéfinit le SEO, 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/comment-ia-transforme-seo/"
+image: "https://www.antoine-blot.com/media/AdobeStock_513650348-scaled.webp"
 date: "2024-11-05"
 date_modified: "2026-08-19"
 lang: "fr"

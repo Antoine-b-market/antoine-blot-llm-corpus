@@ -4,6 +4,7 @@ description: "L’IA redéfinit la valeur, la cohérence et le discernement des 
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-fonction-marketing/"
+image: "https://www.antoine-blot.com/media/Quand-lintelligence-artificielle-remet-en-question-la-fonction-marketing2.jpg"
 date: "2025-10-08"
 date_modified: "2026-08-19"
 lang: "fr"

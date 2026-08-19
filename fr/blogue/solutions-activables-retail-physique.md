@@ -4,6 +4,7 @@ description: "Découvrez des solutions activables pour le retail physique allian
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/solutions-activables-retail-physique/"
+image: "https://www.antoine-blot.com/media/solution-retail-physique-scaled.jpeg"
 date: "2025-02-20"
 date_modified: "2026-08-19"
 lang: "fr"

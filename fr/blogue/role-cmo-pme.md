@@ -4,6 +4,7 @@ description: "Que fait un CMO en PME ? Découvrez le rôle stratégique du direc
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/role-cmo-pme/"
+image: "https://www.antoine-blot.com/media/Le-role-du-CMO-dans-une-PME-plus-quun-chef-de-projet-marketing.jpg"
 date: "2025-07-25"
 date_modified: "2026-08-19"
 lang: "fr"

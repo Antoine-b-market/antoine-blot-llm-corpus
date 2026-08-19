@@ -4,6 +4,7 @@ description: "À l’ère des IA génératives, le SEO seul ne suffit plus. Comm
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/quand-le-seo-ne-suffit-plus-strategie-marketing-ia/"
+image: "https://www.antoine-blot.com/media/transformation-parcours-acquisition.jpg"
 date: "2025-07-05"
 date_modified: "2026-08-19"
 lang: "fr"

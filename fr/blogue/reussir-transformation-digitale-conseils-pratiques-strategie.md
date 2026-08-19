@@ -4,6 +4,7 @@ description: "De l’évaluation de la maturité numérique à l’adoption d’
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/reussir-transformation-digitale-conseils-pratiques-strategie/"
+image: "https://www.antoine-blot.com/media/reussir-transformation-digitale-1.jpg"
 date: "2024-12-29"
 date_modified: "2026-08-19"
 lang: "fr"

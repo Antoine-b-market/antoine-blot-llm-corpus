@@ -4,6 +4,7 @@ description: "Mes clients en stratégie marketing et SEO Depuis plus de dix ans,
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/clients/"
+image: "https://www.antoine-blot.com/media/logo-Cactusoft-300x118.png"
 date: "2025-12-30"
 date_modified: "2026-08-19"
 lang: "fr"

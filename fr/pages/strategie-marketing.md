@@ -4,6 +4,7 @@ description: "Directeur marketing à Montréal, j’aide les entreprises, OBNL e
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/directeur-marketing/strategie-marketing/"
+image: "https://www.antoine-blot.com/media/Definir-une-strategie-marketing-performante-.jpg"
 date: "2025-06-10"
 date_modified: "2026-08-19"
 lang: "fr"

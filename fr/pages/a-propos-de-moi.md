@@ -4,6 +4,7 @@ description: "Découvrez le parcours d’Antoine Blot, consultant en marketing s
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/a-propos-de-moi/"
+image: "https://www.antoine-blot.com/media/Antoineblot.webp"
 date: "2024-05-17"
 date_modified: "2026-08-19"
 lang: "fr"

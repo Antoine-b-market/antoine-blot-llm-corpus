@@ -4,6 +4,7 @@ description: "Boostez votre croissance organique avec un audit SEO haute précis
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/audit-seo/"
+image: "https://www.antoine-blot.com/media/audit-seo.jpg"
 date: "2025-02-01"
 date_modified: "2026-06-10"
 lang: "fr"

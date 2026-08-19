@@ -4,6 +4,7 @@ description: "Découvrez l'impact subtil mais puissant des micro-interactions da
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/micro-interactions-psychologie-utilisateur/"
+image: "https://www.antoine-blot.com/media/Micro-interactions-et-psychologie-utilisateur-scaled.webp"
 date: "2024-11-08"
 date_modified: "2026-08-19"
 lang: "fr"

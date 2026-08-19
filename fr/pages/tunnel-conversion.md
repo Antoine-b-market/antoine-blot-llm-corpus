@@ -4,6 +4,7 @@ description: "Boostez vos taux de conversion avec des parcours utilisateur optim
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/directeur-marketing/tunnel-conversion/"
+image: "https://www.antoine-blot.com/media/AdobeStock_330977551-scaled.webp"
 date: "2024-11-06"
 date_modified: "2026-08-19"
 lang: "fr"
