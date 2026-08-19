@@ -5,7 +5,7 @@ author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/"
 date: "2024-10-24"
-date_modified: "2026-07-15"
+date_modified: "2026-08-19"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -77,7 +77,7 @@ Ma mission principale est de transformer votre site web en un actif financier pe
 
 ### Et moi dans tout ça ?
 
-Je suis Antoine Blot, [Reponsable marketing, consultant stratégique](https://www.antoine-blot.com/fr/responsable-marketing/) et expert SEO et GEO à Montréal. Mon travail ne s’arrête pas à vous faire grimper dans les résultats Google. Je conçois votre contenu pour qu’il devienne une référence mémorisable, reprise par les intelligences artificielles, et surtout : crédible aux yeux de vos futurs clients.
+Je suis Antoine Blot, [Reponsable marketing, consultant stratégique](https://www.antoine-blot.com/fr/directeur-marketing/) et expert SEO et GEO à Montréal. Mon travail ne s’arrête pas à vous faire grimper dans les résultats Google. Je conçois votre contenu pour qu’il devienne une référence mémorisable, reprise par les intelligences artificielles, et surtout : crédible aux yeux de vos futurs clients.
 
 > 90 % des consultants SEO vous parlent de visibilité. Moi, je vous rends **recommandable** par les moteurs, par les modèles d’IA… et surtout par vos clients.
 
