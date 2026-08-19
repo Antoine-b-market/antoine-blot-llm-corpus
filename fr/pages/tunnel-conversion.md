@@ -15,7 +15,7 @@ Concevoir un parcours utilisateur optimisé, c’est élaborer une expérience q
 
 ## La carte du parcours utilisateur : une vision stratégique
 
-Une carte du parcours utilisateur, ou « experience map », est bien plus qu’un simple schéma : elle permet de visualiser et d’analyser chaque étape que traverse un prospect. Cette cartographie est au cœur de l’optimisation de l’expérience utilisateur, car elle rend tangibles les points de contact et permet d’identifier les moments critiques qui favorisent la conversion ou, au contraire, qui bloquent l’utilisateur. Je conçois ces cartes pour établir une [stratégie personnalisée](https://www.antoine-blot.com/fr/responsable-marketing/), où chaque persona trouve son propre cheminement logique.
+Une carte du parcours utilisateur, ou « experience map », est bien plus qu’un simple schéma : elle permet de visualiser et d’analyser chaque étape que traverse un prospect. Cette cartographie est au cœur de l’optimisation de l’expérience utilisateur, car elle rend tangibles les points de contact et permet d’identifier les moments critiques qui favorisent la conversion ou, au contraire, qui bloquent l’utilisateur. Je conçois ces cartes pour établir une [stratégie personnalisée](https://www.antoine-blot.com/fr/directeur-marketing/), où chaque persona trouve son propre cheminement logique.
 
 - Aligner les attentes des utilisateurs avec les objectifs de l’entreprise : en identifiant les besoins spécifiques de chaque persona, on peut adapter les contenus et les CTA pour qu’ils résonnent avec les motivations des prospects.
 - Réduire les points de friction : analyser les données issues du comportement des utilisateurs permet de comprendre à quels moments des obstacles surgissent dans le funnel.
@@ -50,7 +50,7 @@ La fidélisation est bien plus qu’une simple conclusion du parcours utilisateu
 
 ## L’optimisation du parcours client pour un taux de rétention amélioré
 
-L’optimisation du parcours client ne se limite pas aux étapes de conversion : elle se poursuit bien au-delà, avec pour objectif d’assurer la satisfaction et la fidélité sur le long terme. [L’importance des données et des insights](https://www.antoine-blot.com/fr/automatisation-data-driven/) devient alors primordiale pour ajuster en continu votre stratégie de fidélisation.
+L’optimisation du parcours client ne se limite pas aux étapes de conversion : elle se poursuit bien au-delà, avec pour objectif d’assurer la satisfaction et la fidélité sur le long terme. [L’importance des données et des insights](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/) devient alors primordiale pour ajuster en continu votre stratégie de fidélisation.
 
 Suivre les indicateurs clés et utiliser les données clients est un processus central dans toute stratégie de fidélisation réussie. En pilotant le taux de rétention, le NPS (Net Promoter Score), et la satisfaction client, il devient possible d’identifier les points de friction ou les moments d’engagement, et d’ajuster chaque point de contact en fonction des résultats obtenus. Je vous accompagne dans l’interprétation et l’exploitation de ces données pour que chaque période d’interaction avec vos clients soit optimisée en termes de satisfaction et de rétention.
 
@@ -88,7 +88,7 @@ La définition des personas est une étape centrale dans la conception d’un pa
 | Utilisateur engagé | Approfondir l’usage, confirmer l’achat | Emailing, pages produit, essais gratuits |
 | Client fidèle | Se sentir valorisé, réitérer l’achat | Campagnes de fidélisation, offres exclusives, contenu VIP |
 
-[L’analyse des données](https://www.antoine-blot.com/fr/automatisation-data-driven/) comportementales permet d’identifier des leviers d’amélioration et d’optimiser l’expérience utilisateur. Par exemple, les tests A/B permettent de comparer différentes versions de CTA ou de pages pour observer celles qui génèrent les meilleurs taux de conversion. L’objectif est ici d’ajuster le parcours au fur et à mesure, en fonction des données récoltées, et d’affiner les étapes du funnel.
+[L’analyse des données](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/) comportementales permet d’identifier des leviers d’amélioration et d’optimiser l’expérience utilisateur. Par exemple, les tests A/B permettent de comparer différentes versions de CTA ou de pages pour observer celles qui génèrent les meilleurs taux de conversion. L’objectif est ici d’ajuster le parcours au fur et à mesure, en fonction des données récoltées, et d’affiner les étapes du funnel.
 
 
 
