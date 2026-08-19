@@ -109,7 +109,7 @@ Le CMO n’est pas un profil de luxe réservé aux grandes entreprises. Il est u
 
 Dans une PME, un bon CMO n’est pas celui qui fait “beaucoup”. C’est celui qui permet à **l’équipe de faire mieux, dans la bonne direction, avec des objectifs clairs.**
 
-➜ En savoir plus sur mon accompagnement marketing avec un [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/)
+➜ En savoir plus sur mon accompagnement marketing avec un [directeur marketing à Montréal](https://www.antoine-blot.com/fr/directeur-marketing/)
 
 ## Foire aux questions
 
