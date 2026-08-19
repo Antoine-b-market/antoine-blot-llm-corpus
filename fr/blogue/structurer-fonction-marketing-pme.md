@@ -33,11 +33,11 @@ Dans cet article, je propose une lecture structurée, et critique, de cette ques
 
 Nous verrons :
 
-- - Pourquoi cette structuration est un acte stratégique et non purement opérationnel ;
-  - Quels sont les signaux qui indiquent qu’elle devient nécessaire ;
-  - Comment adapter sa démarche selon la taille et la maturité de l’entreprise ;
-  - Quels arbitrages effectuer entre recrutement, externalisation ou hybridation ;
-  - Et enfin, pourquoi le rôle du directeur marketing, ou CMO, dépasse de loin l’exécution pour toucher à la gouvernance.
+- Pourquoi cette structuration est un acte stratégique et non purement opérationnel ;
+- Quels sont les signaux qui indiquent qu’elle devient nécessaire ;
+- Comment adapter sa démarche selon la taille et la maturité de l’entreprise ;
+- Quels arbitrages effectuer entre recrutement, externalisation ou hybridation ;
+- Et enfin, pourquoi le rôle du directeur marketing, ou CMO, dépasse de loin l’exécution pour toucher à la gouvernance.
 
 En filigrane, une conviction :
 
@@ -60,11 +60,11 @@ Autrement dit, **le marketing est une fonction d’alignement** entre l’offre,
 
 Le marketing agit comme une **interface entre la stratégie de l’entreprise, ses clients, et ses équipes internes**. Structurer cette fonction revient à organiser :
 
-- - - **La vision client** : segmentations, personas, attentes, points de friction.
-    - **Le positionnement** : quelle place souhaite-t-on occuper dans l’esprit du marché ?
-    - **La proposition de valeur** : claire, différenciante, validée.
-    - **La structuration des canaux** : acquisition, fidélisation, communication.
-    - **Les métriques de performance** : au-delà des KPIs vanity, quels indicateurs mesurent vraiment l’impact marketing ?
+- **La vision client** : segmentations, personas, attentes, points de friction.
+- **Le positionnement** : quelle place souhaite-t-on occuper dans l’esprit du marché ?
+- **La proposition de valeur** : claire, différenciante, validée.
+- **La structuration des canaux** : acquisition, fidélisation, communication.
+- **Les métriques de performance** : au-delà des KPIs vanity, quels indicateurs mesurent vraiment l’impact marketing ?
 
 C’est aussi une question de **gouvernance**. Qui définit les priorités ? Qui arbitre entre branding et lead gen ? Comment s’articule le marketing avec les fonctions ventes, produit, service client ? Cette gouvernance est souvent informelle au début, mais devient rapidement un point de friction si elle n’est pas cadrée.
 
@@ -116,11 +116,10 @@ C’est plutôt : **faut-il le gouverner différemment ?**
 
 La réponse dépend de nombreux facteurs,  taille, maturité, ambitions,  mais une chose est sûre : plus ces signaux se multiplient, plus il est risqué de rester dans un modèle informel. Car une entreprise qui grandit sans structuration marketing verra tôt ou tard :
 
-- - - - une perte de cohérence dans son image,
-      - une baisse du ROI de ses efforts,
-      - un mal-être organisationnel dans les équipes marketing,
-      - et une difficulté à arbitrer entre le court terme et les objectifs à 12–24 mois.
-
+- une perte de cohérence dans son image,
+- une baisse du ROI de ses efforts,
+- un mal-être organisationnel dans les équipes marketing,
+- et une difficulté à arbitrer entre le court terme et les objectifs à 12–24 mois.
 
 ## Les trois phases de structuration marketing : une lecture par paliers de maturité
 
@@ -135,21 +134,21 @@ Plutôt que de penser en organigrammes figés, il est préférable de raisonner 
 
 **🧩 Organisation-type :**
 
-- - - Aucune fonction marketing formalisée.
-    - Le marketing est souvent piloté par le CEO, avec l’aide ponctuelle de freelances.
-    - Le besoin porte sur la **visibilité**, l’**explication de la valeur**, et les **premiers leads**.
+- Aucune fonction marketing formalisée.
+- Le marketing est souvent piloté par le CEO, avec l’aide ponctuelle de freelances.
+- Le besoin porte sur la **visibilité**, l’**explication de la valeur**, et les **premiers leads**.
 
 **✅ Priorités :**
 
-- - - Clarifier le positionnement (même imparfait).
-    - Mettre en place des fondations : site, premier contenu, messages-clés.
-    - Tester des canaux : SEO, paid, social, cold outreach.
+- Clarifier le positionnement (même imparfait).
+- Mettre en place des fondations : site, premier contenu, messages-clés.
+- Tester des canaux : SEO, paid, social, cold outreach.
 
 **⚠️ Risques fréquents :**
 
-- - - L’illusion de la maîtrise : un trafic qui monte ≠ un marketing structuré.
-    - Empiler les outils (CMS, CRM, Ads, LinkedIn…) sans logique intégrée.
-    - Sous-investir dans l’expertise : on attend d’un stagiaire qu’il “gère tout le marketing”.
+- L’illusion de la maîtrise : un trafic qui monte ≠ un marketing structuré.
+- Empiler les outils (CMS, CRM, Ads, LinkedIn…) sans logique intégrée.
+- Sous-investir dans l’expertise : on attend d’un stagiaire qu’il “gère tout le marketing”.
 
 ### **🔸 Phase 2 : La structuration initiale (10–50 personnes)**
 
@@ -158,21 +157,21 @@ Plutôt que de penser en organigrammes figés, il est préférable de raisonner 
 
 **🧩 Organisation-type :**
 
-- - - Recrutement d’un·e marketing lead (Head of, Manager, Fractional CMO).
-    - Constitution d’une mini-équipe ou de prestataires stables.
-    - Premiers outils structurants : CRM, marketing automation, dashboarding.
+- Recrutement d’un·e marketing lead (Head of, Manager, Fractional CMO).
+- Constitution d’une mini-équipe ou de prestataires stables.
+- Premiers outils structurants : CRM, marketing automation, dashboarding.
 
 **✅ Priorités :**
 
-- - - Structurer le mix canal : quelles actions pour quelle étape du funnel ?
-    - Mettre en place des rituels de mesure et d’arbitrage (mensuels ou trimestriels).
-    - Définir une roadmap marketing à 3–6 mois, avec des cycles d’apprentissage.
+- Structurer le mix canal : quelles actions pour quelle étape du funnel ?
+- Mettre en place des rituels de mesure et d’arbitrage (mensuels ou trimestriels).
+- Définir une roadmap marketing à 3–6 mois, avec des cycles d’apprentissage.
 
 **⚠️ Risques fréquents :**
 
-- - - Recruter trop vite ou trop opérationnel, sans direction stratégique.
-    - Diluer les efforts sur trop de fronts.
-    - Rendre le marketing dépendant d’un seul profil clé (le “pilier”).
+- Recruter trop vite ou trop opérationnel, sans direction stratégique.
+- Diluer les efforts sur trop de fronts.
+- Rendre le marketing dépendant d’un seul profil clé (le “pilier”).
 
 ### **🔺 Phase 3 : L’orchestration stratégique (50+ personnes)**
 
@@ -181,21 +180,21 @@ Plutôt que de penser en organigrammes figés, il est préférable de raisonner 
 
 **🧩 Organisation-type :**
 
-- - - CMO ou directeur marketing présent au COMEX.
-    - Équipe segmentée (acquisition, brand, CRM, data, content).
-    - Stack technologique robuste (CDP, analytics avancés, A/B testing).
+- CMO ou directeur marketing présent au COMEX.
+- Équipe segmentée (acquisition, brand, CRM, data, content).
+- Stack technologique robuste (CDP, analytics avancés, A/B testing).
 
 **✅ Priorités :**
 
-- - - Aligner les objectifs marketing avec les KPIs business (CAC, LTV, churn, NPS).
-    - Renforcer le lien entre stratégie de marque et stratégie de croissance.
-    - Piloter la culture marketing dans l’organisation (collaboration transverse, acculturation produit).
+- Aligner les objectifs marketing avec les KPIs business (CAC, LTV, churn, NPS).
+- Renforcer le lien entre stratégie de marque et stratégie de croissance.
+- Piloter la culture marketing dans l’organisation (collaboration transverse, acculturation produit).
 
 **⚠️ Risques fréquents :**
 
-- - - Silos fonctionnels entre acquisition, contenu et produit.
-    - Inflation des outils sans rationalisation (cf. *“martech bloat”*).
-    - Déconnexion avec le terrain si le marketing devient trop distant des clients.
+- Silos fonctionnels entre acquisition, contenu et produit.
+- Inflation des outils sans rationalisation (cf. *“martech bloat”*).
+- Déconnexion avec le terrain si le marketing devient trop distant des clients.
 
 ## Modèles organisationnels : qui fait quoi, et selon quelle logique ?
 
@@ -245,8 +244,6 @@ Le bon modèle dépend de 3 facteurs :
       3. **Le niveau d’autonomie et de maturité des profils en place**
 > Mieux vaut un modèle simple très bien piloté qu’un modèle sophistiqué sans gouvernance.
 
-
-
 ## Externaliser, recruter ou hybrider : quel modèle de structuration choisir ?
 
 Structurer la fonction marketing implique tôt ou tard une question d’organisation humaine : **qui porte le marketing au quotidien ?**
@@ -256,15 +253,15 @@ Faut-il **recruter en interne**, **travailler avec des prestataires**, ou opter 
 
 **✅ Avantages :**
 
-- - - Meilleur alignement culturel et stratégique avec l’entreprise.
-    - Intégration fluide aux autres fonctions (produit, ventes, RH).
-    - Capacité à capitaliser sur l’historique, les outils internes, les échecs et apprentissages.
+- Meilleur alignement culturel et stratégique avec l’entreprise.
+- Intégration fluide aux autres fonctions (produit, ventes, RH).
+- Capacité à capitaliser sur l’historique, les outils internes, les échecs et apprentissages.
 
 **⚠️ Limites :**
 
-- - - Processus lent et coûteux : trouver, intégrer, former.
-    - Risque de “sur-recruter” trop tôt, avant que la vision ne soit claire.
-    - Besoin de compétences managériales pour encadrer l’équipe.
+- Processus lent et coûteux : trouver, intégrer, former.
+- Risque de “sur-recruter” trop tôt, avant que la vision ne soit claire.
+- Besoin de compétences managériales pour encadrer l’équipe.
 
 **À privilégier si** : l’entreprise a une vision claire de ses priorités marketing, un volume d’activité suffisant, et les moyens de construire une équipe sur le long terme.
 
@@ -272,15 +269,15 @@ Faut-il **recruter en interne**, **travailler avec des prestataires**, ou opter 
 
 **✅ Avantages :**
 
-- - - Flexibilité : montée en charge rapide, expertise disponible immédiatement.
-    - Accès à des expertises pointues (SEO, design, paid, analytics, etc.).
-    - Pas de coûts fixes ni de gestion RH.
+- Flexibilité : montée en charge rapide, expertise disponible immédiatement.
+- Accès à des expertises pointues (SEO, design, paid, analytics, etc.).
+- Pas de coûts fixes ni de gestion RH.
 
 **⚠️ Limites :**
 
-- - - Difficulté à garantir la cohérence stratégique (chaque prestataire reste dans son silo).
-    - Risque de dépendance si le pilotage interne est trop faible.
-    - Coordination plus lourde pour le dirigeant.
+- Difficulté à garantir la cohérence stratégique (chaque prestataire reste dans son silo).
+- Risque de dépendance si le pilotage interne est trop faible.
+- Coordination plus lourde pour le dirigeant.
 
 **À privilégier si** : l’entreprise est encore dans une phase exploratoire ou n’a pas la bande passante pour gérer une équipe interne.
 
@@ -288,20 +285,20 @@ Faut-il **recruter en interne**, **travailler avec des prestataires**, ou opter 
 
 Dans ce modèle, l’entreprise combine :
 
-- - - un **profil interne** (polyvalent ou junior) pour la proximité opérationnelle ;
-    - un **pilotage externe** (fractional CMO, consultant senior) pour la stratégie et les arbitrages ;
-    - et des **prestataires spécialisés** (agences, freelances) sur des expertises clés.
+- un **profil interne** (polyvalent ou junior) pour la proximité opérationnelle ;
+- un **pilotage externe** (fractional CMO, consultant senior) pour la stratégie et les arbitrages ;
+- et des **prestataires spécialisés** (agences, freelances) sur des expertises clés.
 
 **✅ Avantages :**
 
-- - - Permet d’avancer vite sans recruter une équipe complète.
-    - Clarifie la gouvernance : l’interne exécute, l’externe pilote.
-    - Réduit le risque de dépendance ou d’embauche précipitée.
+- Permet d’avancer vite sans recruter une équipe complète.
+- Clarifie la gouvernance : l’interne exécute, l’externe pilote.
+- Réduit le risque de dépendance ou d’embauche précipitée.
 
 **⚠️ Points d’attention :**
 
-- - - Le modèle doit être bien cadré dès le départ (qui décide quoi ? à quelle fréquence ? avec quels livrables ?).
-    - Il repose sur la **qualité du CMO externalisé**, qui doit comprendre la culture, les objectifs et la réalité opérationnelle de l’entreprise.
+- Le modèle doit être bien cadré dès le départ (qui décide quoi ? à quelle fréquence ? avec quels livrables ?).
+- Il repose sur la **qualité du CMO externalisé**, qui doit comprendre la culture, les objectifs et la réalité opérationnelle de l’entreprise.
 
 ### 📌 **Fractional CMO**
 
@@ -326,14 +323,12 @@ Un bon modèle hybride repose sur un **triptyque fonctionnel** :
 Besoin d’un guide pratique pour faire le bon choix ?
 Consultez notre article comparatif : [Recruter ou externaliser son marketing en PME](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/)
 
-
-
 ## Le rôle du CMO : architecte plus qu’exécutant
 
 Dans l’imaginaire collectif, le directeur marketing ,  ou CMO (Chief Marketing Officer) ,  est souvent perçu comme une figure ambivalente :
 
-- - - soit un **super exécutant**, censé maîtriser à la fois le SEO, les Ads, la stratégie de marque, les réseaux sociaux, le CRM et les relations presse ;
-    - soit un **manager lointain**, trop stratégique, déconnecté de l’action, qui “ne met pas les mains dedans”.
+- soit un **super exécutant**, censé maîtriser à la fois le SEO, les Ads, la stratégie de marque, les réseaux sociaux, le CRM et les relations presse ;
+- soit un **manager lointain**, trop stratégique, déconnecté de l’action, qui “ne met pas les mains dedans”.
 
 Ces deux caricatures traduisent une même erreur : **réduire le rôle du CMO à un gradient entre opération et inaction**, alors qu’il s’agit d’un **pilote d’alignement global**.
 
@@ -343,11 +338,11 @@ Le CMO n’est pas (ou plus) simplement “responsable du marketing”. Il est *
 
 Concrètement, le CMO :
 
-- - - **définit la vision marketing** à moyen terme : positionnement, narration, différenciation ;
-    - **hiérarchise les objectifs** selon la stratégie de croissance (acquisition vs notoriété vs conversion vs rétention) ;
-    - **oriente la structure** : profils à recruter, partenaires à choisir, outils à prioriser ;
-    - **aligne les fonctions internes** : produit, ventes, RH, direction générale ;
-    - **porte une culture de pilotage** : données, itérations, redevabilité.
+- **définit la vision marketing** à moyen terme : positionnement, narration, différenciation ;
+- **hiérarchise les objectifs** selon la stratégie de croissance (acquisition vs notoriété vs conversion vs rétention) ;
+- **oriente la structure** : profils à recruter, partenaires à choisir, outils à prioriser ;
+- **aligne les fonctions internes** : produit, ventes, RH, direction générale ;
+- **porte une culture de pilotage** : données, itérations, redevabilité.
 
 En résumé : le CMO ne gère pas *tout* le marketing ,  il en **oriente la logique**, en **construit l’architecture**, et en **garantit la cohérence**.
 
@@ -355,11 +350,11 @@ En résumé : le CMO ne gère pas *tout* le marketing ,  il en **oriente la log
 
 Le marketing touche **toutes les dimensions de l’entreprise** :
 
-- - - Le discours produit (narration, roadmap, bénéfices),
-    - Le tunnel de vente (qualification, conversion, nurture),
-    - L’expérience client (attentes vs promesses),
-    - Le recrutement (marque employeur),
-    - La finance (coût d’acquisition, lifetime value, CAC payback…).
+- Le discours produit (narration, roadmap, bénéfices),
+- Le tunnel de vente (qualification, conversion, nurture),
+- L’expérience client (attentes vs promesses),
+- Le recrutement (marque employeur),
+- La finance (coût d’acquisition, lifetime value, CAC payback…).
 
 C’est pourquoi le CMO ne peut pas être isolé au sein d’un “pôle marketing” :
 
@@ -371,15 +366,15 @@ Dans les entreprises matures, il siège au comité de direction ; dans les plus 
 Un CMO moderne est rarement un exécutant pur. Mais cela ne veut pas dire qu’il est coupé du terrain.
 Le bon équilibre repose sur le **modèle en T** :
 
-- - - Une **expertise verticale forte** dans un domaine-clé (ex : brand, performance, produit) ;
-    - Une **vision horizontale** capable d’embrasser toute la chaîne de valeur marketing.
+- Une **expertise verticale forte** dans un domaine-clé (ex : brand, performance, produit) ;
+- Une **vision horizontale** capable d’embrasser toute la chaîne de valeur marketing.
 
 Ce modèle lui permet :
 
-- - - de comprendre les réalités opérationnelles de l’équipe,
-    - de dialoguer efficacement avec des spécialistes,
-    - de prioriser intelligemment les actions,
-    - d’arbitrer entre long terme et urgences du business.
+- de comprendre les réalités opérationnelles de l’équipe,
+- de dialoguer efficacement avec des spécialistes,
+- de prioriser intelligemment les actions,
+- d’arbitrer entre long terme et urgences du business.
 
 C’est aussi ce qui distingue un CMO d’un Head of Marketing ou d’un directeur marketing “opérationnel”.
 
@@ -395,23 +390,19 @@ Le COMEX, ce n’est pas un privilège : c’est le lieu où se décident les ar
 
 En savoir plus sur mon accompagnement en tant que [directeur marketing à Montréal](https://www.antoine-blot.com/fr/responsable-marketing/).
 
-
-
 ### **🧩 Un rôle à géométrie variable selon les contextes**
 
 Enfin, le rôle du CMO dépend fortement de :
 
-- - - la **phase de croissance** (exploration, structuration, scalabilité),
-    - le **niveau de complexité** des canaux ou des marchés,
-    - la **maturité des équipes en place**,
-    - l’**ambition stratégique** de la direction générale.
+- la **phase de croissance** (exploration, structuration, scalabilité),
+- le **niveau de complexité** des canaux ou des marchés,
+- la **maturité des équipes en place**,
+- l’**ambition stratégique** de la direction générale.
 
 Il est donc impossible d’appliquer une fiche de poste unique. Mais une constante demeure :
 
 ![Structurer la fonction marketing dans une startup](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-startup.jpg)
 > Un bon CMO est celui qui permet au marketing de cesser d’être un coût dispersé, pour devenir un investissement piloté.
-
-
 
 ## Vers une typologie des modèles de structuration marketing en PME
 
@@ -474,8 +465,6 @@ On peut proposer ici un outil simple pour guider la réflexion stratégique :
 
 > Un bon CMO est celui qui permet au marketing de cesser d’être un coût dispersé, pour devenir un investissement piloté.
 
-
-
 ## Conclusion - Structurer ou fluidifier ?
 
 Le marketing, dans une organisation, n’est jamais une simple fonction. C’est un miroir des tensions internes, un révélateur des priorités réelles, un amplificateur (ou non) de la valeur créée.
@@ -490,10 +479,10 @@ Ce qui compte, c’est la **capacité à piloter avec intention, à arbitrer ave
 
 **🔁 Structurer, c’est se poser les bonnes questions**
 
-- - - Que devons-nous dire, et à qui ?
-    - Qui porte cette parole dans l’organisation ?
-    - Que mesurons-nous, et pourquoi ?
-    - À quoi sert notre marketing dans le modèle d’affaires que nous construisons ?
+- Que devons-nous dire, et à qui ?
+- Qui porte cette parole dans l’organisation ?
+- Que mesurons-nous, et pourquoi ?
+- À quoi sert notre marketing dans le modèle d’affaires que nous construisons ?
 
 Des questions simples en apparence, mais qui, si elles ne sont pas posées collectivement, laissent place à l’opportunisme, aux injonctions contradictoires et à la dilution stratégique.
 
