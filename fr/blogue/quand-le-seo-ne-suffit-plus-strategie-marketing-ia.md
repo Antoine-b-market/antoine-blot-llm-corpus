@@ -88,9 +88,9 @@ La révolution IA dans le marketing n’efface pas les anciens métiers – elle
 
 Parallèlement, de nouveaux rôles émergent, en résonance directe avec des fonctions antérieures :
 
-- - - Les **content strategists** héritent autant des anciens responsables éditoriaux que des journalistes de marque. Leur mission dépasse la simple production de contenus textuels optimisés. Ils conçoivent des contenus interopérables : vidéos, shorts, articles, extraits quotables, qui peuvent circuler d’un canal à l’autre (site, IA, réseau social…) tout en conservant sens, clarté et intention stratégique.
-    - Les **knowledge curators**, proches des documentalistes et des responsables des relations presse, assurent la cohérence, la rigueur et la pertinence des contenus destinés à nourrir les IA et les relais humains. Ils veillent à ce que le ton soit maîtrisé, que les messages soient repris, partagés, cités – aussi bien par les utilisateurs que par les médias ou les agents conversationnels. Ce rôle devient central dans un univers où la citation est une nouvelle forme de conversion.
-    - Les **ingénieurs de la citation**, à la frontière entre le SEO analyst, le data strategist et le planneur éditorial, étudient les mécaniques de reprise algorithmique. Leur mission : comprendre les contextes de diffusion, les dynamiques de citation, et anticiper les critères implicites de sélection opérés par les IA.
+- Les **content strategists** héritent autant des anciens responsables éditoriaux que des journalistes de marque. Leur mission dépasse la simple production de contenus textuels optimisés. Ils conçoivent des contenus interopérables : vidéos, shorts, articles, extraits quotables, qui peuvent circuler d’un canal à l’autre (site, IA, réseau social…) tout en conservant sens, clarté et intention stratégique.
+- Les **knowledge curators**, proches des documentalistes et des responsables des relations presse, assurent la cohérence, la rigueur et la pertinence des contenus destinés à nourrir les IA et les relais humains. Ils veillent à ce que le ton soit maîtrisé, que les messages soient repris, partagés, cités – aussi bien par les utilisateurs que par les médias ou les agents conversationnels. Ce rôle devient central dans un univers où la citation est une nouvelle forme de conversion.
+- Les **ingénieurs de la citation**, à la frontière entre le SEO analyst, le data strategist et le planneur éditorial, étudient les mécaniques de reprise algorithmique. Leur mission : comprendre les contextes de diffusion, les dynamiques de citation, et anticiper les critères implicites de sélection opérés par les IA.
 
 Entre ces rôles apparaissent déjà des postes hybrides, adaptant les équipes aux défis contemporains : un responsable éditorial peut également structurer les métadonnées ; un social media manager peut intégrer une logique de citation dans sa production. L’enjeu n’est plus d’avoir une équipe dense, mais une stratégie riche, maîtrisée, évolutive, pilotée non plus uniquement par des KPIs internes, mais par le retour qualitatif du terrain, des utilisateurs, des moteurs et des modèles.
 
@@ -103,8 +103,6 @@ La puissance croissante des IA dans les parcours d’accès à l’information n
 Cet équilibre repose notamment sur la consolidation de canaux propriétaires : newsletters éditorialisées, plateformes de contenus internes, programmes de fidélisation enrichis, communautés d’intérêt, CRM conversationnels. Ces espaces autonomes permettent de construire une relation directe avec l’utilisateur, non filtrée par des algorithmes externes.
 
 En parallèle, les marques doivent mettre en place une stratégie de résilience algorithmique, capable d’absorber les changements de logique ou de politique des grands modèles IA sans effondrement brutal de leur visibilité. Cela passe par une diversification des points d’accès à la marque et par une stratégie éditoriale cohérente, mémorisable, capable d’exister indépendamment du support technique qui la distribue.
-
-
 
 ## Repenser radicalement le marketing digital
 
