@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-fonction-marketing/"
 image: "https://www.antoine-blot.com/media/Quand-lintelligence-artificielle-remet-en-question-la-fonction-marketing2.jpg"
 date: "2025-10-08"
-date_modified: "2026-08-19"
+date_modified: "2026-08-20"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -163,7 +163,7 @@ Pour y parvenir, plusieurs leviers peuvent guider les équipes marketing :
 
 Chaque année, Spotify transforme des millions de jeux de données en récits individuels. *Wrapped* ne montre pas seulement ce que les utilisateurs ont écouté : il leur rappelle qui ils étaient pendant l’année.
 
- C’est un exemple magistral de *data storytelling* : la donnée devient un vecteur de mémoire. La performance n’est plus mesurée en streams, mais en attachement émotionnel.
+C’est un exemple magistral de *data storytelling* : la donnée devient un vecteur de mémoire. La performance n’est plus mesurée en streams, mais en attachement émotionnel.
 
 Ces trois principes redéfinissent la performance. Ils déplacent la valeur du résultat immédiat vers la qualité du lien établi. Dans un univers où tout peut être simulé, la marque devient un repère de vérité perçue. Elle incarne la part humaine que la technologie, malgré toute sa puissance, ne peut imiter.
 
@@ -185,7 +185,7 @@ Le marketing de demain ne sera ni entièrement humain ni entièrement automatis�
 
 ## Foire aux questions
 
-   L’IA rend-elle le marketing plus efficace ou plus dépendant des modèles ?
+L’IA rend-elle le marketing plus efficace ou plus dépendant des modèles ?
 
 L’IA augmente l’efficacité opérationnelle, mais au prix d’une forme de dépendance cognitive.
 En confiant la recherche d’insights, la segmentation ou même la rédaction à des modèles, les marques gagnent du temps mais perdent souvent en discernement.
@@ -193,7 +193,7 @@ L’efficacité devient mécanique : elle repose sur des modèles entraînés su
 Le défi n’est donc pas de produire plus vite, mais de rester capable de décider avec lucidité.
 L’IA doit être un miroir stratégique, pas un pilote automatique : un outil pour voir plus clair, pas pour penser à notre place.
 
-    Quelle place reste-t-il à l’humain dans un marketing piloté par les données et les IA ?
+Quelle place reste-t-il à l’humain dans un marketing piloté par les données et les IA ?
 
 La valeur humaine se déplace vers le discernement, l’interprétation et la cohérence.
 L’IA peut calculer, corréler, anticiper, mais elle ne sait pas encore *pourquoi* quelque chose compte.
@@ -201,7 +201,7 @@ L’humain, lui, apporte la capacité de relier les signaux à une intention, un
 Dans un environnement où tout peut être simulé, l’écoute, la mémoire et la cohérence émotionnelle deviennent des avantages concurrentiels.
 Autrement dit, le rôle du marketeur n’est plus de rivaliser avec la machine, mais de donner du sens à ce qu’elle produit.
 
-    Comment une marque peut-elle préserver sa singularité à l’ère des algorithmes ?
+Comment une marque peut-elle préserver sa singularité à l’ère des algorithmes ?
 
 En cultivant une différence cohérente plutôt qu’une originalité artificielle.
 Les algorithmes valorisent la conformité, ce qui fonctionne déjà. Pour exister sans se diluer, une marque doit ancrer sa différenciation dans son histoire, sa culture et la perception réelle de ses publics.
