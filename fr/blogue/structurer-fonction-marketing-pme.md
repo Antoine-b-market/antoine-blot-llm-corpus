@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/"
 image: "https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-PME-ou-une-startup-1024x683.jpg"
 date: "2025-07-25"
-date_modified: "2026-08-19"
+date_modified: "2026-08-20"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -71,6 +71,8 @@ C’est aussi une question de **gouvernance**. Qui définit les priorités ? Qui
 
 ### **🔹 Structurer pour sortir du court-termisme**
 
+![Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-PME-ou-une-startup-1024x683.jpg)
+
 La structuration est donc une **condition de durabilité**, car elle permet de sortir d’une logique opportuniste (“on lance une campagne parce que le chiffre baisse”) pour entrer dans une logique systémique (“on développe un levier, on le mesure, on le consolide”).
 
 C’est dans ce sens que ***Peter Drucker***, en définissant les deux fonctions essentielles de l’entreprise, déclarait :
@@ -78,8 +80,6 @@ C’est dans ce sens que ***Peter Drucker***, en définissant les deux fonctions
 > “Le but d’une entreprise est de créer un client. Il n’y a donc que deux fonctions fondamentales : le marketing et l’innovation. Le reste n’est que coût.”
 
 **Ne pas structurer le marketing, c’est prendre le risque de l’appauvrir**, de le rendre dépendant de talents isolés, de tactiques désynchronisées ou de budgets mal calibrés.
-
-![Structurer la fonction marketing dans une PME ou une startup : qui fait quoi, quand et pourquoi](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-PME-ou-une-startup-1024x683.jpg)
 
 ## Les signaux faibles qui indiquent que le moment est venu
 
@@ -393,6 +393,8 @@ En savoir plus sur mon accompagnement en tant que [directeur marketing à Montr�
 
 ### **🧩 Un rôle à géométrie variable selon les contextes**
 
+![Structurer la fonction marketing dans une startup](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-startup.jpg)
+
 Enfin, le rôle du CMO dépend fortement de :
 
 - la **phase de croissance** (exploration, structuration, scalabilité),
@@ -402,7 +404,6 @@ Enfin, le rôle du CMO dépend fortement de :
 
 Il est donc impossible d’appliquer une fiche de poste unique. Mais une constante demeure :
 
-![Structurer la fonction marketing dans une startup](https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans-une-startup.jpg)
 > Un bon CMO est celui qui permet au marketing de cesser d’être un coût dispersé, pour devenir un investissement piloté.
 
 ## Vers une typologie des modèles de structuration marketing en PME
@@ -505,19 +506,19 @@ Mais si elle n’est pas structurée à temps, elle finit souvent par s’épuis
 
 ## Foire aux questions
 
-   Quand structurer la fonction marketing dans une PME ?
+Quand structurer la fonction marketing dans une PME ?
 
 Lorsque des signaux apparaissent : incohérence des messages, canaux dispersés, absence de pilotage, dépendance à un seul levier d’acquisition.
 
-    Faut-il recruter en interne ou externaliser son marketing ?
+Faut-il recruter en interne ou externaliser son marketing ?
 
 Cela dépend de la maturité de l’entreprise. Un modèle hybride, combinant un pilotage stratégique (fractional CMO) et une exécution spécialisée (freelances, junior interne), est souvent le plus adapté en PME.
 
-    Quel est le rôle du CMO dans une organisation en croissance ?
+Quel est le rôle du CMO dans une organisation en croissance ?
 
 Le CMO agit comme un architecte du marketing : il définit la vision, priorise les actions, pilote la cohérence de l’ensemble et aligne les fonctions internes avec la stratégie de l’entreprise.
 
-    Existe-t-il un modèle unique pour structurer son marketing ?
+Existe-t-il un modèle unique pour structurer son marketing ?
 
 Non. Il existe différents modèles selon l’intention stratégique : volume (visibilité), précision (efficacité), ou systémie (alignement global). L’important est d’adapter la structure au contexte.
 
