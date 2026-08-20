@@ -4,7 +4,7 @@ description: "Pages — contenus anglais."
 base_url: "https://www.antoine-blot.com"
 lang: "en"
 type: "page"
-last_updated: "2026-08-19"
+last_updated: "2026-08-20"
 count: 0
 ---
 
