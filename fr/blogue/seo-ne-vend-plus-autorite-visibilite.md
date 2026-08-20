@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/seo-ne-vend-plus-autorite-visibilite/"
 image: "https://www.antoine-blot.com/media/Emergence-du-GEO.jpg"
 date: "2025-12-31"
-date_modified: "2026-08-19"
+date_modified: "2026-08-20"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -69,6 +69,8 @@ L’erreur classique consiste à complexifier le discours. Un actif cognitif n�
 
 ## **Le protocole MCP : la boussole stratégique post-ia**
 
+![Emergence du GEO](https://www.antoine-blot.com/media/Emergence-du-GEO.jpg)
+
 Pour naviguer dans ce chaos, j’utilise le protocole MCP (marque, contexte, pertinence). Ce n’est pas un énième cadre de travail pour faire « mieux » ; c’est un filtre d’élimination radical.
 
 La marque interdit la neutralité éditoriale. Si vous n’avez pas d’opinion, vous n’avez pas de marque. Le contexte interdit le contenu générique en forçant la compréhension de l’intention humaine. Enfin, la pertinence chirurgicale interdit le volume pour le volume.
@@ -76,8 +78,6 @@ La marque interdit la neutralité éditoriale. Si vous n’avez pas d’opinion,
 > Avec ce filtre, 80 % des calendriers éditoriaux actuels ne survivraient pas à la première revue.
 
 Le mcp n’est pas un framework d’optimisation, c’est un test de survie. Si un contenu ne renforce pas votre autorité, ne répond pas à un contexte de décision réel et n’apporte pas une solution que vous seul pouvez porter, il ne mérite tout simplement pas d’être publié. La technique n’est là que pour servir cette philosophie. Si vous optimisez du vide, vous n’obtiendrez que du trafic fantôme. Comment votre stratégie actuelle survit-elle à cette exigence ?
-
-![Emergence du GEO](https://www.antoine-blot.com/media/Emergence-du-GEO.jpg)
 
 ## **Le nouveau rôle du marketeur : devenir un « architecte de la connaissance »**
 
