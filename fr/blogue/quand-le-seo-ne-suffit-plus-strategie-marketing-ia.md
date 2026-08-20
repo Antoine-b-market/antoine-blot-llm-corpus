@@ -68,8 +68,7 @@ Cette nouvelle métrique exige une transformation culturelle profonde dans les d
 
 La réussite du Knowledge Branding repose également sur une maîtrise fine des aspects techniques et sémantiques liés à l’intégration des contenus dans les systèmes algorithmiques. La structuration sémantique et technique des contenus doit être pensée pour maximiser leur exploitabilité par les modèles d’IA génératives. Il ne s’agit plus seulement d’optimiser des mots-clés mais de [structurer rigoureusement les informations](https://www.antoine-blot.com/fr/blogue/intelligence-artificielle-impact-marketing/) en grappes sémantiques intelligibles pour les intelligences artificielles.
 
-> L’IA ne corrige pas une stratégie faible.
-> Elle l’expose.
+> L’IA ne corrige pas une stratégie faible. Elle l’expose.
 
 ## Réinventer les parcours, les compétences et les équilibres : vers un marketing augmenté par l’IA
 
@@ -89,9 +88,11 @@ La révolution IA dans le marketing n’efface pas les anciens métiers – elle
 
 Parallèlement, de nouveaux rôles émergent, en résonance directe avec des fonctions antérieures :
 
-- Les **content strategists** héritent autant des anciens responsables éditoriaux que des journalistes de marque. Leur mission dépasse la simple production de contenus textuels optimisés. Ils conçoivent des contenus interopérables : vidéos, shorts, articles, extraits quotables, qui peuvent circuler d’un canal à l’autre (site, IA, réseau social…) tout en conservant sens, clarté et intention stratégique.
-- Les **knowledge curators**, proches des documentalistes et des responsables des relations presse, assurent la cohérence, la rigueur et la pertinence des contenus destinés à nourrir les IA et les relais humains. Ils veillent à ce que le ton soit maîtrisé, que les messages soient repris, partagés, cités – aussi bien par les utilisateurs que par les médias ou les agents conversationnels. Ce rôle devient central dans un univers où la citation est une nouvelle forme de conversion.
-- Les **ingénieurs de la citation**, à la frontière entre le SEO analyst, le data strategist et le planneur éditorial, étudient les mécaniques de reprise algorithmique. Leur mission : comprendre les contextes de diffusion, les dynamiques de citation, et anticiper les critères implicites de sélection opérés par les IA.
+-   Les **content strategists** héritent autant des anciens responsables éditoriaux que des journalistes de marque. Leur mission dépasse la simple production de contenus textuels optimisés. Ils conçoivent des contenus interopérables : vidéos, shorts, articles, extraits quotables, qui peuvent circuler d’un canal à l’autre (site, IA, réseau social…) tout en conservant sens, clarté et intention stratégique.
+
+-   Les **knowledge curators**, proches des documentalistes et des responsables des relations presse, assurent la cohérence, la rigueur et la pertinence des contenus destinés à nourrir les IA et les relais humains. Ils veillent à ce que le ton soit maîtrisé, que les messages soient repris, partagés, cités – aussi bien par les utilisateurs que par les médias ou les agents conversationnels. Ce rôle devient central dans un univers où la citation est une nouvelle forme de conversion.
+
+-   Les **ingénieurs de la citation**, à la frontière entre le SEO analyst, le data strategist et le planneur éditorial, étudient les mécaniques de reprise algorithmique. Leur mission : comprendre les contextes de diffusion, les dynamiques de citation, et anticiper les critères implicites de sélection opérés par les IA.
 
 Entre ces rôles apparaissent déjà des postes hybrides, adaptant les équipes aux défis contemporains : un responsable éditorial peut également structurer les métadonnées ; un social media manager peut intégrer une logique de citation dans sa production. L’enjeu n’est plus d’avoir une équipe dense, mais une stratégie riche, maîtrisée, évolutive, pilotée non plus uniquement par des KPIs internes, mais par le retour qualitatif du terrain, des utilisateurs, des moteurs et des modèles.
 
@@ -111,10 +112,16 @@ La mutation profonde du marketing digital à l’ère des intelligences artifici
 
 ### Bibliographie
 
-- [It’s the End of Google Search As We Know It](https://www.wired.com/story/google-io-end-of-google-search/)
-- [Gartner Predicts Search Engine Volume Will Drop 25% by 2026, Due to AI Chatbots and Other Virtual Agents](https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents)
-- [Teens, Social Media and Technology 2024](https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/)
-- [Forrester: 91% of US ad agencies are currently using, exploring generative AI](https://www.marketingdive.com/news/forrester-generative-ai-marketing-agencies-report/719285/)
-- [What is Generative Engine Optimization (GEO)?](https://www.seo.com/ai/generative-engine-optimization/)
-- [Unlocking Generative AI’s Potential To Drive Business Growth](https://www.forrester.com/technology/generative-ai/)
-- [Branding knowledge: Brand building beyond product and service brands](https://www.researchgate.net/publication/233712021_Branding_knowledge_Brand_building_beyond_product_and_service_brands)
+-   [It’s the End of Google Search As We Know It](https://www.wired.com/story/google-io-end-of-google-search/)
+
+-   [Gartner Predicts Search Engine Volume Will Drop 25% by 2026, Due to AI Chatbots and Other Virtual Agents](https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents)
+
+-   [Teens, Social Media and Technology 2024](https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/)
+
+-   [Forrester: 91% of US ad agencies are currently using, exploring generative AI](https://www.marketingdive.com/news/forrester-generative-ai-marketing-agencies-report/719285/)
+
+-   [What is Generative Engine Optimization (GEO)?](https://www.seo.com/ai/generative-engine-optimization/)
+
+-   [Unlocking Generative AI’s Potential To Drive Business Growth](https://www.forrester.com/technology/generative-ai/)
+
+-   [Branding knowledge: Brand building beyond product and service brands](https://www.researchgate.net/publication/233712021_Branding_knowledge_Brand_building_beyond_product_and_service_brands)
