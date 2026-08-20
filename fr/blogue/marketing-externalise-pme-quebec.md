@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/blogue/marketing-externalise-pme-quebec/"
 image: "https://www.antoine-blot.com/media/impartition-marketing.jpg"
 date: "2026-01-26"
-date_modified: "2026-08-19"
+date_modified: "2026-08-20"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -59,8 +59,6 @@ L’impartition marketing ne doit pas être une fin en soi. Une entreprise saine
 2. **La masse critique budgétaire :** Lorsque les honoraires de gestion externe atteignent environ 60 % à 70 % du salaire chargé d’un profil interne équivalent (souvent plus de 100 000 $AD à Montréal).
 
 3. **La culture de donnée :** Lorsque l’entreprise a besoin d’une itération ultra-rapide et d’une mémoire institutionnelle que seul un talent dédié peut offrir.
-
-![L'impartition marketing](https://www.antoine-blot.com/media/impartition-marketing.jpg)
 
 ## **L’architecture de croissance : ma méthode en 3 étapes**
 
