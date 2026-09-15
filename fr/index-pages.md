@@ -4,8 +4,8 @@ description: "Pages — contenus français."
 base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
-last_updated: "2026-08-20"
-count: 26
+last_updated: "2026-09-15"
+count: 27
 ---
 
 # Pages — Contenus français
@@ -27,6 +27,7 @@ count: 26
 - [Qu’est-ce que le fichier robots.txt en SEO ?](https://www.antoine-blot.com/data/fr/pages/fichier-robots-txt.md)
 - [Qu’est-ce que le maillage interne en SEO ?](https://www.antoine-blot.com/data/fr/pages/maillage-interne.md)
 - [Décisions efficaces grâce à la Data et l’automatisation](https://www.antoine-blot.com/data/fr/pages/automatisation-data-driven.md)
+- [Meilleure agence SEO à Montréal : pourquoi ça n’existe pas](https://www.antoine-blot.com/data/fr/pages/meilleure-agence-seo-montreal.md)
 - [Netlinking et autorité](https://www.antoine-blot.com/data/fr/pages/netlinking-autorite-seo.md)
 - [Optimisation des parcours utilisateur](https://www.antoine-blot.com/data/fr/pages/tunnel-conversion.md)
 - [Qu’est-ce qu’une page orpheline en SEO ?](https://www.antoine-blot.com/data/fr/pages/pages-orphelines.md)

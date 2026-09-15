@@ -8,7 +8,7 @@ date: "2026-08-19"
 date_modified: "2026-08-19"
 lang: "fr"
 hreflang: "fr-CA"
-robots: "index, follow"
+robots: "noindex, follow"
 ---
 
 [POSITION À CONFIRMER: l'accroche, en deux ou trois phrases — ce que tu fais, pour qui, et pourquoi toi. C'est le passage qu'un moteur de réponse lira en premier et citera le plus volontiers. À écrire de ta main.]
