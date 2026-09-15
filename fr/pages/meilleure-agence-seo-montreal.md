@@ -25,23 +25,29 @@ Ce que vous cherchez vraiment, ce n’est pas la meilleure agence. C’est le pa
 
 La plupart des entreprises demandent de la visibilité : plus de trafic, un meilleur classement. Souvent, c’est un mauvais cadrage du besoin réel.
 
-Un cabinet dentaire montréalais m’a contacté pour « être plus visible que ses concurrents ». Nous avons ignoré la visibilité pour aller chercher la recherche locale sur les vrais besoins de sa patientèle : soin de carie, traitement de canal, urgence dentaire. Sa position dans les classements a à peine bougé. Sa patientèle, elle, a grimpé de 36 % en un an, au point qu’il a recruté un dentiste et deux assistantes. Il réclamait de la visibilité. Il avait besoin de patients.
+Un cabinet dentaire montréalais m’a contacté pour « être plus visible que ses concurrents ». Nous avons ignoré la visibilité pour aller chercher la recherche locale sur les vrais besoins de sa patientèle : soin de carie, traitement de canal, urgence dentaire. Sa position dans les classements a à peine bougé. Sa patientèle, elle, a grimpé de 36 % en un an, au point qu’il a recruté un dentiste et deux assistantes. Il réclamait de la visibilité. **Il avait besoin de patients.**
 
 Un cabinet d’avocats de la Rive-Nord a accepté la même remise à plat. Nous avons abandonné les sujets génériques que tout le monde vise pour attaquer des niches à haute valeur financière, peu disputées. Résultat : 21 % de nouveaux clients en plus, une récurrence proche de 80 %, et un cabinet devenu la référence qu’on se recommande de bouche à oreille.
 
-Dans les deux cas, aucune « meilleure agence » n’aurait produit ça. Il fallait quelqu’un pour dire au client que son objectif de départ était le mauvais, puis viser le vrai. Le discernement en amont a pesé plus lourd que la qualité d’exécution en aval.
+Dans les deux cas, aucune « meilleure agence » n’aurait produit ça. Il fallait quelqu’un pour dire au client que son objectif de départ était le mauvais, puis viser le vrai. **Le discernement en amont a pesé plus lourd que la qualité d’exécution en aval.**
+
+<div data-html-embed="" class="html-embed"><div class="keyfig"><div class="keyfig-item"><span class="keyfig-value">+36 %</span><span class="keyfig-label">de patientèle en un an — cabinet dentaire</span></div><div class="keyfig-item"><span class="keyfig-value">+21 %</span><span class="keyfig-label">de nouveaux clients — cabinet d’avocats</span></div><div class="keyfig-item"><span class="keyfig-value">~80 %</span><span class="keyfig-label">de récurrence client — cabinet d’avocats</span></div></div></div>
 
 ## Le partenaire vous dit aussi quand arrêter
+
+![Papier blanc déchiré laissant apparaître une inscription](https://www.antoine-blot.com/media/Knowledge-Branding-scaled.jpeg)
 
 Cette honnêteté va jusqu’au bout : un bon partenaire vous dit quand vous n’aurez plus besoin de lui.
 
 Un accompagnement externe n’a pas vocation à durer indéfiniment ni à installer une dépendance. Dans ma pratique, trois signaux annoncent qu’il faut internaliser. Le seuil de complexité, d’abord : quand les échanges quotidiens entre marketing, ventes et produit réclament une présence quasi permanente, autour de 40 heures par semaine, un poste interne devient plus logique. La masse critique budgétaire ensuite : quand mes honoraires approchent 60 à 70 % du salaire chargé d’un profil équivalent, le calcul est vite fait. À ce niveau, vous payez un temps partiel au tarif d’un temps plein, alors qu’un employé serait mobilisé à 100 % sur votre sujet. Je vous le dirai. La culture de donnée enfin : quand votre organisation exige une itération très rapide et une mémoire interne que seul un talent dédié entretient durablement.
 
-Un prestataire qui ne vous dit jamais quand arrêter de le payer défend son contrat, pas vos intérêts.
+> **Important**
+>
+> Un prestataire qui ne vous dit jamais quand arrêter de le payer défend son contrat, pas vos intérêts.
 
 ## Alors, agence ou pas ?
 
-Toujours la mauvaise question. La bonne : qui saura penser votre marketing comme un système au service de votre croissance, vous dire quand [le SEO](https://www.antoine-blot.com/fr/consultant-seo/) n’est pas la réponse, et prouver ses résultats chiffres à l’appui ?
+**Toujours la mauvaise question.** La bonne : qui saura penser votre marketing comme un système au service de votre croissance, vous dire quand [le SEO](https://www.antoine-blot.com/fr/consultant-seo/) n’est pas la réponse, et prouver ses résultats chiffres à l’appui ?
 
 Si c’est ce que vous cherchez, parlons-en.
 
