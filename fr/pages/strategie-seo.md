@@ -16,7 +16,7 @@ Disposer d’un site web performant ne suffit plus si celui-ci n’est pas soute
 
 ## Expertises SEO et GEO
 
-[Diagnostic](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/)  [Contenu](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/)  [Autorité](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/)
+[Diagnostic, contenu et autorité](https://www.antoine-blot.com/fr/consultant-seo/)
 
 ## Qu’est-ce qu’une stratégie SEO et pourquoi est-elle vitale ?
 
@@ -38,7 +38,7 @@ Pour asseoir votre autorité, ma méthodologie repose sur une approche multidime
 1.  **Ciblage d’intentions et dominance sémantique**
     
 
-Je ne cherche pas seulement des mots-clés, je construis des **cocons sémantiques**. L’objectif est de couvrir une thématique à 360° en déployant du [contenu sémantique](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/) à haute valeur ajoutée pour prouver à Google votre expertise totale sur votre sujet.
+Je ne cherche pas seulement des mots-clés, je construis des **cocons sémantiques**. L’objectif est de couvrir une thématique à 360° en déployant du [contenu sémantique](https://www.antoine-blot.com/fr/consultant-seo/) à haute valeur ajoutée pour prouver à Google votre expertise totale sur votre sujet.
 
 2.  **Ingénierie de l’autorité (E-E-A-T)**
     

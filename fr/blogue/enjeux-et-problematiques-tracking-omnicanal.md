@@ -55,7 +55,7 @@ Mettre en place un tracking omnicanal offre des opportunités majeures, mais sou
 
 ### La fragmentation des données : un frein majeur
 
-Les informations clientèles sont souvent éparpillées entre différents systèmes : CRM, ERP, outils d’analyse web, solutions de paiement, etc. Cette fragmentation complique l’obtention d’une vue globale des [parcours clients](https://www.antoine-blot.com/fr/directeur-marketing/tunnel-conversion/). Par exemple, une entreprise incapable de relier les données de son site web à celles de ses points de vente physiques risque d’envoyer des promotions inappropriées ou de ne pas comprendre les comportements d’achat. Cette difficulté limite la personnalisation des interactions et la mesure efficace des performances.
+Les informations clientèles sont souvent éparpillées entre différents systèmes : CRM, ERP, outils d’analyse web, solutions de paiement, etc. Cette fragmentation complique l’obtention d’une vue globale des [parcours clients](https://www.antoine-blot.com/fr/directeur-marketing/). Par exemple, une entreprise incapable de relier les données de son site web à celles de ses points de vente physiques risque d’envoyer des promotions inappropriées ou de ne pas comprendre les comportements d’achat. Cette difficulté limite la personnalisation des interactions et la mesure efficace des performances.
 
 Les silos de données constituent également un frein important à la fidélisation. Lorsqu’un client est confronté à une expérience incohérente, comme une indisponibilité de produit pourtant affiché en ligne, cela peut éroder sa confiance envers la marque. Pour remédier à cela, une unification des bases de données est indispensable, mais elle requiert des investissements souvent perçus comme coûteux pour de petites entreprises.
 

@@ -1,12 +1,12 @@
 ---
 title: "Mes références en SEO et stratégie marketing"
-description: "Mes clients en stratégie marketing et SEO Depuis plus de dix ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France."
+description: "Mes clients en stratégie marketing et SEO Depuis 12 ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France."
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/clients/"
 image: "https://www.antoine-blot.com/media/logo-Cactusoft-300x118.png"
 date: "2025-12-30"
-date_modified: "2026-08-19"
+date_modified: "2026-09-30"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -14,7 +14,7 @@ robots: "index, follow"
 
 `[[TESTIMONIALS]]`
 
-Depuis plus de dix ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France, dans leurs [stratégies marketing](https://www.antoine-blot.com/fr/directeur-marketing/), [SEO](https://www.antoine-blot.com/fr/consultant-seo/) et transformation digitale, avec un objectif commun : **aligner la visibilité, la croissance et la cohérence de marque.**
+Depuis 12 ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France, dans leurs [stratégies marketing](https://www.antoine-blot.com/fr/directeur-marketing/), [SEO](https://www.antoine-blot.com/fr/consultant-seo/) et transformation digitale, avec un objectif commun : **aligner la visibilité, la croissance et la cohérence de marque.**
 
 ## Plus de 300 clients accompagnés !
 

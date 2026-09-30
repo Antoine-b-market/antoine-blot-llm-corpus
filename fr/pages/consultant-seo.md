@@ -28,7 +28,7 @@ Avec plus de dix ans d’expérience en stratégie SEO à Montréal, je me posit
 
 Mon métier est de vous aider à définir une autorité numérique qui vous démarque durablement de vos concurrents, en transformant chaque signal algorithmique en avantage business concret.
 
--   [**Audit SEO stratégique**](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/) : Une analyse chirurgicale de votre socle technique pour garantir une indexation parfaite par Google et une lecture fluide par les modèles de langage (LLMs).
+-   **Audit SEO stratégique** : Une analyse chirurgicale de votre socle technique pour garantir une indexation parfaite par Google et une lecture fluide par les modèles de langage (LLMs).
 
 -   **Ingénierie de contenu E-E-A-T :** Je ne crée pas de simples textes, je bâtis des actifs sémantiques qui répondent aux critères d’Expérience et d’Expertise de Google, devenant ainsi la source de référence pour les IA génératives.
 
@@ -109,9 +109,9 @@ Un expert SEO senior ne se contente pas de maîtriser les outils ; il les fait p
 
 -   **Intelligence de données** : Interprétation experte des données (Google Analytics, Search Console) pour transformer les tendances en plans d’action concrets.
 
--   [**Rédaction SEO et GEO**](https://www.antoine-blot.com/fr/consultant-seo/redaction-seo/) **à haute valeur ajoutée** : Création de contenus qui satisfont à la fois les intentions de recherche humaines et les exigences de compréhension des IA.
+-   **Rédaction SEO et GEO à haute valeur ajoutée** : Création de contenus qui satisfont à la fois les intentions de recherche humaines et les exigences de compréhension des IA.
 
--   [**Netlinking et autorité**](https://www.antoine-blot.com/fr/consultant-seo/netlinking-autorite-seo/) : Définition d’une stratégie consistant à obtenir des liens provenant de sites tiers vers le vôtre et renforcer votre autorité.
+-   **Netlinking et autorité** : Définition d’une stratégie consistant à obtenir des liens provenant de sites tiers vers le vôtre et renforcer votre autorité.
 
 -   **Vision marketing intégrée** : Capacité à aligner le SEO sur vos objectifs de communication globale pour un impact business réel.
 

@@ -75,6 +75,4 @@ Vous consultez actuellement la section SEO. Vous pouvez également explorer :
 
 -   [FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)
     
--   [Audit SEO](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/)
-    
 -   [Mes services de consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)

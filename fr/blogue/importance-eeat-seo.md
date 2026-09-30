@@ -96,7 +96,7 @@ Connaître les principes est une chose, les appliquer concrètement en est une a
 
 ### Auditez votre contenu actuel
 
-Faites régulièrement un [audit approfondi](https://www.antoine-blot.com/fr/consultant-seo/audit-seo/) de votre site pour identifier précisément où vous pouvez améliorer chaque aspect de l’E-E-A-T. Avez-vous suffisamment mis en valeur vos auteurs ? Vos contenus sont-ils systématiquement sourcés ? Obtenez-vous des backlinks de qualité suffisante ? Cet audit initial vous donnera un aperçu clair de vos points faibles et vous permettra d’agir rapidement pour les renforcer.
+Faites régulièrement un [audit approfondi](https://www.antoine-blot.com/fr/consultant-seo/) de votre site pour identifier précisément où vous pouvez améliorer chaque aspect de l’E-E-A-T. Avez-vous suffisamment mis en valeur vos auteurs ? Vos contenus sont-ils systématiquement sourcés ? Obtenez-vous des backlinks de qualité suffisante ? Cet audit initial vous donnera un aperçu clair de vos points faibles et vous permettra d’agir rapidement pour les renforcer.
 
 ### Encouragez une formation continue
 

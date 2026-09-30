@@ -6,13 +6,13 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/a-propos-de-moi/"
 image: "https://www.antoine-blot.com/media/Antoineblot.webp"
 date: "2024-05-17"
-date_modified: "2026-08-19"
+date_modified: "2026-09-30"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
 ---
 
-Fort de plus de 10 ans d’expérience dans le marketing digital, j’ai accompagné des entreprises de divers secteurs dans leur transformation numérique. Mon approche repose sur une vision stratégique à long terme, où chaque projet est unique et nécessite une adaptation sur-mesure pour répondre aux défis spécifiques de chaque client.
+Fort de 12 ans d’expérience dans le marketing digital, j’ai accompagné des entreprises de divers secteurs dans leur transformation numérique. Mon approche repose sur une vision stratégique à long terme, où chaque projet est unique et nécessite une adaptation sur-mesure pour répondre aux défis spécifiques de chaque client.
 
 ## Mon Engagement
 
