@@ -5,7 +5,7 @@ base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
 last_updated: "2026-10-01"
-count: 25
+count: 26
 ---
 
 # Pages — Contenus français
@@ -23,6 +23,7 @@ count: 25
 - [Consultant SEO à Montréal : être trouvé par les clients qui comptent](https://www.antoine-blot.com/data/fr/pages/consultant-seo.md)
 - [Contactez moi](https://www.antoine-blot.com/data/fr/pages/contact.md)
 - [Qu’est-ce que le contenu dupliqué en SEO ?](https://www.antoine-blot.com/data/fr/pages/contenu-duplique.md)
+- [Couvreur spécialisé en toits en pente : la référence locale dans 5 villes](https://www.antoine-blot.com/data/fr/pages/couvreur-toits-en-pente.md)
 - [Directeur marketing à Montréal : tenir ensemble la vision et la performance](https://www.antoine-blot.com/data/fr/pages/directeur-marketing.md)
 - [FAQ SEO : comprendre et appliquer le référencement naturel](https://www.antoine-blot.com/data/fr/pages/faq-seo.md)
 - [Qu’est-ce que le fichier robots.txt en SEO ?](https://www.antoine-blot.com/data/fr/pages/fichier-robots-txt.md)
