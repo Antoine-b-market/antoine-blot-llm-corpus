@@ -5,7 +5,7 @@ base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
 last_updated: "2026-10-01"
-count: 23
+count: 24
 ---
 
 # Pages — Contenus français
@@ -27,6 +27,7 @@ count: 23
 - [Qu’est-ce que le fichier robots.txt en SEO ?](https://www.antoine-blot.com/data/fr/pages/fichier-robots-txt.md)
 - [GEO à Montréal : se faire citer par les IA, à partir du SEO](https://www.antoine-blot.com/data/fr/pages/geo.md)
 - [Qu’est-ce que le maillage interne en SEO ?](https://www.antoine-blot.com/data/fr/pages/maillage-interne.md)
+- [Mallette : un problème de visibilité qui était un problème de structure](https://www.antoine-blot.com/data/fr/pages/mallette.md)
 - [Décisions efficaces grâce à la Data et l’automatisation](https://www.antoine-blot.com/data/fr/pages/automatisation-data-driven.md)
 - [Meilleure agence SEO à Montréal : méfiez-vous des auto-proclamés](https://www.antoine-blot.com/data/fr/pages/meilleure-agence-seo-montreal.md)
 - [Qu’est-ce qu’une page orpheline en SEO ?](https://www.antoine-blot.com/data/fr/pages/pages-orphelines.md)
