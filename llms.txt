@@ -57,6 +57,7 @@
 - [Budget de crawl : comment Google explore votre site](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/): Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l’optimiser pour un SEO plus efficace.
 
 ## Pages
+- [BNP Paribas Cardif : +190 % de trafic organique qualifié | Antoine Blot](https://www.antoine-blot.com/fr/clients/bnp-paribas/): Étude de cas : chez BNP Paribas Cardif, 12 000 avis clients analysés sous R et SPSS ont orienté la stratégie d'acquisition organique. +190 % de trafic qualifié.
 - [SEO : Ressources et fondamentaux pour optimiser votre référencement naturel](https://www.antoine-blot.com/fr/ressources-seo/): Découvrez l’essentiel du SEO : définitions, techniques, balises et stratégies. Accédez à toutes les ressources SEO pour structurer et améliorer votre visibilité.
 - [Marketing analytics - Data - automatisation- BLOT Antoine](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/): Exploitez le potentiel de l'automatisation et des données pour des stratégies marketing précises et performantes. Optimisez votre ROI et adapter vos campagnes en temps réel.
 - [Blog marketing stratégique et SEO | Antoine Blot à Montréal](https://www.antoine-blot.com/fr/blogue/): Explorez les articles d’Antoine Blot sur le marketing stratégique, le SEO, l’IA et la transformation digitale. Analyses, conseils et ressources concrètes.

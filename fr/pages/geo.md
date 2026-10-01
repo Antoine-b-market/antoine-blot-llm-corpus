@@ -37,13 +37,10 @@ Une page peut donc être bien classée sur Google sans jamais servir de source, 
 
 Le socle technique et éditorial reste celui du [SEO](https://www.antoine-blot.com/fr/consultant-seo/). Au-dessus, le travail GEO porte sur quelques points précis.
 
--   **Le choix des questions.** Je retiens celles que vos clients posent réellement aux IA dans votre secteur, qui ne recoupent pas toujours les mots-clés tapés dans Google.
-
--   **La forme des passages.** Chaque réponse importante est rédigée pour tenir seule, avec les faits et le contexte nécessaires à une citation fidèle.
-
--   **La cohérence de votre identité.** Votre nom, vos services et votre zone d’intervention doivent être décrits de la même façon sur votre site et sur les sources extérieures que les IA consultent.
-
--   **Des données structurées honnêtes.** Ce balisage décrit votre entreprise aux machines. Il dit exactement ce que le site prouve, sans avis ni distinction inventés.
+- **Le choix des questions.** Je retiens celles que vos clients posent réellement aux IA dans votre secteur, qui ne recoupent pas toujours les mots-clés tapés dans Google.
+- **La forme des passages.** Chaque réponse importante est rédigée pour tenir seule, avec les faits et le contexte nécessaires à une citation fidèle.
+- **La cohérence de votre identité.** Votre nom, vos services et votre zone d’intervention doivent être décrits de la même façon sur votre site et sur les sources extérieures que les IA consultent.
+- **Des données structurées honnêtes.** Ce balisage décrit votre entreprise aux machines. Il dit exactement ce que le site prouve, sans avis ni distinction inventés.
 
 ## Recrutement : plus de la moitié des leads venus des IA
 
