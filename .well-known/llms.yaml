@@ -311,3 +311,8 @@ content:
     lang: "fr"
     description: "Comprenez l’impact du temps de chargement sur le SEO et l’expérience utilisateur, et découvrez les meilleures pratiques pour accélérer votre site web."
     date: "2025-07-31"
+  - title: "ZZ test round-trip (temporaire)"
+    url: "https://www.antoine-blot.com/fr/zz-test-roundtrip/"
+    type: "page"
+    lang: "fr"
+    date: "2026-10-01"

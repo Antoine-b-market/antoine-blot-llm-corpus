@@ -5,7 +5,7 @@ base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
 last_updated: "2026-10-01"
-count: 22
+count: 23
 ---
 
 # Pages — Contenus français
@@ -32,3 +32,4 @@ count: 22
 - [Qu’est-ce qu’une balise title en SEO ?](https://www.antoine-blot.com/data/fr/pages/balise-title.md)
 - [Ressources – SEO](https://www.antoine-blot.com/data/fr/pages/ressources-seo.md)
 - [Qu’est-ce que le temps de chargement d’un site web ?](https://www.antoine-blot.com/data/fr/pages/temps-de-chargement.md)
+- [Consultant SEO à Montréal : être trouvé par les clients qui comptent](https://www.antoine-blot.com/data/fr/pages/zz-test-roundtrip.md)
