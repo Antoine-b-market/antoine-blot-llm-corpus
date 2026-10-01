@@ -33,13 +33,13 @@
 - [Comment l'IA transforme le SEO : des intentions à l'optimisation](https://www.antoine-blot.com/fr/blogue/comment-ia-transforme-seo/): Découvrez comment l'intelligence artificielle redéfinit le SEO, en passant de l'analyse d'intentions utilisateur à l'optimisation contextuelle ([markdown](https://www.antoine-blot.com/data/fr/blogue/comment-ia-transforme-seo.md))
 
 ## Services
+- [Études de cas : ce que mes mandats ont changé pour mes clients | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/): Cinq études de cas en SEO, GEO et stratégie marketing, dont BNP Paribas Cardif et Mallette. Chaque résultat est daté et sa source précisée.
 - [Meilleure agence SEO à Montréal : méfiez-vous des auto-proclamés](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/): Toutes les agences se disent les meilleures de Montréal, et certaines fabriquent les preuves. Comment repérer la manœuvre, et ce qui fait vraiment avancer une entreprise.
 - [GEO à Montréal : se faire citer par les IA | Antoine Blot](https://www.antoine-blot.com/fr/consultant-seo/geo/): Le GEO est la part du SEO qui vise la citation dans les réponses des IA. Ce qu’il ajoute à une mission SEO, comment je le mesure et ce que je ne promets pas.
-- [Client et étude de cas SEO - Antoine BLOT](https://www.antoine-blot.com/fr/clients/): Mes clients en stratégie marketing et SEO Depuis 12 ans, j’accompagne des entreprises, startups et organisations, au Québec comme en France.
 - [FAQ SEO - Réponses claires sur le référencement naturel](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/): Découvrez notre FAQ SEO : définitions, outils, méthodes, bonnes pratiques. Comprenez les bases du référencement naturel et comment l’appliquer à votre site web.
 - [Directeur marketing à Montréal | Antoine Blot](https://www.antoine-blot.com/fr/directeur-marketing/): Directeur marketing à Montréal, 12 ans d’expérience. De BNP Paribas à Mallette, la vision qui repositionne une marque et la performance qui se mesure, portées par la même personne.
 - [Consultant SEO à Montréal | Antoine Blot](https://www.antoine-blot.com/fr/consultant-seo/): Consultant SEO à Montréal, 12 ans d’expérience. Diagnostic, ciblage local, contenus et autorité pour obtenir des clients par Google comme par les réponses des IA.
-- [A propos d'Antoine Blot - CMO et consultant SEO à Montréal](https://www.antoine-blot.com/fr/a-propos-de-moi/): Découvrez le parcours d’Antoine Blot, consultant en marketing stratégique à Montréal. Expertise en SEO, transformation digitale et stratégie de croissance.
+- [À propos d'Antoine Blot | Consultant SEO & GEO et directeur marketing à Montréal](https://www.antoine-blot.com/fr/a-propos-de-moi/): Antoine Blot, consultant SEO & GEO et directeur marketing à Montréal : 12 ans de marketing, de BNP Paribas Cardif à Mallette, et une R&D consacrée au GEO.
 - [Contact](https://www.antoine-blot.com/fr/contact/): Besoin d'un CMO, d'un directeur marketing ou d'un expert SEO ? Contactez moi !
 
 ## Ressources SEO
@@ -56,6 +56,11 @@
 - [Budget de crawl : comment Google explore votre site](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/): Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l’optimiser pour un SEO plus efficace.
 
 ## Pages
+- [BNP Paribas Cardif : +190 % de trafic organique qualifié | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/bnp-paribas/): Chez BNP Paribas Cardif, l'analyse de 12 000 avis clients sous R et SPSS a orienté toute la stratégie d'acquisition organique.
+- [Mallette : une demande publicitaire qui était une question de positionnement | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/mallette/): Une demande de performance publicitaire reformulée en question de positionnement, avec un cadre conceptuel, la Taxe de Marque.
+- [Chasseur de têtes : plus d'un lead sur deux vient des IA | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/recrutement-citations-ia/): Un cabinet de chasse de têtes devient une source que les assistants IA citent, sans balisage gonflé ni comparatif maison.
+- [Cabinet dentaire à Anjou : +11 % de patients fidèles | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/cabinet-dentaire-anjou/): Un cabinet dentaire d'Anjou délaisse "dentiste Montréal" pour son quartier, là où se trouvent les patients qui reviennent.
+- [Couvreur toits en pente : spécialiste reconnu dans 5 villes | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/couvreur-toits-en-pente/): Un couvreur quitte la requête "toiture" pour sa vraie spécialité, les toits en pente, ville par ville.
 - [SEO : Ressources et fondamentaux pour optimiser votre référencement naturel](https://www.antoine-blot.com/fr/ressources-seo/): Découvrez l’essentiel du SEO : définitions, techniques, balises et stratégies. Accédez à toutes les ressources SEO pour structurer et améliorer votre visibilité.
 - [Marketing analytics - Data - automatisation- BLOT Antoine](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/): Exploitez le potentiel de l'automatisation et des données pour des stratégies marketing précises et performantes. Optimisez votre ROI et adapter vos campagnes en temps réel.
 - [Blog marketing stratégique et SEO | Antoine Blot à Montréal](https://www.antoine-blot.com/fr/blogue/): Explorez les articles d’Antoine Blot sur le marketing stratégique, le SEO, l’IA et la transformation digitale. Analyses, conseils et ressources concrètes.

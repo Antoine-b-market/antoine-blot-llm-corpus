@@ -1,90 +1,57 @@
 ---
-title: "Mon Parcours"
-description: "Découvrez le parcours d’Antoine Blot, consultant en marketing stratégique à Montréal. Expertise en SEO, transformation digitale et stratégie de croissance."
+title: "À propos d’Antoine Blot, consultant SEO & GEO et directeur marketing"
+description: "Antoine Blot, consultant SEO & GEO et directeur marketing à Montréal : 12 ans de marketing, de BNP Paribas Cardif à Mallette, et une R&D consacrée au GEO."
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/a-propos-de-moi/"
 image: "https://www.antoine-blot.com/media/Antoineblot.webp"
 date: "2024-05-17"
-date_modified: "2026-09-30"
+date_modified: "2026-10-01"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
 ---
 
-Fort de 12 ans d’expérience dans le marketing digital, j’ai accompagné des entreprises de divers secteurs dans leur transformation numérique. Mon approche repose sur une vision stratégique à long terme, où chaque projet est unique et nécessite une adaptation sur-mesure pour répondre aux défis spécifiques de chaque client.
+Je suis créatif et analyste à la fois, et je n’ai jamais su séparer les deux. Ma passion des claviers mécaniques le résume bien : on remarque d’abord un beau clavier, puis on le garde pour la qualité de ce qui se trouve sous les touches. L’esthétique de l’objet ne vaut rien si l’ingénierie derrière n’est pas irréprochable. J’applique cette exigence au marketing.
 
-## Mon Engagement
+> **Essentiel à retenir**
+>
+> Une entreprise grandit grâce à quelques choix assumés et bien exécutés, que le marketing partage avec les ventes, le produit et les TI.
 
-Ma priorité est d’accompagner la croissance des entreprises avec des solutions sur-mesure, adaptées à leurs besoins spécifiques. Chaque projet bénéficie d’une approche personnalisée, basée sur une compréhension approfondie des enjeux et des objectifs de mes clients.
+## Ma conviction
 
-Installé à Montréal, je continue à innover et à anticiper les évolutions futures, en concevant des stratégies durables qui vont au-delà des résultats immédiats. Mon engagement : une collaboration étroite et un accompagnement constant pour une transformation numérique réussie.
+La croissance tient rarement au nombre d’initiatives lancées en parallèle. Elle naît de quelques décisions prises en connaissance de cause, puis menées jusqu’au bout.
 
-![SEO Montreal](https://www.antoine-blot.com/media/SEO-Montreal-scaled.webp)![Specialiste marketing](https://www.antoine-blot.com/media/AdobeStock_68655192-2048x1365.jpeg)![strategie marketing](https://www.antoine-blot.com/media/AdobeStock_359225185-scaled-e1731300444997.webp)![SEO montreal](https://www.antoine-blot.com/media/AdobeStock_281277946-scaled.jpeg)
+Mon travail commence donc par la clarté. Je fixe avec la direction ce qui passe en premier et ce qui peut attendre. Un marketing clarifié se priorise, puis se partage : les ventes, le produit et les équipes TI doivent pouvoir s’en servir dans leurs propres décisions.
 
-## Mes valeurs
+<div data-html-embed="" class="html-embed"><figure class="signature-band"><span class="signature-band-label">Ce que les claviers mécaniques m’ont appris</span><blockquote>En marketing comme ailleurs, une stratégie se juge à la rigueur de son exécution.</blockquote></figure></div>
 
-Mes valeurs fondamentales guident chacune de mes décisions et interactions professionnelles. Elles reflètent mon engagement envers mes clients et mon approche stratégique axée sur le long terme
+## Mon parcours
 
--   Adaptabilité
-    
--   Résultats concrets
-    
--   Innovation
-    
--   Curiosité constante 🙂
-    
+J’ai passé 12 ans dans le marketing, d’abord auprès de grands comptes en France.
 
-## Mes compétences
+Chez BNP Paribas Cardif, j’ai construit la stratégie d’acquisition organique à partir de l’analyse de 12 000 avis clients. Le trafic organique qualifié a progressé de 190 %, comme le détaille l’[étude de cas BNP Paribas Cardif](https://www.antoine-blot.com/fr/etudes-de-cas/bnp-paribas/).
 
-![Strategie](https://www.antoine-blot.com/media/Strategie.webp)
+Je me suis ensuite installé au Québec. Je suis directeur SEO chez MLBW, à Montréal.
 
-### [Stratégie marketing](https://www.antoine-blot.com/fr/directeur-marketing/)
+Le cabinet comptable Mallette a fait appel à moi comme stratège marketing externe. J’y ai reformulé une demande publicitaire en question de positionnement, comme le raconte l’[étude de cas Mallette](https://www.antoine-blot.com/fr/etudes-de-cas/mallette/).
 
-Je conçois des stratégies marketing globales, alignées sur les objectifs commerciaux de mes clients, pour maximiser leur visibilité, leurs conversions et leur notoriété
+Depuis juin 2025, je mène un travail de recherche et développement sur le GEO, c’est-à-dire la façon dont un moteur de réponse sélectionne les sources qu’il cite.
 
-![transformation](https://www.antoine-blot.com/media/transformation-1.webp)
+## Ce qui me distingue
 
-### Transformation digitale
+Je traite le référencement en tenant compte des réponses des IA autant que des résultats de Google. Ma démarche de [consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/) intègre le [GEO](https://www.antoine-blot.com/fr/consultant-seo/geo/) dès le diagnostic, au lieu d’en faire une prestation à part.
 
-J’accompagne les entreprises dans leur transformation numérique en optimisant leurs processus et en intégrant des stratégies digitales efficaces, adaptées à leurs besoins spécifiques.
+Je construis aussi l’infrastructure qui permet de mesurer cette présence et de la faire progresser. C’est l’objet de mon travail en [architecture IA](https://www.antoine-blot.com/fr/architecture-ia/).
 
-![formation](https://www.antoine-blot.com/media/formation.webp)
+Ma règle ne change pas d’un mandat à l’autre. Une IA doit pouvoir citer mes clients sur la foi d’informations exactes, que d’autres sources confirment.
 
-### Formation et accompagnement
+## Mon ancrage
 
-Je transmets mon expertise en marketing digital et stratégie commerciale pour renforcer les compétences des équipes et leur compréhension des enjeux du marché
+Je suis résident permanent au Québec. C’est ici que j’ai choisi de m’investir, et ce choix se lit dans la façon dont je conduis chaque mandat.
 
-![optimisation](https://www.antoine-blot.com/media/optimisation.webp)
+## Publications et profils
 
-### Optimisation des performances
+Mes travaux sont publiés en accès libre :
 
-J’analyse et optimise les parcours utilisateurs et les processus marketing pour maximiser les taux de conversion et la satisfaction client.
-
-![Gestion de projet](https://www.antoine-blot.com/media/Gestion-de-projet.webp)
-
-### Gestion de projet
-
-Je pilote des projets marketing complexes, en collaborant avec des équipes pluridisciplinaires pour assurer l’intégration cohérente des stratégies digitales dans les processus métiers.
-
-![Approche](https://www.antoine-blot.com/media/Approche.webp)
-
-### Approche pluridisciplinaire
-
-Je combine des compétences en marketing, data et transformation digitale pour proposer des solutions complètes, allant de la conception à l’exécution, en passant par l’analyse des performances.
-
-## Mes publications
-
-Retrouvez mes publications en accès libre de droit :
-
--   [https://orcid.org/0009-0005-6450-4528](https://orcid.org/0009-0005-6450-4528)
-    
--   Publication sur [Zenodo](https://zenodo.org/search?q=metadata.contributors.person_or_org.name%3A%22BLOT%2C%20Antoine%22&l=list&p=1&s=10&sort=bestmatch)
-    
--   [Mon GitHub](https://github.com/Antoine-b-market/)
-    
--   [Mon profil SlideShare](https://fr.slideshare.net/tuisspog)
-    
--   [Ma chaine YouTube](https://www.youtube.com/@Marketing-SEO-Antoine-BLOT)
-    
--   [Mon site de ressource technique SEO](https://blotmkt.com/ia/)
+<div data-html-embed="" class="html-embed"><div class="profile-cards"><a class="profile-card" href="https://orcid.org/0009-0005-6450-4528" rel="me noopener" target="_blank"><span class="profile-card-platform">ORCID</span><span class="profile-card-text">Mes publications, rattachées à mon identifiant de chercheur.</span><span class="profile-card-link">orcid.org ↗</span></a><a class="profile-card" href="https://zenodo.org/search?q=metadata.contributors.person_or_org.name%3A%22BLOT%2C%20Antoine%22&amp;l=list&amp;p=1&amp;s=10&amp;sort=bestmatch" rel="me noopener" target="_blank"><span class="profile-card-platform">Zenodo</span><span class="profile-card-text">Mes travaux de recherche, archivés en accès libre.</span><span class="profile-card-link">zenodo.org ↗</span></a><a class="profile-card" href="https://github.com/Antoine-b-market/" rel="me noopener" target="_blank"><span class="profile-card-platform">GitHub</span><span class="profile-card-text">Mes projets, et le code que je partage.</span><span class="profile-card-link">github.com ↗</span></a></div></div>

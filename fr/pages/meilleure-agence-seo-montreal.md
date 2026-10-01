@@ -53,6 +53,8 @@ Un client du secteur du recrutement voyait ses concurrents apparaître dans les 
 
 Aujourd’hui, plus d’un lead sur deux qui lui arrive vient des IA. Les moteurs de réponse le recommandent parce que ce qu’ils trouvent à son sujet est exact et utile. Une mise à jour d’algorithme n’a rien à démasquer chez lui.
 
+[Lire l’étude de cas complète](https://www.antoine-blot.com/fr/etudes-de-cas/recrutement-citations-ia/)
+
 ## Choisir la bataille qu’on peut gagner
 
 L’autre travers du marché est moins spectaculaire. Il consiste à viser la requête qui flatte plutôt que celle qui remplit l’agenda. Là encore, on juge le travail à la clientèle qui franchit la porte.
@@ -63,9 +65,13 @@ Un dentiste installé à Anjou tenait à se classer sur "dentiste Montréal". La
 
 Le cabinet compte aujourd’hui 11 % de patients réguliers en plus qui le consultent pour des traitements plus lourds qu’un détartrage ou un simple contrôle. C’est cette clientèle-là qui fait vivre un cabinet dentaire.
 
+[Lire l’étude de cas complète](https://www.antoine-blot.com/fr/etudes-de-cas/cabinet-dentaire-anjou/)
+
 ### Couvreur : devenir le spécialiste de sa ville
 
 Un couvreur visait "toiture" sur l’ensemble de Montréal, une requête où il se noyait parmi tous les couvreurs de l’île. Nous avons découpé le terrain arrondissement par arrondissement, en mettant en avant sa vraie spécialité, les toits en pente. Il est désormais reconnu comme le spécialiste de sa zone dans cinq villes, autant par Google que par les propriétaires qui l’appellent.
+
+[Lire l’étude de cas complète](https://www.antoine-blot.com/fr/etudes-de-cas/couvreur-toits-en-pente/)
 
 <div data-html-embed="" class="html-embed"><div class="keyfig"><div class="keyfig-item"><span class="keyfig-value">&gt; 1 sur 2</span><span class="keyfig-label">des leads arrivent par les IA - recrutement</span></div><div class="keyfig-item"><span class="keyfig-value">+11 %</span><span class="keyfig-label">de patients réguliers en soins lourds - dentiste à Anjou</span></div><div class="keyfig-item"><span class="keyfig-value">5 villes</span><span class="keyfig-label">où il est le spécialiste reconnu - couvreur</span></div></div></div>
 

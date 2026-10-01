@@ -34,6 +34,8 @@ Le travail a consisté à piloter une stratégie d’acquisition intégrée, où
 
 Ce glissement du SEO vers les choix marketing résume la thèse de cette page. C’est en maîtrisant la mesure qu’on gagne la légitimité de décider.
 
+[Lire l’étude de cas complète](https://www.antoine-blot.com/fr/etudes-de-cas/bnp-paribas/)
+
 ## Mallette : la vision au niveau de la direction
 
 En 2026, Mallette, l’un des grands cabinets comptables du Québec, m’a confié un mandat de stratégie marketing en tant que consultant externe.
@@ -43,6 +45,8 @@ Le cabinet réunit bien plus que des comptables. Plusieurs de ses expertises, po
 Mon travail a commencé par un diagnostic de conversion, pour comprendre à quel moment l’intérêt des visiteurs cessait de se transformer en demande. J’ai ensuite proposé une architecture de marque dans laquelle chaque unité d’affaires s’adresse à son public en son nom, tout en s’appuyant sur la réputation du cabinet. L’objectif est que ces unités deviennent des moteurs d’acquisition autonomes.
 
 Un mandat de cette nature se joue au niveau de la direction. Il engage la manière dont une organisation se présente, et il demande de convaincre des associés autant que de concevoir un plan.
+
+[Lire l’étude de cas complète](https://www.antoine-blot.com/fr/etudes-de-cas/mallette/)
 
 ## Du positionnement au parcours client
 
