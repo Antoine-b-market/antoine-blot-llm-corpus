@@ -5,7 +5,7 @@ author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/architecture-ia/"
 date: "2026-09-30"
-date_modified: "2026-09-30"
+date_modified: "2026-10-01"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "noindex, follow"
@@ -55,12 +55,6 @@ C’est l’argument que je préfère : je ne recommande pas une méthode, je la
 
 Ces systèmes ne forment pas une activité à part. Ils prolongent mon travail de [consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/), où la citation par les IA est une dimension du référencement, et mon rôle de [directeur marketing](https://www.antoine-blot.com/fr/directeur-marketing/), où la visibilité doit se mesurer pour éclairer des décisions. L’architecture IA est l’endroit où ces deux domaines se rejoignent.
 
-## Parlons-en
-
-Une problématique de visibilité IA qui demande un système sur mesure ? Parlons-en.
-
-[[CTA]]
-
 ## Foire aux questions
 
 ### Développez-vous des chatbots ou des assistants IA ?
@@ -74,3 +68,7 @@ Ce sont des réalisations éprouvées, pas des produits standards en vente libre
 ### Pourquoi un CMS maison plutôt que WordPress ?
 
 Un CMS généraliste n’a pas été pensé pour être lu par des modèles de langage. En construisant le mien, j’ai pu décider de chaque détail qui compte pour la citation, au lieu d’empiler des extensions pour m’en approcher.
+
+## Parlons-en
+
+Une problématique de visibilité IA qui demande un système sur mesure ? Parlons-en.

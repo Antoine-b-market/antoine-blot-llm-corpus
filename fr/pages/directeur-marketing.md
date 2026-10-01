@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/directeur-marketing/"
 image: "https://www.antoine-blot.com/media/AdobeStock_286454778-scaled.jpeg"
 date: "2024-10-25"
-date_modified: "2026-09-30"
+date_modified: "2026-10-01"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -66,12 +66,6 @@ Ce que j’exerce déjà, en consultant, c’est de la direction marketing. Dans
 
 Je suis ouvert à porter cette compétence au sein d’une direction, en interne comme en accompagnement. Le format change, la compétence reste la même. Pour une direction générale, la vraie question est de savoir lequel convient à son stade de développement, et j’en discute dans un article sur le [choix entre recruter et externaliser son marketing](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/). Deux autres textes traitent du [rôle d’un CMO en PME](https://www.antoine-blot.com/fr/blogue/role-cmo-pme/) et de la manière de [structurer la fonction marketing](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/).
 
-## Échangeons
-
-Si vous dirigez une entreprise ou si vous recrutez pour une direction marketing, parlons de ce que vous cherchez à construire.
-
-[[CTA]]
-
 ## Foire aux questions
 
 ### Quels mandats de direction marketing acceptez-vous ?
@@ -85,3 +79,7 @@ Je suis ouvert à exercer la direction marketing en interne, comme je l’exerce
 ### Comment se passe un premier échange ?
 
 C’est une conversation sur votre entreprise et sur ce qui freine sa croissance aujourd’hui. À la fin, je vous dis franchement si mon profil répond à votre besoin, et sous quelle forme.
+
+## Échangeons
+
+Si vous dirigez une entreprise ou si vous recrutez pour une direction marketing, parlons de ce que vous cherchez à construire.

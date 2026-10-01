@@ -5,7 +5,7 @@ author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/"
 date: "2026-09-15"
-date_modified: "2026-09-30"
+date_modified: "2026-10-01"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -16,6 +16,10 @@ Tapez la requête et comptez les pages qui s’attribuent le titre. Vous en trou
 Personne n’organise ce concours. Il n’existe ni jury ni barème public, et aucune mesure ne permet de départager deux prestataires qui ne servent pas les mêmes clients ni les mêmes marchés. Se proclamer "meilleure agence SEO de Montréal" revient donc à affirmer quelque chose que rien ne peut confirmer. Pour un métier dont le but est de gagner la confiance des moteurs de recherche, le point de départ est curieux.
 
 Je suis consultant SEO et GEO à Montréal, et je ne revendique pas ce titre. Cette page explique ce qu’il cache chez certains, et ce que je propose à la place.
+
+> **Essentiel à retenir**
+>
+> Une agence prête à tromper les moteurs pour vendre ses services le fera aussi pour vendre les vôtres. Sauf que ce sera votre nom sur la page.
 
 ## Une étiquette que chacun s’attribue lui-même
 
@@ -30,10 +34,6 @@ Le secteur en parle peu, alors je le dis clairement : une partie des classements
 La forme la plus visible est le comparatif maison. Une agence publie un "top 10 des agences SEO à Montréal", s’installe en tête et s’entoure de concurrents choisis pour la mettre en valeur. La page a l’allure d’un guide neutre. Rien n’indique au lecteur qu’elle a été écrite par l’un des candidats.
 
 La forme la plus discrète passe par les données structurées. Ce balisage, invisible pour le visiteur, décrit une page aux moteurs : une entreprise, ses avis, sa note moyenne. Certaines agences y déclarent des évaluations que personne n’a données, ou s’y présentent comme la référence de leur marché. Le but est d’être reprises telles quelles par Google, ChatGPT ou Perplexity, qui finissent par recommander "les meilleures agences" en recopiant ce que ces agences ont écrit sur elles-mêmes.
-
-> **Essentiel à retenir**
->
-> Une agence prête à tromper les moteurs pour vendre ses services le fera aussi pour vendre les vôtres. Sauf que ce sera votre nom sur la page.
 
 ## Ce que la manœuvre coûte au client
 
@@ -83,12 +83,6 @@ Vous n’avez pas besoin d’être expert pour démasquer un titre usurpé. Quel
 
 -   Posez la question des IA. Un prestataire sérieux vous explique comment il mesure votre présence dans les réponses générées, sans promettre d’y placer votre nom.
 
-## Parlons de votre situation
-
-Si vous cherchez quelqu’un qui vous dira franchement ce que [le SEO](https://www.antoine-blot.com/fr/consultant-seo/) et [le GEO](https://www.antoine-blot.com/fr/consultant-seo/geo/) peuvent faire pour votre entreprise, et ce qu’ils ne feront pas, écrivez-moi. Je commence toujours par regarder votre marché et vos clients avant de parler de mots-clés.
-
-\[\[CTA\]\]
-
 ## Foire aux questions
 
 ### Existe-t-il un classement fiable des agences SEO à Montréal ?
@@ -114,3 +108,7 @@ Je n’avance aucun chiffre avant deux choses : avoir analysé votre situation, 
 ### Mon agence actuelle utilise peut-être ces pratiques, que faire ?
 
 Faites vérifier votre balisage et vos pages par un regard extérieur. Si des avis ou des notes sans source y figurent, retirez-les avant qu’un moteur ne les repère. Parlez-en ensuite franchement à votre agence : sa réaction vous en dira beaucoup sur la suite de la collaboration.
+
+## Parlons de votre situation
+
+Si vous cherchez quelqu’un qui vous dira franchement ce que [le SEO](https://www.antoine-blot.com/fr/consultant-seo/) et [le GEO](https://www.antoine-blot.com/fr/consultant-seo/geo/) peuvent faire pour votre entreprise, et ce qu’ils ne feront pas, écrivez-moi. Je commence toujours par regarder votre marché et vos clients avant de parler de mots-clés.

@@ -5,7 +5,7 @@ author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/geo/"
 date: "2026-08-19"
-date_modified: "2026-09-30"
+date_modified: "2026-10-01"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -66,14 +66,6 @@ Je ne cherche pas non plus à manipuler les réponses. Certaines agences fabriqu
 
 Enfin, si votre site manque encore de fondations, je vous le dirai : dans ce cas, le GEO attendra.
 
-## Tout repart du socle SEO
-
-Si vous êtes arrivé ici en cherchant un spécialiste du GEO, mon conseil est de regarder d’abord votre SEO. Le travail sur les [fondations SEO de votre site](https://www.antoine-blot.com/fr/consultant-seo/), du diagnostic à l’autorité en passant par le ciblage et les contenus, est celui qui profite le plus à votre présence dans les IA. Le GEO vient ensuite affiner ce que ce travail a construit.
-
-Parlons de la place de votre entreprise dans les recherches, sur Google et auprès des IA.
-
-[[CTA]]
-
 ## Foire aux questions
 
 ### Faut-il un site différent pour être cité par les IA ?
@@ -91,3 +83,9 @@ Cela dépend surtout de l’état de votre site au départ. Sur un socle SEO dé
 ### Peut-on faire du GEO sans faire de SEO ?
 
 Rarement avec profit. Un site que les moteurs explorent mal ou jugent peu fiable a peu de chances de servir de source, quelle que soit la qualité de ses textes. C’est pourquoi je commence toujours par le SEO.
+
+## Tout repart du socle SEO
+
+Si vous êtes arrivé ici en cherchant un spécialiste du GEO, mon conseil est de regarder d’abord votre SEO. Le travail sur les [fondations SEO de votre site](https://www.antoine-blot.com/fr/consultant-seo/), du diagnostic à l’autorité en passant par le ciblage et les contenus, est celui qui profite le plus à votre présence dans les IA. Le GEO vient ensuite affiner ce que ce travail a construit.
+
+Parlons de la place de votre entreprise dans les recherches, sur Google et auprès des IA.
