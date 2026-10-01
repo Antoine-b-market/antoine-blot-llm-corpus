@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/IA-impact-marketing.jpg"
 date: "2025-03-05"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "direction-marketing"
 related_articles:

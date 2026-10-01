@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/AdobeStock_327503239-scaled.webp"
 date: "2024-11-11"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "transformation-numerique"
 related_articles:

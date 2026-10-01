@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/Emergence-du-GEO.jpg"
 date: "2025-12-31"
 date_modified: "2026-08-20"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "seo-geo"
 related_articles:

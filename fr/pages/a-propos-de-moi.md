@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/Antoineblot.webp"
 date: "2024-05-17"
 date_modified: "2026-09-30"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 ---
 

@@ -7,7 +7,7 @@ canonical_url: "https://www.antoine-blot.com/fr/contact/"
 date: "2024-01-09"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 ---
 

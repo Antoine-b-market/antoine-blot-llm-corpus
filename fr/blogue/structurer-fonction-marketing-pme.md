@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/Structurer-la-fonction-marketing-dans
 date: "2025-07-25"
 date_modified: "2026-08-20"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "direction-marketing"
 related_articles:

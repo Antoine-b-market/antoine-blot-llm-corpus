@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/Transformation-digitale-opportunites-
 date: "2024-12-13"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "transformation-numerique"
 related_articles:

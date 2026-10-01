@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/AdobeStock_513650348-scaled.webp"
 date: "2024-11-05"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "seo-geo"
 related_articles:

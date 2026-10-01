@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/EEAT-google-content-seo.jpg"
 date: "2025-04-30"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "seo-geo"
 related_articles:

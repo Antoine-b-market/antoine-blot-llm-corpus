@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/Quand-lintelligence-artificielle-reme
 date: "2025-10-08"
 date_modified: "2026-08-20"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "direction-marketing"
 related_articles:

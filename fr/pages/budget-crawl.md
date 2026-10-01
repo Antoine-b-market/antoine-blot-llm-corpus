@@ -7,7 +7,7 @@ canonical_url: "https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/"
 date: "2025-07-31"
 date_modified: "2025-07-31"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 ---
 

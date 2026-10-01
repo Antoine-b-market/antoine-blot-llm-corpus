@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/Le-role-du-CMO-dans-une-PME-plus-quun
 date: "2025-07-25"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr-CA"
+hreflang: "fr"
 robots: "index, follow"
 category: "direction-marketing"
 related_articles:
