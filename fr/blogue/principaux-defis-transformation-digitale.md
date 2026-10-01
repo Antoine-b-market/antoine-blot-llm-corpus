@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/principaux-defis-transformation-digit
 date: "2024-12-04"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 category: "transformation-numerique"
 related_articles:

@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/logo-Cactusoft-300x118.png"
 date: "2025-12-30"
 date_modified: "2026-09-30"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 ---
 

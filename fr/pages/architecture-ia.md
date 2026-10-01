@@ -7,7 +7,7 @@ canonical_url: "https://www.antoine-blot.com/fr/architecture-ia/"
 date: "2026-09-30"
 date_modified: "2026-09-30"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "noindex, follow"
 ---
 

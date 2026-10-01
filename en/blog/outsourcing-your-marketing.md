@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/impartition-marketing.jpg"
 date: "2026-01-26"
 date_modified: "2026-08-20"
 lang: "en"
-hreflang: "en"
+hreflang: "en-CA"
 robots: "index, follow"
 ---
 

@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/enjeux-et-defi-omnicanalite.jpg"
 date: "2025-01-17"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 category: "transformation-numerique"
 related_articles:

@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/IA-strategie-SEO.jpg"
 date: "2025-05-20"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 category: "seo-geo"
 related_articles:

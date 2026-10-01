@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/transformation-parcours-acquisition.j
 date: "2025-07-05"
 date_modified: "2026-08-20"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 category: "seo-geo"
 related_articles:

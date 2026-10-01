@@ -7,7 +7,7 @@ canonical_url: "https://www.antoine-blot.com/fr/ressources-seo/fichier-robots-tx
 date: "2025-07-31"
 date_modified: "2025-08-01"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 ---
 

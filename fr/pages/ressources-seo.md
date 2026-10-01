@@ -7,7 +7,7 @@ canonical_url: "https://www.antoine-blot.com/fr/ressources-seo/"
 date: "2025-07-30"
 date_modified: "2026-06-13"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 ---
 

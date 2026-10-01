@@ -8,7 +8,7 @@ image: "https://www.antoine-blot.com/media/intelligence-articifielle3-scaled.web
 date: "2024-11-07"
 date_modified: "2026-08-19"
 lang: "fr"
-hreflang: "fr"
+hreflang: "fr-CA"
 robots: "index, follow"
 ---
 
