@@ -76,7 +76,7 @@ Vous pouvez consulter des [exemples de clients que j’accompagne](https://www.a
 
 Si vous voulez savoir ce que la recherche peut apporter à votre entreprise, commençons par un échange sur votre marché. Je vous dirai franchement si le SEO vaut l’investissement dans votre cas.
 
-[[CTA]]
+\[\[CTA\]\]
 
 ## Foire aux questions
 
