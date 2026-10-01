@@ -5,7 +5,7 @@ base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
 last_updated: "2026-10-01"
-count: 26
+count: 27
 ---
 
 # Pages — Contenus français
@@ -17,6 +17,7 @@ count: 26
 - [Qu’est-ce qu’une balise meta description en SEO ?](https://www.antoine-blot.com/data/fr/pages/meta-description.md)
 - [Qu’est-ce que le budget de crawl](https://www.antoine-blot.com/data/fr/pages/budget-crawl.md)
 - [Cabinet dentaire à Anjou : +11 % de patients fidèles pour des traitements de fond](https://www.antoine-blot.com/data/fr/pages/cabinet-dentaire-anjou.md)
+- [Chasseur de têtes : désormais, plus d’un lead sur deux vient des IA](https://www.antoine-blot.com/data/fr/pages/recrutement-citations-ia.md)
 - [Mes références en SEO et stratégie marketing](https://www.antoine-blot.com/data/fr/pages/clients.md)
 - [Qu’est-ce qu’un cocon sémantique en SEO ?](https://www.antoine-blot.com/data/fr/pages/cocon-semantique.md)
 - [Qu’est-ce qu’un code de réponse HTTP en SEO ?](https://www.antoine-blot.com/data/fr/pages/code-reponse-http.md)

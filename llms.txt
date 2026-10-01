@@ -57,6 +57,7 @@
 - [Budget de crawl : comment Google explore votre site](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/): Le budget de crawl correspond au nombre de pages que Googlebot est prêt à explorer sur votre site. Découvrez comment l’optimiser pour un SEO plus efficace.
 
 ## Pages
+- [Chasseur de têtes : plus d'un lead sur deux vient des IA | Antoine Blot](https://www.antoine-blot.com/fr/clients/recrutement-citations-ia/): Étude de cas GEO : un cabinet de chasse de têtes devient une source citée par les assistants IA. Plus d'un lead sur deux en provient, selon son CRM.
 - [Couvreur toits en pente : spécialiste reconnu dans 5 villes | Antoine Blot](https://www.antoine-blot.com/fr/clients/couvreur-toits-en-pente/): Étude de cas SEO local : un couvreur quitte la requête "toiture" pour sa spécialité, les toits en pente, et devient la référence de 5 villes.
 - [Cabinet dentaire à Anjou : +11 % de patients fidèles | Antoine Blot](https://www.antoine-blot.com/fr/clients/cabinet-dentaire-anjou/): Étude de cas SEO local : un cabinet dentaire d'Anjou délaisse "dentiste Montréal" pour son quartier et gagne 11 % de patients réguliers en soins lourds.
 - [Mallette : un problème de visibilité qui était un problème de structure | Antoine Blot](https://www.antoine-blot.com/fr/clients/mallette/): Étude de cas : pour Mallette, j'ai reformulé une demande de visibilité en question de structure de marque, et recommandé une nouvelle architecture.
