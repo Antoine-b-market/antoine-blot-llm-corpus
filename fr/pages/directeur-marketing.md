@@ -28,7 +28,7 @@ La direction marketing commence au moment où ces deux responsabilités reposent
 
 Chez BNP Paribas, je suis arrivé comme stratège SEO. Mon rôle s’est élargi en cours de route : j’ai été amené à appuyer des décisions de stratégie marketing, en m’appuyant sur la donnée client pour renforcer l’acquisition.
 
-Le travail a consisté à piloter une stratégie d’acquisition intégrée, où le référencement et la connaissance des clients avançaient ensemble au lieu de fonctionner chacun de son côté. Sur 18 mois, le trafic organique qualifié est passé de 125 000 à 362 000 sessions par mois.
+Le travail a consisté à piloter une stratégie d’acquisition intégrée, où le référencement et la connaissance des clients avançaient ensemble au lieu de fonctionner chacun de son côté. Sur 14 mois, le trafic organique qualifié est passé de 125 000 à 362 000 sessions par mois.
 
 <div data-html-embed="" class="html-embed"><div class="keyfig"><div class="keyfig-item"><span class="keyfig-value">+190 %</span><span class="keyfig-label">de trafic organique qualifié - BNP Paribas</span></div><div class="keyfig-item"><span class="keyfig-value">362 000</span><span class="keyfig-label">sessions par mois, contre 125 000 au départ - BNP Paribas</span></div></div></div>
 
