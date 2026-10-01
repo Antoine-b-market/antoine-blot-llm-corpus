@@ -1,80 +1,87 @@
 ---
-title: "Direction marketing et stratégie de croissance au Québec"
-description: "⚡Boostez la croissance de votre entreprise avec une stratégie marketing sur-mesure - Acquisition client, amélioration de la visibilité web, stratégie multicanal"
+title: "Directeur marketing à Montréal : tenir ensemble la vision et la performance"
+description: "Directeur marketing à Montréal, 12 ans d’expérience. De BNP Paribas à Mallette, la vision qui repositionne une marque et la performance qui se mesure, portées par la même personne."
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/directeur-marketing/"
 image: "https://www.antoine-blot.com/media/AdobeStock_286454778-scaled.jpeg"
 date: "2024-10-25"
-date_modified: "2026-08-19"
+date_modified: "2026-09-30"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
 ---
 
-Mon rôle consiste à transformer vos objectifs d’affaires en une stratégie marketing cohérente et actionnable. En tant que **stratège senior**, j’interviens comme le pivot entre votre vision et l’exécution sur le terrain. Cela signifie non seulement définir une feuille de route rigoureuse, mais aussi assurer l’arbitrage constant des budgets entre l’acquisition de nouveaux clients et le rayonnement de votre marque.
+Après 12 ans de marketing, dont une large part consacrée à l’acquisition et au SEO, j’exerce aujourd’hui un rôle de direction marketing. Mon travail consiste à relier deux choses que les organisations confient rarement à la même personne : la vision qui repositionne une entreprise, et la performance qui se vérifie dans les chiffres. Les deux mandats décrits sur cette page en donnent la mesure.
 
-Au quotidien, je coordonne l’ensemble de vos leviers numériques et vos ressources, qu’il s’agisse de vos équipes internes ou de vos partenaires externes. Pour garantir une exécution sans faille. Mon approche repose sur une analyse continue des données de performance, permettant d’ajuster les tactiques en temps réel pour maximiser votre retour sur investissement tout en renforçant votre positionnement sur le marché québécois.
+> **Essentiel à retenir**
+>
+> Un directeur marketing répond à la fois de la direction que prend la marque et des résultats qu’elle produit. C’est cette double responsabilité qui définit le rôle.
 
-## Compétences transversales du directeur marketing
+## Deux compétences qu’on confie rarement à la même personne
 
-Comme directeur marketing (CMO), je combine une expertise technique solide avec une vision stratégique globale. Ma force réside dans la capacité à articuler les différents piliers du marketing pour servir une croissance cohérente, mesurable et durable. Voici un aperçu des compétences que je mobilise au quotidien :
+Quand une entreprise renforce son marketing, elle recrute souvent l’un de deux profils. Le premier pense le positionnement et la marque, mais mesure peu ce que ses choix rapportent. Le second maîtrise l’acquisition et les tableaux de bord, sans avoir la main sur la direction d’ensemble. Chacun fait bien son travail, et l’entreprise se retrouve pourtant avec une stratégie que personne ne vérifie, ou avec des chiffres qui optimisent un cap que personne n’a choisi.
 
-| Compétence | Description |
-| --- | --- |
-| Stratégie et planification | Création de plans marketing annuels et alignement sur vos objectifs de vente. |
-| Acquisition et performance | Pilotage du SEO, SEA et des campagnes payantes pour générer des leads qualifiés. |
-| Identité de marque | Développement d’un positionnement clair et d’un message qui résonne au Québec. |
-| Analyse et optimisation | Suivi rigoureux des données pour ajuster les actions et maximiser le ROI. |
-| Gestion de projets | Orchestration des ressources et des échéanciers pour une exécution sans faille. |
+La direction marketing commence au moment où ces deux responsabilités reposent sur les mêmes épaules. Les deux mandats qui suivent se situent chacun à une extrémité de ce spectre.
 
-### Une Direction Marketing stratégique pour propulser votre croissance au Québec
+## BNP Paribas : la performance mesurée à grande échelle
 
-Une vision sans pilotage reste une dépense ; une stratégie orchestrée devient un actif durable. Mon approche consiste à transformer vos ambitions d’affaires en une feuille de route rigoureuse, où chaque levier marketing devient un contributeur net à votre chiffre d’affaires. En tant que leader marketing, j’assure l’arbitrage constant des ressources pour garantir que chaque dollar investi est orienté vers la performance et la pérennité de votre marque.
+Chez BNP Paribas, je suis arrivé comme stratège SEO. Mon rôle s’est élargi en cours de route : j’ai été amené à appuyer des décisions de stratégie marketing, en m’appuyant sur la donnée client pour renforcer l’acquisition.
 
-- Alignement stratégique et objectifs d'affaires : Diagnostic complet de vos leviers de croissance pour traduire vos priorités commerciales en indicateurs de performance (KPI) mesurables.
-- Intelligence marché et segmentation : Analyse approfondie des comportements d'achat pour affiner votre positionnement et garantir un message percutant auprès des bons segments.
-- Architecture multicanal : Orchestration cohérente des canaux (SEO, SEA, réseaux sociaux) pour bâtir un écosystème numérique unifié, performant et résilient.
-- Gouvernance de la donnée : Suivi rigoureux et analytique pour optimiser les campagnes en temps réel et assurer une reddition de comptes précise à la direction générale.
-- Optimisation budgétaire et ROI : Gestion et arbitrage des budgets marketing pour maximiser l'impact opérationnel et réduire le coût d'acquisition client (CAC).
-![Strategie marketing](https://www.antoine-blot.com/media/AdobeStock_263281398-scaled.jpeg)
+Le travail a consisté à piloter une stratégie d’acquisition intégrée, où le référencement et la connaissance des clients avançaient ensemble au lieu de fonctionner chacun de son côté. Sur 18 mois, le trafic organique qualifié est passé de 125 000 à 362 000 sessions par mois.
 
-### Capital de marque et stratégie de rayonnement
+<div data-html-embed="" class="html-embed"><div class="keyfig"><div class="keyfig-item"><span class="keyfig-value">+190 %</span><span class="keyfig-label">de trafic organique qualifié - BNP Paribas</span></div><div class="keyfig-item"><span class="keyfig-value">362 000</span><span class="keyfig-label">sessions par mois, contre 125 000 au départ - BNP Paribas</span></div></div></div>
 
+Ce glissement du SEO vers les choix marketing résume la thèse de cette page. C’est en maîtrisant la mesure qu’on gagne la légitimité de décider.
 
+## Mallette : la vision au niveau de la direction
 
-La marque est l’actif le plus précieux de l’entreprise. Mon rôle est d’assurer la cohérence absolue de votre identité sur tous les points de contact. Plus qu’une simple présence sur les médias sociaux, je définis une stratégie de rayonnement qui positionne votre entreprise comme une autorité dans son secteur.
+En 2026, Mallette, l’un des grands cabinets comptables du Québec, m’a confié un mandat de stratégie marketing en tant que consultant externe.
 
-J’orchestre la ligne éditoriale et les communications sociales pour qu’elles ne soient pas seulement visibles, mais qu’elles servent directement vos objectifs de notoriété, de fidélisation et de crédibilité sur le marché québécois.
+Le cabinet réunit bien plus que des comptables. Plusieurs de ses expertises, pourtant distinctes, restaient perçues par le marché à travers la seule étiquette comptable, ce qui limitait leur capacité à attirer leurs propres clients.
 
-### Pilotage de la croissance sur le marché canadien
+Mon travail a commencé par un diagnostic de conversion, pour comprendre à quel moment l’intérêt des visiteurs cessait de se transformer en demande. J’ai ensuite proposé une architecture de marque dans laquelle chaque unité d’affaires s’adresse à son public en son nom, tout en s’appuyant sur la réputation du cabinet. L’objectif est que ces unités deviennent des moteurs d’acquisition autonomes.
 
-Le succès d’une marque au Canada ne repose pas sur la simple visibilité, mais sur une lecture précise du marché. J’interviens comme partenaire stratégique pour structurer votre acquisition. De l’analyse de vos forces concurrentielles à la veille sectorielle locale, j’optimise votre architecture marketing pour transformer chaque dollar investi en impact durable et quantifiable.
+Un mandat de cette nature se joue au niveau de la direction. Il engage la manière dont une organisation se présente, et il demande de convaincre des associés autant que de concevoir un plan.
 
-### Optimisation du Mix Marketing et alignement de l'offre
+## Du positionnement au parcours client
 
-Une stratégie cohérente exige d’aligner chaque point de contact. En pilotant les leviers du mix marketing (7P), je m’assure que votre positionnement prix, votre offre de services et votre preuve physique (expérience client) sont en parfaite adéquation avec les attentes du marché. Mon rôle est de garantir la pertinence de votre proposition de valeur pour maximiser la perception de marque et vos marges.
+Une stratégie marketing ne vaut que par sa traduction dans le parcours de vos clients. Le positionnement fixe ce que vous promettez, et à qui. Le parcours décide de la façon dont cette promesse est découverte, puis tenue dans la durée.
 
-### Pourquoi intégrer une Direction Marketing à votre structure ?
+Je lis ce parcours en quatre moments : la découverte, l’engagement, la décision et la fidélité. Chacun a ses indicateurs. En amont, on regarde qui arrive et par quel canal. En aval, on suit la rétention et la valeur qu’un client représente sur toute sa relation avec vous. Une stratégie qui ne dit rien de ces quatre moments reste une intention.
 
-Pour une entreprise en croissance, le défi n’est plus de générer du trafic, mais de bâtir un système prévisible de revenus. En tant que Directeur Marketing (Fractional CMO), j’interviens pour transformer votre vision en une feuille de route actionnable. Mon rôle est d’apporter la clarté nécessaire pour arbitrer vos investissements et sécuriser votre expansion sur le marché canadien.
+Les deux mandats se rejoignent à cet endroit. Chez Mallette, le diagnostic de conversion partait de cette lecture du parcours. Chez BNP Paribas, la donnée client servait à nourrir le haut de ce même parcours.
 
-### Votre valeur ajoutée au-delà du simple conseil
+## La pluridisciplinarité comme condition
 
-- Arbitrage budgétaire et ROI : Je ne me contente pas de suivre des dépenses, j'optimise l'allocation de vos ressources pour réduire le coût d'acquisition et maximiser la valeur vie-client (LTV).
-- Structuration de l'écosystème marketing : Audit et alignement de vos outils, de vos processus internes et de vos prestataires pour une exécution sans faille.
-- Croissance de l'équité de marque : Définir un positionnement qui vous distingue de la concurrence et crée une barrière à l'entrée défendable.
+On présente souvent un directeur marketing par une liste de compétences. Je préfère partir de ce que ces deux mandats ont exigé.
 
-### Foire aux questions responsable marketing
+Tenir la performance suppose de lire la donnée soi-même et de connaître les canaux d’acquisition de l’intérieur. L’analyse et l’automatisation font donc partie de mon travail, et j’en décris l’usage sur ma page dédiée au [marketing piloté par la donnée](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/). Quant au [référencement](https://www.antoine-blot.com/fr/consultant-seo/), il reste le canal que je pratique le plus en profondeur. La vision demande autre chose : comprendre une marque, ses publics et ce qui la rend crédible aux yeux de ceux qui la choisissent.
 
-  Pourquoi faire appel à une Direction Marketing externe (Fractional CMO) ?
+Ces savoirs ne s’additionnent pas, ils se contrôlent les uns les autres. La donnée empêche la vision de devenir une opinion, et la vision évite à la donnée d’optimiser la mauvaise cible.
 
-Pour une PME en croissance, recruter un Directeur Marketing à temps plein représente un coût fixe important. Faire appel à une expertise externe permet de bénéficier d’une vision stratégique senior et d’un pilotage de haut niveau pour une fraction du coût, tout en structurant vos équipes pour l’avenir.
+## Une même compétence, deux façons de l’exercer
 
-   Comment optimiser le retour sur investissement (ROI) de vos campagnes ?
+Ce que j’exerce déjà, en consultant, c’est de la direction marketing. Dans mon poste actuel, le rôle est polyvalent et couvre plusieurs leviers. Je pilote une équipe de six personnes et je tranche les décisions stratégiques, comme les refontes, sans être absorbé par l’opérationnel au quotidien.
 
-L’optimisation repose sur une gouvernance rigoureuse des données. En analysant le coût d’acquisition client (CAC) par canal et en le comparant à la valeur vie-client (LTV), nous ajustons les budgets en continu pour favoriser les leviers les plus rentables, qu’il s’agisse de SEO, de publicité payante ou de marketing relationnel.
+Je suis ouvert à porter cette compétence au sein d’une direction, en interne comme en accompagnement. Le format change, la compétence reste la même. Pour une direction générale, la vraie question est de savoir lequel convient à son stade de développement, et j’en discute dans un article sur le [choix entre recruter et externaliser son marketing](https://www.antoine-blot.com/fr/blogue/recruter-externaliser-marketing-pme/). Deux autres textes traitent du [rôle d’un CMO en PME](https://www.antoine-blot.com/fr/blogue/role-cmo-pme/) et de la manière de [structurer la fonction marketing](https://www.antoine-blot.com/fr/blogue/structurer-fonction-marketing-pme/).
 
-   Quels sont les piliers d'une stratégie marketing réussie au Québec ?
+## Échangeons
 
-Une stratégie performante repose sur trois piliers : un positionnement de marque différenciateur, une architecture d’acquisition multicanal cohérente et une analyse de performance transparente. Il s’agit d’aligner votre offre sur les comportements d’achat locaux pour bâtir un avantage concurrentiel durable.
+Si vous dirigez une entreprise ou si vous recrutez pour une direction marketing, parlons de ce que vous cherchez à construire.
+
+[[CTA]]
+
+## Foire aux questions
+
+### Quels mandats de direction marketing acceptez-vous ?
+
+Ceux où je peux agir sur la direction comme sur les résultats, qu’il s’agisse de repositionner une marque ou de structurer une fonction marketing avec la responsabilité de ce qu’elle produit. Les missions d’exécution pure, où le cap est déjà fixé, correspondent moins à ce que j’apporte.
+
+### Êtes-vous disponible pour un poste de directeur marketing ?
+
+Je suis ouvert à exercer la direction marketing en interne, comme je l’exerce aujourd’hui en accompagnement. Le format se discute selon l’entreprise et le moment. Ce qui compte, c’est que le rôle réunisse la vision et la responsabilité des résultats.
+
+### Comment se passe un premier échange ?
+
+C’est une conversation sur votre entreprise et sur ce qui freine sa croissance aujourd’hui. À la fin, je vous dis franchement si mon profil répond à votre besoin, et sous quelle forme.

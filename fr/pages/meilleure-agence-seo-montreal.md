@@ -8,7 +8,7 @@ date: "2026-09-15"
 date_modified: "2026-09-30"
 lang: "fr"
 hreflang: "fr-CA"
-robots: "noindex, follow"
+robots: "index, follow"
 ---
 
 Tapez la requête et comptez les pages qui s’attribuent le titre. Vous en trouverez une dizaine sans effort, chacune sûre d’elle. Aucune ne précise qui l’a désignée, ni selon quels critères.

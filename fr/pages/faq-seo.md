@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/faq-seo/"
 image: "https://www.antoine-blot.com/media/FAQ-SEO.jpg"
 date: "2025-07-15"
-date_modified: "2025-07-31"
+date_modified: "2026-09-30"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -440,4 +440,4 @@ Contrairement aux campagnes payantes, les résultats du **référencement nature
 
 Dans un environnement concurrentiel où les premiers **résultats de recherche** captent l’essentiel du **trafic**, élaborer une **stratégie SEO pour votre entreprise** n’est pas un simple choix technique : c’est un levier marketing stratégique, au cœur de votre présence numérique.
 
- [Vers la page consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)  [Vers la page stratégie SEO](https://www.antoine-blot.com/fr/consultant-seo/strategie-seo/)
+ [Vers la page consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)
