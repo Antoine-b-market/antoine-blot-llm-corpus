@@ -1,5 +1,5 @@
 ---
-title: "Let's talk about your project"
+title: "Let’s talk about your project"
 description: "Contact Antoine Blot, SEO & GEO consultant and marketing director in Montréal. Tell me about your project."
 author: "Antoine Blot"
 author_url: "https://www.antoine-blot.com"
@@ -11,4 +11,4 @@ hreflang: "en-CA"
 robots: "index, follow"
 ---
 
-Tell me what you're trying to build. I'll tell you honestly whether I'm the right fit, and how I can help.
+Tell me what you’re trying to build. I’ll tell you honestly whether I’m the right fit, and how I can help.
