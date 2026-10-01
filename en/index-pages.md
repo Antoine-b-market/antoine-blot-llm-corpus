@@ -5,9 +5,9 @@ base_url: "https://www.antoine-blot.com"
 lang: "en"
 type: "page"
 last_updated: "2026-10-01"
-count: 0
+count: 1
 ---
 
 # Pages — Contenus anglais
 
-_(aucun contenu)_
+- [Let's talk about your project](https://www.antoine-blot.com/data/en/pages/contact.md)
