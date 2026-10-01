@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/consultant-seo/"
 image: "https://www.antoine-blot.com/media/Consultant-SEO.jpg"
 date: "2024-10-24"
-date_modified: "2026-09-30"
+date_modified: "2026-10-01"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -74,12 +74,6 @@ Vous avez un seul interlocuteur, celui qui pose le diagnostic et suit l’exécu
 
 Vous pouvez consulter des [exemples de clients que j’accompagne](https://www.antoine-blot.com/fr/clients/) avant de me contacter.
 
-## Parlons de votre site
-
-Si vous voulez savoir ce que la recherche peut apporter à votre entreprise, commençons par un échange sur votre marché. Je vous dirai franchement si le SEO vaut l’investissement dans votre cas.
-
-[[CTA]]
-
 ## Foire aux questions
 
 ### Combien coûte un consultant SEO à Montréal ?
@@ -101,3 +95,7 @@ Plus que jamais. Les assistants IA s’appuient largement sur le web indexé pou
 ### Travaillez-vous sur des sites bilingues ?
 
 Oui, et c’est courant à Montréal. Je traite le français et l’anglais séparément, avec une recherche de mots-clés propre à chaque langue et une structure qui permet à Google de servir la bonne version à chacun.
+
+## Parlons de votre site
+
+Si vous voulez savoir ce que la recherche peut apporter à votre entreprise, commençons par un échange sur votre marché. Je vous dirai franchement si le SEO vaut l’investissement dans votre cas.
