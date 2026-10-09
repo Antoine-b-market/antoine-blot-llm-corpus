@@ -107,7 +107,7 @@ Les **entreprises locales**, par exemple, ont tout intérêt à optimiser leur p
 
 Les **PME et les entreprises en croissance** utilisent le SEO pour se faire connaître, générer des contacts qualifiés ou vendre en ligne. Une stratégie bien pensée permet d’améliorer la qualité des **pages**, d’optimiser le **contenu** et de structurer le site pour répondre aux attentes des internautes.
 
-Les **entreprises de services** — qu’elles œuvrent en B2B ou B2C — bénéficient également du SEO pour valoriser leur expertise, positionner leur offre et capter une audience ciblée. Dans ces secteurs, le **contenu** joue un rôle clé : il permet de répondre aux questions fréquentes des clients tout en renforçant la crédibilité du site.
+Les **entreprises de services** - qu’elles œuvrent en B2B ou B2C - bénéficient également du SEO pour valoriser leur expertise, positionner leur offre et capter une audience ciblée. Dans ces secteurs, le **contenu** joue un rôle clé : il permet de répondre aux questions fréquentes des clients tout en renforçant la crédibilité du site.
 
 Enfin, les **sites e-commerce** ont un besoin constant d’**optimisation SEO** pour apparaître sur les bonnes **requêtes** et devancer la concurrence dans les **résultats de recherche**.
 

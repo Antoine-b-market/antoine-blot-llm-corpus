@@ -1,15 +1,16 @@
 ---
-title: "Antoine Blot — Pages (FR)"
-description: "Pages — contenus français."
+title: "Antoine Blot - Pages (FR)"
+description: "Pages - contenus français."
 base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
-last_updated: "2026-10-08"
+last_updated: "2026-10-09"
 count: 26
 ---
 
-# Pages — Contenus français
+# Pages - Contenus français
 
+- [Architecture IA : je construis ce qui rend une marque visible quand les IA répondent](https://www.antoine-blot.com/data/fr/pages/architecture-ia.md)
 - [BNP Paribas Cardif : +190 % de trafic organique qualifié à partir de la parole des clients](https://www.antoine-blot.com/data/fr/pages/bnp-paribas.md)
 - [Qu’est-ce qu’un backlinks en SEO ?](https://www.antoine-blot.com/data/fr/pages/backlinks.md)
 - [Qu’est-ce qu’une balise meta description en SEO ?](https://www.antoine-blot.com/data/fr/pages/meta-description.md)
@@ -19,7 +20,7 @@ count: 26
 - [Qu’est-ce qu’un cocon sémantique en SEO ?](https://www.antoine-blot.com/data/fr/pages/cocon-semantique.md)
 - [Qu’est-ce qu’un code de réponse HTTP en SEO ?](https://www.antoine-blot.com/data/fr/pages/code-reponse-http.md)
 - [Consultant SEO à Montréal : être trouvé par les clients qui comptent](https://www.antoine-blot.com/data/fr/pages/consultant-seo.md)
-- [Contactez moi](https://www.antoine-blot.com/data/fr/pages/contact.md)
+- [Contactez-moi](https://www.antoine-blot.com/data/fr/pages/contact.md)
 - [Qu’est-ce que le contenu dupliqué en SEO ?](https://www.antoine-blot.com/data/fr/pages/contenu-duplique.md)
 - [Couvreur spécialisé en toits en pente : la référence locale dans 5 villes](https://www.antoine-blot.com/data/fr/pages/couvreur-toits-en-pente.md)
 - [Directeur marketing à Montréal : tenir ensemble la vision et la performance](https://www.antoine-blot.com/data/fr/pages/directeur-marketing.md)
@@ -28,7 +29,6 @@ count: 26
 - [GEO à Montréal : se faire citer par les IA, à partir du SEO](https://www.antoine-blot.com/data/fr/pages/geo.md)
 - [Qu’est-ce que le maillage interne en SEO ?](https://www.antoine-blot.com/data/fr/pages/maillage-interne.md)
 - [Mallette : une demande publicitaire qui était une question de positionnement](https://www.antoine-blot.com/data/fr/pages/mallette.md)
-- [Décisions efficaces grâce à la Data et l’automatisation](https://www.antoine-blot.com/data/fr/pages/automatisation-data-driven.md)
 - [Meilleure agence SEO à Montréal : méfiez-vous des auto-proclamés](https://www.antoine-blot.com/data/fr/pages/meilleure-agence-seo-montreal.md)
 - [Qu’est-ce qu’une page orpheline en SEO ?](https://www.antoine-blot.com/data/fr/pages/pages-orphelines.md)
 - [Qu’est-ce qu’une balise title en SEO ?](https://www.antoine-blot.com/data/fr/pages/balise-title.md)

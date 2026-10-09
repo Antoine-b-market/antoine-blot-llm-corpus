@@ -60,7 +60,7 @@ Les deux mandats se rejoignent à cet endroit. Chez Mallette, le diagnostic de c
 
 On présente souvent un directeur marketing par une liste de compétences. Je préfère partir de ce que ces deux mandats ont exigé.
 
-Tenir la performance suppose de lire la donnée soi-même et de connaître les canaux d’acquisition de l’intérieur. L’analyse et l’automatisation font donc partie de mon travail, et j’en décris l’usage sur ma page dédiée au [marketing piloté par la donnée](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/). Quant au [référencement](https://www.antoine-blot.com/fr/consultant-seo/), il reste le canal que je pratique le plus en profondeur. La vision demande autre chose : comprendre une marque, ses publics et ce qui la rend crédible aux yeux de ceux qui la choisissent.
+Tenir la performance suppose de lire la donnée soi-même et de connaître les canaux d’acquisition de l’intérieur. L’analyse et l’automatisation font donc partie de mon travail. Quant au [référencement](https://www.antoine-blot.com/fr/consultant-seo/), il reste le canal que je pratique le plus en profondeur. La vision demande autre chose : comprendre une marque, ses publics et ce qui la rend crédible aux yeux de ceux qui la choisissent.
 
 Ces savoirs ne s’additionnent pas, ils se contrôlent les uns les autres. La donnée empêche la vision de devenir une opinion, et la vision évite à la donnée d’optimiser la mauvaise cible.
 

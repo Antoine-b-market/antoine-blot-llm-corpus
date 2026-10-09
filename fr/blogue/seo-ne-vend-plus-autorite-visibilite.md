@@ -35,11 +35,8 @@ Entendons-nous : si votre métier consiste à répondre à une urgence immédiat
 ### À retenir
 
 - La visibilité n’est plus un avantage compétitif : elle est devenue une commodité.
-
 - Le SEO reste nécessaire pour exister, mais insuffisant pour créer de la valeur.
-
 - Un contenu informationnel explique ; un actif cognitif oriente et influence.
-
 - La performance marketing ne se mesure plus uniquement en clics, mais en capacité à être cité, repris et intégré dans les décisions.
 
 ## L'autopsie du SEO "conversionnel"
@@ -97,19 +94,15 @@ Si Google disparaissait demain, que resterait-il de votre stratégie ? Seriez-vo
 
 ## Foire aux questions
 
-Le SEO est-il devenu inutile face à l’IA et aux moteurs de réponse ?
+### Le SEO est-il devenu inutile face à l’IA et aux moteurs de réponse ?
 
 Non, le SEO n’est pas mort, mais il a changé de statut. La visibilité organique est devenue une commodité : elle permet d’exister dans les moteurs, mais ne suffit plus à créer de la valeur économique. Les moteurs de réponse et les IA privilégient désormais les contenus qui structurent une vision, posent un cadre d’analyse et produisent de la connaissance exploitable. Le SEO reste nécessaire pour être accessible, mais c’est l’autorité cognitive et la clarté stratégique qui déterminent désormais qui est cité, recommandé ou ignoré.
 
-```
-Quelle est la différence entre un contenu informationnel et un actif cognitif ?
-```
+### Quelle est la différence entre un contenu informationnel et un actif cognitif ?
 
 Un contenu informationnel explique, résume et répond à une requête existante. Il est optimisé pour le clic et la compréhension immédiate. Un actif cognitif, lui, prend position. Il modifie le cadre mental du lecteur, propose une grille de lecture et influence les décisions. Dans un environnement dominé par les IA, ce sont les actifs cognitifs (clairs, structurés et assumés) qui sont cités, synthétisés et intégrés aux réponses générées, bien plus que les contenus purement descriptifs.
 
-```
-Comment transformer un contenu en véritable levier de valeur marketing, au-delà du trafic ?
-```
+### Comment transformer un contenu en véritable levier de valeur marketing, au-delà du trafic ?
 
 Un contenu devient un levier de valeur lorsqu’il cesse de chercher à plaire aux algorithmes pour commencer à orienter les décisions. Cela implique de clarifier une position, d’assumer une lecture du marché et de structurer une pensée que d’autres peuvent reprendre, citer ou opposer. Dans un contexte dominé par l’IA, la valeur ne vient plus du volume de visiteurs, mais de la capacité d’un contenu à servir de référence intellectuelle : influençant la perception d’une marque, le cadrage d’un problème ou la définition d’une stratégie. C’est ce passage du contenu au capital de connaissance qui transforme la visibilité en avantage concurrentiel.
 
@@ -118,11 +111,7 @@ Ce texte s’inscrit dans une réflexion plus large sur la transformation du mar
 ### Références académiques
 
 - **Berners-Lee, T.** (2001). *The Semantic Web*. Scientific American.
-
 - **Godin, S.** (2018). *This is Marketing*. Portfolio. (Sur le courage de ne pas plaire à tout le monde).
-
 - **Pulizzi, J.** (2014). *Epic Content Marketing*. McGraw-Hill.
-
 - **Zuboff, S.** (2019). *The Age of Surveillance Capitalism*. PublicAffairs.
-
 - **Marcus, G.** (2019). *Rebooting AI*. Pantheon.

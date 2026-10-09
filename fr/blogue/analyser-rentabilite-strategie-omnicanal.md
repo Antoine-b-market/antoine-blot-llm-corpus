@@ -22,7 +22,7 @@ related_articles:
 
 Vous l’avez sans doute remarqué : aujourd’hui, l’omnicanal est devenu un enjeu incontournable pour les entreprises. Avec des clients plus exigeants et connectés que jamais, il s’agit de proposer des parcours d’achat intégrés, sans friction, entre boutiques physiques, plateformes web, applications mobiles et réseaux sociaux.
 
-Mais au-delà des apparences, cette stratégie est-elle vraiment rentable ? Derrière les indicateurs de performance visibles, de nombreux coûts — souvent cachés — s’accumulent et peuvent compromettre l’équilibre financier. Dans ce contexte, mesurer le retour sur investissement (ROI) de l’omnicanal n’est pas une tâche évidente : cela nécessite des calculs précis, une compréhension fine des mécanismes et, surtout, une bonne dose de réflexion pour intégrer des facteurs parfois intangibles mais néanmoins cruciaux.
+Mais au-delà des apparences, cette stratégie est-elle vraiment rentable ? Derrière les indicateurs de performance visibles, de nombreux coûts - souvent cachés - s’accumulent et peuvent compromettre l’équilibre financier. Dans ce contexte, mesurer le retour sur investissement (ROI) de l’omnicanal n’est pas une tâche évidente : cela nécessite des calculs précis, une compréhension fine des mécanismes et, surtout, une bonne dose de réflexion pour intégrer des facteurs parfois intangibles mais néanmoins cruciaux.
 
 ## Qu'est-ce qu'une stratégie omnicanal ?
 
@@ -43,11 +43,11 @@ Les coûts de l’omnicanal ne se limitent pas aux frais évidents comme l’ach
 
 Les systèmes de gestion de la relation client (CRM) et les plateformes de données client (CDP) représentent souvent la première étape technologique vers l’omnicanal. Mais pourquoi utiliser un CRM ou un CDP ? Ces outils centralisent les informations clients, offrant une vision à 360 degrés pour personnaliser chaque interaction. La maintenance de ces systèmes, leur mise à jour continue et leur adaptation aux nouvelles attentes des clients sont, en revanche, loin d’être négligeables.
 
-Ensuite, il y a les [technologies d’automatisation et d’IA](https://www.antoine-blot.com/fr/directeur-marketing/automatisation-data-driven/), qui permettent d’analyser les comportements, de prédire les besoins, et même de recommander des produits en fonction des interactions passées. Cela dit, les coûts de développement et de gestion de l’IA s’accumulent rapidement, d’autant que ces systèmes exigent des compétences spécifiques pour être exploités correctement.
+Ensuite, il y a les technologies d’automatisation et d’IA, qui permettent d’analyser les comportements, de prédire les besoins, et même de recommander des produits en fonction des interactions passées. Cela dit, les coûts de développement et de gestion de l’IA s’accumulent rapidement, d’autant que ces systèmes exigent des compétences spécifiques pour être exploités correctement.
 
 ### **Coûts d’intégration et de synchronisation : un travail de fond**
 
-Un autre point souvent sous-estimé, l’omnichannel exige que chaque canal communique avec les autres. Le client doit pouvoir passer de l’un à l’autre sans qu’il y ait de rupture de flux d’information (et donc de parcours). Cela nécessite une infrastructure qui synchronise les stocks, les commandes et les interactions en temps réel — un processus coûteux en matière de technologie mais aussi de coordination.
+Un autre point souvent sous-estimé, l’omnichannel exige que chaque canal communique avec les autres. Le client doit pouvoir passer de l’un à l’autre sans qu’il y ait de rupture de flux d’information (et donc de parcours). Cela nécessite une infrastructure qui synchronise les stocks, les commandes et les interactions en temps réel - un processus coûteux en matière de technologie mais aussi de coordination.
 
 ### **Formation et adaptation des équipes : l’aspect humain de l’omnicanal**
 
@@ -65,8 +65,7 @@ Contrairement à un simple projet technique, l’omnicanal exige une adaptation 
 
 La formule ci-dessous permet de calculer le ROI en tenant compte des revenus générés et des coûts associés :
 
-ROI omnicanal =   ∑ (Revenus générés par les canaux)
-  ∑ (Coûts omnicanaux)     /    ∑ (Coûts omnicanaux)
+**ROI omnicanal = [∑ (revenus générés par les canaux) − ∑ (coûts omnicanaux)] ÷ ∑ (coûts omnicanaux)**
 
 ### **Identifier les indicateurs de performance (KPI) pour l’omnicanal**
 
@@ -83,11 +82,11 @@ Le ROI omnicanal ne se limite pas aux ventes générées directement par chaque 
 
 Comment savoir quel canal a le plus contribué à une vente ? Plusieurs modèles d’attribution permettent de comprendre l’impact de chaque canal sur le parcours d’achat. Voici les plus courants :
 
-1. 1. 1. **Last-click :** valorise le dernier point de contact avant l’achat (simple, mais réducteur).
-      2. **First-click** : valorise le premier canal d’interaction du client.
-      3. **Modèle data-driven** : utilise des données pour estimer le poids de chaque canal — idéal pour l’omnicanal, mais demande une maîtrise analytique avancée.
+1. **Last-click :** valorise le dernier point de contact avant l’achat (simple, mais réducteur).
+2. **First-click** : valorise le premier canal d’interaction du client.
+3. **Modèle data-driven** : utilise des données pour estimer le poids de chaque canal - idéal pour l’omnicanal, mais demande une maîtrise analytique avancée.
 
-En fonction du modèle choisi, on peut obtenir des résultats très différents, ce qui peut influencer les décisions d’investissement en faveur de certains canaux au détriment d’autres**.**
+En fonction du modèle choisi, on peut obtenir des résultats très différents, ce qui peut influencer les décisions d’investissement en faveur de certains canaux au détriment d’autres.
 
 ### **Mesurer le taux de conversion cross-canal**
 

@@ -85,7 +85,7 @@ Un internaute bien guidé reste plus longtemps, visite plus de pages et progress
 
 ## **Exemples concrets de stratégie de maillage**
 
-### **🔹 Exemple 1 — Site de services SEO**
+### **🔹 Exemple 1 - Site de services SEO**
 
 - /consultant-seo/ lie vers :
   - /consultant-seo/strategie-seo/
@@ -94,7 +94,7 @@ Un internaute bien guidé reste plus longtemps, visite plus de pages et progress
 - Chaque page de service propose des ressources annexes : guides, définitions, FAQ
 - Les ressources renvoient vers les services ➜ boucle de confiance
 
-### **🔹 Exemple 2 — Blog structuré en clusters**
+### **🔹 Exemple 2 - Blog structuré en clusters**
 
 - Un article “Comment améliorer son SEO” pointe vers :
   - “Cocon sémantique”

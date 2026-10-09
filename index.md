@@ -2,7 +2,7 @@
 title: "Antoine Blot — Corpus LLM"
 description: "Index du corpus Markdown : miroir du site, lisible par les LLMs."
 base_url: "https://www.antoine-blot.com"
-documents: 52
+documents: 83
 license: "CC BY 4.0"
 ---
 
@@ -20,12 +20,12 @@ l'ingestion par les LLMs, les agents et les applications RAG.
 - [citations.md](citations.md) — sources et références
 - [changelog.md](changelog.md) — historique du corpus
 
-## EN — 2 document(s)
+## EN — 33 document(s)
 
 - [index-articles.md](en/index-articles.md)
 - [index-pages.md](en/index-pages.md)
-- `en/blog/` — 1 document(s)
-- `en/pages/` — 1 document(s)
+- `en/blog/` — 20 document(s)
+- `en/pages/` — 13 document(s)
 
 ## FR — 46 document(s)
 

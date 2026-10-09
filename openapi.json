@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Antoine Blot — Consultant SEO et GEO à Montréal — contenu",
+    "title": "Antoine Blot - Consultant SEO et GEO à Montréal - contenu",
     "description": "Accès en lecture au miroir Markdown du site (pour les LLMs).",
     "version": "1.0.0"
   },
@@ -435,6 +435,405 @@
       "get": {
         "summary": "Outsourcing Your Marketing: Strategy or Glass Ceiling?",
         "description": "Marketing is too strategic to be managed part-time. Discover when to bring it in-house and how to structure your growth with Antoine Blot.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/how-ai-is-transforming-seo.md": {
+      "get": {
+        "summary": "How AI is transforming SEO: from intent to optimization",
+        "description": "Learn how artificial intelligence is redefining SEO, moving from user intent analysis to contextual optimization.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/micro-interactions-user-psychology.md": {
+      "get": {
+        "summary": "Micro-interactions and psychology: the power of customer experience",
+        "description": "Discover the subtle but powerful impact of micro-interactions on user experience, and how these well-designed details influence customers.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/omnichannel-strategy-profitability.md": {
+      "get": {
+        "summary": "Analyzing the profitability of an omnichannel strategy",
+        "description": "Omnichannel has become a must for businesses. But how do you analyze its profitability and make the most of it?",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/understanding-digital-transformation.md": {
+      "get": {
+        "summary": "Understanding digital transformation: a strategic lever for businesses",
+        "description": "Learn the fundamentals of digital transformation, its historical context and its organizational impact. A guide to understanding its strategic role.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/digital-transformation-challenges.md": {
+      "get": {
+        "summary": "The main challenges of digital transformation: obstacles and solutions",
+        "description": "Discover the main challenges of digital transformation and learn how to overcome them to boost your company's resilience and competitiveness.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/digital-transformation-opportunities.md": {
+      "get": {
+        "summary": "Digital transformation: reinventing business models and enriching the customer experience",
+        "description": "Discover how digital transformation helps businesses redefine their business models, optimize the customer experience and use data for sustainable growth.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/digital-transformation-success-tips.md": {
+      "get": {
+        "summary": "Succeeding at digital transformation: practical tips and strategy",
+        "description": "From assessing digital maturity to adopting a culture of innovation, discover practical tips for a successful digital transformation.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/omnichannel-tracking-challenges.md": {
+      "get": {
+        "summary": "Omnichannel tracking challenges and issues - In-depth report",
+        "description": "Learn the challenges and issues of omnichannel tracking. Connect your physical and digital points of sale with accessible, effective tracking solutions.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/omnichannel-tracking-tools-small-businesses.md": {
+      "get": {
+        "summary": "Omnichannel tracking tools for small businesses: what are the options?",
+        "description": "Before diving into the choice of specific tools, it is essential to lay the foundations of an omnichannel tracking solution.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/actionable-solutions-physical-retail.md": {
+      "get": {
+        "summary": "Actionable solutions for physical retail",
+        "description": "Actionable solutions for physical retail that combine omnichannel tracking and measurement tools to connect in-store and online interactions effectively.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/ai-impact-on-marketing.md": {
+      "get": {
+        "summary": "The rise of generative AI in marketing strategies",
+        "description": "See how generative AI is transforming content creation, campaign automation and customer experience in digital marketing",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/why-eeat-matters-for-seo.md": {
+      "get": {
+        "summary": "Why E-E-A-T matters for SEO: how can you boost your rankings?",
+        "description": "When did you last check the real quality of your web content?",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/integrating-ai-into-seo-strategy.md": {
+      "get": {
+        "summary": "How to effectively integrate artificial intelligence into your SEO strategy",
+        "description": "Learn the best practices for integrating AI into your SEO strategies while meeting E-E-A-T criteria and keeping your content authentic.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/when-seo-is-not-enough-ai-marketing-strategy.md": {
+      "get": {
+        "summary": "When SEO is no longer enough: rethinking your marketing strategy",
+        "description": "In the age of generative AI, SEO alone is no longer enough. How do brands build lasting cognitive authority across fragmented customer journeys?",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/cmo-role-small-business.md": {
+      "get": {
+        "summary": "The CMO's role in a small business: vision, structure and management",
+        "description": "What does a CMO do in a small business? Discover the marketing director's strategic role: structure, manage, align and prepare for growth.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/hire-or-outsource-marketing.md": {
+      "get": {
+        "summary": "Hiring or outsourcing marketing in a small business: how do you choose the right model?",
+        "description": "Small business or startup: should you hire a marketing manager or bring in an agency? Follow our guide to choose the right model.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/structuring-the-marketing-function.md": {
+      "get": {
+        "summary": "Structuring the marketing function: method, models and the CMO's role",
+        "description": "Structuring the marketing function in a small business: key steps, organizational models, and the CMO's role in managing aligned growth.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/ai-and-the-marketing-function.md": {
+      "get": {
+        "summary": "When artificial intelligence calls marketing into question",
+        "description": "AI is redefining the value, consistency and discernment of brands in the age of augmented marketing.",
+        "tags": [
+          "content"
+        ],
+        "responses": {
+          "200": {
+            "description": "Article en Markdown",
+            "content": {
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/en/blog/seo-no-longer-sells-authority-visibility.md": {
+      "get": {
+        "summary": "SEO no longer sells: why visibility has become a commodity",
+        "description": "Organic traffic no longer guarantees conversions. Why the era of classic SEO is ending and how knowledge branding is redefining marketing strategy.",
         "tags": [
           "content"
         ],

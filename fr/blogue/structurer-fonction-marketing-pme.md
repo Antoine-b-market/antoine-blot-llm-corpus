@@ -54,7 +54,7 @@ Pourquoi faire du marketing ? Pour qui ? Dans quelle logique de valeur ? Avec qu
 
 Cette question touche directement aux fondations de l’entreprise. Comme le rappelle **Philip Kotler**, père du marketing moderne,
 
-“*Le marketing ne consiste pas à vendre ce qu’on fabrique, mais à fabriquer ce qu’on peut vendre.*”
+“*Le marketing authentique n’est pas l’art de vendre ce que l’on fabrique, mais de savoir quoi fabriquer.*”
 Autrement dit, **le marketing est une fonction d’alignement** entre l’offre, la demande, et la manière dont l’entreprise crée, communique et délivre de la valeur.
 
 ### **🔹Le marketing comme interface stratégique**
@@ -77,7 +77,7 @@ La structuration est donc une **condition de durabilité**, car elle permet de s
 
 C’est dans ce sens que ***Peter Drucker***, en définissant les deux fonctions essentielles de l’entreprise, déclarait :
 
-> “Le but d’une entreprise est de créer un client. Il n’y a donc que deux fonctions fondamentales : le marketing et l’innovation. Le reste n’est que coût.”
+> “Parce que le but de l’entreprise est de créer un client, elle n’a que deux fonctions fondamentales, et deux seulement : le marketing et l’innovation. Le marketing et l’innovation produisent des résultats ; tout le reste n’est que coûts.”
 
 **Ne pas structurer le marketing, c’est prendre le risque de l’appauvrir**, de le rendre dépendant de talents isolés, de tactiques désynchronisées ou de budgets mal calibrés.
 
@@ -240,9 +240,10 @@ On peut schématiser **quatre grands modèles d’organisation marketing** obser
 
 Le bon modèle dépend de 3 facteurs :
 
-1. 1. 1. **La capacité managériale disponible** (pilotage transverse, temps de coordination)
-      2. **La diversité des publics et canaux** à adresser
-      3. **Le niveau d’autonomie et de maturité des profils en place**
+1. **La capacité managériale disponible** (pilotage transverse, temps de coordination)
+2. **La diversité des publics et canaux** à adresser
+3. **Le niveau d’autonomie et de maturité des profils en place**
+
 > Mieux vaut un modèle simple très bien piloté qu’un modèle sophistiqué sans gouvernance.
 
 ## Externaliser, recruter ou hybrider : quel modèle de structuration choisir ?
@@ -423,21 +424,21 @@ Il existe donc plusieurs “familles” de structuration, selon **l’intention 
 
 ### **🔸 Trois grands archétypes : Volume, Précision, Systémie**
 
-1. 1. **Le modèle Volume : faire connaître, aller vite, occuper le terrain**
+**1. Le modèle Volume : faire connaître, aller vite, occuper le terrain**
 
 Typique des startups early-stage, ce modèle valorise l’exécution rapide, la présence sur plusieurs canaux, et l’effet de volume (nombre de contenus, campagnes, messages).
 
 **✅** L’organisation est légère, centrée sur un ou deux profils polyvalents.
 **⚠️** Les limites apparaissent vite : redondance, dispersion, ROI difficile à établir.
 
-1. 2. **Le modèle Précision : prioriser, affiner, convertir**
+**2. Le modèle Précision : prioriser, affiner, convertir**
 
 Souvent adopté par des PME en phase de structuration, ce modèle privilégie la maîtrise du funnel, l’analyse des parcours, la segmentation et la qualité des leads.
 
 **✅** On commence à intégrer des outils de pilotage, des rituels de mesure, des arbitrages entre canaux.
 **✅** L’équipe reste réduite, mais gagne en spécialisation : on parle funnel, persona, nurturing, CAC.
 
-1. 3. **Le modèle Systémie : orchestrer, aligner, scaler**
+**3. Le modèle Systémie : orchestrer, aligner, scaler**
 
 Typique des scale-ups ou des PME matures, ce modèle repose sur une vision orchestrée du marketing : pilotage stratégique, intégration transverse avec ventes, produit, finance, RH.
 
@@ -525,7 +526,7 @@ Non. Il existe différents modèles selon l’intention stratégique : volume (v
 ### Bibliographie
 
 - [Drucker, P. F. (1973). Management: Tasks, Responsibilities, Practices. Harper & Row.](https://s3.amazonaws.com/arena-attachments/1267484/92b06bd934ddba113dbe9ce0d52199b5.pdf?1505687782=&utm_source=chatgpt.com)
-- [Kotler, P., & Keller, K. L. (2016). Marketing Management (6e éd.). Pearson.](https://www.pearson.com/se/Nordics-Higher-Education/subject-catalogue/marketing/Kotler-Keller-Marketing-Management-Global-Edition-16e.html?utm_source=chatgpt.com)
+- [Kotler, P., Keller, K. L., & Chernev, A. (2022). Marketing Management (16e éd.). Pearson.](https://www.pearson.com/se/Nordics-Higher-Education/subject-catalogue/marketing/Kotler-Keller-Marketing-Management-Global-Edition-16e.html?utm_source=chatgpt.com)
 - [McKinsey & Company. (2021). The Growth Triple Play: Creativity, Analytics, and Purpose. McKinsey Insights.](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-growth-triple-play-creativity-analytics-and-purpose)
 - Weinberg, G. (2015). Traction: How Any Startup Can Achieve Explosive Customer Growth. Portfolio.
 - [Deloitte. (2023). The CMO Survey: rôle interfonctionnel des CMOs. Deloitte & CMO Survey reports.](https://cmosurvey.org/wp-content/uploads/2024/03/The_CMO_Survey-Topline_Report-March_2023-20240328-142709.pdf)

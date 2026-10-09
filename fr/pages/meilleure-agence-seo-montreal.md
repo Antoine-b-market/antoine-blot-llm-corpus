@@ -81,13 +81,10 @@ Ni le dentiste ni le couvreur n’ont gagné la requête la plus prestigieuse de
 
 Vous n’avez pas besoin d’être expert pour démasquer un titre usurpé. Quelques gestes suffisent.
 
--   Cherchez son nom avec "meilleure agence". Si les classements qui la placent en tête sont publiés par elle-même, ou par des sites sans auteur identifiable, vous avez votre réponse.
-
--   Passez son site dans le test des résultats enrichis de Google. Si des notes ou des avis y apparaissent sans qu’on les retrouve sur une plateforme indépendante, demandez d’où ils viennent.
-
--   Demandez à parler à un client. Un logo sur une page ne prouve rien, alors qu’une personne joignable peut vous dire ce qui a changé dans son entreprise.
-
--   Posez la question des IA. Un prestataire sérieux vous explique comment il mesure votre présence dans les réponses générées, sans promettre d’y placer votre nom.
+- Cherchez son nom avec "meilleure agence". Si les classements qui la placent en tête sont publiés par elle-même, ou par des sites sans auteur identifiable, vous avez votre réponse.
+- Passez son site dans le test des résultats enrichis de Google. Si des notes ou des avis y apparaissent sans qu’on les retrouve sur une plateforme indépendante, demandez d’où ils viennent.
+- Demandez à parler à un client. Un logo sur une page ne prouve rien, alors qu’une personne joignable peut vous dire ce qui a changé dans son entreprise.
+- Posez la question des IA. Un prestataire sérieux vous explique comment il mesure votre présence dans les réponses générées, sans promettre d’y placer votre nom.
 
 ## Foire aux questions
 

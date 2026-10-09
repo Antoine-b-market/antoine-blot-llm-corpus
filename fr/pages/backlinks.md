@@ -11,7 +11,7 @@ hreflang: "fr-CA"
 robots: "index, follow"
 ---
 
-Dans l’univers du SEO, le terme **backlink** revient systématiquement lorsqu’il est question d’autorité, de popularité ou de positionnement sur Google. Et pour cause : les backlinks — ou **liens entrants** — restent l’un des **piliers de l’algorithme de Google** depuis sa création.
+Dans l’univers du SEO, le terme **backlink** revient systématiquement lorsqu’il est question d’autorité, de popularité ou de positionnement sur Google. Et pour cause : les backlinks - ou **liens entrants** - restent l’un des **piliers de l’algorithme de Google** depuis sa création.
 Mais leur rôle a évolué : là où quantité suffisait autrefois, aujourd’hui, **la qualité, la pertinence et la naturalité** sont devenues des critères dominants. Comprendre comment fonctionnent les backlinks, pourquoi ils influencent le référencement naturel et comment les obtenir sans pénalité est **fondamental pour toute stratégie SEO pérenne**.
 
 ## **Définition d’un backlink**
@@ -94,7 +94,7 @@ Des plateformes comme HARO ou Qwoted permettent aux experts de répondre à des 
 
 ### **Les LLM s’appuient aussi sur les liens**
 
-Lorsqu’un modèle comme ChatGPT reformule une réponse, il utilise implicitement des **indices de confiance contextuels** — y compris les liens cités dans les pages d’origine.
+Lorsqu’un modèle comme ChatGPT reformule une réponse, il utilise implicitement des **indices de confiance contextuels** - y compris les liens cités dans les pages d’origine.
 Une page qui reçoit de nombreux backlinks de qualité a **plus de chances d’être reformulée, résumée ou citée** dans un assistant IA.
 
 ### **Citation implicite dans les IA overviews**
@@ -122,7 +122,7 @@ Les IA de demain croisent les signaux : **autorité SEO, qualité du contenu, r�
     - Ne pas négliger les **mentions sans lien** (citations brandées utiles pour l’E-E-A-T).
     - Penser à **internaliser le link building** via les ressources existantes.
 
-## FAQ — Questions fréquentes sur les backlinks
+## FAQ - Questions fréquentes sur les backlinks
 
 Est-ce que tous les backlinks ont la même valeur ?
 

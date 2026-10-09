@@ -1,14 +1,14 @@
 ---
-title: "Antoine Blot — Articles (FR)"
-description: "Articles — contenus français."
+title: "Antoine Blot - Articles (FR)"
+description: "Articles - contenus français."
 base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "article"
-last_updated: "2026-10-08"
+last_updated: "2026-10-09"
 count: 20
 ---
 
-# Articles — Contenus français
+# Articles - Contenus français
 
 - [Analyser la rentabilité d’une stratégie omnicanal](https://www.antoine-blot.com/data/fr/blogue/analyser-rentabilite-strategie-omnicanal.md)
 - [Comment intégrer efficacement l'intelligence artificielle à votre stratégie SEO ?](https://www.antoine-blot.com/data/fr/blogue/integration-intelligence-artificielle-strategies-seo.md)

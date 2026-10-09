@@ -28,7 +28,7 @@ Mon travail commence donc par la clarté. Je fixe avec la direction ce qui passe
 
 ## Mon parcours
 
-J’ai passé 12 ans dans le marketing, d’abord auprès de grands comptes en France.
+J’ai passé 12 ans dans le marketing, d’abord auprès de grands comptes en France, et j’ai accompagné plus de 100 clients, du grand groupe à l’entreprise de quartier.
 
 Chez BNP Paribas Cardif, j’ai construit la stratégie d’acquisition organique à partir de l’analyse de 12 000 avis clients. Le trafic organique qualifié a progressé de 190 %, comme le détaille l’[étude de cas BNP Paribas Cardif](https://www.antoine-blot.com/fr/etudes-de-cas/bnp-paribas/).
 

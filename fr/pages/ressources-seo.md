@@ -21,11 +21,9 @@ Cette section a été conçue comme un **répertoire pédagogique**, destiné à
 
 L’objectif :
 
--   Démystifier le fonctionnement des moteurs de recherche,
-    
--   Apporter des réponses précises à des questions simples,
-    
--   Permettre à chacun de poser les bons diagnostics ou de lancer une optimisation SEO sans se perdre.
+- Démystifier le fonctionnement des moteurs de recherche,
+- Apporter des réponses précises à des questions simples,
+- Permettre à chacun de poser les bons diagnostics ou de lancer une optimisation SEO sans se perdre.
     
 
 Chacune des fiches proposées a été rédigée pour être **utile à l’utilisateur en quête de connaissance ou d’approfondissement du SEO**. Que vous soyez débutant, indépendant, responsable marketing ou simplement désireux d’apprendre, vous y trouverez les clés pour structurer une stratégie de référencement naturel sur des bases solides.
@@ -36,43 +34,34 @@ Chacune des fiches proposées a été rédigée pour être **utile à l’utilis
 
 Les bases techniques garantissent une exploration optimale par les moteurs et une expérience fluide pour les utilisateurs.
 
--   [Code de réponse HTTP](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/)
-    
--   [Budget de crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
-    
--   [Fichier robots.txt](https://www.antoine-blot.com/fr/ressources-seo/fichier-robots-txt/)
-    
--   [Temps de chargement](https://www.antoine-blot.com/fr/ressources-seo/temps-de-chargement/)
+- [Code de réponse HTTP](https://www.antoine-blot.com/fr/ressources-seo/code-reponse-http/)
+- [Budget de crawl](https://www.antoine-blot.com/fr/ressources-seo/budget-crawl/)
+- [Fichier robots.txt](https://www.antoine-blot.com/fr/ressources-seo/fichier-robots-txt/)
+- [Temps de chargement](https://www.antoine-blot.com/fr/ressources-seo/temps-de-chargement/)
     
 
 ### **Contenu, structure et sémantique**
 
 Ces ressources vous aident à structurer votre contenu pour qu’il réponde aux attentes des moteurs, des utilisateurs et des IA.
 
--   [Contenu dupliqué](https://www.antoine-blot.com/fr/ressources-seo/contenu-duplique/)
-    
--   [Balise title](https://www.antoine-blot.com/fr/ressources-seo/balise-title/)
-    
--   [Balise méta description](https://www.antoine-blot.com/fr/ressources-seo/meta-description/)
-    
--   [Pages orphelines](https://www.antoine-blot.com/fr/ressources-seo/pages-orphelines/)
-    
--   [Maillage interne](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
-    
--   [Cocon sémantique](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/)
+- [Contenu dupliqué](https://www.antoine-blot.com/fr/ressources-seo/contenu-duplique/)
+- [Balise title](https://www.antoine-blot.com/fr/ressources-seo/balise-title/)
+- [Balise méta description](https://www.antoine-blot.com/fr/ressources-seo/meta-description/)
+- [Pages orphelines](https://www.antoine-blot.com/fr/ressources-seo/pages-orphelines/)
+- [Maillage interne](https://www.antoine-blot.com/fr/ressources-seo/maillage-interne/)
+- [Cocon sémantique](https://www.antoine-blot.com/fr/ressources-seo/cocon-semantique/)
     
 
 ### **Autorité et popularité**
 
 L’acquisition de liens externes reste un levier SEO puissant. Ces ressources expliquent comment bâtir une autorité naturelle et durable.
 
--   [Backlinks](https://www.antoine-blot.com/fr/ressources-seo/backlinks/)
+- [Backlinks](https://www.antoine-blot.com/fr/ressources-seo/backlinks/)
     
 
 ## **Pour aller plus loin**
 
 Vous consultez actuellement la section SEO. Vous pouvez également explorer :
 
--   [FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)
-    
--   [Mes services de consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)
+- [FAQ SEO](https://www.antoine-blot.com/fr/consultant-seo/faq-seo/)
+- [Mes services de consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/)
