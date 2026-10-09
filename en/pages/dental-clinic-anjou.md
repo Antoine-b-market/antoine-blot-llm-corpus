@@ -44,4 +44,6 @@ The regular patient base grew by 11%, driven by people coming back for major car
 
 Choosing the target comes before any optimization. I apply this principle in every [SEO consultant](https://www.antoine-blot.com/en/services/) engagement, especially for businesses whose clients come from a specific area.
 
+This choice of target is also what sets serious work apart from [agencies that promise first place on every query](https://www.antoine-blot.com/en/best-seo-agency-montreal/).
+
 Next case study: [a roofer who became the go-to name for sloped roofs](https://www.antoine-blot.com/en/case-studies/roofer-sloped-roofs/).

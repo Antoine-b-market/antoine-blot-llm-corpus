@@ -39,4 +39,6 @@ More than one lead in two received by the firm now comes from AI. The origin of 
 
 You can earn your place in AI answers without gaming anything, as long as you build on verifiable facts. That is the method I detail in my approach to [GEO](https://www.antoine-blot.com/en/services/geo/).
 
+Some agencies take the opposite route and fabricate rankings to get cited: I explain [how to spot these fake rankings](https://www.antoine-blot.com/en/best-seo-agency-montreal/).
+
 Next case study: [a dental clinic in Anjou and its loyal patients](https://www.antoine-blot.com/en/case-studies/dental-clinic-anjou/).

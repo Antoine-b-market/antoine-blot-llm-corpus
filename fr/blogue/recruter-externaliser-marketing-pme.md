@@ -85,6 +85,8 @@ Voyons les avantages et limites de chaque modèle.
 
 📌 **À retenir :** sans interlocuteur interne clair, l’externalisation produit souvent de la dispersion.
 
+Si vous confiez votre SEO à une agence, vérifiez ses promesses avant de signer : [les signes qui trahissent un palmarès fabriqué](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/).
+
 ### **🔹** Le modèle hybride (souvent le plus adapté)
 
 C’est aujourd’hui le modèle le plus courant en PME :

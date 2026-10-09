@@ -39,4 +39,6 @@ The company now holds the top positions for searches like "roofer + type of roof
 
 A small business rarely wins on a generic word. It wins where its specialty meets a local need, and the job of an [SEO consultant](https://www.antoine-blot.com/en/services/) is to find that spot before optimizing anything.
 
+I make it a test for any provider: [picking the battle you can win rather than a "best agency" title](https://www.antoine-blot.com/en/best-seo-agency-montreal/).
+
 Next case study: [BNP Paribas Cardif, +190% qualified organic traffic](https://www.antoine-blot.com/en/case-studies/bnp-paribas/).

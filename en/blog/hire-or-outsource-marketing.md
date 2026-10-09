@@ -85,6 +85,8 @@ Let's look at the advantages and limits of each model.
 
 📌 **Key point:** without a clear internal point of contact, outsourcing often leads to scattered efforts.
 
+If you hand your SEO to an agency, check its promises before you sign: [the signs of a fabricated ranking](https://www.antoine-blot.com/en/best-seo-agency-montreal/).
+
 ### **🔹** The hybrid model (often the best fit)
 
 This is now the most common model in small businesses:

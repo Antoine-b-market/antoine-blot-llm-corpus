@@ -39,4 +39,6 @@ Plus d’un lead sur deux reçu par le cabinet provient aujourd’hui des IA. L�
 
 On peut gagner sa place dans les réponses des IA sans rien truquer, à condition de construire sur des faits vérifiables. C’est la méthode que je détaille dans mon approche du [GEO](https://www.antoine-blot.com/fr/consultant-seo/geo/).
 
+Certaines agences prennent le chemin inverse et fabriquent des palmarès pour se faire citer : j’explique [comment repérer ces faux classements](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/).
+
 Étude de cas suivante : [un cabinet dentaire d’Anjou et ses patients fidèles](https://www.antoine-blot.com/fr/etudes-de-cas/cabinet-dentaire-anjou/).

@@ -46,6 +46,8 @@ Je construis aussi l’infrastructure qui permet de mesurer cette présence et d
 
 Ma règle ne change pas d’un mandat à l’autre. Une IA doit pouvoir citer mes clients sur la foi d’informations exactes, que d’autres sources confirment.
 
+C’est l’inverse de la méthode des [agences qui s’autoproclament les meilleures de Montréal](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/).
+
 ## Mon ancrage
 
 Je suis résident permanent au Québec. C’est ici que j’ai choisi de m’investir, et ce choix se lit dans la façon dont je conduis chaque mandat.

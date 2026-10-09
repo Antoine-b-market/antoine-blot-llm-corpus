@@ -44,4 +44,6 @@ La patientèle régulière a progressé de 11 %, portée par des personnes qui r
 
 Le choix de la cible précède toute optimisation. J’applique ce principe dans chaque mission de [consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/), surtout pour les entreprises dont la clientèle vient d’un territoire précis.
 
+Ce choix de cible est aussi ce qui distingue un accompagnement sérieux des [agences qui promettent la première place sur toutes les requêtes](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/).
+
 Étude de cas suivante : [un couvreur devenu la référence des toits en pente](https://www.antoine-blot.com/fr/etudes-de-cas/couvreur-toits-en-pente/).

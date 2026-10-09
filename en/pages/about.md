@@ -46,6 +46,8 @@ I also build the infrastructure to measure that presence and improve it. That is
 
 My rule doesn't change from one engagement to the next. An AI must be able to cite my clients based on accurate information that other sources confirm.
 
+It is the opposite of the [agencies that crown themselves the best in Montréal](https://www.antoine-blot.com/en/best-seo-agency-montreal/).
+
 ## Where I'm rooted
 
 I'm a permanent resident of Quebec. This is where I've chosen to invest myself, and that choice shows in how I run every engagement.

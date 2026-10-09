@@ -72,6 +72,8 @@ Chaque rapport répond à une question simple : qu’est-ce qui a changé pour v
 
 Vous avez un seul interlocuteur, celui qui pose le diagnostic et suit l’exécution jusqu’au résultat. Nous fixons ensemble des objectifs au départ, et je vous rends compte régulièrement de ce qui a été fait et de ce que cela a produit.
 
+Si vous comparez plusieurs prestataires, méfiez-vous des titres que chacun s’attribue : je montre [comment vérifier une agence SEO en dix minutes](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/).
+
 Vous pouvez consulter des [exemples de clients que j’accompagne](https://www.antoine-blot.com/fr/etudes-de-cas/) avant de me contacter.
 
 ## Foire aux questions

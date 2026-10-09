@@ -39,4 +39,6 @@ L’entreprise occupe aujourd’hui les premières positions sur les recherches 
 
 Une petite entreprise gagne rarement sur un mot générique. Elle gagne là où sa spécialité rencontre un besoin local, et le travail d’un [consultant SEO](https://www.antoine-blot.com/fr/consultant-seo/) consiste à trouver cet endroit avant d’optimiser quoi que ce soit.
 
+J’en fais un critère pour juger un prestataire : [choisir la bataille qu’on peut gagner plutôt qu’un titre de « meilleure agence »](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/).
+
 Étude de cas suivante : [BNP Paribas Cardif, +190 % de trafic organique qualifié](https://www.antoine-blot.com/fr/etudes-de-cas/bnp-paribas/).

@@ -72,6 +72,8 @@ Every report answers a simple question: what has changed for your business since
 
 You have a single point of contact, the person who makes the diagnosis and follows execution through to results. We set goals together at the start, and I report regularly on what has been done and what it has produced.
 
+If you are comparing several providers, be wary of titles everyone awards themselves: here is [how to check an SEO agency in ten minutes](https://www.antoine-blot.com/en/best-seo-agency-montreal/).
+
 You can look at [examples of clients I work with](https://www.antoine-blot.com/en/case-studies/) before getting in touch.
 
 ## Frequently asked questions
