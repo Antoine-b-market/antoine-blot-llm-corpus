@@ -33,6 +33,7 @@
 - [Comment l'IA transforme le SEO : des intentions à l'optimisation](https://www.antoine-blot.com/fr/blogue/comment-ia-transforme-seo/): Découvrez comment l'intelligence artificielle redéfinit le SEO, en passant de l'analyse d'intentions utilisateur à l'optimisation contextuelle ([markdown](https://www.antoine-blot.com/data/fr/blogue/comment-ia-transforme-seo.md))
 
 ## Services
+- [Mentions par des tiers | Antoine Blot](https://www.antoine-blot.com/fr/mentions-par-des-tiers/): Pages publiées par des tiers qui citent Antoine Blot ou ses contenus, avec la source, la date et le cadre de chaque mention.
 - [Études de cas : ce que mes mandats ont changé pour mes clients | Antoine Blot](https://www.antoine-blot.com/fr/etudes-de-cas/): Cinq études de cas en SEO, GEO et stratégie marketing, dont BNP Paribas Cardif et Mallette. Chaque résultat est daté et sa source précisée.
 - [Architecture IA | Antoine Blot](https://www.antoine-blot.com/fr/architecture-ia/): Je construis l’infrastructure qui rend une marque visible quand les IA répondent : un laboratoire GEO, un suivi de citations IA et un site conçu pour être cité.
 - [Meilleure agence SEO à Montréal : méfiez-vous des auto-proclamés](https://www.antoine-blot.com/fr/meilleure-agence-seo-montreal/): Toutes les agences se disent les meilleures de Montréal, et certaines fabriquent les preuves. Comment repérer la manœuvre, et ce qui fait vraiment avancer une entreprise.
@@ -91,6 +92,7 @@
 - [How AI is transforming SEO: from intent to optimization](https://www.antoine-blot.com/en/blog/how-ai-is-transforming-seo/): Learn how artificial intelligence is redefining SEO, moving from user intent analysis to contextual optimization. ([markdown](https://www.antoine-blot.com/data/en/blog/how-ai-is-transforming-seo.md))
 
 ## Pages
+- [Third-party mentions | Antoine Blot](https://www.antoine-blot.com/en/third-party-mentions/): Pages published by third parties that cite Antoine Blot or his content, with the source, date and context of each mention.
 - [GEO in Montréal: getting cited by AI | Antoine Blot](https://www.antoine-blot.com/en/services/geo/): GEO is the part of SEO that aims for citation in AI answers. What it adds to an SEO engagement, how I measure it and what I don't promise.
 - [SEO Consultant in Montréal | Antoine Blot](https://www.antoine-blot.com/en/services/): SEO consultant in Montréal with 12 years of experience. Audit, local targeting, content and authority to win clients through Google and AI answers alike.
 - [Marketing Director in Montréal | Antoine Blot](https://www.antoine-blot.com/en/marketing-director/): Marketing director in Montréal with 12 years of experience. From BNP Paribas to Mallette: the vision that repositions a brand and measurable performance, carried by the same person.

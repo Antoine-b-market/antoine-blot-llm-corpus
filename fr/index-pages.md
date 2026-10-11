@@ -4,8 +4,8 @@ description: "Pages - contenus français."
 base_url: "https://www.antoine-blot.com"
 lang: "fr"
 type: "page"
-last_updated: "2026-10-09"
-count: 26
+last_updated: "2026-10-11"
+count: 27
 ---
 
 # Pages - Contenus français
@@ -30,6 +30,7 @@ count: 26
 - [Qu’est-ce que le maillage interne en SEO ?](https://www.antoine-blot.com/data/fr/pages/maillage-interne.md)
 - [Mallette : une demande publicitaire qui était une question de positionnement](https://www.antoine-blot.com/data/fr/pages/mallette.md)
 - [Meilleure agence SEO à Montréal : méfiez-vous des auto-proclamés](https://www.antoine-blot.com/data/fr/pages/meilleure-agence-seo-montreal.md)
+- [Mentions par des tiers](https://www.antoine-blot.com/data/fr/pages/mentions-par-des-tiers.md)
 - [Qu’est-ce qu’une page orpheline en SEO ?](https://www.antoine-blot.com/data/fr/pages/pages-orphelines.md)
 - [Qu’est-ce qu’une balise title en SEO ?](https://www.antoine-blot.com/data/fr/pages/balise-title.md)
 - [Ressources – SEO](https://www.antoine-blot.com/data/fr/pages/ressources-seo.md)

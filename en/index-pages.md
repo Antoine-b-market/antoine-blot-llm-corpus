@@ -4,8 +4,8 @@ description: "Pages - contenus anglais."
 base_url: "https://www.antoine-blot.com"
 lang: "en"
 type: "page"
-last_updated: "2026-10-09"
-count: 13
+last_updated: "2026-10-11"
+count: 14
 ---
 
 # Pages - Contenus anglais
@@ -23,3 +23,4 @@ count: 13
 - [Marketing Director in Montréal: holding vision and performance together](https://www.antoine-blot.com/data/en/pages/marketing-director.md)
 - [SEO Consultant in Montréal: getting found by the clients who matter](https://www.antoine-blot.com/data/en/pages/services.md)
 - [Sloped-roof specialist: the local go-to roofer in 5 cities](https://www.antoine-blot.com/data/en/pages/roofer-sloped-roofs.md)
+- [Third-party mentions](https://www.antoine-blot.com/data/en/pages/third-party-mentions.md)

@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/fr/a-propos-de-moi/"
 image: "https://www.antoine-blot.com/media/Antoineblot.webp"
 date: "2024-05-17"
-date_modified: "2026-10-01"
+date_modified: "2026-10-09"
 lang: "fr"
 hreflang: "fr-CA"
 robots: "index, follow"
@@ -57,3 +57,5 @@ Je suis résident permanent au Québec. C’est ici que j’ai choisi de m’inv
 Mes travaux sont publiés en accès libre :
 
 <div data-html-embed="" class="html-embed"><div class="profile-cards"><a class="profile-card" href="https://orcid.org/0009-0005-6450-4528" rel="me noopener" target="_blank"><span class="profile-card-platform">ORCID</span><span class="profile-card-text">Mes publications, rattachées à mon identifiant de chercheur.</span><span class="profile-card-link">orcid.org ↗</span></a><a class="profile-card" href="https://zenodo.org/search?q=metadata.contributors.person_or_org.name%3A%22BLOT%2C%20Antoine%22&amp;l=list&amp;p=1&amp;s=10&amp;sort=bestmatch" rel="me noopener" target="_blank"><span class="profile-card-platform">Zenodo</span><span class="profile-card-text">Mes travaux de recherche, archivés en accès libre.</span><span class="profile-card-link">zenodo.org ↗</span></a><a class="profile-card" href="https://github.com/Antoine-b-market/" rel="me noopener" target="_blank"><span class="profile-card-platform">GitHub</span><span class="profile-card-text">Mes projets, et le code que je partage.</span><span class="profile-card-link">github.com ↗</span></a></div></div>
+
+Antoine Blot est mentionné par des tiers du secteur : [voir les mentions par des tiers](https://www.antoine-blot.com/fr/mentions-par-des-tiers/).

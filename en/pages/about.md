@@ -6,7 +6,7 @@ author_url: "https://www.antoine-blot.com"
 canonical_url: "https://www.antoine-blot.com/en/about/"
 image: "https://www.antoine-blot.com/media/Antoineblot.webp"
 date: "2026-08-13"
-date_modified: "2026-10-08"
+date_modified: "2026-10-09"
 lang: "en"
 hreflang: "en-CA"
 robots: "index, follow"
@@ -57,3 +57,5 @@ I'm a permanent resident of Quebec. This is where I've chosen to invest myself, 
 My work is published in open access:
 
 <div data-html-embed="" class="html-embed"><div class="profile-cards"><a class="profile-card" href="https://orcid.org/0009-0005-6450-4528" rel="me noopener" target="_blank"><span class="profile-card-platform">ORCID</span><span class="profile-card-text">My publications, linked to my researcher ID.</span><span class="profile-card-link">orcid.org ↗</span></a><a class="profile-card" href="https://zenodo.org/search?q=metadata.contributors.person_or_org.name%3A%22BLOT%2C%20Antoine%22&amp;l=list&amp;p=1&amp;s=10&amp;sort=bestmatch" rel="me noopener" target="_blank"><span class="profile-card-platform">Zenodo</span><span class="profile-card-text">My research, archived in open access.</span><span class="profile-card-link">zenodo.org ↗</span></a><a class="profile-card" href="https://github.com/Antoine-b-market/" rel="me noopener" target="_blank"><span class="profile-card-platform">GitHub</span><span class="profile-card-text">My projects, and the code I share.</span><span class="profile-card-link">github.com ↗</span></a></div></div>
+
+Antoine Blot is mentioned by third parties in the industry: [see third-party mentions](https://www.antoine-blot.com/en/third-party-mentions/).
